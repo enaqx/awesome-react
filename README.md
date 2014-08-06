@@ -83,6 +83,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Pete Hunt: High performance functional programming with React and Meteor -- Devshop 11 Tech Talk](https://www.youtube.com/watch?v=qqVbr_LaCIo)
 * [Pete Hunt: Be Predictable, Not Correct - Mountain West JavaScript 2014](https://www.youtube.com/watch?v=h3KksH8gfcQ)
 * [Pete Hunt:The Secrets of React's Virtual DOM  - FutureJS 2014](https://www.youtube.com/watch?v=-DX3vJiqxm4)
+* [Areeb Malik: Going big with React - The Skills Matter eXchange](https://skillsmatter.com/skillscasts/5429-going-big-with-react)
 
 
 ### Examples
