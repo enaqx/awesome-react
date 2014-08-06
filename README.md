@@ -13,13 +13,13 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 * [React GoogleGroup](https://groups.google.com/forum/#!forum/reactjs)
 * [React Twitter](https://twitter.com/reactjs)
-* [React Tutorial Project](https://github.com/reactjs/react-tutorial)
 * [React npm module](https://www.npmjs.org/package/react)
 * [React TodoMVC](http://todomvc.com/architecture-examples/react/)
 * [React Future](https://github.com/reactjs/react-future)
 
 #### Tutorials
 * [React Tutorial](http://facebook.github.io/react/docs/tutorial.html)
+* [React Tutorial Project](https://github.com/reactjs/react-tutorial)
 * [Pro Javascript React Tutorial](http://webdesignporto.com/react-js-an-interactive-tutorial-to-get-started/)
 * [Writing React components as CommonJS modules](http://simonsmith.io/writing-react-components-as-commonjs-modules/)
 
