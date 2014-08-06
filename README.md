@@ -79,7 +79,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 ### Videos
 * [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 * [Pete Hunt: React - Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
+* [Tom Occhino and Jordan Walke: Introduction to React.js -  Facebook Seattle](https://www.youtube.com/watch?v=XxVg_s8xAms)
 * [Pete Hunt: High performance functional programming with React and Meteor -- Devshop 11 Tech Talk](https://www.youtube.com/watch?v=qqVbr_LaCIo)
+* [Pete Hunt: Be Predictable, Not Correct - Mountain West JavaScript 2014](https://www.youtube.com/watch?v=h3KksH8gfcQ)
 * [Pete Hunt:The Secrets of React's Virtual DOM  - FutureJS 2014](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 
 
