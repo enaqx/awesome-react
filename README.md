@@ -14,7 +14,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Graphics](#graphics)
   - [Development Environment](#development-environment)
 - [Examples](#examples)
-- [Other Awesome Lists]
+- [Other Awesome Lists](#other-awesome-lists)
 - [Contribution](#contribution)
 
 
