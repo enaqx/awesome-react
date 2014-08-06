@@ -33,6 +33,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
+* [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap/)
 * [React Rails](https://github.com/reactjs/react-rails)
 * [Om - ClojureScript interface](https://github.com/swannodette/om)
 * [Express React views](https://github.com/reactjs/express-react-views)
