@@ -13,6 +13,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Unit Testing](#unit-testing)
   - [Graphics](#graphics)
   - [Development Environment](#development-environment)
+- [Videos](#videos)
 - [Examples](#examples)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contribution](#contribution)
@@ -73,6 +74,12 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Development Environment
 * [Sublime Text React](https://github.com/reactjs/sublime-react)
+
+
+### Videos
+* [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
+* [Pete Hunt: React - Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
+* [Pete Hunt:The Secrets of React's Virtual DOM  - FutureJS 2014](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 
 
 ### Examples
