@@ -14,6 +14,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React GoogleGroup](https://groups.google.com/forum/#!forum/reactjs)
 * [React Twitter](https://twitter.com/reactjs)
 * [React npm module](https://www.npmjs.org/package/react)
+* [React Tools npm module](https://www.npmjs.org/package/react-tools)
 * [React TodoMVC](http://todomvc.com/architecture-examples/react/)
 * [React Future](https://github.com/reactjs/react-future)
 
@@ -55,3 +56,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Development Environment
 * [Sublime Text React](https://github.com/reactjs/sublime-react)
+
+### Examples
+* []
