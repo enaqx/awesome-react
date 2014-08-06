@@ -14,6 +14,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Graphics](#graphics)
   - [Development Environment](#development-environment)
 - [Examples](#examples)
+- [Other Awesome Lists]
 - [Contribution](#contribution)
 
 
@@ -38,6 +39,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Tutorial Project](https://github.com/reactjs/react-tutorial)
 * [Pro Javascript React Tutorial](http://webdesignporto.com/react-js-an-interactive-tutorial-to-get-started/)
 * [Writing React components as CommonJS modules](http://simonsmith.io/writing-react-components-as-commonjs-modules/)
+
 
 ### Tools
 
@@ -72,6 +74,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Development Environment
 * [Sublime Text React](https://github.com/reactjs/sublime-react)
 
+
 ### Examples
 * [React HTML Template](https://github.com/enaqx/awesome-react/tree/master/000_react_html_template)
 * [React Helloworld](https://github.com/enaqx/awesome-react/tree/master/001_helloworld)
@@ -79,6 +82,15 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [State](https://github.com/enaqx/awesome-react/tree/master/003_state)
 * [Props and State](https://github.com/enaqx/awesome-react/tree/master/004_props_and_state)
 * [External Plugin](https://github.com/enaqx/awesome-react/tree/master/005_external_plugin)
+
+
+### Other Awesome Lists
+* [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [JavaScript Programming](https://github.com/sorrycc/awesome-javascript)
+* [Node.js Programming by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
+* [Node.js Programming by @vndmtrx](https://github.com/vndmtrx/awesome-nodejs) 
+* [Awesome Awesomness](https://github.com/bayandin/awesome-awesomeness)
+
 
 ### Contribution
 Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
