@@ -7,12 +7,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### General Resources
 * [React Official Site](http://facebook.github.io/react/)
 * [React Docs](http://facebook.github.io/react/docs/)
-* [react Blog](http://facebook.github.io/react/blog/)
+* [React Blog](http://facebook.github.io/react/blog/)
 * [React GitHub](https://github.com/facebook/react)
 * [React Wiki](https://github.com/facebook/react/wiki)
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 * [React GoogleGroup](https://groups.google.com/forum/#!forum/reactjs)
-* [React Freenode IRC Channel](irc://chat.freenode.net/reactjs)
 * [React Twitter](https://twitter.com/reactjs)
 * [React Tutorial Project](https://github.com/reactjs/react-tutorial)
 * [React npm module](https://www.npmjs.org/package/react)
@@ -47,11 +46,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Router](https://github.com/andreypopp/react-router-component)
 * [RRouter](https://github.com/andreypopp/rrouter)
 
-#### Unit Tests
+#### Unit Testing
 * [Jest](http://facebook.github.io/jest/)
 
 #### Graphics
 * [React ART](https://github.com/facebook/react-art)
 
-#### Developer Envireonment
+#### Development Environment
 * [Sublime Text React](https://github.com/reactjs/sublime-react)
