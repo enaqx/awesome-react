@@ -2,6 +2,20 @@
 
 A collection of awesome React tools, resources, videos and shiny things. 
 
+- [Resources](#resources)
+  - [General Resources](#general-resources)
+  - [Tutorials](#tutorials)
+- [Tools](#tools)
+  - [Patterns](#patterns)
+  - [Boilerplates](#boilerplates)
+  - [Integration](#integration)
+  - [Routing](#routing)
+  - [Unit Testing](#unit-testing)
+  - [Graphics](#graphics)
+  - [Development Environment](#development-environment)
+- [Examples](#examples)
+
+
 ### Resources
 
 #### General Resources
@@ -29,7 +43,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Patterns
 * [Flux](https://github.com/facebook/flux)
 
-#### Templates
+#### Boilerplates
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
 
 #### Integration
