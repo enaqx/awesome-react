@@ -52,6 +52,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Boilerplates
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
+* [React Hack](https://github.com/petehunt/ReactHack)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
