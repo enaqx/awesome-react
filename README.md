@@ -40,6 +40,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Tutorial Project](https://github.com/reactjs/react-tutorial)
 * [Pro Javascript React Tutorial](http://webdesignporto.com/react-js-an-interactive-tutorial-to-get-started/)
 * [Writing React components as CommonJS modules](http://simonsmith.io/writing-react-components-as-commonjs-modules/)
+* [React Tutorials](https://medium.com/react-tutorials)
+* [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
+* [React beginner tutorial: implementing the board game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html)
 
 
 ### Tools
