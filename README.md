@@ -54,6 +54,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
 * [React Hack](https://github.com/petehunt/ReactHack)
 
+#### Components
+* [React Touch](https://github.com/petehunt/react-touch)
+
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
 * [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap/)
