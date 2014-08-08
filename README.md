@@ -5,6 +5,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 - [Resources](#resources)
   - [General Resources](#general-resources)
   - [Tutorials](#tutorials)
+  - [Approach Explanation](#approach-explanation)
 - [Tools](#tools)
   - [Patterns](#patterns)
   - [Boilerplates](#boilerplates)
@@ -44,6 +45,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [React beginner tutorial: implementing the board game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html)
 
+#### Approach Explanation
+* [Pros and Cons of Facebook's React vs. Web Components](http://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer)
+* [React.js plays nicely with other tools and other thoughts](http://jeremydmiller.com/2014/08/06/react-js-plays-nicely-with-other-tools-and-other-thoughts/)
 
 ### Tools
 
