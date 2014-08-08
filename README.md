@@ -70,6 +70,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Om - ClojureScript interface](https://github.com/swannodette/om)
 * [Express React views](https://github.com/reactjs/express-react-views)
 * [React Page Middleware](https://github.com/reactjs/react-page-middleware)
+* [ngReact - React Components in Angular](https://github.com/davidchang/ngReact)
 * [React Bower](https://github.com/reactjs/react-bower)
 * [React Python](https://github.com/reactjs/react-python)
 * [React PHP](https://github.com/reactjs/react-php-v8js)
