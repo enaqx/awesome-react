@@ -89,6 +89,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Development Environment
 * [Sublime Text React](https://github.com/reactjs/sublime-react)
+* [React Chrome Developer Tools](https://github.com/facebook/react-devtools)
 
 
 ### Videos
