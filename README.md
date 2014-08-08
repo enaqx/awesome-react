@@ -60,6 +60,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Components
 * [React Touch](https://github.com/petehunt/react-touch)
+* [Grid](http://dynamictyped.github.io/Griddle/)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
