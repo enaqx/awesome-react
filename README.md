@@ -112,6 +112,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [State](https://github.com/enaqx/awesome-react/tree/master/003_state)
 * [Props and State](https://github.com/enaqx/awesome-react/tree/master/004_props_and_state)
 * [External Plugin](https://github.com/enaqx/awesome-react/tree/master/005_external_plugin)
+* [POST/GET with HTTP server](https://github.com/enaqx/awesome-react/tree/master/006_with_http_server)
 
 
 ### Other Awesome Lists
