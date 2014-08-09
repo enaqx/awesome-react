@@ -39,6 +39,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Tutorials
 * [React Tutorial](http://facebook.github.io/react/docs/tutorial.html)
 * [React Tutorial Project](https://github.com/reactjs/react-tutorial)
+* [React One Hour](https://github.com/petehunt/react-one-hour-email/commits/master)
+* [React Server Rendering](https://github.com/mhart/react-server-example)
 * [Pro Javascript React Tutorial](http://webdesignporto.com/react-js-an-interactive-tutorial-to-get-started/)
 * [Writing React components as CommonJS modules](http://simonsmith.io/writing-react-components-as-commonjs-modules/)
 * [React Tutorials](https://medium.com/react-tutorials)
