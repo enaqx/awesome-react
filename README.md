@@ -48,6 +48,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React beginner tutorial: implementing the board game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html)
 * [Trying Out ReactJS With the Marvel API](http://ryanlanciaux.github.io/blog/2014/05/26/trying-out-reactjs-with-the-marvel-api/)
 * [Yo in React](http://davidandsuzi.com/yo-in-react/)
+* [Full example using Koa, React, Passport, Mongoose, Gulp, Mocha](https://github.com/dozoisch/koa-react-full-example)
 
 #### Approach Explanation
 * [Pros and Cons of Facebook's React vs. Web Components](http://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer)
@@ -61,6 +62,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Boilerplates
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
 * [React Hack](https://github.com/petehunt/ReactHack)
+* [React Boileplate](https://github.com/rackt/react-boilerplate)
 
 #### Components
 * [React Touch](https://github.com/petehunt/react-touch)
@@ -80,8 +82,13 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Meteor](https://github.com/reactjs/react-meteor)
 
 #### Routing
-* [React Router](https://github.com/andreypopp/react-router-component)
+* [React Router](https://github.com/rackt/react-router)
+* [React Router Component](https://github.com/andreypopp/react-router-component)
 * [RRouter](https://github.com/andreypopp/rrouter)
+
+#### Autocomplete
+* [React Autocomplete by @rackt](https://github.com/rackt/react-autocomplete)
+* [React Autocomplete by @eliseumds](https://github.com/eliseumds/react-autocomplete)
 
 #### Unit Testing
 * [Jest](http://facebook.github.io/jest/)
