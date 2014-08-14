@@ -14,6 +14,8 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Unit Testing](#unit-testing)
   - [Graphics](#graphics)
   - [Development Environment](#development-environment)
+  - [Generating](#generating)
+  - [Compiling](#compiling)
 - [Videos](#videos)
 - [Examples](#examples)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -99,6 +101,14 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Development Environment
 * [Sublime Text React](https://github.com/reactjs/sublime-react)
 * [React Chrome Developer Tools](https://github.com/facebook/react-devtools)
+
+#### Generating
+* [Generator React Webpack](https://github.com/newtriks/generator-react-webpack)
+* [Generator React App](https://github.com/js-experiments/generator-react-app)
+
+#### Compiling
+* [Grunt React](https://github.com/ericclemmons/grunt-react)
+* [Gulp React](https://github.com/sindresorhus/gulp-react)
 
 
 ### Videos
