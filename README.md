@@ -55,6 +55,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Approach Explanation
 * [Pros and Cons of Facebook's React vs. Web Components](http://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer)
 * [React.js plays nicely with other tools and other thoughts](http://jeremydmiller.com/2014/08/06/react-js-plays-nicely-with-other-tools-and-other-thoughts/)
+* [Backbone to React](http://joelburget.com/backbone-to-react/)
 
 ### Tools
 
