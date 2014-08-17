@@ -56,6 +56,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Pros and Cons of Facebook's React vs. Web Components](http://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer)
 * [React.js plays nicely with other tools and other thoughts](http://jeremydmiller.com/2014/08/06/react-js-plays-nicely-with-other-tools-and-other-thoughts/)
 * [Backbone to React](http://joelburget.com/backbone-to-react/)
+* [Moving Atom to React](http://blog.atom.io/2014/07/02/moving-atom-to-react.html)
 
 ### Tools
 
@@ -101,6 +102,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Development Environment
 * [Sublime Text React](https://github.com/reactjs/sublime-react)
+* [Atom React](https://atom.io/packages/react)
 * [React Chrome Developer Tools](https://github.com/facebook/react-devtools)
 
 #### Generating
