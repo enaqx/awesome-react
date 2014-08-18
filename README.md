@@ -84,7 +84,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 ### Tools
 
 #### Flux
-* [Flux](https://github.com/facebook/flux)
+* [Flux Project](https://github.com/facebook/flux)
 * [Flux Application Architecture](http://facebook.github.io/react/docs/flux-overview.html)
 * [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
 * [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
@@ -97,8 +97,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
-* [React Touch](https://github.com/petehunt/react-touch)
-* [Grid](http://dynamictyped.github.io/Griddle/)
+* [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
+* [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
+* [react-async - Async rendering for React components](https://github.com/andreypopp/react-async)
+* [react-mediaswitch - Choose your DOM based on media queries](https://github.com/matthewwithanm/react-mediaswitch)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
@@ -114,25 +116,25 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Meteor](https://github.com/reactjs/react-meteor)
 
 #### Routing
-* [React Router](https://github.com/rackt/react-router)
-* [React Router Component](https://github.com/andreypopp/react-router-component)
-* [RRouter](https://github.com/andreypopp/rrouter)
+* [react-router - A complete routing solution for React.js](https://github.com/rackt/react-router)
+* [react-router-component - Declarative router component for React](https://github.com/andreypopp/react-router-component)
+* [rrouter - Declarative routing layer for React applications](https://github.com/andreypopp/rrouter)
 
 #### Autocomplete
-* [React Autocomplete by @rackt](https://github.com/rackt/react-autocomplete)
-* [React Autocomplete by @eliseumds](https://github.com/eliseumds/react-autocomplete)
+* [react-autocomplete - WAI-ARIA compliant React autocomplete by @rackt](https://github.com/rackt/react-autocomplete)
+* [react-autocomplete - Just tasting some ReactJS + RxJS by @eliseumds](https://github.com/eliseumds/react-autocomplete)
 
 #### Unit Testing
-* [Jest](http://facebook.github.io/jest/)
+* [Jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
 
 #### Graphics
-* [React ART](https://github.com/facebook/react-art)
+* [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
 
 #### Development Environment
-* [React Chrome Developer Tools](https://github.com/facebook/react-devtools)
-* [Sublime Text React](https://github.com/reactjs/sublime-react)
+* [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
+* [sublime-react - Sublime Text React](https://github.com/reactjs/sublime-react)
 * [Atom React](https://atom.io/packages/react)
-* [Vim JSX Syntax](https://github.com/mxw/vim-jsx)
+* [vim-jsx - Vim JSX Syntax](https://github.com/mxw/vim-jsx)
 * [Vim React Snippets](https://github.com/justinj/vim-react-snippets)
 * [Textmate Bundle for JSX](https://github.com/jjeising/javascript-react.tmbundle)
 * [js2-mode - JavaScript editing mode for GNU Emacs](https://github.com/mooz/js2-mode)
@@ -143,6 +145,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Generator React App](https://github.com/js-experiments/generator-react-app)
 
 #### Compiling
+* [reactify - Browserify transform for JSX](https://github.com/andreypopp/reactify)
 * [Grunt React](https://github.com/ericclemmons/grunt-react)
 * [Gulp React](https://github.com/sindresorhus/gulp-react)
 
