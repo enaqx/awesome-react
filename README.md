@@ -20,6 +20,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 - [Videos](#videos)
   - [Video from Confs](#video-from-confs)
   - [Video Tutorials](#video-tutorials)
+- [Books](#books)
 - [Examples](#examples)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contribution](#contribution)
@@ -77,6 +78,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React.js plays nicely with other tools and other thoughts](http://jeremydmiller.com/2014/08/06/react-js-plays-nicely-with-other-tools-and-other-thoughts/)
 * [Backbone to React](http://joelburget.com/backbone-to-react/)
 * [Moving Atom to React](http://blog.atom.io/2014/07/02/moving-atom-to-react.html)
+* [Why we use React.js in our Rails projects](http://blog.arkency.com/2014/07/why-we-use-react-js-in-our-rails-projects/)
 
 ### Tools
 
@@ -160,6 +162,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [ReactJS: Dealing with the Server](https://www.youtube.com/watch?v=lJUUjdsv0aw)
 * [Thinking in React](https://www.tagtree.tv/thinking-in-react)
 
+### Books
+* [React.js, The Rails Way](https://www.gitbook.io/book/checkraiser/rails-and-react-js)
 
 ### Examples
 * [React HTML Template](https://github.com/enaqx/awesome-react/tree/master/examples/000_react_html_template)
