@@ -49,7 +49,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React One Hour](https://github.com/petehunt/react-one-hour-email/commits/master)
 * [Pro Javascript React Tutorial](http://webdesignporto.com/react-js-an-interactive-tutorial-to-get-started/)
 * [Writing React components as CommonJS modules](http://simonsmith.io/writing-react-components-as-commonjs-modules/)
-* [React Tutorials](https://medium.com/react-tutorials)
+* [Medium React Tutorials](https://medium.com/react-tutorials)
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [React beginner tutorial: implementing the board game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html)
 * [Trying Out ReactJS With the Marvel API](http://ryanlanciaux.github.io/blog/2014/05/26/trying-out-reactjs-with-the-marvel-api/)
@@ -63,6 +63,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Using ReactJS and KendoUI Together](http://ifandelse.com/using-reactjs-and-kendoui-together/)
 * [Building dynamic forms with Facebook React](http://www.dustingetz.com/2014/02/18/react-dynamic-forms.html)
 * [Intro to React livecoding workshop](http://www.dustingetz.com/2014/03/16/react-into-workshop-notes.html)
+* [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
 
 #### Server Side rendering
 * [Server Side Rendering for ReactJS](http://yanns.github.io/blog/2014/03/15/server-side-rendering-for-javascript-reactjs-framework/)
@@ -87,6 +88,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [ReactJS-Rethinking-Web-UI](https://github.com/ifandelse/ReactJS-Rethinking-Web-UI)
 * [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
 * [Compiling JSX with Sweet.js using Readtables](http://jlongster.com/Compiling-JSX-with-Sweet.js-using-Readtables)
+* [Facebook React vs. Ember](http://instructure.github.io/blog/2013/12/17/facebook-react-vs-ember/)
+* [Moving From Backbone To React](https://usepropeller.com/blog/posts/from-backbone-to-react/)
+* [Pimp my Backbone.View (by replacing it with React)](http://blog.mayflower.de/3937-Backbone-React.html)
+* [From Backbone Views To React](http://leoasis.github.io/posts/2014/03/22/from_backbone_views_to_react/)
 
 ### Tools
 
@@ -103,6 +108,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Boileplate](https://github.com/rackt/react-boilerplate)
 * [Coffee React Quickstart](https://github.com/KyleAMathews/coffee-react-quickstart)
 * [react-starter-template - React (reactjs), Gulp, Webpack, Bootstrap, LiveReload](https://github.com/johnthethird/react-starter-template)
+* [react-starter - Starter template for React with webpack](https://github.com/webpack/react-starter)
+* [React Webpack Server Side Example](https://github.com/webpack/react-webpack-server-side-example)
 
 #### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
@@ -126,8 +133,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-ago-component - A component for React that renders the approximate time ago](https://github.com/martinandert/react-ago-component)
 * [react-translate-component - A component for React that multi-lingual/localized text](https://github.com/martinandert/react-translate-component)
 * [react-lorem-component - A component for React that renders lorem ipsum placeholder text](https://github.com/martinandert/react-lorem-component)
-* [react-interpolate-component - A component for React that renders elements into a format string containing replacement fields](https://github.com/martinandert/react-interpolate-component)
-* []
+* [react-interpolate-component - Renders elements into a format string](https://github.com/martinandert/react-interpolate-component)
+* [react-proxy-loader - Hot Module Replacement and Code Splitting](https://github.com/webpack/react-proxy-loader)
+* [RCSS - Turn your JavaScript objects into CSS classes](https://github.com/chenglou/RCSS)
+* 
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
@@ -141,8 +150,13 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Python](https://github.com/reactjs/react-python)
 * [React PHP](https://github.com/reactjs/react-php-v8js)
 * [React Meteor](https://github.com/reactjs/react-meteor)
+* [Coffee React](https://github.com/jsdf/coffee-react)
 * [turbo-react - Combine Turbolinks and React to apply DOM diffs](https://github.com/ssorallen/turbo-react)
 * [react-bacon - A little module for using React with Bacon.js](https://github.com/jamesmacaulay/react-bacon)
+* [msx - React's JSX Transformer, tweaked to output calls to Mithril](https://github.com/insin/msx)
+* [sprockets-coffee-react - Sprockets preprocessor for CJSX](https://github.com/jsdf/sprockets-coffee-react)
+* [Backbone React Component](https://github.com/magalhas/backbone-react-component)
+* [react.backbone - Plugin for React to make Backbone migration easier](https://github.com/usepropeller/react.backbone)
 
 #### Routing
 * [react-router - A complete routing solution for React.js](https://github.com/rackt/react-router)
@@ -153,6 +167,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Forms](http://facebook.github.io/react/docs/forms.html)
 * [react-forms - Forms library for React](https://github.com/prometheusresearch/react-forms)
 * [wingspan-forms - A dynamic form library for Facebook React](https://github.com/wingspan/wingspan-forms)
+* [newforms - Isomorphic form-handling for React](https://github.com/insin/newforms)
 
 #### Autocomplete
 * [react-autocomplete - WAI-ARIA compliant React autocomplete by @rackt](https://github.com/rackt/react-autocomplete)
@@ -212,11 +227,13 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React.js, The Rails Way](https://www.gitbook.io/book/checkraiser/rails-and-react-js)
 
 ### Demos
+* [React + Backbone TodoMVC](http://todomvc.com/labs/architecture-examples/react-backbone/)
 * [reactor-demo - Isomorphic Javascript app with React](https://github.com/natew/reactor-demo)
 * [imgsible - React-based Imgur-like isomorphic demo app](https://github.com/BinaryMuse/imgsible)
 * [wow-realm-status-react - WoW Realm Status: React Edition](https://github.com/BinaryMuse/wow-realm-status-react)
 * [react-json-editor - A generic JSON editor](https://github.com/dustingetz/react-json-editor)
 * [react-todos - Backbone's example TODO app with React JS for views](https://github.com/ssorallen/react-todos)
+* [reactodo - Multiple localStorage TODO lists, built with React](https://github.com/insin/reactodo)
 
 ### Examples
 * [React HTML Template](https://github.com/enaqx/awesome-react/tree/master/examples/000_react_html_template)
