@@ -98,14 +98,23 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
 * [React Hack](https://github.com/petehunt/ReactHack)
 * [React Boileplate](https://github.com/rackt/react-boilerplate)
+* [Coffee React Quickstart](https://github.com/KyleAMathews/coffee-react-quickstart)
 
 #### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
+* [Khan Academy React Components](http://khan.github.io/react-components/)
 * [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
 * [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
 * [react-async - Async rendering for React components](https://github.com/andreypopp/react-async)
 * [react-mediaswitch - Choose your DOM based on media queries](https://github.com/matthewwithanm/react-mediaswitch)
 * [react-frame-component - Render your React app to an iFrame](https://github.com/ryanseddon/react-frame-component)
+* [react-gravatar - React component for rendering a gravatar profile image](https://github.com/KyleAMathews/react-gravatar)
+* [react-markdown-textarea - Component to create textareas for entering Markdown](https://github.com/KyleAMathews/react-markdown-textarea)
+* [react-textarea-autosize - Textarea component for React which grows with content](https://github.com/andreypopp/react-textarea-autosize)
+* [react-spinner - Zero configuration loading spinner](https://github.com/chenglou/react-spinner)
+* [react-treeview - Easy, light, flexible tree view made with React](https://github.com/chenglou/react-treeview)
+* [react-tween-state - React animation tween state](https://github.com/chenglou/react-tween-state)
+* [react-swipe - Brad Birdsall's swipe.js, as a React component](https://github.com/jed/react-swipe)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
@@ -151,8 +160,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [web-mode.el - An autonomous emacs major-mode for editing web templates](http://web-mode.org/)
 
 #### Generating
-* [Generator React Webpack](https://github.com/newtriks/generator-react-webpack)
-* [Generator React App](https://github.com/js-experiments/generator-react-app)
+* [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
+* [generator-react-app - Yeoman generator to create React application (with Express and Mongoose) + Backbone + Bootstrap](https://github.com/js-experiments/generator-react-app)
+* [generator-react-library - Yeoman generator for React components](https://github.com/petehunt/generator-react-library)
 
 #### Compiling
 * [reactify - Browserify transform for JSX](https://github.com/andreypopp/reactify)
