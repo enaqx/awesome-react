@@ -8,7 +8,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Server Side Rendering](#server-side-rendering)
   - [Approach Explanation](#approach-explanation)
 - [Tools](#tools)
-  - [Patterns](#patterns)
+  - [Flux](#patterns)
   - [Boilerplates](#boilerplates)
   - [Integration](#integration)
   - [Routing](#routing)
@@ -58,6 +58,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Building robust web apps with React: Part 2](http://maketea.co.uk/2014/04/07/building-robust-web-apps-with-react-part-2.html)
 * [Building robust web apps with React: Part 3](http://maketea.co.uk/2014/05/22/building-robust-web-apps-with-react-part-3.html)
 * [Building robust web apps with React: Part 4](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html)
+* [Creating Chrome Extensions with React](http://brandontilley.com/2014/02/24/creating-chrome-extensions-with-react.html)
 
 #### Server Side rendering
 * [Server Side Rendering for ReactJS](http://yanns.github.io/blog/2014/03/15/server-side-rendering-for-javascript-reactjs-framework/)
@@ -82,8 +83,12 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ### Tools
 
-#### Patterns
+#### Flux
 * [Flux](https://github.com/facebook/flux)
+* [Flux Application Architecture](http://facebook.github.io/react/docs/flux-overview.html)
+* [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
+* [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
+* [Fluxxor - A set of tools to facilitate building JavaScript data layers using the Flux](http://fluxxor.com/)
 
 #### Boilerplates
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
@@ -91,6 +96,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Boileplate](https://github.com/rackt/react-boilerplate)
 
 #### Components
+* [React Component List](http://dvemac.github.io/react-component-list/)
 * [React Touch](https://github.com/petehunt/react-touch)
 * [Grid](http://dynamictyped.github.io/Griddle/)
 
@@ -164,6 +170,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ### Books
 * [React.js, The Rails Way](https://www.gitbook.io/book/checkraiser/rails-and-react-js)
+
+### Demos
+* [imgsible - React-based Imgur-like isomorphic demo app](https://github.com/BinaryMuse/imgsible)
 
 ### Examples
 * [React HTML Template](https://github.com/enaqx/awesome-react/tree/master/examples/000_react_html_template)
