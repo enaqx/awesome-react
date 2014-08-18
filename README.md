@@ -10,6 +10,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 - [Tools](#tools)
   - [Flux](#patterns)
   - [Boilerplates](#boilerplates)
+  - [Components](#components)
   - [Integration](#integration)
   - [Routing](#routing)
   - [Unit Testing](#unit-testing)
