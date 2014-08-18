@@ -59,6 +59,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Building robust web apps with React: Part 3](http://maketea.co.uk/2014/05/22/building-robust-web-apps-with-react-part-3.html)
 * [Building robust web apps with React: Part 4](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html)
 * [Creating Chrome Extensions with React](http://brandontilley.com/2014/02/24/creating-chrome-extensions-with-react.html)
+* [Using ReactJS and KendoUI Together](http://ifandelse.com/using-reactjs-and-kendoui-together/)
+* [Building dynamic forms with Facebook React](http://www.dustingetz.com/2014/02/18/react-dynamic-forms.html)
+* [Intro to React livecoding workshop](http://www.dustingetz.com/2014/03/16/react-into-workshop-notes.html)
 
 #### Server Side rendering
 * [Server Side Rendering for ReactJS](http://yanns.github.io/blog/2014/03/15/server-side-rendering-for-javascript-reactjs-framework/)
@@ -80,6 +83,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Backbone to React](http://joelburget.com/backbone-to-react/)
 * [Moving Atom to React](http://blog.atom.io/2014/07/02/moving-atom-to-react.html)
 * [Why we use React.js in our Rails projects](http://blog.arkency.com/2014/07/why-we-use-react-js-in-our-rails-projects/)
+* [ReactJS-Rethinking-Web-UI](https://github.com/ifandelse/ReactJS-Rethinking-Web-UI)
 
 ### Tools
 
@@ -101,6 +105,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
 * [react-async - Async rendering for React components](https://github.com/andreypopp/react-async)
 * [react-mediaswitch - Choose your DOM based on media queries](https://github.com/matthewwithanm/react-mediaswitch)
+* [react-frame-component - Render your React app to an iFrame](https://github.com/ryanseddon/react-frame-component)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
@@ -119,6 +124,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-router - A complete routing solution for React.js](https://github.com/rackt/react-router)
 * [react-router-component - Declarative router component for React](https://github.com/andreypopp/react-router-component)
 * [rrouter - Declarative routing layer for React applications](https://github.com/andreypopp/rrouter)
+
+#### Forms
+* [React Forms](http://facebook.github.io/react/docs/forms.html)
+* [react-forms - Forms library for React](https://github.com/prometheusresearch/react-forms)
+* [wingspan-forms - A dynamic form library for Facebook React](https://github.com/wingspan/wingspan-forms)
 
 #### Autocomplete
 * [react-autocomplete - WAI-ARIA compliant React autocomplete by @rackt](https://github.com/rackt/react-autocomplete)
@@ -175,7 +185,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React.js, The Rails Way](https://www.gitbook.io/book/checkraiser/rails-and-react-js)
 
 ### Demos
+* [reactor-demo - Isomorphic Javascript app with React](https://github.com/natew/reactor-demo)
 * [imgsible - React-based Imgur-like isomorphic demo app](https://github.com/BinaryMuse/imgsible)
+* [wow-realm-status-react - WoW Realm Status: React Edition](https://github.com/BinaryMuse/wow-realm-status-react)
+* [react-json-editor - A generic JSON editor](https://github.com/dustingetz/react-json-editor)
 
 ### Examples
 * [React HTML Template](https://github.com/enaqx/awesome-react/tree/master/examples/000_react_html_template)
