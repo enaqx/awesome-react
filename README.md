@@ -101,12 +101,14 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Hack](https://github.com/petehunt/ReactHack)
 * [React Boileplate](https://github.com/rackt/react-boilerplate)
 * [Coffee React Quickstart](https://github.com/KyleAMathews/coffee-react-quickstart)
+* [react-starter-template - React (reactjs), Gulp, Webpack, Bootstrap, LiveReload](https://github.com/johnthethird/react-starter-template)
 
 #### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
 * [Khan Academy React Components](http://khan.github.io/react-components/)
 * [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
 * [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
+* [react-grid - Data grid for React](https://github.com/prometheusresearch/react-grid)
 * [react-async - Async rendering for React components](https://github.com/andreypopp/react-async)
 * [react-mediaswitch - Choose your DOM based on media queries](https://github.com/matthewwithanm/react-mediaswitch)
 * [react-frame-component - Render your React app to an iFrame](https://github.com/ryanseddon/react-frame-component)
@@ -117,6 +119,14 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-treeview - Easy, light, flexible tree view made with React](https://github.com/chenglou/react-treeview)
 * [react-tween-state - React animation tween state](https://github.com/chenglou/react-tween-state)
 * [react-swipe - Brad Birdsall's swipe.js, as a React component](https://github.com/jed/react-swipe)
+* [react-smart-time-ago - Show relative "time ago" dates](https://github.com/KyleAMathews/react-smart-time-ago)
+* [react-autoupdate-time - Renders a <time> element that autoupdates](https://github.com/KyleAMathews/react-autoupdate-time)
+* [react-time - Component for React to render relative and/or formatted dates into <time>](https://github.com/andreypopp/react-time)
+* [react-ago-component - A component for React that renders the approximate time ago](https://github.com/martinandert/react-ago-component)
+* [react-translate-component - A component for React that multi-lingual/localized text](https://github.com/martinandert/react-translate-component)
+* [react-lorem-component - A component for React that renders lorem ipsum placeholder text](https://github.com/martinandert/react-lorem-component)
+* [react-interpolate-component - A component for React that renders elements into a format string containing replacement fields](https://github.com/martinandert/react-interpolate-component)
+* []
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
@@ -130,6 +140,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Python](https://github.com/reactjs/react-python)
 * [React PHP](https://github.com/reactjs/react-php-v8js)
 * [React Meteor](https://github.com/reactjs/react-meteor)
+* [turbo-react - Combine Turbolinks and React to apply DOM diffs](https://github.com/ssorallen/turbo-react)
+* [react-bacon - A little module for using React with Bacon.js](https://github.com/jamesmacaulay/react-bacon)
 
 #### Routing
 * [react-router - A complete routing solution for React.js](https://github.com/rackt/react-router)
@@ -144,9 +156,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Autocomplete
 * [react-autocomplete - WAI-ARIA compliant React autocomplete by @rackt](https://github.com/rackt/react-autocomplete)
 * [react-autocomplete - Just tasting some ReactJS + RxJS by @eliseumds](https://github.com/eliseumds/react-autocomplete)
+* [react-autocomplete - Autocomplete widget based on Facebook React](https://github.com/prometheusresearch/react-autocomplete)
 
 #### Unit Testing
-* [Jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
+* [jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
+* [jasmine-react - Unit test your React.js applications with Jasmine](https://github.com/tommyh/jasmine-react)
 
 #### Graphics
 * [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
@@ -201,6 +215,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [imgsible - React-based Imgur-like isomorphic demo app](https://github.com/BinaryMuse/imgsible)
 * [wow-realm-status-react - WoW Realm Status: React Edition](https://github.com/BinaryMuse/wow-realm-status-react)
 * [react-json-editor - A generic JSON editor](https://github.com/dustingetz/react-json-editor)
+* [react-todos - Backbone's example TODO app with React JS for views](https://github.com/ssorallen/react-todos)
 
 ### Examples
 * [React HTML Template](https://github.com/enaqx/awesome-react/tree/master/examples/000_react_html_template)
