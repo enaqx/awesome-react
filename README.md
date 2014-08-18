@@ -68,8 +68,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Approach Explanation
 * [Remarkable React](http://www.phpied.com/remarkable-react/)
-* [Reactive table](http://www.phpied.com/reactive-table/)
+* [Reactive Table](http://www.phpied.com/reactive-table/)
 * [ReActiveTable bookmarklet](http://www.phpied.com/reactivetable-bookmarklet/)
+* [Play Framework and Facebook's React library](http://matthiasnehlsen.com/blog/2014/01/05/play-framework-and-facebooks-react-library/)
+* [BirdWatch: AngularJS vs. ReactJS](http://matthiasnehlsen.com/blog/2014/03/31/birdwatch-with-reactjs/)
+* [Scala.js and ReactJS](http://matthiasnehlsen.com/blog/2014/01/24/scala-dot-js-and-reactjs/)
 * [Pros and Cons of Facebook's React vs. Web Components](http://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer)
 * [React.js plays nicely with other tools and other thoughts](http://jeremydmiller.com/2014/08/06/react-js-plays-nicely-with-other-tools-and-other-thoughts/)
 * [Backbone to React](http://joelburget.com/backbone-to-react/)
