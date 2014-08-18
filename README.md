@@ -84,6 +84,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Moving Atom to React](http://blog.atom.io/2014/07/02/moving-atom-to-react.html)
 * [Why we use React.js in our Rails projects](http://blog.arkency.com/2014/07/why-we-use-react-js-in-our-rails-projects/)
 * [ReactJS-Rethinking-Web-UI](https://github.com/ifandelse/ReactJS-Rethinking-Web-UI)
+* [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
+* [Compiling JSX with Sweet.js using Readtables](http://jlongster.com/Compiling-JSX-with-Sweet.js-using-Readtables)
 
 ### Tools
 
