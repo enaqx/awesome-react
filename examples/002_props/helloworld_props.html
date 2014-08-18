@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <script src="http://fb.me/react-0.11.1.js"></script>
+    <script src="http://fb.me/JSXTransformer-0.11.1.js"></script>
+  </head>
+  <body>
+    <div id="content"></div>
+    <script type="text/jsx">
+      /** @jsx React.DOM */
+      var HelloMessage = React.createClass({
+        render: function() {
+          return <h1>Hello, {this.props.name}!</h1>;
+        }
+      });
+
+      React.renderComponent(
+        <HelloMessage name="World" />,
+        document.getElementById('content')
+      );
+    </script>
+  </body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <script src="http://fb.me/react-0.11.1.js"></script>
+    <script src="http://fb.me/JSXTransformer-0.11.1.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/showdown/0.3.1/showdown.min.js"></script>
+  </head>
+  <body>
+    <div id="content"></div>
+    <script type="text/jsx">
+      /** @jsx React.DOM */
+
+      var converter = new Showdown.converter();
+
+      var MarkdownEditor = React.createClass({
+        getInitialState: function() {
+          return {value: ' Text attributes *italic*, **bold**, `monospace`.'};
+        },
+        handleChange: function() {
+          this.setState({value: this.refs.textarea.getDOMNode().value});
+        },
+        render: function() {
+          return (
+            <div className="MarkdownEditor">
+              <h3>Input</h3>
+              <textarea
+                onChange={this.handleChange}
+                ref="textarea"
+                defaultValue={this.state.value} />
+              <h3>Output</h3>
+              <div
+                className="content"
+                dangerouslySetInnerHTML={{
+                  __html: converter.makeHtml(this.state.value)
+                }}
+              />
+            </div>
+          );
+        }
+      });
+
+      React.renderComponent(
+        <MarkdownEditor />, 
+        document.getElementById('content')
+      );
+    </script>
+  </body>
+</html>
