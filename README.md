@@ -17,6 +17,8 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Generating](#generating)
   - [Compiling](#compiling)
 - [Videos](#videos)
+  - [Video from Confs](#video-from-confs)
+  - [Video Tutorials](#video-tutorials)
 - [Examples](#examples)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contribution](#contribution)
@@ -103,6 +105,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Development Environment
 * [Sublime Text React](https://github.com/reactjs/sublime-react)
 * [Atom React](https://atom.io/packages/react)
+* [Vim JSX Syntax](https://github.com/mxw/vim-jsx)
+* [Vim React Snippets](https://github.com/justinj/vim-react-snippets)
 * [React Chrome Developer Tools](https://github.com/facebook/react-devtools)
 
 #### Generating
@@ -115,6 +119,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 
 ### Videos
+
+#### Video from Confs
 * [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 * [Pete Hunt: React - Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
 * [Tom Occhino and Jordan Walke: Introduction to React.js -  Facebook Seattle](https://www.youtube.com/watch?v=XxVg_s8xAms)
@@ -125,6 +131,13 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Pete Hunt:The Secrets of React's Virtual DOM  - FutureJS 2014](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 * [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw)
 * [Areeb Malik: Going big with React - The Skills Matter eXchange](https://skillsmatter.com/skillscasts/5429-going-big-with-react)
+
+#### Video Tutorials
+* [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
+* [Learn ReactJS (make a Pokedex!) - part 2](https://www.youtube.com/watch?v=lNqnZ58YGE0)
+* [Advanced Input Validation With React](https://www.youtube.com/watch?v=Mjcou3UCiBM)
+* [ReactJS: Dealing with the Server](https://www.youtube.com/watch?v=lJUUjdsv0aw)
+* [Thinking in React](https://www.tagtree.tv/thinking-in-react)
 
 
 ### Examples
