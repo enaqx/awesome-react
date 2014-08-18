@@ -121,11 +121,14 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React ART](https://github.com/facebook/react-art)
 
 #### Development Environment
+* [React Chrome Developer Tools](https://github.com/facebook/react-devtools)
 * [Sublime Text React](https://github.com/reactjs/sublime-react)
 * [Atom React](https://atom.io/packages/react)
 * [Vim JSX Syntax](https://github.com/mxw/vim-jsx)
 * [Vim React Snippets](https://github.com/justinj/vim-react-snippets)
-* [React Chrome Developer Tools](https://github.com/facebook/react-devtools)
+* [Textmate Bundle for JSX](https://github.com/jjeising/javascript-react.tmbundle)
+* [js2-mode - JavaScript editing mode for GNU Emacs](https://github.com/mooz/js2-mode)
+* [web-mode.el - An autonomous emacs major-mode for editing web templates](http://web-mode.org/)
 
 #### Generating
 * [Generator React Webpack](https://github.com/newtriks/generator-react-webpack)
