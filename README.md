@@ -60,6 +60,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Building robust web apps with React: Part 2](http://maketea.co.uk/2014/04/07/building-robust-web-apps-with-react-part-2.html)
 * [Building robust web apps with React: Part 3](http://maketea.co.uk/2014/05/22/building-robust-web-apps-with-react-part-3.html)
 * [Building robust web apps with React: Part 4](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html)
+* [Server/Client With React, Part 1: Getting Started](http://eflorenzano.com/blog/2014/04/09/react-part-1-getting-started/)
+* [Server/Client With React, Part 2: The Build System](http://eflorenzano.com/blog/2014/04/10/react-part-2-build-system/)
+* [Server/Client With React, Part 3: Frontend Server](http://eflorenzano.com/blog/2014/04/11/react-part-3-frontend-server/)
 * [Creating Chrome Extensions with React](http://brandontilley.com/2014/02/24/creating-chrome-extensions-with-react.html)
 * [Using ReactJS and KendoUI Together](http://ifandelse.com/using-reactjs-and-kendoui-together/)
 * [Building dynamic forms with Facebook React](http://www.dustingetz.com/2014/02/18/react-dynamic-forms.html)
@@ -104,6 +107,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Moving From Backbone To React](https://usepropeller.com/blog/posts/from-backbone-to-react/)
 * [Pimp my Backbone.View (by replacing it with React)](http://blog.mayflower.de/3937-Backbone-React.html)
 * [From Backbone Views To React](http://leoasis.github.io/posts/2014/03/22/from_backbone_views_to_react/)
+* [React.js vs traditional MVC](http://www.code-experience.com/react-js-vs-traditional-mvc-backbone-ember-angular/)
+* [Why you might not need MVC with React.js](http://www.code-experience.com/why-you-might-not-need-mvc-with-reactjs/)
+* [React: Finally, a great server/client web stack](http://eflorenzano.com/blog/2014/01/23/react-finally-server-client/)
+* [Set State in Callbacks in React](http://jaketrent.com/post/set-state-in-callbacks-in-react/)
+* [Send Props to Children in React](http://jaketrent.com/post/send-props-to-children-react/)
 
 ### Tools
 
@@ -111,12 +119,14 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Flux Project](https://github.com/facebook/flux)
 * [Flux Application Architecture](http://facebook.github.io/react/docs/flux-overview.html)
 * [flux-router-component - Router React mixin for applications built with Flux](https://github.com/yahoo/flux-router-component)
-* [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
-* [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
-* [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
 * [fluxxor - A set of tools to facilitate building JavaScript data layers using the Flux](http://fluxxor.com/)
 * [fluxy - An implementation of Facebook's Flux architecture](https://github.com/jmreidy/fluxy)
 * [refluxjs - A simple library for uni-directional dataflow application architecture inspired by Flux](https://github.com/spoike/refluxjs)
+* [Async requests with React.js and Flux](http://www.code-experience.com/async-requests-with-react-js-and-flux/)
+* [Async requests with React.js and Flux, revisited](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
+* [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
+* [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
+* [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
 
 #### Boilerplates
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
@@ -197,6 +207,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-ellipsis - Ellipsis component for React](https://github.com/guillaumervls/react-ellipsis)
 * [react-pillbox - Pillbox component for React](https://github.com/redbadger/react-pillbox)
 * [react-intl - React Internationalization Component](https://github.com/yahoo/react-intl)
+* [react-tokeninput - Tokeninput component for React](https://github.com/instructure/react-tokeninput)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
