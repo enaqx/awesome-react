@@ -143,7 +143,16 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-chosen - React wrapper for Chosen jQuery](https://github.com/chenglou/react-chosen)
 * [react-inlinesvg - An SVG loader component for React](https://github.com/matthewwithanm/react-inlinesvg)
 * [react-imageloader - A React component for wrangling image loading](https://github.com/hzdg/react-imageloader)
-
+* [gsap-react-plugin - A GSAP plugin for tweening React.js component state](https://github.com/hzdg/gsap-react-plugin)
+* [react-loadqueueloader - A React component for managing loads with a load queue](https://github.com/hzdg/react-loadqueueloader)
+* [react-loadermixin - A React mixin for giving components loading behavior](https://github.com/hzdg/react-loadermixin)
+* [react-controlfacades - Style form controls but use their default behavior](https://github.com/hzdg/react-controlfacades)
+* [react-pressable - Add onRelease, onReleaseInside, onReleaseOutside, and onPress events](https://github.com/hzdg/react-pressable)
+* [react-google-analytics - Google analytics component](https://github.com/hzdg/react-google-analytics)
+* [reactdi - Dependency injection for ReactJS components](https://github.com/hzdg/reactdi)
+* [qrcode.react - A <QRCode/> component for use with React](https://github.com/zpao/qrcode.react)
+* [react-swf - Shockwave Flash Player component for React](https://github.com/syranide/react-swf)
+* [react-unmount-listener-mixin - React mixin for listenable componentWillUnmount](https://github.com/syranide/react-unmount-listener-mixin)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
@@ -173,8 +182,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-mixin-manager - React mixin registration manager](https://github.com/jhudson8/react-mixin-manager)
 
 #### Routing
-* [react-router - A complete routing solution for React.js](https://github.com/rackt/react-router)
-* [react-router-component - Declarative router component for React](https://github.com/andreypopp/react-router-component)
+* [react-router by @raackt - A complete routing solution for React.js](https://github.com/rackt/react-router)
+* [react-router-component by @andreypopp - Declarative router component for React](https://github.com/andreypopp/react-router-component)
+* [react-router by @jaredly - An integrated router for react](https://github.com/jaredly/react-router)
 * [rrouter - Declarative routing layer for React applications](https://github.com/andreypopp/rrouter)
 
 #### Forms
