@@ -66,6 +66,12 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Intro to React livecoding workshop](http://www.dustingetz.com/2014/03/16/react-into-workshop-notes.html)
 * [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
 * [Reliable web components with React.js and ReactiveElements](http://pixelscommander.com/en/interactive-revolution/web-components-and-react-js-with-reactiveelements/)
+* [A Sortable List Component in React utilizing the HTML5 Drag & Drop API](http://webcloud.se/sortable-list-component-react-js/)
+* [A Truly Reactive Sortable Component](http://webcloud.se/truly-reactive-sortable-component/)
+* [Testing React Components](http://www.asbjornenge.com/wwc/testing_react_components.html)
+* [Dealing with asynchronous code in React components](https://caurea.org/2014/02/04/dealing-with-asynchronous-code-in-react-components.html)
+* [Testing React components with Huxley](https://caurea.org/2014/02/23/testing-react-components-with-huxley.html)
+* [Tooltip mixin for React](https://caurea.org/2014/06/12/tooltip-mixin-for-react.html)
 
 #### Server Side rendering
 * [Server Side Rendering for ReactJS](http://yanns.github.io/blog/2014/03/15/server-side-rendering-for-javascript-reactjs-framework/)
@@ -103,16 +109,20 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
 * [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
 * [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
-* [Fluxxor - A set of tools to facilitate building JavaScript data layers using the Flux](http://fluxxor.com/)
+* [fluxxor - A set of tools to facilitate building JavaScript data layers using the Flux](http://fluxxor.com/)
+* [fluxy - An implementation of Facebook's Flux architecture](https://github.com/jmreidy/fluxy)
+* [refluxjs - A simple library for uni-directional dataflow application architecture inspired by Flux](https://github.com/spoike/refluxjs)
 
 #### Boilerplates
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
 * [React Hack](https://github.com/petehunt/ReactHack)
+* [react-browserify-template - Quick template for building with Browserify + React](https://github.com/petehunt/react-browserify-template)
 * [React Boileplate](https://github.com/rackt/react-boilerplate)
 * [Coffee React Quickstart](https://github.com/KyleAMathews/coffee-react-quickstart)
 * [react-starter-template - React (reactjs), Gulp, Webpack, Bootstrap, LiveReload](https://github.com/johnthethird/react-starter-template)
 * [react-starter - Starter template for React with webpack](https://github.com/webpack/react-starter)
-* [React Webpack Server Side Example](https://github.com/webpack/react-webpack-server-side-example)
+* [react-webpack - React + Webpack project template](https://github.com/ThomasDeutsch/react-webpack)
+* [React Webpack Server Side Example](https://github.com/webpack/react-webpack-server-side-example)]
 
 #### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
@@ -121,6 +131,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
 * [react-grid - Data grid for React](https://github.com/prometheusresearch/react-grid)
 * [react-async - Async rendering for React components](https://github.com/andreypopp/react-async)
+* [react-async-input - Inputs that behave properly with async set{State,Props} calls](https://github.com/grncdr/react-async-input)
 * [react-mediaswitch - Choose your DOM based on media queries](https://github.com/matthewwithanm/react-mediaswitch)
 * [react-frame-component - Render your React app to an iFrame](https://github.com/ryanseddon/react-frame-component)
 * [react-gravatar - React component for rendering a gravatar profile image](https://github.com/KyleAMathews/react-gravatar)
@@ -143,16 +154,33 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-chosen - React wrapper for Chosen jQuery](https://github.com/chenglou/react-chosen)
 * [react-inlinesvg - An SVG loader component for React](https://github.com/matthewwithanm/react-inlinesvg)
 * [react-imageloader - A React component for wrangling image loading](https://github.com/hzdg/react-imageloader)
-* [gsap-react-plugin - A GSAP plugin for tweening React.js component state](https://github.com/hzdg/gsap-react-plugin)
 * [react-loadqueueloader - A React component for managing loads with a load queue](https://github.com/hzdg/react-loadqueueloader)
 * [react-loadermixin - A React mixin for giving components loading behavior](https://github.com/hzdg/react-loadermixin)
 * [react-controlfacades - Style form controls but use their default behavior](https://github.com/hzdg/react-controlfacades)
 * [react-pressable - Add onRelease, onReleaseInside, onReleaseOutside, and onPress events](https://github.com/hzdg/react-pressable)
 * [react-google-analytics - Google analytics component](https://github.com/hzdg/react-google-analytics)
+* [react-google-maps - React interface to Google maps](https://github.com/pieterv/react-google-maps)
+* [react-gcal-events-list - A Reusable component that pulls events from your google calendar](https://github.com/VinSpee/react-gcal-events-list)
 * [reactdi - Dependency injection for ReactJS components](https://github.com/hzdg/reactdi)
 * [qrcode.react - A <QRCode/> component for use with React](https://github.com/zpao/qrcode.react)
 * [react-swf - Shockwave Flash Player component for React](https://github.com/syranide/react-swf)
 * [react-unmount-listener-mixin - React mixin for listenable componentWillUnmount](https://github.com/syranide/react-unmount-listener-mixin)
+* [react-sortable - A sortable list component built \w React](https://github.com/danielstocks/react-sortable)
+* [react-controllables - Easily create controllable components](https://github.com/matthewwithanm/react-controllables)
+* [react-datalist - A <datalist> polyfill for Reactjs](https://github.com/asbjornenge/react-datalist)
+* [react-pad - Authoring tool for React components](https://github.com/andreypopp/react-pad)
+* [ogre.js - Object graph manager, built with ReactJS in mind](https://github.com/elucidata/ogre.js)
+* [react-scroll-components - A set of components that react to page scrolling](https://github.com/jeroencoumans/react-scroll-components)
+* [react-fullscreen-component - Create fullscreen toggles](https://github.com/jeroencoumans/react-fullscreen-component)
+* [react-frozenhead - Make your whole page a React component and render it on the server](https://github.com/matthewwithanm/react-frozenhead)
+* [react-tags - A simple wrapper around React.DOM](https://github.com/adelevie/react-tags)
+* [react-datepicker - Datepicker component for application using Facebook React](https://github.com/misino/react-datepicker)
+* [react-maps - A map component for React](https://github.com/matnel/react-maps)
+* [react-styles - Utility to manage styles for React JS components](https://github.com/hedgerwang/react-styles)
+* [react-stylesheet - A component for React to declare stylesheet dependencies](https://github.com/andreypopp/react-stylesheet)
+* [react-table-sorter-demo - A React.js Table Sorter Component](https://github.com/bgerm/react-table-sorter-demo)
+* [react-input-placeholder - Input is a small wrapper around React.DOM.input](https://github.com/enigma-io/react-input-placeholder)
+* [react-infinite-scroll - An infinite scroll component for React](https://github.com/guillaumervls/react-infinite-scroll)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
@@ -168,6 +196,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React PHP](https://github.com/reactjs/react-php-v8js)
 * [React Meteor](https://github.com/reactjs/react-meteor)
 * [Coffee React](https://github.com/jsdf/coffee-react)
+* [react-coffee - Build React components using natural CoffeeScript syntax](https://github.com/elucidata/react-coffee)
 * [coffee-react-transform - Provides React JSX support for Coffeescript](https://github.com/jsdf/coffee-react-transform)
 * [sprockets-coffee-react - Sprockets preprocessor for CJSX](https://github.com/jsdf/sprockets-coffee-react)
 * [react-kup -  A simple, non-intrusive alternative to jsx for coffeescript](https://github.com/snd/react-kup)
@@ -180,6 +209,15 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react.backbone - Plugin for React to make Backbone migration easier](https://github.com/usepropeller/react.backbone)
 * [react-events - Declarative managed event bindings for react components](https://github.com/jhudson8/react-events)
 * [react-mixin-manager - React mixin registration manager](https://github.com/jhudson8/react-mixin-manager)
+* [gsap-react-plugin - A GSAP plugin for tweening React.js component state](https://github.com/hzdg/gsap-react-plugin)
+* [react-topcoat - Topcoat CSS components built with the React library](https://github.com/plaxdan/react-topcoat)
+* [reactdown - Write React components using markdown syntax](https://github.com/andreypopp/reactdown)
+* [react-jade - Compile Jade to React JavaScript](https://github.com/ForbesLindesay/react-jade)
+* [jade-react - Compile Jade templates to React.DOM expressions](https://github.com/duncanbeevers/jade-react)
+* [gulp-jade-react - Compile Jade templates into React de-sugared JSX with Gulp](https://github.com/duncanbeevers/gulp-jade-react)
+* [react-semantic-ui - React components for Semantic UI](https://github.com/jhudson8/react-semantic-ui)
+* [semantic-react - React wrappers for Semantic UI](https://github.com/DveMac/semantic-react)
+* [react-ellipsis - Ellipsis component for React](https://github.com/guillaumervls/react-ellipsis)
 
 #### Routing
 * [react-router by @raackt - A complete routing solution for React.js](https://github.com/rackt/react-router)
@@ -192,6 +230,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-forms - Forms library for React](https://github.com/prometheusresearch/react-forms)
 * [wingspan-forms - A dynamic form library for Facebook React](https://github.com/wingspan/wingspan-forms)
 * [newforms - Isomorphic form-handling for React](https://github.com/insin/newforms)
+* [formjs - A form generator for Reactjs](https://github.com/zackify/formjs)
 
 #### Autocomplete
 * [react-autocomplete - WAI-ARIA compliant React autocomplete by @rackt](https://github.com/rackt/react-autocomplete)
@@ -207,6 +246,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Data Managing
 * [cortex - A javascript library for centrally managing data with React](https://github.com/mquan/cortex)
+* [avers - A modern client-side model abstraction library](https://github.com/wereHamster/avers)
 
 #### Development Environment
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
@@ -217,6 +257,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Textmate Bundle for JSX](https://github.com/jjeising/javascript-react.tmbundle)
 * [js2-mode - JavaScript editing mode for GNU Emacs](https://github.com/mooz/js2-mode)
 * [web-mode.el - An autonomous emacs major-mode for editing web templates](http://web-mode.org/)
+* [JSXHint - Wrapper around JSHint for linting JSX files](https://github.com/STRML/JSXHint)
 
 #### Generating
 * [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
@@ -227,6 +268,13 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [reactify - Browserify transform for JSX](https://github.com/andreypopp/reactify)
 * [Grunt React](https://github.com/ericclemmons/grunt-react)
 * [Gulp React](https://github.com/sindresorhus/gulp-react)
+* [broccoli-react - Broccoli preprocessor for React JSX](https://github.com/eddhannay/broccoli-react)
+* [jsx-requirejs-plugin - A RequireJS plugin for loading and compiling](https://github.com/philix/jsx-requirejs-plugin)
+* [react-brunch - Adds React.js support to brunch build tool ](https://github.com/darthapo/react-brunch)
+* [react-tags-brunch - Adds React.js tag interpolation to brunch build tool](https://github.com/elucidata/react-tags-brunch)
+* [react-hot-loader - Webpack loader that enables live-editing React components without unmounting or losing their state](https://github.com/gaearon/react-hot-loader)
+* [fez-react - Transform React JSX using Fez build tool](http://fez.github.io/)
+* [mimosa-react - A JSX compiler for Mimosa build tool](https://github.com/dbashford/mimosa-react)
 
 
 ### Videos
@@ -254,6 +302,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React.js, The Rails Way](https://www.gitbook.io/book/checkraiser/rails-and-react-js)
 
 ### Demos
+* [react-pokemon - A React component for displaying Pokémon](https://github.com/passy/react-pokemon)
 * [React + Backbone TodoMVC](http://todomvc.com/labs/architecture-examples/react-backbone/)
 * [reactor-demo - Isomorphic Javascript app with React](https://github.com/natew/reactor-demo)
 * [imgsible - React-based Imgur-like isomorphic demo app](https://github.com/BinaryMuse/imgsible)
@@ -261,6 +310,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-json-editor - A generic JSON editor](https://github.com/dustingetz/react-json-editor)
 * [react-todos - Backbone's example TODO app with React JS for views](https://github.com/ssorallen/react-todos)
 * [reactodo - Multiple localStorage TODO lists, built with React](https://github.com/insin/reactodo)
+* [react.io - Small experiment to see how easy it is to synchronize React.js components using Socket.io](https://github.com/Enome/react.io)
 
 ### Examples
 * [React HTML Template](https://github.com/enaqx/awesome-react/tree/master/examples/000_react_html_template)
