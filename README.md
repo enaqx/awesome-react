@@ -197,7 +197,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-fullscreen-component - Create fullscreen toggles](https://github.com/jeroencoumans/react-fullscreen-component)
 * [react-frozenhead - Make your whole page a React component and render it on the server](https://github.com/matthewwithanm/react-frozenhead)
 * [react-tags - A simple wrapper around React.DOM](https://github.com/adelevie/react-tags)
-* [react-datepicker - Datepicker component for application using Facebook React](https://github.com/misino/react-datepicker)
+* [react-datepicker by @misino - Datepicker component for application using Facebook React](https://github.com/misino/react-datepicker)
+* [react-datepicker by @Hacker0x01 - A simple and reusable datepicker component for React](https://github.com/Hacker0x01/react-datepicker)
 * [react-maps - A map component for React](https://github.com/matnel/react-maps)
 * [react-styles - Utility to manage styles for React JS components](https://github.com/hedgerwang/react-styles)
 * [react-stylesheet - A component for React to declare stylesheet dependencies](https://github.com/andreypopp/react-stylesheet)
@@ -208,6 +209,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-pillbox - Pillbox component for React](https://github.com/redbadger/react-pillbox)
 * [react-intl - React Internationalization Component](https://github.com/yahoo/react-intl)
 * [react-tokeninput - Tokeninput component for React](https://github.com/instructure/react-tokeninput)
+* [react-select-box - An accessible select box component for React](https://github.com/instructure/react-select-box)
+* [react-ladda - React wrapper for Ladda buttons](https://github.com/jsdir/react-ladda)
+* [react-list - A versatile infinite scroll React component](https://github.com/orgsync/react-list)
+* [olay-react - Olay implemented as a React component](https://github.com/orgsync/olay-react)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
