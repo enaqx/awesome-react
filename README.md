@@ -108,6 +108,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Flux
 * [Flux Project](https://github.com/facebook/flux)
 * [Flux Application Architecture](http://facebook.github.io/react/docs/flux-overview.html)
+* [flux-router-component - Router React mixin for applications built with Flux](https://github.com/yahoo/flux-router-component)
 * [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
 * [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
 * [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
@@ -192,6 +193,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-infinite-scroll - An infinite scroll component for React](https://github.com/guillaumervls/react-infinite-scroll)
 * [react-ellipsis - Ellipsis component for React](https://github.com/guillaumervls/react-ellipsis)
 * [react-pillbox - Pillbox component for React](https://github.com/redbadger/react-pillbox)
+* [react-intl - React Internationalization Component](https://github.com/yahoo/react-intl)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
@@ -232,12 +234,14 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [semantic-react - React wrappers for Semantic UI](https://github.com/DveMac/semantic-react)
 * [sbt-reactjs - React SBT Plugin using npm](https://github.com/ddispaltro/sbt-reactjs)
 * [scalajs-react - A guilty affair between Scala.js and Facebook's React](https://github.com/japgolly/scalajs-react)
+* [rpm-xtags-rivets-finch-react - RPM project: x-tags, rivets.js, finch.js, and React](https://github.com/ruahman/rpm-xtags-rivets-finch-react)
 
 #### Routing
 * [react-router by @raackt - A complete routing solution for React.js](https://github.com/rackt/react-router)
 * [react-router-component by @andreypopp - Declarative router component for React](https://github.com/andreypopp/react-router-component)
 * [react-router by @jaredly - An integrated router for react](https://github.com/jaredly/react-router)
 * [rrouter - Declarative routing layer for React applications](https://github.com/andreypopp/rrouter)
+* [react-mini-router - A minimal URL router for React.js](https://github.com/larrymyers/react-mini-router)
 
 #### Forms
 * [React Forms](http://facebook.github.io/react/docs/forms.html)
@@ -326,6 +330,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-todos - Backbone's example TODO app with React JS for views](https://github.com/ssorallen/react-todos)
 * [reactodo - Multiple localStorage TODO lists, built with React](https://github.com/insin/reactodo)
 * [react.io - Small experiment to see how easy it is to synchronize React.js components using Socket.io](https://github.com/Enome/react.io)
+* [github-issues-viewer - A gitub issues viewer build in react + backbone](https://github.com/jaredly/github-issues-viewer)
 
 ### Examples
 * [React HTML Template](https://github.com/enaqx/awesome-react/tree/master/examples/000_react_html_template)
