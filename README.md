@@ -181,6 +181,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-table-sorter-demo - A React.js Table Sorter Component](https://github.com/bgerm/react-table-sorter-demo)
 * [react-input-placeholder - Input is a small wrapper around React.DOM.input](https://github.com/enigma-io/react-input-placeholder)
 * [react-infinite-scroll - An infinite scroll component for React](https://github.com/guillaumervls/react-infinite-scroll)
+* [react-ellipsis - Ellipsis component for React](https://github.com/guillaumervls/react-ellipsis)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
@@ -195,6 +196,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Python](https://github.com/reactjs/react-python)
 * [React PHP](https://github.com/reactjs/react-php-v8js)
 * [React Meteor](https://github.com/reactjs/react-meteor)
+* [node-jsx - Transparently require() jsx from within node](https://github.com/petehunt/node-jsx)
+* [jsx-loader - JSX loader for Webpack](https://github.com/petehunt/jsx-loader)
 * [Coffee React](https://github.com/jsdf/coffee-react)
 * [react-coffee - Build React components using natural CoffeeScript syntax](https://github.com/elucidata/react-coffee)
 * [coffee-react-transform - Provides React JSX support for Coffeescript](https://github.com/jsdf/coffee-react-transform)
@@ -217,7 +220,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [gulp-jade-react - Compile Jade templates into React de-sugared JSX with Gulp](https://github.com/duncanbeevers/gulp-jade-react)
 * [react-semantic-ui - React components for Semantic UI](https://github.com/jhudson8/react-semantic-ui)
 * [semantic-react - React wrappers for Semantic UI](https://github.com/DveMac/semantic-react)
-* [react-ellipsis - Ellipsis component for React](https://github.com/guillaumervls/react-ellipsis)
+* [sbt-reactjs - React SBT Plugin using npm](https://github.com/ddispaltro/sbt-reactjs)
+* [scalajs-react - A guilty affair between Scala.js and Facebook's React](https://github.com/japgolly/scalajs-react)
 
 #### Routing
 * [react-router by @raackt - A complete routing solution for React.js](https://github.com/rackt/react-router)
