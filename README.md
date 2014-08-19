@@ -112,6 +112,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React: Finally, a great server/client web stack](http://eflorenzano.com/blog/2014/01/23/react-finally-server-client/)
 * [Set State in Callbacks in React](http://jaketrent.com/post/set-state-in-callbacks-in-react/)
 * [Send Props to Children in React](http://jaketrent.com/post/send-props-to-children-react/)
+* [Custom Components: React & x-tags](http://blog.vjeux.com/2013/javascript/custom-components-react-x-tags.html)
+* [React & CoffeeScript](http://blog.vjeux.com/2013/javascript/react-coffeescript.html)
+* [JSX for the real DOM](http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html)
+* [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
+* [React: Referencing Dynamic Children](http://www.mattzabriskie.com/blog/react-referencing-dynamic-children)
 
 ### Tools
 
@@ -122,6 +127,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [fluxxor - A set of tools to facilitate building JavaScript data layers using the Flux](http://fluxxor.com/)
 * [fluxy - An implementation of Facebook's Flux architecture](https://github.com/jmreidy/fluxy)
 * [refluxjs - A simple library for uni-directional dataflow application architecture inspired by Flux](https://github.com/spoike/refluxjs)
+* [dispatchr - A Flux dispatcher for applications that run on the server and the client](https://github.com/yahoo/dispatchr)
 * [Async requests with React.js and Flux](http://www.code-experience.com/async-requests-with-react-js-and-flux/)
 * [Async requests with React.js and Flux, revisited](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
 * [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
@@ -131,6 +137,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Boilerplates
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
 * [React Hack](https://github.com/petehunt/ReactHack)
+* [react-component-boilerplate - Boilerplate for creating React components](https://github.com/mzabriskie/react-component-boilerplate)
 * [react-browserify-template - Quick template for building with Browserify + React](https://github.com/petehunt/react-browserify-template)
 * [React Boileplate](https://github.com/rackt/react-boilerplate)
 * [Coffee React Quickstart](https://github.com/KyleAMathews/coffee-react-quickstart)
@@ -186,6 +193,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-gcal-events-list - A Reusable component that pulls events from your google calendar](https://github.com/VinSpee/react-gcal-events-list)
 * [reactdi - Dependency injection for ReactJS components](https://github.com/hzdg/reactdi)
 * [qrcode.react - A <QRCode/> component for use with React](https://github.com/zpao/qrcode.react)
+* [react-qrcode - This is a React wrapper for qrcode.js](https://github.com/leesalminen/react-qrcode)
 * [react-swf - Shockwave Flash Player component for React](https://github.com/syranide/react-swf)
 * [react-unmount-listener-mixin - React mixin for listenable componentWillUnmount](https://github.com/syranide/react-unmount-listener-mixin)
 * [react-sortable - A sortable list component built \w React](https://github.com/danielstocks/react-sortable)
@@ -213,6 +221,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-ladda - React wrapper for Ladda buttons](https://github.com/jsdir/react-ladda)
 * [react-list - A versatile infinite scroll React component](https://github.com/orgsync/react-list)
 * [olay-react - Olay implemented as a React component](https://github.com/orgsync/olay-react)
+* [reactable - Fast, flexible, and simple data tables in React](https://github.com/glittershark/reactable)
+* [react-tabs - React tabs component](https://github.com/mzabriskie/react-tabs)
+* [react-draggable - React draggable component](https://github.com/mzabriskie/react-draggable)
+* [react-sticky - <Sticky /> component for React-based apps](https://github.com/captivationsoftware/react-sticky)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
@@ -241,7 +253,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-backbone - Backbone-aware mixins for react](https://github.com/jhudson8/react-backbone)
 * [backbone-reaction - React, Backbone and then some](https://github.com/jhudson8/backbone-reaction)
 * [react.backbone - Plugin for React to make Backbone migration easier](https://github.com/usepropeller/react.backbone)
-* [react-events - Declarative managed event bindings for react components](https://github.com/jhudson8/react-events)
+* [reactbone - React extensions for Backbone](https://github.com/andrejewski/reactbone)
+* [react-events - Declarative managed event bindings for react components](https://github.com/jhudson8/react-events`)
 * [react-mixin-manager - React mixin registration manager](https://github.com/jhudson8/react-mixin-manager)
 * [gsap-react-plugin - A GSAP plugin for tweening React.js component state](https://github.com/hzdg/gsap-react-plugin)
 * [react-topcoat - Topcoat CSS components built with the React library](https://github.com/plaxdan/react-topcoat)
@@ -254,6 +267,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [sbt-reactjs - React SBT Plugin using npm](https://github.com/ddispaltro/sbt-reactjs)
 * [scalajs-react - A guilty affair between Scala.js and Facebook's React](https://github.com/japgolly/scalajs-react)
 * [rpm-xtags-rivets-finch-react - RPM project: x-tags, rivets.js, finch.js, and React](https://github.com/ruahman/rpm-xtags-rivets-finch-react)
+* [jreact - React on server-side Java (with Rhino or Nashorn)](https://github.com/KnisterPeter/jreact)
 
 #### Routing
 * [react-router by @raackt - A complete routing solution for React.js](https://github.com/rackt/react-router)
@@ -299,6 +313,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [web-mode.el - An autonomous emacs major-mode for editing web templates](http://web-mode.org/)
 * [JSXHint - Wrapper around JSHint for linting JSX files](https://github.com/STRML/JSXHint)
 * [React Starter Kit for Microsoft Visual Studio](http://visualstudiogallery.msdn.microsoft.com/d65d6b29-6dd7-4100-81b1-609e5afce356)
+* [react-stylePrefixr - A simple utility for React.js to help deal with style vendor prefixes](https://github.com/naman34/react-stylePrefixr)
 
 #### Generating
 * [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
@@ -316,6 +331,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-hot-loader - Webpack loader that enables live-editing React components without unmounting or losing their state](https://github.com/gaearon/react-hot-loader)
 * [fez-react - Transform React JSX using Fez build tool](http://fez.github.io/)
 * [mimosa-react - A JSX compiler for Mimosa build tool](https://github.com/dbashford/mimosa-react)
+* [HTML2React - Convert plain HTML into Coffeescript calls of React.DOM](http://html2react.alhur.es/)
 
 
 ### Videos
