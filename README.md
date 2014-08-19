@@ -15,6 +15,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Routing](#routing)
   - [Unit Testing](#unit-testing)
   - [Graphics](#graphics)
+  - [Data Managing](#data-managing)
   - [Development Environment](#development-environment)
   - [Generating](#generating)
   - [Compiling](#compiling)
@@ -64,6 +65,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Building dynamic forms with Facebook React](http://www.dustingetz.com/2014/02/18/react-dynamic-forms.html)
 * [Intro to React livecoding workshop](http://www.dustingetz.com/2014/03/16/react-into-workshop-notes.html)
 * [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
+* [Reliable web components with React.js and ReactiveElements](http://pixelscommander.com/en/interactive-revolution/web-components-and-react-js-with-reactiveelements/)
 
 #### Server Side rendering
 * [Server Side Rendering for ReactJS](http://yanns.github.io/blog/2014/03/15/server-side-rendering-for-javascript-reactjs-framework/)
@@ -100,6 +102,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Flux Application Architecture](http://facebook.github.io/react/docs/flux-overview.html)
 * [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
 * [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
+* [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
 * [Fluxxor - A set of tools to facilitate building JavaScript data layers using the Flux](http://fluxxor.com/)
 
 #### Boilerplates
@@ -136,13 +139,18 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-interpolate-component - Renders elements into a format string](https://github.com/martinandert/react-interpolate-component)
 * [react-proxy-loader - Hot Module Replacement and Code Splitting](https://github.com/webpack/react-proxy-loader)
 * [RCSS - Turn your JavaScript objects into CSS classes](https://github.com/chenglou/RCSS)
-* 
+* [ReactiveElements - Allows to use React.js component as HTML element](https://github.com/PixelsCommander/ReactiveElements)
+* [react-chosen - React wrapper for Chosen jQuery](https://github.com/chenglou/react-chosen)
+* [react-inlinesvg - An SVG loader component for React](https://github.com/matthewwithanm/react-inlinesvg)
+* [react-imageloader - A React component for wrangling image loading](https://github.com/hzdg/react-imageloader)
+
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
 * [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap/)
 * [React Rails](https://github.com/reactjs/react-rails)
-* [Om - ClojureScript interface](https://github.com/swannodette/om)
+* [om - ClojureScript interface](https://github.com/swannodette/om)
+* [quiescent - A lightweight ClojureScript abstraction over React](https://github.com/levand/quiescent)
 * [Express React views](https://github.com/reactjs/express-react-views)
 * [React Page Middleware](https://github.com/reactjs/react-page-middleware)
 * [ngReact - React Components in Angular](https://github.com/davidchang/ngReact)
@@ -151,12 +159,18 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React PHP](https://github.com/reactjs/react-php-v8js)
 * [React Meteor](https://github.com/reactjs/react-meteor)
 * [Coffee React](https://github.com/jsdf/coffee-react)
+* [coffee-react-transform - Provides React JSX support for Coffeescript](https://github.com/jsdf/coffee-react-transform)
+* [sprockets-coffee-react - Sprockets preprocessor for CJSX](https://github.com/jsdf/sprockets-coffee-react)
+* [react-kup -  A simple, non-intrusive alternative to jsx for coffeescript](https://github.com/snd/react-kup)
 * [turbo-react - Combine Turbolinks and React to apply DOM diffs](https://github.com/ssorallen/turbo-react)
 * [react-bacon - A little module for using React with Bacon.js](https://github.com/jamesmacaulay/react-bacon)
 * [msx - React's JSX Transformer, tweaked to output calls to Mithril](https://github.com/insin/msx)
-* [sprockets-coffee-react - Sprockets preprocessor for CJSX](https://github.com/jsdf/sprockets-coffee-react)
 * [Backbone React Component](https://github.com/magalhas/backbone-react-component)
+* [react-backbone - Backbone-aware mixins for react](https://github.com/jhudson8/react-backbone)
+* [backbone-reaction - React, Backbone and then some](https://github.com/jhudson8/backbone-reaction)
 * [react.backbone - Plugin for React to make Backbone migration easier](https://github.com/usepropeller/react.backbone)
+* [react-events - Declarative managed event bindings for react components](https://github.com/jhudson8/react-events)
+* [react-mixin-manager - React mixin registration manager](https://github.com/jhudson8/react-mixin-manager)
 
 #### Routing
 * [react-router - A complete routing solution for React.js](https://github.com/rackt/react-router)
@@ -180,6 +194,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Graphics
 * [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
+
+#### Data Managing
+* [cortex - A javascript library for centrally managing data with React](https://github.com/mquan/cortex)
 
 #### Development Environment
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
