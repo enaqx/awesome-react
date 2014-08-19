@@ -87,6 +87,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Reactive Table](http://www.phpied.com/reactive-table/)
 * [ReActiveTable bookmarklet](http://www.phpied.com/reactivetable-bookmarklet/)
 * [Play Framework and Facebook's React library](http://matthiasnehlsen.com/blog/2014/01/05/play-framework-and-facebooks-react-library/)
+* [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/)
+* [Om sweet Om](http://blog.getprismatic.com/om-sweet-om-high-functional-frontend-engineering-with-clojurescript-and-react/)
 * [BirdWatch: AngularJS vs. ReactJS](http://matthiasnehlsen.com/blog/2014/03/31/birdwatch-with-reactjs/)
 * [Scala.js and ReactJS](http://matthiasnehlsen.com/blog/2014/01/24/scala-dot-js-and-reactjs/)
 * [Pros and Cons of Facebook's React vs. Web Components](http://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer)
@@ -133,6 +135,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-isomorphic -  An experimental playground to try and find unobtrusive patterns using React](https://github.com/redbadger/react-isomorphic)
 * [react-isomorphic-test - Testing an isomorphic React application](https://github.com/BinaryMuse/react-isomorphic-test)
 * [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
+* [leveldb-baconjs-react-example - LevelDB React example](https://github.com/holonomy/leveldb-baconjs-react-example)
 
 #### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
@@ -263,8 +266,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
 
 #### Data Managing
+* [immutable-js - Immutable Data Collections for Javascript](https://github.com/facebook/immutable-js)
 * [cortex - A javascript library for centrally managing data with React](https://github.com/mquan/cortex)
 * [avers - A modern client-side model abstraction library](https://github.com/wereHamster/avers)
+* [imvvm - Immutable Model-View-ViewModel for React](https://github.com/entrendipity/imvvm)
+* [morearty.js - Better state management for React in pure JavaScript](https://github.com/Tvaroh/moreartyjs)
 
 #### Development Environment
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
