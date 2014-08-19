@@ -8,7 +8,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Server Side Rendering](#server-side-rendering)
   - [Approach Explanation](#approach-explanation)
 - [Tools](#tools)
-  - [Flux](#patterns)
+  - [Flux](#flux)
   - [Boilerplates](#boilerplates)
   - [Components](#components)
   - [Integration](#integration)
