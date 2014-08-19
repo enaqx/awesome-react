@@ -72,6 +72,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Dealing with asynchronous code in React components](https://caurea.org/2014/02/04/dealing-with-asynchronous-code-in-react-components.html)
 * [Testing React components with Huxley](https://caurea.org/2014/02/23/testing-react-components-with-huxley.html)
 * [Tooltip mixin for React](https://caurea.org/2014/06/12/tooltip-mixin-for-react.html)
+* [React Tutorial: Two way data binding](http://voidcanvas.com/react-tutorial-two-way-data-binding/)
 
 #### Server Side rendering
 * [Server Side Rendering for ReactJS](http://yanns.github.io/blog/2014/03/15/server-side-rendering-for-javascript-reactjs-framework/)
@@ -90,6 +91,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Scala.js and ReactJS](http://matthiasnehlsen.com/blog/2014/01/24/scala-dot-js-and-reactjs/)
 * [Pros and Cons of Facebook's React vs. Web Components](http://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer)
 * [React.js plays nicely with other tools and other thoughts](http://jeremydmiller.com/2014/08/06/react-js-plays-nicely-with-other-tools-and-other-thoughts/)
+* [First Reactions](http://joelburget.com/react/)
 * [Backbone to React](http://joelburget.com/backbone-to-react/)
 * [Moving Atom to React](http://blog.atom.io/2014/07/02/moving-atom-to-react.html)
 * [Why we use React.js in our Rails projects](http://blog.arkency.com/2014/07/why-we-use-react-js-in-our-rails-projects/)
@@ -123,6 +125,13 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-starter - Starter template for React with webpack](https://github.com/webpack/react-starter)
 * [react-webpack - React + Webpack project template](https://github.com/ThomasDeutsch/react-webpack)
 * [React Webpack Server Side Example](https://github.com/webpack/react-webpack-server-side-example)]
+* [genesis-skeleton - Modern, opinionated, full-stack starter kit](https://github.com/ericclemmons/genesis-skeleton)
+* [react-seed by @fizerkhan - Seed project for react apps](https://github.com/fizerkhan/react-seed)
+* [react-seed by @kriasoft - A single-page application (SPA) project template based on Facebook React](https://github.com/kriasoft/React-Seed)
+* [gulp-browserify-react-phonegap-starter - A starter kit for Phonegap, using Gulp, Browserify and React](https://github.com/stample/gulp-browserify-react-phonegap-starter)
+* [react-isomorphic -  An experimental playground to try and find unobtrusive patterns using React](https://github.com/redbadger/react-isomorphic)
+* [react-isomorphic-test - Testing an isomorphic React application](https://github.com/BinaryMuse/react-isomorphic-test)
+* [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
 
 #### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
@@ -182,6 +191,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-input-placeholder - Input is a small wrapper around React.DOM.input](https://github.com/enigma-io/react-input-placeholder)
 * [react-infinite-scroll - An infinite scroll component for React](https://github.com/guillaumervls/react-infinite-scroll)
 * [react-ellipsis - Ellipsis component for React](https://github.com/guillaumervls/react-ellipsis)
+* [react-pillbox - Pillbox component for React](https://github.com/redbadger/react-pillbox)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
@@ -237,9 +247,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [formjs - A form generator for Reactjs](https://github.com/zackify/formjs)
 
 #### Autocomplete
-* [react-autocomplete - WAI-ARIA compliant React autocomplete by @rackt](https://github.com/rackt/react-autocomplete)
-* [react-autocomplete - Just tasting some ReactJS + RxJS by @eliseumds](https://github.com/eliseumds/react-autocomplete)
-* [react-autocomplete - Autocomplete widget based on Facebook React](https://github.com/prometheusresearch/react-autocomplete)
+* [react-autocomplete by @rackt - WAI-ARIA compliant React autocomplete](https://github.com/rackt/react-autocomplete)
+* [react-autocomplete by @eliseumds- Just tasting some ReactJS + RxJS](https://github.com/eliseumds/react-autocomplete)
+* [react-autocomplete by @prometheusresearch - Autocomplete widget based on React](https://github.com/prometheusresearch/react-autocomplete)
 
 #### Unit Testing
 * [jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
@@ -262,6 +272,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [js2-mode - JavaScript editing mode for GNU Emacs](https://github.com/mooz/js2-mode)
 * [web-mode.el - An autonomous emacs major-mode for editing web templates](http://web-mode.org/)
 * [JSXHint - Wrapper around JSHint for linting JSX files](https://github.com/STRML/JSXHint)
+* [React Starter Kit for Microsoft Visual Studio](http://visualstudiogallery.msdn.microsoft.com/d65d6b29-6dd7-4100-81b1-609e5afce356)
 
 #### Generating
 * [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
