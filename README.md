@@ -270,6 +270,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [scalajs-react - A guilty affair between Scala.js and Facebook's React](https://github.com/japgolly/scalajs-react)
 * [rpm-xtags-rivets-finch-react - RPM project: x-tags, rivets.js, finch.js, and React](https://github.com/ruahman/rpm-xtags-rivets-finch-react)
 * [jreact - React on server-side Java (with Rhino or Nashorn)](https://github.com/KnisterPeter/jreact)
+* [React.hiccup - A complete replacement for JSX written in sweet.js](https://github.com/lantiga/react.hiccup)
 
 #### Routing
 * [react-router by @raackt - A complete routing solution for React.js](https://github.com/rackt/react-router)
@@ -293,6 +294,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Unit Testing
 * [jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
 * [jasmine-react - Unit test your React.js applications with Jasmine](https://github.com/tommyh/jasmine-react)
+* [chai-react - Chai assertions for React](https://github.com/percyhanna/chai-react)
 
 #### Graphics
 * [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
