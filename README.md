@@ -226,6 +226,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-tabs - React tabs component](https://github.com/mzabriskie/react-tabs)
 * [react-draggable - React draggable component](https://github.com/mzabriskie/react-draggable)
 * [react-sticky - <Sticky /> component for React-based apps](https://github.com/captivationsoftware/react-sticky)
+* [react-kaomoji - A React component for displaying Japanese emoticons](https://github.com/enaqx/react-kaomoji)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
