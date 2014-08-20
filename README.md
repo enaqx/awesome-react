@@ -23,6 +23,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Video from Confs](#video-from-confs)
   - [Video Tutorials](#video-tutorials)
 - [Books](#books)
+- [Demos](#demos)
 - [Examples](#examples)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contribution](#contribution)
