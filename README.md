@@ -292,6 +292,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Unit Testing
 * [jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
 * [jasmine-react - Unit test your React.js applications with Jasmine](https://github.com/tommyh/jasmine-react)
+* [chai-react - Chai assertions for React](https://github.com/percyhanna/chai-react)
 
 #### Graphics
 * [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
