@@ -77,7 +77,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Testing React components with Huxley](https://caurea.org/2014/02/23/testing-react-components-with-huxley.html)
 * [Tooltip mixin for React](https://caurea.org/2014/06/12/tooltip-mixin-for-react.html)
 * [React Tutorial: Two way data binding](http://voidcanvas.com/react-tutorial-two-way-data-binding/)
-* [he Case for React.js and ClojureScript](http://murilopereira.com/the-case-for-reactjs-and-clojurescript/)
+* [The Case for React.js and ClojureScript](http://murilopereira.com/the-case-for-reactjs-and-clojurescript/)
 
 #### Server Side rendering
 * [Server Side Rendering for ReactJS](http://yanns.github.io/blog/2014/03/15/server-side-rendering-for-javascript-reactjs-framework/)
@@ -213,6 +213,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-styles - Utility to manage styles for React JS components](https://github.com/hedgerwang/react-styles)
 * [react-stylesheet - A component for React to declare stylesheet dependencies](https://github.com/andreypopp/react-stylesheet)
 * [react-table-sorter-demo - A React.js Table Sorter Component](https://github.com/bgerm/react-table-sorter-demo)
+* [react-table-component - React Table Component for creating a very basic html table](https://gist.github.com/ChaseWest/1935d08b156ae04b85d2)
 * [react-input-placeholder - Input is a small wrapper around React.DOM.input](https://github.com/enigma-io/react-input-placeholder)
 * [react-infinite-scroll - An infinite scroll component for React](https://github.com/guillaumervls/react-infinite-scroll)
 * [react-ellipsis - Ellipsis component for React](https://github.com/guillaumervls/react-ellipsis)
@@ -375,6 +376,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [reactodo - Multiple localStorage TODO lists, built with React](https://github.com/insin/reactodo)
 * [react.io - Small experiment to see how easy it is to synchronize React.js components using Socket.io](https://github.com/Enome/react.io)
 * [github-issues-viewer - A gitub issues viewer build in react + backbone](https://github.com/jaredly/github-issues-viewer)
+* [wolfenstein3D-react - Wolfenstein with the rendering layer written in React](https://github.com/petehunt/wolfenstein3D-react)
 
 ### Examples
 * [React HTML Template](https://github.com/enaqx/awesome-react/tree/master/examples/000_react_html_template)
