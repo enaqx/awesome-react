@@ -77,6 +77,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Testing React components with Huxley](https://caurea.org/2014/02/23/testing-react-components-with-huxley.html)
 * [Tooltip mixin for React](https://caurea.org/2014/06/12/tooltip-mixin-for-react.html)
 * [React Tutorial: Two way data binding](http://voidcanvas.com/react-tutorial-two-way-data-binding/)
+* [he Case for React.js and ClojureScript](http://murilopereira.com/the-case-for-reactjs-and-clojurescript/)
 
 #### Server Side rendering
 * [Server Side Rendering for ReactJS](http://yanns.github.io/blog/2014/03/15/server-side-rendering-for-javascript-reactjs-framework/)
