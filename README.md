@@ -342,13 +342,14 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Video from Confs
 * [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
-* [Pete Hunt: React - Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
+* [Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
+* [Stoyan Stefanov: Reactive JavaScript - BrazilJS 2013](https://www.youtube.com/watch?v=yKptL0oxjuM)
 * [Tom Occhino and Jordan Walke: Introduction to React.js -  Facebook Seattle](https://www.youtube.com/watch?v=XxVg_s8xAms)
 * [Pete Hunt: High performance functional programming with React and Meteor -- Devshop 11](https://www.youtube.com/watch?v=qqVbr_LaCIo)
 * [Steven Luscher: Developing User Interfaces With Facebook's React - Super VanJS 2013](https://www.youtube.com/watch?v=1OeXsL5mr4g)
 * [Stoyan Stefano: Introduction to React - LAWebSpeed meetup](https://www.youtube.com/watch?v=SMMRJif5QW0)
 * [Pete Hunt: Be Predictable, Not Correct - Mountain West JavaScript 2014](https://www.youtube.com/watch?v=h3KksH8gfcQ)
-* [Pete Hunt:The Secrets of React's Virtual DOM  - FutureJS 2014](https://www.youtube.com/watch?v=-DX3vJiqxm4)
+* [Pete Hunt: The Secrets of React's Virtual DOM  - FutureJS 2014](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 * [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw)
 * [Areeb Malik: Going big with React - The Skills Matter eXchange](https://skillsmatter.com/skillscasts/5429-going-big-with-react)
 
