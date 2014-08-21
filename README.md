@@ -338,6 +338,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Grunt React](https://github.com/ericclemmons/grunt-react)
 * [Gulp React](https://github.com/sindresorhus/gulp-react)
 * [broccoli-react - Broccoli preprocessor for React JSX](https://github.com/eddhannay/broccoli-react)
+* [require-jsx - A require.js plugin that allows you to use JSX files as require.js dependencies](https://github.com/seiffert/require-jsx)
 * [jsx-requirejs-plugin - A RequireJS plugin for loading and compiling](https://github.com/philix/jsx-requirejs-plugin)
 * [react-brunch - Adds React.js support to brunch build tool ](https://github.com/darthapo/react-brunch)
 * [react-tags-brunch - Adds React.js tag interpolation to brunch build tool](https://github.com/elucidata/react-tags-brunch)
