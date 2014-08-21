@@ -160,6 +160,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-isomorphic-test - Testing an isomorphic React application](https://github.com/BinaryMuse/react-isomorphic-test)
 * [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
 * [leveldb-baconjs-react-example - LevelDB React example](https://github.com/holonomy/leveldb-baconjs-react-example)
+* [reactor-core - A small library for creating isomorphic apps in React](https://github.com/natew/reactor-core)
 
 #### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
