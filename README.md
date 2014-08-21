@@ -78,6 +78,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Tooltip mixin for React](https://caurea.org/2014/06/12/tooltip-mixin-for-react.html)
 * [React Tutorial: Two way data binding](http://voidcanvas.com/react-tutorial-two-way-data-binding/)
 * [The Case for React.js and ClojureScript](http://murilopereira.com/the-case-for-reactjs-and-clojurescript/)
+* [Better Bootstrap modals and popover with React.js](http://clozeit.wordpress.com/2014/01/08/bootstrap-modals-and-popover-in-react-js/)
+* [A mixin-based design for a React.js Bootstrap component library](http://clozeit.wordpress.com/2014/01/08/13/)
+* [Popover mixin](http://clozeit.wordpress.com/2014/01/09/popover-mixin/)
+* [Bootstrap TabbedArea component with React.js](http://clozeit.wordpress.com/2014/01/13/34/)
+* [Bootstrap forms using React.js](http://clozeit.wordpress.com/2014/01/13/bootstrap-forms-using-react-js/)
 
 #### Server Side rendering
 * [Server Side Rendering for ReactJS](http://yanns.github.io/blog/2014/03/15/server-side-rendering-for-javascript-reactjs-framework/)
