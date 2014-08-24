@@ -163,6 +163,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
 * [leveldb-baconjs-react-example - LevelDB React example](https://github.com/holonomy/leveldb-baconjs-react-example)
 * [reactor-core - A small library for creating isomorphic apps in React](https://github.com/natew/reactor-core)
+* [react-hot-boilerplate - Live-editing boilerplate for your next ReactJS project](https://github.com/gaearon/react-hot-boilerplate)
 
 #### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
