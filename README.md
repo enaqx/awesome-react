@@ -84,6 +84,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Bootstrap TabbedArea component with React.js](http://clozeit.wordpress.com/2014/01/13/34/)
 * [Bootstrap forms using React.js](http://clozeit.wordpress.com/2014/01/13/bootstrap-forms-using-react-js/)
 * [Component-based Web Apps with React](http://www.sitepoint.com/component-based-web-apps-react/)
+* [React PhoneCat: Rewriting the AngularJS Tutorial App in React](http://jgebhardt.github.io/blog/react-phonecat/)
 
 #### Server Side rendering
 * [Server Side Rendering for ReactJS](http://yanns.github.io/blog/2014/03/15/server-side-rendering-for-javascript-reactjs-framework/)
