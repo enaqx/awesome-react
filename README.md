@@ -85,6 +85,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Bootstrap forms using React.js](http://clozeit.wordpress.com/2014/01/13/bootstrap-forms-using-react-js/)
 * [Component-based Web Apps with React](http://www.sitepoint.com/component-based-web-apps-react/)
 * [React PhoneCat: Rewriting the AngularJS Tutorial App in React](http://jgebhardt.github.io/blog/react-phonecat/)
+* [Testing React.js](http://engineering.venmo.com/blog/2014/05/15/testing-react/)
 
 #### Server Side rendering
 * [Server Side Rendering for ReactJS](http://yanns.github.io/blog/2014/03/15/server-side-rendering-for-javascript-reactjs-framework/)
@@ -125,6 +126,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React & CoffeeScript](http://blog.vjeux.com/2013/javascript/react-coffeescript.html)
 * [JSX for the real DOM](http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html)
 * [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
+* [Using React components as Backbone Views](http://engineering.venmo.com/blog/2014/01/17/react-as-backbone-views/)
 * [React: Referencing Dynamic Children](http://www.mattzabriskie.com/blog/react-referencing-dynamic-children)
 
 ### Tools
@@ -142,6 +144,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
 * [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
 * [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
+* [A sample app showcasing Flux with React Router](https://github.com/gaearon/flux-react-router-example)
 
 #### Boilerplates
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
