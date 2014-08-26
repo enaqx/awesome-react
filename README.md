@@ -96,6 +96,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Server-rendered React components in Rails](http://bensmithett.com/server-rendered-react-components-in-rails/)
 
 #### Approach Explanation
+* [Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)
 * [Remarkable React](http://www.phpied.com/remarkable-react/)
 * [Reactive Table](http://www.phpied.com/reactive-table/)
 * [ReActiveTable bookmarklet](http://www.phpied.com/reactivetable-bookmarklet/)
@@ -167,6 +168,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [leveldb-baconjs-react-example - LevelDB React example](https://github.com/holonomy/leveldb-baconjs-react-example)
 * [reactor-core - A small library for creating isomorphic apps in React](https://github.com/natew/reactor-core)
 * [react-hot-boilerplate - Live-editing boilerplate for your next ReactJS project](https://github.com/gaearon/react-hot-boilerplate)
+* [react-webpack-stylus-starter - Project stub for React project](https://github.com/Aetet/react-webpack-stylus-starter)
 
 #### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
@@ -242,6 +244,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-sticky - <Sticky /> component for React-based apps](https://github.com/captivationsoftware/react-sticky)
 * [js-object-to-table - JavaScript objects drawing themselves into a table using React](https://github.com/enaqx/js-object-to-table)
 * [react-kaomoji - A React component for displaying Japanese emoticons](https://github.com/enaqx/react-kaomoji)
+* [react-calendar - Calendar that inspired by React philosophy](https://github.com/Aetet/react-calendar)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
