@@ -5,7 +5,15 @@ A collection of awesome React tools, resources, videos and shiny things.
 - [Resources](#resources)
   - [General Resources](#general-resources)
   - [Tutorials](#tutorials)
-  - [Server Side Rendering](#server-side-rendering)
+    - [General Tutorials](#general-tutorials)
+    - [Writing React Components](#writing-react-components)
+    - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
+    - [React and Backbone](#react-and-backbone)
+    - [React and Bootstrap](#react-and-bootstrap)
+    - [React and ClojureScript](#react-and-clojurescript)
+    - [Server-Client with React](#server-client-with-react)
+    - [Server Side Rendering](#server-side-rendering)
+    - [Testing React Tutorials](#testing-react-tutorials)
   - [Approach Explanation](#approach-explanation)
 - [Tools](#tools)
   - [Flux](#flux)
@@ -46,48 +54,69 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Future](https://github.com/reactjs/react-future)
 
 #### Tutorials
+
+##### General Tutorials
 * [React Tutorial](http://facebook.github.io/react/docs/tutorial.html)
 * [React Tutorial Project](https://github.com/reactjs/react-tutorial)
 * [React One Hour](https://github.com/petehunt/react-one-hour-email/commits/master)
 * [Pro Javascript React Tutorial](http://webdesignporto.com/react-js-an-interactive-tutorial-to-get-started/)
-* [Writing React components as CommonJS modules](http://simonsmith.io/writing-react-components-as-commonjs-modules/)
 * [Medium React Tutorials](https://medium.com/react-tutorials)
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [React beginner tutorial: implementing the board game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html)
 * [Trying Out ReactJS With the Marvel API](http://ryanlanciaux.github.io/blog/2014/05/26/trying-out-reactjs-with-the-marvel-api/)
 * [Yo in React](http://davidandsuzi.com/yo-in-react/)
-* [Full example using Koa, React, Passport, Mongoose, Gulp, Mocha](https://github.com/dozoisch/koa-react-full-example)
-* [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
-* [Building robust web apps with React: Part 2](http://maketea.co.uk/2014/04/07/building-robust-web-apps-with-react-part-2.html)
-* [Building robust web apps with React: Part 3](http://maketea.co.uk/2014/05/22/building-robust-web-apps-with-react-part-3.html)
-* [Building robust web apps with React: Part 4](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html)
-* [Server/Client With React, Part 1: Getting Started](http://eflorenzano.com/blog/2014/04/09/react-part-1-getting-started/)
-* [Server/Client With React, Part 2: The Build System](http://eflorenzano.com/blog/2014/04/10/react-part-2-build-system/)
-* [Server/Client With React, Part 3: Frontend Server](http://eflorenzano.com/blog/2014/04/11/react-part-3-frontend-server/)
 * [Creating Chrome Extensions with React](http://brandontilley.com/2014/02/24/creating-chrome-extensions-with-react.html)
 * [Using ReactJS and KendoUI Together](http://ifandelse.com/using-reactjs-and-kendoui-together/)
 * [Building dynamic forms with Facebook React](http://www.dustingetz.com/2014/02/18/react-dynamic-forms.html)
 * [Intro to React livecoding workshop](http://www.dustingetz.com/2014/03/16/react-into-workshop-notes.html)
-* [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
+* [Tooltip mixin for React](https://caurea.org/2014/06/12/tooltip-mixin-for-react.html)
+* [React Tutorial: Two way data binding](http://voidcanvas.com/react-tutorial-two-way-data-binding/)
+* [React PhoneCat: Rewriting the AngularJS Tutorial App in React](http://jgebhardt.github.io/blog/react-phonecat/)
+
+##### Writing React Components
+* [Writing React components as CommonJS modules](http://simonsmith.io/writing-react-components-as-commonjs-modules/)
 * [Reliable web components with React.js and ReactiveElements](http://pixelscommander.com/en/interactive-revolution/web-components-and-react-js-with-reactiveelements/)
 * [A Sortable List Component in React utilizing the HTML5 Drag & Drop API](http://webcloud.se/sortable-list-component-react-js/)
 * [A Truly Reactive Sortable Component](http://webcloud.se/truly-reactive-sortable-component/)
-* [Testing React Components](http://www.asbjornenge.com/wwc/testing_react_components.html)
 * [Dealing with asynchronous code in React components](https://caurea.org/2014/02/04/dealing-with-asynchronous-code-in-react-components.html)
-* [Testing React components with Huxley](https://caurea.org/2014/02/23/testing-react-components-with-huxley.html)
-* [Tooltip mixin for React](https://caurea.org/2014/06/12/tooltip-mixin-for-react.html)
-* [React Tutorial: Two way data binding](http://voidcanvas.com/react-tutorial-two-way-data-binding/)
-* [The Case for React.js and ClojureScript](http://murilopereira.com/the-case-for-reactjs-and-clojurescript/)
+* [Component-based Web Apps with React](http://www.sitepoint.com/component-based-web-apps-react/)
+* [Reactive Table](http://www.phpied.com/reactive-table/)
+* [ReActiveTable bookmarklet](http://www.phpied.com/reactivetable-bookmarklet/)
+* [Set State in Callbacks in React](http://jaketrent.com/post/set-state-in-callbacks-in-react/)
+* [Send Props to Children in React](http://jaketrent.com/post/send-props-to-children-react/)
+
+##### JSX
+* [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
+* [Compiling JSX with Sweet.js using Readtables](http://jlongster.com/Compiling-JSX-with-Sweet.js-using-Readtables)
+* [JSX for the real DOM](http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html)
+* [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
+
+##### Building robust web apps with React
+* [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
+* [Building robust web apps with React: Part 2](http://maketea.co.uk/2014/04/07/building-robust-web-apps-with-react-part-2.html)
+* [Building robust web apps with React: Part 3](http://maketea.co.uk/2014/05/22/building-robust-web-apps-with-react-part-3.html)
+* [Building robust web apps with React: Part 4](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html)
+
+##### React and Backbone
+* [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
+* [Using React components as Backbone Views](http://engineering.venmo.com/blog/2014/01/17/react-as-backbone-views/)
+
+##### React and Bootstrap
 * [Better Bootstrap modals and popover with React.js](http://clozeit.wordpress.com/2014/01/08/bootstrap-modals-and-popover-in-react-js/)
 * [A mixin-based design for a React.js Bootstrap component library](http://clozeit.wordpress.com/2014/01/08/13/)
 * [Popover mixin](http://clozeit.wordpress.com/2014/01/09/popover-mixin/)
 * [Bootstrap TabbedArea component with React.js](http://clozeit.wordpress.com/2014/01/13/34/)
 * [Bootstrap forms using React.js](http://clozeit.wordpress.com/2014/01/13/bootstrap-forms-using-react-js/)
-* [Component-based Web Apps with React](http://www.sitepoint.com/component-based-web-apps-react/)
-* [React PhoneCat: Rewriting the AngularJS Tutorial App in React](http://jgebhardt.github.io/blog/react-phonecat/)
-* [Testing React.js](http://engineering.venmo.com/blog/2014/05/15/testing-react/)
 
-#### Server Side rendering
+##### React and ClojureScript
+* [The Case for React.js and ClojureScript](http://murilopereira.com/the-case-for-reactjs-and-clojurescript/)
+
+##### Server-Client with React
+* [Server/Client With React, Part 1: Getting Started](http://eflorenzano.com/blog/2014/04/09/react-part-1-getting-started/)
+* [Server/Client With React, Part 2: The Build System](http://eflorenzano.com/blog/2014/04/10/react-part-2-build-system/)
+* [Server/Client With React, Part 3: Frontend Server](http://eflorenzano.com/blog/2014/04/11/react-part-3-frontend-server/)
+
+##### Server Side rendering
 * [Server Side Rendering for ReactJS](http://yanns.github.io/blog/2014/03/15/server-side-rendering-for-javascript-reactjs-framework/)
 * [React Server Rendering](https://github.com/mhart/react-server-example)
 * [JDK8 + Facebook React: Rendering single page apps on the server](http://augustl.com/blog/2014/jdk8_react_rendering_on_server/)
@@ -95,11 +124,15 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Server-side React with PHP – part 2](http://www.phpied.com/server-side-react-with-php-part-2/)
 * [Server-rendered React components in Rails](http://bensmithett.com/server-rendered-react-components-in-rails/)
 
+##### Testing React Tutorials
+* [Testing React Components](http://www.asbjornenge.com/wwc/testing_react_components.html)
+* [Testing React components with Huxley](https://caurea.org/2014/02/23/testing-react-components-with-huxley.html)
+* [Testing React.js](http://engineering.venmo.com/blog/2014/05/15/testing-react/)
+
+
 #### Approach Explanation
 * [Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)
 * [Remarkable React](http://www.phpied.com/remarkable-react/)
-* [Reactive Table](http://www.phpied.com/reactive-table/)
-* [ReActiveTable bookmarklet](http://www.phpied.com/reactivetable-bookmarklet/)
 * [Play Framework and Facebook's React library](http://matthiasnehlsen.com/blog/2014/01/05/play-framework-and-facebooks-react-library/)
 * [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/)
 * [Om sweet Om](http://blog.getprismatic.com/om-sweet-om-high-functional-frontend-engineering-with-clojurescript-and-react/)
@@ -113,7 +146,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Why we use React.js in our Rails projects](http://blog.arkency.com/2014/07/why-we-use-react-js-in-our-rails-projects/)
 * [ReactJS-Rethinking-Web-UI](https://github.com/ifandelse/ReactJS-Rethinking-Web-UI)
 * [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
-* [Compiling JSX with Sweet.js using Readtables](http://jlongster.com/Compiling-JSX-with-Sweet.js-using-Readtables)
 * [Facebook React vs. Ember](http://instructure.github.io/blog/2013/12/17/facebook-react-vs-ember/)
 * [Moving From Backbone To React](https://usepropeller.com/blog/posts/from-backbone-to-react/)
 * [Pimp my Backbone.View (by replacing it with React)](http://blog.mayflower.de/3937-Backbone-React.html)
@@ -121,14 +153,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React.js vs traditional MVC](http://www.code-experience.com/react-js-vs-traditional-mvc-backbone-ember-angular/)
 * [Why you might not need MVC with React.js](http://www.code-experience.com/why-you-might-not-need-mvc-with-reactjs/)
 * [React: Finally, a great server/client web stack](http://eflorenzano.com/blog/2014/01/23/react-finally-server-client/)
-* [Set State in Callbacks in React](http://jaketrent.com/post/set-state-in-callbacks-in-react/)
-* [Send Props to Children in React](http://jaketrent.com/post/send-props-to-children-react/)
 * [Custom Components: React & x-tags](http://blog.vjeux.com/2013/javascript/custom-components-react-x-tags.html)
 * [React & CoffeeScript](http://blog.vjeux.com/2013/javascript/react-coffeescript.html)
-* [JSX for the real DOM](http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html)
-* [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
-* [Using React components as Backbone Views](http://engineering.venmo.com/blog/2014/01/17/react-as-backbone-views/)
 * [React: Referencing Dynamic Children](http://www.mattzabriskie.com/blog/react-referencing-dynamic-children)
+
 
 ### Tools
 
@@ -169,6 +197,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [reactor-core - A small library for creating isomorphic apps in React](https://github.com/natew/reactor-core)
 * [react-hot-boilerplate - Live-editing boilerplate for your next ReactJS project](https://github.com/gaearon/react-hot-boilerplate)
 * [react-webpack-stylus-starter - Project stub for React project](https://github.com/Aetet/react-webpack-stylus-starter)
+* [Full example using Koa, React, Passport, Mongoose, Gulp, Mocha](https://github.com/dozoisch/koa-react-full-example)
 
 #### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
