@@ -7,6 +7,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Tutorials](#tutorials)
     - [General Tutorials](#general-tutorials)
     - [Writing React Components](#writing-react-components)
+    - [JSX Tutorials](#jsx-tutorials)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [React and Backbone](#react-and-backbone)
     - [React and Bootstrap](#react-and-bootstrap)
@@ -47,6 +48,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Wiki](https://github.com/facebook/react/wiki)
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 * [React GoogleGroup](https://groups.google.com/forum/#!forum/reactjs)
+* [React Facebook Community](https://www.facebook.com/react)
 * [React Twitter](https://twitter.com/reactjs)
 * [React npm module](https://www.npmjs.org/package/react)
 * [React Tools npm module](https://www.npmjs.org/package/react-tools)
@@ -85,7 +87,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Set State in Callbacks in React](http://jaketrent.com/post/set-state-in-callbacks-in-react/)
 * [Send Props to Children in React](http://jaketrent.com/post/send-props-to-children-react/)
 
-##### JSX
+##### JSX Tutorials
 * [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
 * [Compiling JSX with Sweet.js using Readtables](http://jlongster.com/Compiling-JSX-with-Sweet.js-using-Readtables)
 * [JSX for the real DOM](http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html)
