@@ -201,6 +201,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-hot-boilerplate - Live-editing boilerplate for your next ReactJS project](https://github.com/gaearon/react-hot-boilerplate)
 * [react-webpack-stylus-starter - Project stub for React project](https://github.com/Aetet/react-webpack-stylus-starter)
 * [Full example using Koa, React, Passport, Mongoose, Gulp, Mocha](https://github.com/dozoisch/koa-react-full-example)
+* [Basic skeleton for a Rendr app](https://github.com/petehunt/rendr-react-template)
 
 #### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
