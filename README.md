@@ -418,6 +418,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Thinking in React](https://www.tagtree.tv/thinking-in-react)
 
 ### Books
+* [Free JS book from Revolunet](http://jsbooks.revolunet.com/)
 * [React.js, The Rails Way](https://www.gitbook.io/book/checkraiser/rails-and-react-js)
 
 ### Demos
