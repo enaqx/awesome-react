@@ -292,6 +292,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
 * [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap/)
+* [React Bootstrap Components Playground](http://gcanti.github.io/resources/tcomb-react-bootstrap/playground/playground.html)
 * [React Rails](https://github.com/reactjs/react-rails)
 * [om - ClojureScript interface](https://github.com/swannodette/om)
 * [quiescent - A lightweight ClojureScript abstraction over React](https://github.com/levand/quiescent)
