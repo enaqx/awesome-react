@@ -287,6 +287,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-element-pan - React component for allowing panning of DOM-elements](https://github.com/rexxars/react-element-pan)
 * [react-anchor - Functional factory to create react anchor components](https://github.com/yoshuawuyts/react-anchor)
 * [react-bootstrap-daterangepicker - A date/time picker for react (using Bootstrap)](https://github.com/skratchdot/react-bootstrap-daterangepicker)
+* [react-bootstrap-datetimepicker - A react.js datetime picker for Bootstrap](https://github.com/quri/react-bootstrap-datetimepicker)
 
 #### Libraries
 * [tcomb-react -  Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
