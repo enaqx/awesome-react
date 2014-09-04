@@ -317,6 +317,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [backbone-reaction - React, Backbone and then some](https://github.com/jhudson8/backbone-reaction)
 * [react.backbone - Plugin for React to make Backbone migration easier](https://github.com/usepropeller/react.backbone)
 * [reactbone - React extensions for Backbone](https://github.com/andrejewski/reactbone)
+* [backbone-react-ui - React components for use with backbone and backbone paginator](https://github.com/securingsincity/backbone-react-ui)
 * [react-events - Declarative managed event bindings for react components](https://github.com/jhudson8/react-events`)
 * [react-mixin-manager - React mixin registration manager](https://github.com/jhudson8/react-mixin-manager)
 * [gsap-react-plugin - A GSAP plugin for tweening React.js component state](https://github.com/hzdg/gsap-react-plugin)
