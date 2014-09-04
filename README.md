@@ -281,6 +281,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [js-object-to-table - JavaScript objects drawing themselves into a table using React](https://github.com/enaqx/js-object-to-table)
 * [react-kaomoji - A React component for displaying Japanese emoticons](https://github.com/enaqx/react-kaomoji)
 * [react-calendar - Calendar that inspired by React philosophy](https://github.com/Aetet/react-calendar)
+* [react-element-pan - React component for allowing panning of DOM-elements](https://github.com/rexxars/react-element-pan)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
