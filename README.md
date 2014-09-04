@@ -20,6 +20,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Flux](#flux)
   - [Boilerplates](#boilerplates)
   - [Components](#components)
+  - [Libraries](#libraries)
   - [Integration](#integration)
   - [Routing](#routing)
   - [Unit Testing](#unit-testing)
@@ -284,6 +285,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-kaomoji - A React component for displaying Japanese emoticons](https://github.com/enaqx/react-kaomoji)
 * [react-calendar - Calendar that inspired by React philosophy](https://github.com/Aetet/react-calendar)
 * [react-element-pan - React component for allowing panning of DOM-elements](https://github.com/rexxars/react-element-pan)
+
+#### Libraries
+* [tcomb-react -  Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
