@@ -285,6 +285,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-kaomoji - A React component for displaying Japanese emoticons](https://github.com/enaqx/react-kaomoji)
 * [react-calendar - Calendar that inspired by React philosophy](https://github.com/Aetet/react-calendar)
 * [react-element-pan - React component for allowing panning of DOM-elements](https://github.com/rexxars/react-element-pan)
+* [react-anchor - Functional factory to create react anchor components](https://github.com/yoshuawuyts/react-anchor)
 
 #### Libraries
 * [tcomb-react -  Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
