@@ -209,6 +209,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Components](http://react-components.com/)
 * [React Component List](http://dvemac.github.io/react-component-list/)
 * [Khan Academy React Components](http://khan.github.io/react-components/)
+* [VistarMedia Components](http://cmpnt.vistarmedia.com/)
+* [Reactjsx Components List](http://www.reactjsx.com/)
 * [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
 * [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
 * [react-grid - Data grid for React](https://github.com/prometheusresearch/react-grid)
