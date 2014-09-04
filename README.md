@@ -355,6 +355,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [wingspan-forms - A dynamic form library for Facebook React](https://github.com/wingspan/wingspan-forms)
 * [newforms - Isomorphic form-handling for React](https://github.com/insin/newforms)
 * [formjs - A form generator for Reactjs](https://github.com/zackify/formjs)
+* [react-form-builder - A Form Builder for React.js](https://github.com/quri/react-form-builder)
 
 #### Autocomplete
 * [react-autocomplete by @rackt - WAI-ARIA compliant React autocomplete](https://github.com/rackt/react-autocomplete)
