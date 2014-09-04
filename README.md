@@ -205,6 +205,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Basic skeleton for a Rendr app](https://github.com/petehunt/rendr-react-template)
 
 #### Components
+* [React Components](http://react-components.com/)
 * [React Component List](http://dvemac.github.io/react-component-list/)
 * [Khan Academy React Components](http://khan.github.io/react-components/)
 * [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
