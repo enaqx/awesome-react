@@ -289,6 +289,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-bootstrap-daterangepicker - A date/time picker for react (using Bootstrap)](https://github.com/skratchdot/react-bootstrap-daterangepicker)
 * [react-bootstrap-datetimepicker - A react.js datetime picker for Bootstrap](https://github.com/quri/react-bootstrap-datetimepicker)
 * [react-bootstrap-multiselect - A multiselect component for react (with bootstrap)](https://github.com/skratchdot/react-bootstrap-multiselect)
+* [react-colorpicker - Colorpicker for React](https://github.com/stayradiated/react-colorpicker)
 
 #### Libraries
 * [tcomb-react -  Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
