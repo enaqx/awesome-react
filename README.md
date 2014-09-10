@@ -93,6 +93,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 ##### JSX Tutorials
 * [JSX Specification](http://facebook.github.io/jsx/)
 * [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
+* [JSX extensions to Mozilla AST Format](https://github.com/facebook/jsx/blob/master/AST.md)
 * [Compiling JSX with Sweet.js using Readtables](http://jlongster.com/Compiling-JSX-with-Sweet.js-using-Readtables)
 * [JSX for the real DOM](http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html)
 * [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
