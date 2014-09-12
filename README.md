@@ -106,7 +106,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ##### React and Backbone
 * [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
-* [Using React components as Backbone Views](http://engineering.venmo.com/blog/2014/01/17/react-as-backbone-views/)
+* [Chicago Backbone Meetup: React + Backbone slides](https://speakerdeck.com/larsonjj/chicago-backbone-meetup-react-plus-backbone)
 
 ##### React and Bootstrap
 * [Better Bootstrap modals and popover with React.js](http://clozeit.wordpress.com/2014/01/08/bootstrap-modals-and-popover-in-react-js/)
