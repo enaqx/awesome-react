@@ -174,6 +174,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Flux
 * [Flux Project](https://github.com/facebook/flux)
 * [Flux Application Architecture](http://facebook.github.io/react/docs/flux-overview.html)
+* [Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo](https://github.com/yahoo/flux-examples)
 * [flux-router-component - Router React mixin for applications built with Flux](https://github.com/yahoo/flux-router-component)
 * [fluxxor - A set of tools to facilitate building JavaScript data layers using the Flux](http://fluxxor.com/)
 * [fluxy - An implementation of Facebook's Flux architecture](https://github.com/jmreidy/fluxy)
