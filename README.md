@@ -93,6 +93,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 ##### JSX Tutorials
 * [JSX Specification](http://facebook.github.io/jsx/)
 * [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
+* [JSX extensions to Mozilla AST Format](https://github.com/facebook/jsx/blob/master/AST.md)
 * [Compiling JSX with Sweet.js using Readtables](http://jlongster.com/Compiling-JSX-with-Sweet.js-using-Readtables)
 * [JSX for the real DOM](http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html)
 * [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
@@ -162,6 +163,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Custom Components: React & x-tags](http://blog.vjeux.com/2013/javascript/custom-components-react-x-tags.html)
 * [React & CoffeeScript](http://blog.vjeux.com/2013/javascript/react-coffeescript.html)
 * [React: Referencing Dynamic Children](http://www.mattzabriskie.com/blog/react-referencing-dynamic-children)
+* [React.js and How Does It Fit In With Everything Else?](http://www.funnyant.com/reactjs-what-is-it/)
 
 
 ### Tools
