@@ -182,6 +182,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
 * [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
 * [A sample app showcasing Flux with React Router](https://github.com/gaearon/flux-react-router-example)
+* [capacitor - Lightweight implementation of the Flux architecture for client-side applications](https://github.com/josephsavona/capacitor)
 
 #### Boilerplates
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
