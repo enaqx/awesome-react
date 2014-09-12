@@ -180,6 +180,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [fluxy - An implementation of Facebook's Flux architecture](https://github.com/jmreidy/fluxy)
 * [refluxjs - A simple library for uni-directional dataflow application architecture inspired by Flux](https://github.com/spoike/refluxjs)
 * [dispatchr - A Flux dispatcher for applications that run on the server and the client](https://github.com/yahoo/dispatchr)
+* [fetchr - Augments Flux applications by allowing the same syntax on server/client](https://github.com/yahoo/fetchr)
 * [Async requests with React.js and Flux](http://www.code-experience.com/async-requests-with-react-js-and-flux/)
 * [Async requests with React.js and Flux, revisited](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
 * [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
