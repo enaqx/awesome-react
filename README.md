@@ -356,6 +356,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-mini-router - A minimal URL router for React.js](https://github.com/larrymyers/react-mini-router)
 * [monorouter - An isomorphic JS router](https://github.com/matthewwithanm/monorouter)
 * [routr - A component that provides router related functionalities for both client and server from Yahoo](https://github.com/yahoo/routr)
+* [route-reactor - Framework-agnostic client-side router](https://github.com/josephsavona/route-reactor)
 
 #### Forms
 * [React Forms](http://facebook.github.io/react/docs/forms.html)
