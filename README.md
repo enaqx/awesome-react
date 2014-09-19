@@ -441,6 +441,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Pete Hunt: The Secrets of React's Virtual DOM  - FutureJS 2014](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 * [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw)
 * [Areeb Malik: Going big with React - The Skills Matter eXchange](https://skillsmatter.com/skillscasts/5429-going-big-with-react)
+* [Christopher Chedeau: React's Architecture - OSCON 2014](http://www.youtube.com/watch?v=eCf5CquV_Bw)
 
 #### Video Tutorials
 * [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
