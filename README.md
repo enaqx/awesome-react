@@ -306,6 +306,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-weather - Example React weather app using forecast.io's API](https://github.com/andrewgleave/react-weather)
 
 #### Libraries
+* [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
 * [tcomb-react -  Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
 
 #### Integration
