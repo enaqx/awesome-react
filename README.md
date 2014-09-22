@@ -388,6 +388,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Graphics
 * [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
+* [react-kinetic - HTML5 Canvas via KineticJS using React](https://github.com/freiksenet/react-kinetic)
 
 #### Data Managing
 * [immutable-js - Immutable Data Collections for Javascript](https://github.com/facebook/immutable-js)
