@@ -304,6 +304,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-commits-graph - A React component to render an svg graph of git commits](https://www.npmjs.org/package/react-commits-graph)
 * [react-layout - Dynamic subview layout for React](https://github.com/jsdf/react-layout)
 * [react-weather - Example React weather app using forecast.io's API](https://github.com/andrewgleave/react-weather)
+* 
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
@@ -357,6 +358,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React.hiccup - A complete replacement for JSX written in sweet.js](https://github.com/lantiga/react.hiccup)
 * [react-style - Integrate CSS into your React.js components](https://github.com/SanderSpies/react-style)
 * [react-play - Rendering React components in the Play Framework with JDK8's Nashorn](https://github.com/ssorallen/react-play)
+* [react-style - Integrate CSS into your React.js components](https://github.com/js-next/react-style)
 
 #### Routing
 * [react-router by @raackt - A complete routing solution for React.js](https://github.com/rackt/react-router)
