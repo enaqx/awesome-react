@@ -453,9 +453,12 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Video Tutorials
 * [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
 * [Learn ReactJS (make a Pokedex!) - part 2](https://www.youtube.com/watch?v=lNqnZ58YGE0)
+* [React.js Components  - part 1](http://www.youtube.com/watch?v=rFvZydtmsxM)
+* [React.js Components  - part 2](http://www.youtube.com/watch?v=5yvFLrt7N8M)
 * [Advanced Input Validation With React](https://www.youtube.com/watch?v=Mjcou3UCiBM)
 * [ReactJS: Dealing with the Server](https://www.youtube.com/watch?v=lJUUjdsv0aw)
 * [Thinking in React](https://www.tagtree.tv/thinking-in-react)
+* [Building UIs with ReactJS](http://www.youtube.com/watch?v=lAn7GVoGlKU)
 
 ### Books
 * [Free JS book from Revolunet](http://jsbooks.revolunet.com/)
