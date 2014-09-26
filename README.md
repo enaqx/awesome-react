@@ -9,6 +9,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [Writing React Components](#writing-react-components)
     - [Writing Isomorphic Apps](#writing-isomorphic-apps)
     - [JSX Tutorials](#jsx-tutorials)
+    - [Flux Tutorials](#flux-tutorials)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [React and Backbone](#react-and-backbone)
     - [React and Angular](#react-and-angular)
@@ -111,6 +112,19 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [JSX for the real DOM](http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html)
 * [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
 
+##### Flux Tutorials
+* [Flux Application Architecture](http://facebook.github.io/react/docs/flux-overview.html)
+* [Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo](https://github.com/yahoo/flux-examples)
+* [Async requests with React.js and Flux](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
+* [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
+* [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
+* [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
+* [A sample app showcasing Flux with React Router](https://github.com/gaearon/flux-react-router-example)
+* [Yo in Flux](http://davidandsuzi.com/yo-in-flux/)
+* [React.js architecture - Flux VS Reflux](http://blog.krawaller.se/posts/react-js-architecture-flux-vs-reflux/)
+* [Avoiding Event Chains in Single Page Applications](http://www.code-experience.com/avoiding-event-chains-in-single-page-applications/)
+* [ReactJS and FLUX](http://christianalfoni.github.io/javascript/2014/08/20/react-js-and-flux.html)
+
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
 * [Building robust web apps with React: Part 2](http://maketea.co.uk/2014/04/07/building-robust-web-apps-with-react-part-2.html)
@@ -200,25 +214,14 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Flux
 * [Flux Project](https://github.com/facebook/flux)
-* [Flux Application Architecture](http://facebook.github.io/react/docs/flux-overview.html)
 * [jFlux.js - one-way flow of state](http://www.jflux.io/)
-* [Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo](https://github.com/yahoo/flux-examples)
 * [flux-router-component - Router React mixin for applications built with Flux](https://github.com/yahoo/flux-router-component)
 * [fluxxor - A set of tools to facilitate building JavaScript data layers using the Flux](http://fluxxor.com/)
 * [fluxy - An implementation of Facebook's Flux architecture](https://github.com/jmreidy/fluxy)
 * [refluxjs - A simple library for uni-directional dataflow application architecture inspired by Flux](https://github.com/spoike/refluxjs)
 * [dispatchr - A Flux dispatcher for applications that run on the server and the client](https://github.com/yahoo/dispatchr)
 * [fetchr - Augments Flux applications by allowing the same syntax on server/client](https://github.com/yahoo/fetchr)
-* [Async requests with React.js and Flux](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
-* [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
-* [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
-* [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
-* [A sample app showcasing Flux with React Router](https://github.com/gaearon/flux-react-router-example)
 * [capacitor - Lightweight implementation of the Flux architecture for client-side applications](https://github.com/josephsavona/capacitor)
-* [Yo in Flux](http://davidandsuzi.com/yo-in-flux/)
-* [React.js architecture - Flux VS Reflux](http://blog.krawaller.se/posts/react-js-architecture-flux-vs-reflux/)
-* [Avoiding Event Chains in Single Page Applications](http://www.code-experience.com/avoiding-event-chains-in-single-page-applications/)
-* [ReactJS and FLUX](http://christianalfoni.github.io/javascript/2014/08/20/react-js-and-flux.html)
 
 #### Boilerplates
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
