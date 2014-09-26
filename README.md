@@ -78,6 +78,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Tutorial: Two way data binding](http://voidcanvas.com/react-tutorial-two-way-data-binding/)
 * [React PhoneCat: Rewriting the AngularJS Tutorial App in React](http://jgebhardt.github.io/blog/react-phonecat/)
 * [A React.js case study](http://blog.krawaller.se/posts/a-react-js-case-study/)
+* [React JS and a browserify workflow](http://christianalfoni.github.io/javascript/2014/08/15/react-js-workflow.html)
 * [Using ReactJS with Browserify and Gulp](http://truongtx.me/2014/07/18/using-reactjs-with-browserify-and-gulp/)
 * [Simplifying Code with React](http://www.kevindangoor.com/2014/05/simplifying-code-with-react/)
 * [The New React-based Brackets Project Tree](http://www.kevindangoor.com/2014/09/intro-to-the-new-brackets-project-tree/)
