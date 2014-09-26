@@ -120,6 +120,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ##### React and Angular
 * [NgReact - React Components in Angular](http://davidandsuzi.com/ngreact-react-components-in-angular/)
+* [ng-React Update - React 0.9 and Angular Track By](http://davidandsuzi.com/ngreact-update/)
 
 ##### React and Bootstrap
 * [Better Bootstrap modals and popover with React.js](http://clozeit.wordpress.com/2014/01/08/bootstrap-modals-and-popover-in-react-js/)
