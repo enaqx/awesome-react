@@ -77,6 +77,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React PhoneCat: Rewriting the AngularJS Tutorial App in React](http://jgebhardt.github.io/blog/react-phonecat/)
 * [A React.js case study](http://blog.krawaller.se/posts/a-react-js-case-study/)
 * [Using ReactJS with Browserify and Gulp](http://truongtx.me/2014/07/18/using-reactjs-with-browserify-and-gulp/)
+* [Simplifying Code with React](http://www.kevindangoor.com/2014/05/simplifying-code-with-react/)
 
 ##### Writing React Components
 * [Writing React components as CommonJS modules](http://simonsmith.io/writing-react-components-as-commonjs-modules/)
