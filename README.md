@@ -203,8 +203,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [refluxjs - A simple library for uni-directional dataflow application architecture inspired by Flux](https://github.com/spoike/refluxjs)
 * [dispatchr - A Flux dispatcher for applications that run on the server and the client](https://github.com/yahoo/dispatchr)
 * [fetchr - Augments Flux applications by allowing the same syntax on server/client](https://github.com/yahoo/fetchr)
-* [Async requests with React.js and Flux](http://www.code-experience.com/async-requests-with-react-js-and-flux/)
-* [Async requests with React.js and Flux, revisited](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
+* [Async requests with React.js and Flux](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
 * [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
 * [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
 * [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
@@ -212,6 +211,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [capacitor - Lightweight implementation of the Flux architecture for client-side applications](https://github.com/josephsavona/capacitor)
 * [Yo in Flux](http://davidandsuzi.com/yo-in-flux/)
 * [React.js architecture - Flux VS Reflux](http://blog.krawaller.se/posts/react-js-architecture-flux-vs-reflux/)
+* [Avoiding Event Chains in Single Page Applications](http://www.code-experience.com/avoiding-event-chains-in-single-page-applications/)
 
 #### Boilerplates
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
