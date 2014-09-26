@@ -211,6 +211,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [A sample app showcasing Flux with React Router](https://github.com/gaearon/flux-react-router-example)
 * [capacitor - Lightweight implementation of the Flux architecture for client-side applications](https://github.com/josephsavona/capacitor)
 * [Yo in Flux](http://davidandsuzi.com/yo-in-flux/)
+* [React.js architecture - Flux VS Reflux](http://blog.krawaller.se/posts/react-js-architecture-flux-vs-reflux/)
 
 #### Boilerplates
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
