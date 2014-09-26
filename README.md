@@ -241,6 +241,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-smart-time-ago - Show relative "time ago" dates](https://github.com/KyleAMathews/react-smart-time-ago)
 * [react-autoupdate-time - Renders a <time> element that autoupdates](https://github.com/KyleAMathews/react-autoupdate-time)
 * [react-time - Component for React to render relative and/or formatted dates into <time>](https://github.com/andreypopp/react-time)
+* [react-crouton - A message component for reactjs](https://github.com/xeodou/react-crouton)
 * [react-ago-component - A component for React that renders the approximate time ago](https://github.com/martinandert/react-ago-component)
 * [react-translate-component - A component for React that multi-lingual/localized text](https://github.com/martinandert/react-translate-component)
 * [react-lorem-component - A component for React that renders lorem ipsum placeholder text](https://github.com/martinandert/react-lorem-component)
