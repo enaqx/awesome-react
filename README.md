@@ -11,6 +11,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [JSX Tutorials](#jsx-tutorials)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [React and Backbone](#react-and-backbone)
+    - [React and Angular](#react-and-angular)
     - [React and Bootstrap](#react-and-bootstrap)
     - [React and ClojureScript](#react-and-clojurescript)
     - [Server-Client with React](#server-client-with-react)
@@ -208,6 +209,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
 * [A sample app showcasing Flux with React Router](https://github.com/gaearon/flux-react-router-example)
 * [capacitor - Lightweight implementation of the Flux architecture for client-side applications](https://github.com/josephsavona/capacitor)
+* [Yo in Flux](http://davidandsuzi.com/yo-in-flux/)
 
 #### Boilerplates
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
