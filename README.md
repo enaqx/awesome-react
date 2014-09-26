@@ -7,6 +7,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Tutorials](#tutorials)
     - [General Tutorials](#general-tutorials)
     - [Writing React Components](#writing-react-components)
+    - [Writing Isomorphic Apps](#writing-isomorphic-apps)
     - [JSX Tutorials](#jsx-tutorials)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [React and Backbone](#react-and-backbone)
@@ -79,7 +80,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Using ReactJS with Browserify and Gulp](http://truongtx.me/2014/07/18/using-reactjs-with-browserify-and-gulp/)
 * [Simplifying Code with React](http://www.kevindangoor.com/2014/05/simplifying-code-with-react/)
 * [The New React-based Brackets Project Tree](http://www.kevindangoor.com/2014/09/intro-to-the-new-brackets-project-tree/)
-* [Isomorphic apps with Backbone.js and React](http://dev.alexishevia.com/2014/08/isomorphic-apps-with-backbonejs-and.html)
 
 ##### Writing React Components
 * [Writing React components as CommonJS modules](http://simonsmith.io/writing-react-components-as-commonjs-modules/)
@@ -93,6 +93,12 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Set State in Callbacks in React](http://jaketrent.com/post/set-state-in-callbacks-in-react/)
 * [Send Props to Children in React](http://jaketrent.com/post/send-props-to-children-react/)
 * [Creating Modular View Components with React and Grunt](http://modernweb.com/2014/03/17/creating-modular-view-components-with-react-and-grunt/)
+
+##### Writing Isomorphic Apps
+* [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)
+* [Isomorphic apps with Backbone.js and React](http://dev.alexishevia.com/2014/08/isomorphic-apps-with-backbonejs-and.html)
+* [From AngularJS to React: The Isomorphic Way](http://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
+* [Going Isomorphic with React](http://bensmithett.github.io/going-isomorphic-with-react/#/)
 
 ##### JSX Tutorials
 * [JSX Specification](http://facebook.github.io/jsx/)
