@@ -93,6 +93,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Set State in Callbacks in React](http://jaketrent.com/post/set-state-in-callbacks-in-react/)
 * [Send Props to Children in React](http://jaketrent.com/post/send-props-to-children-react/)
 * [Creating Modular View Components with React and Grunt](http://modernweb.com/2014/03/17/creating-modular-view-components-with-react-and-grunt/)
+* [React Components for Cat Videos](http://davidandsuzi.com/react-components-for-cat-videos/)
 
 ##### Writing Isomorphic Apps
 * [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)
