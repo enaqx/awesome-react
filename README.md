@@ -118,6 +118,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
 * [Chicago Backbone Meetup: React + Backbone slides](https://speakerdeck.com/larsonjj/chicago-backbone-meetup-react-plus-backbone)
 
+##### React and Angular
+* [NgReact - React Components in Angular](http://davidandsuzi.com/ngreact-react-components-in-angular/)
+
 ##### React and Bootstrap
 * [Better Bootstrap modals and popover with React.js](http://clozeit.wordpress.com/2014/01/08/bootstrap-modals-and-popover-in-react-js/)
 * [A mixin-based design for a React.js Bootstrap component library](http://clozeit.wordpress.com/2014/01/08/13/)
@@ -180,6 +183,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [JavaScript’s History and How it Led To ReactJS](http://thenewstack.io/javascripts-history-and-how-it-led-to-reactjs/)
 * [Saving Time and Staying Sane? Pros and Cons of React.js](http://kentwilliam.com/articles/saving-time-staying-sane-pros-cons-of-react-js)
 * [Opinionated Rundown of JS Frameworks](http://blog.andyet.com/2014/08/13/opinionated-rundown-of-js-frameworks)
+* [Facebook's React vs AngularJS: A Closer Look](http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look)
 
 
 ### Tools
