@@ -210,6 +210,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Saving Time and Staying Sane? Pros and Cons of React.js](http://kentwilliam.com/articles/saving-time-staying-sane-pros-cons-of-react-js)
 * [Opinionated Rundown of JS Frameworks](http://blog.andyet.com/2014/08/13/opinionated-rundown-of-js-frameworks)
 * [Facebook's React vs AngularJS: A Closer Look](http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look)
+* [Why We May Ditch AngularJS For React](http://wiredcraft.com/posts/2014/08/20/why-we-may-ditch-angularjs-for-react.html)
 
 
 ### Tools
