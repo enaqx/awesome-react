@@ -212,6 +212,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Facebook's React vs AngularJS: A Closer Look](http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look)
 * [Why We May Ditch AngularJS For React](http://wiredcraft.com/posts/2014/08/20/why-we-may-ditch-angularjs-for-react.html)
 * [AngularJS vs React](http://noelwelsh.com/programming/2014/08/17/angularjs-vs-react/)
+* [Why is React's js size so big given its small API?](http://stackoverflow.com/questions/19807946/why-is-reacts-js-size-so-big-given-its-small-api/)
 
 
 ### Tools
