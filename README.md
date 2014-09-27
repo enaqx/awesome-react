@@ -476,6 +476,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 * [Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
 * [Stoyan Stefanov: Reactive JavaScript - BrazilJS 2013](https://www.youtube.com/watch?v=yKptL0oxjuM)
+* [Tom Occhino and Jordan Walke: JS Apps at Facebook - JSConfUS 2013](http://www.youtube.com/watch?v=GW0rj4sNH2w)
 * [Tom Occhino and Jordan Walke: Introduction to React.js -  Facebook Seattle](https://www.youtube.com/watch?v=XxVg_s8xAms)
 * [Pete Hunt: High performance functional programming with React and Meteor -- Devshop 11](https://www.youtube.com/watch?v=qqVbr_LaCIo)
 * [Steven Luscher: Developing User Interfaces With Facebook's React - Super VanJS 2013](https://www.youtube.com/watch?v=1OeXsL5mr4g)
