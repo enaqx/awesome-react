@@ -178,6 +178,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 
 #### Approach Explanation
+* [React: Convincing the Boss](http://www.quora.com/Pete-Hunt/Posts/React-Convincing-the-Boss)
 * [Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)
 * [Remarkable React](http://www.phpied.com/remarkable-react/)
 * [Play Framework and Facebook's React library](http://matthiasnehlsen.com/blog/2014/01/05/play-framework-and-facebooks-react-library/)
