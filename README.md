@@ -211,6 +211,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Opinionated Rundown of JS Frameworks](http://blog.andyet.com/2014/08/13/opinionated-rundown-of-js-frameworks)
 * [Facebook's React vs AngularJS: A Closer Look](http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look)
 * [Why We May Ditch AngularJS For React](http://wiredcraft.com/posts/2014/08/20/why-we-may-ditch-angularjs-for-react.html)
+* [AngularJS vs React](http://noelwelsh.com/programming/2014/08/17/angularjs-vs-react/)
 
 
 ### Tools
