@@ -85,6 +85,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [A React.js case study follow-up](http://blog.krawaller.se/posts/a-react-js-case-study-follow-up/)
 * [Scroll Position with React](http://blog.vjeux.com/2013/javascript/scroll-position-with-react.html)
 * [React Style](https://andreypopp.com/posts/2014-08-06-react-style.html)
+* [Component Interop With React And Custom Elements](http://addyosmani.com/blog/component-interop-with-react-and-custom-elements/)
 
 ##### Writing React Components
 * [Writing React components as CommonJS modules](http://simonsmith.io/writing-react-components-as-commonjs-modules/)
