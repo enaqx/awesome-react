@@ -84,6 +84,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [The New React-based Brackets Project Tree](http://www.kevindangoor.com/2014/09/intro-to-the-new-brackets-project-tree/)
 * [A React.js case study follow-up](http://blog.krawaller.se/posts/a-react-js-case-study-follow-up/)
 * [Scroll Position with React](http://blog.vjeux.com/2013/javascript/scroll-position-with-react.html)
+* [React Style](https://andreypopp.com/posts/2014-08-06-react-style.html)
 
 ##### Writing React Components
 * [Writing React components as CommonJS modules](http://simonsmith.io/writing-react-components-as-commonjs-modules/)
