@@ -218,6 +218,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [AngularJS vs React](http://noelwelsh.com/programming/2014/08/17/angularjs-vs-react/)
 * [Why is React's js size so big given its small API?](http://stackoverflow.com/questions/19807946/why-is-reacts-js-size-so-big-given-its-small-api/)
 * [React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)
+* [Two-Way Data Binding](http://n12v.com/2-way-data-binding/?hn)
 
 
 ### Tools
