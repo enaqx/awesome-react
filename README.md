@@ -267,6 +267,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Khan Academy React Components](http://khan.github.io/react-components/)
 * [VistarMedia Components](http://cmpnt.vistarmedia.com/)
 * [Reactjsx Components List](http://www.reactjsx.com/)
+* [react-material - Material design components written with React.js and React Style](https://github.com/SanderSpies/react-material)
 * [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
 * [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
 * [react-grid - Data grid for React](https://github.com/prometheusresearch/react-grid)
@@ -349,7 +350,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-commits-graph - A React component to render an svg graph of git commits](https://www.npmjs.org/package/react-commits-graph)
 * [react-layout - Dynamic subview layout for React](https://github.com/jsdf/react-layout)
 * [react-weather - Example React weather app using forecast.io's API](https://github.com/andrewgleave/react-weather)
-* 
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
