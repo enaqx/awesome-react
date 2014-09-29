@@ -500,6 +500,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Christopher Chedeau: React's Architecture - OSCON 2014](http://www.youtube.com/watch?v=eCf5CquV_Bw)
 * [Christian Johansen: Functional UI Programming - flatMap 2014](http://vimeo.com/96639841)
 * [Pete Hunt: React RESTful UI Rendering - Strange Loop 2014](http://www.youtube.com/watch?v=IVvHPPcl2TM)
+* [Stefano Masini: Refactoring to React - Amsterdam Javascript MVC meetup 10 sep 2014](http://www.youtube.com/watch?v=MivXyEtwK24)
 
 #### Video Tutorials
 * [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
