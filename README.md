@@ -19,6 +19,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [Server Side Rendering](#server-side-rendering)
     - [Compiling React Tutorials](#compiling-react-tutorials)
     - [Testing React Tutorials](#testing-react-tutorials)
+    - [Data Models for React](#data-models-for-react)
   - [Approach Explanation](#approach-explanation)
 - [Tools](#tools)
   - [Flux](#flux)
@@ -182,6 +183,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Testing React Components](http://www.asbjornenge.com/wwc/testing_react_components.html)
 * [Testing React components with Huxley](https://caurea.org/2014/02/23/testing-react-components-with-huxley.html)
 * [Testing React.js](http://engineering.venmo.com/blog/2014/05/15/testing-react/)
+
+##### Data Models for React
+* [Valuable — A Data Model for React](https://medium.com/@josephsavona/valuable-a-data-model-for-react-1b8868493bf6)
 
 
 #### Approach Explanation
