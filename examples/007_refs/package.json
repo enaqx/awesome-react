@@ -1,0 +1,11 @@
+{
+  "name": "react-ref",
+  "version": "0.0.0",
+  "description": "React ref",
+  "main": "server.js",
+  "dependencies": {
+    "express": "4.9"
+  },
+  "author": "petehunt",
+  "license": "MIT"
+}

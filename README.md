@@ -541,6 +541,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Props and State](https://github.com/enaqx/awesome-react/tree/master/examples/004_props_and_state)
 * [External Plugin](https://github.com/enaqx/awesome-react/tree/master/examples/005_external_plugin)
 * [POST/GET with HTTP server](https://github.com/enaqx/awesome-react/tree/master/examples/006_with_http_server)
+* [Refs to send messages between components](https://github.com/enaqx/awesome-react/tree/master/examples/007_refs)
 
 
 ### Other Awesome Lists
