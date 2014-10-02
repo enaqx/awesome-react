@@ -232,6 +232,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 ### Tools
 
 #### Flux
+* [Flux official site](http://facebook.github.io/flux/)
 * [Flux Project](https://github.com/facebook/flux)
 * [jFlux.js - one-way flow of state](http://www.jflux.io/)
 * [flux-router-component - Router React mixin for applications built with Flux](https://github.com/yahoo/flux-router-component)
