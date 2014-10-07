@@ -227,6 +227,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)
 * [Two-Way Data Binding](http://n12v.com/2-way-data-binding/?hn)
 * [React vs. Ember](https://docs.google.com/presentation/d/1afMLTCpRxhJpurQ97VBHCZkLbR1TEsRnd3yyxuSQ5YY/preview?sle=true)
+* [Using React to speed up the Khan Academy question editor](http://benalpert.com/2013/06/09/using-react-to-speed-up-khan-academy.html)
 
 
 ### Tools
