@@ -347,6 +347,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [olay-react - Olay implemented as a React component](https://github.com/orgsync/olay-react)
 * [reactable - Fast, flexible, and simple data tables in React](https://github.com/glittershark/reactable)
 * [react-tabs - React tabs component](https://github.com/mzabriskie/react-tabs)
+* [react-simpletabs - Just a simple tabs component](https://github.com/pedronauck/react-simpletabs)
 * [react-draggable - React draggable component](https://github.com/mzabriskie/react-draggable)
 * [react-sticky - <Sticky /> component for React-based apps](https://github.com/captivationsoftware/react-sticky)
 * [js-object-to-table - JavaScript objects drawing themselves into a table using React](https://github.com/enaqx/js-object-to-table)
