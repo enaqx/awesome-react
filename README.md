@@ -363,6 +363,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-layout - Dynamic subview layout for React](https://github.com/jsdf/react-layout)
 * [react-weather - Example React weather app using forecast.io's API](https://github.com/andrewgleave/react-weather)
 * [react-sparkline - React component for rendering simple sparklines](https://github.com/KyleAMathews/react-sparkline)
+* [react-component-width-mixin - React mixin which sets width](https://github.com/KyleAMathews/react-component-width-mixin)
 * [react-micro-bar-chart - React component for micro bar-charts rendered with D3](https://github.com/KyleAMathews/react-micro-bar-chart)
 
 #### Libraries
