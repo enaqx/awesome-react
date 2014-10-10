@@ -369,6 +369,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-timeago - A simple time-ago component for React](https://github.com/naman34/react-timeago)
 * [react-stylePrefixr - A simple utility for React.js to help deal with style vendor prefixes](https://github.com/naman34/react-stylePrefixr)
 * [react-spinkit - A collection of loading indicators animated with CSS for React](https://github.com/KyleAMathews/react-spinkit)
+* [react-html-elements-styleguide -React styleguide component](https://github.com/KyleAMathews/react-html-elements-styleguide)
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
