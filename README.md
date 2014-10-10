@@ -362,6 +362,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-commits-graph - A React component to render an svg graph of git commits](https://www.npmjs.org/package/react-commits-graph)
 * [react-layout - Dynamic subview layout for React](https://github.com/jsdf/react-layout)
 * [react-weather - Example React weather app using forecast.io's API](https://github.com/andrewgleave/react-weather)
+* [react-micro-bar-chart - React component for micro bar-charts rendered with D3](https://github.com/KyleAMathews/react-micro-bar-chart)
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
