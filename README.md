@@ -365,6 +365,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-sparkline - React component for rendering simple sparklines](https://github.com/KyleAMathews/react-sparkline)
 * [react-component-width-mixin - React mixin which sets width](https://github.com/KyleAMathews/react-component-width-mixin)
 * [react-micro-bar-chart - React component for micro bar-charts rendered with D3](https://github.com/KyleAMathews/react-micro-bar-chart)
+* [react-infinity - A UITableView Inspired list and grid display](https://github.com/naman34/react-infinity)
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
