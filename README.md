@@ -367,6 +367,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-micro-bar-chart - React component for micro bar-charts rendered with D3](https://github.com/KyleAMathews/react-micro-bar-chart)
 * [react-infinity - A UITableView Inspired list and grid display](https://github.com/naman34/react-infinity)
 * [react-timeago - A simple time-ago component for React](https://github.com/naman34/react-timeago)
+* [react-stylePrefixr - A simple utility for React.js to help deal with style vendor prefixes](https://github.com/naman34/react-stylePrefixr)
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
@@ -388,6 +389,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Meteor](https://github.com/reactjs/react-meteor)
 * [node-jsx - Transparently require() jsx from within node](https://github.com/petehunt/node-jsx)
 * [jsx-loader - JSX loader for Webpack](https://github.com/petehunt/jsx-loader)
+* [cjsx-loader - coffee-react-transform loader module for webpack](https://github.com/KyleAMathews/cjsx-loader)
 * [Coffee React](https://github.com/jsdf/coffee-react)
 * [react-coffee - Build React components using natural CoffeeScript syntax](https://github.com/elucidata/react-coffee)
 * [coffee-react-transform - Provides React JSX support for Coffeescript](https://github.com/jsdf/coffee-react-transform)
@@ -473,7 +475,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [web-mode.el - An autonomous emacs major-mode for editing web templates](http://web-mode.org/)
 * [JSXHint - Wrapper around JSHint for linting JSX files](https://github.com/STRML/JSXHint)
 * [React Starter Kit for Microsoft Visual Studio](http://visualstudiogallery.msdn.microsoft.com/d65d6b29-6dd7-4100-81b1-609e5afce356)
-* [react-stylePrefixr - A simple utility for React.js to help deal with style vendor prefixes](https://github.com/naman34/react-stylePrefixr)
 
 #### Generating
 * [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
