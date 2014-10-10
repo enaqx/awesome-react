@@ -374,6 +374,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
 * [tcomb-react -  Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
+* [react-responsive - Media queries in react for responsive design](https://github.com/wearefractal/react-responsive)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
