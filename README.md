@@ -257,6 +257,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-starter-template - React (reactjs), Gulp, Webpack, Bootstrap, LiveReload](https://github.com/johnthethird/react-starter-template)
 * [react-starter - Starter template for React with webpack](https://github.com/webpack/react-starter)
 * [react-webpack - React + Webpack project template](https://github.com/ThomasDeutsch/react-webpack)
+* [react-server-rendering-example - Super-basic example of how server rendering works](https://github.com/petehunt/react-server-rendering-example)
 * [React Webpack Server Side Example](https://github.com/webpack/react-webpack-server-side-example)]
 * [genesis-skeleton - Modern, opinionated, full-stack starter kit](https://github.com/ericclemmons/genesis-skeleton)
 * [react-seed by @fizerkhan - Seed project for react apps](https://github.com/fizerkhan/react-seed)
