@@ -111,6 +111,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [From AngularJS to React: The Isomorphic Way](http://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
 * [Going Isomorphic with React](http://bensmithett.github.io/going-isomorphic-with-react/#/)
 * [newforms - Isomorphic form-handling for React](https://github.com/insin/newforms)
+* [newforms-examples - Examples repository for newforms](https://github.com/insin/newforms-examples)
 
 ##### JSX Tutorials
 * [JSX Specification](http://facebook.github.io/jsx/)
