@@ -110,6 +110,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Isomorphic apps with Backbone.js and React](http://dev.alexishevia.com/2014/08/isomorphic-apps-with-backbonejs-and.html)
 * [From AngularJS to React: The Isomorphic Way](http://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
 * [Going Isomorphic with React](http://bensmithett.github.io/going-isomorphic-with-react/#/)
+* [newforms - Isomorphic form-handling for React](https://github.com/insin/newforms)
 
 ##### JSX Tutorials
 * [JSX Specification](http://facebook.github.io/jsx/)
