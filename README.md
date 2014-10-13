@@ -290,6 +290,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-mediaswitch - Choose your DOM based on media queries](https://github.com/matthewwithanm/react-mediaswitch)
 * [react-frame-component - Render your React app to an iFrame](https://github.com/ryanseddon/react-frame-component)
 * [react-gravatar - React component for rendering a gravatar profile image](https://github.com/KyleAMathews/react-gravatar)
+* [markdown-react - React Render for Standard Markdown](https://github.com/vjeux/markdown-react)
 * [react-markdown-textarea - Component to create textareas for entering Markdown](https://github.com/KyleAMathews/react-markdown-textarea)
 * [react-textarea-autosize - Textarea component for React which grows with content](https://github.com/andreypopp/react-textarea-autosize)
 * [react-spinner - Zero configuration loading spinner](https://github.com/chenglou/react-spinner)
