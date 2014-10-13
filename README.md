@@ -554,6 +554,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-rxjs-todomvc - TodoMVC implementation with React and RxJS](https://github.com/fdecampredon/react-rxjs-todomvc)
 * [react-observe-todomvc - TodoMVC implementation built on top of React and Object.observe](https://github.com/fdecampredon/react-observe-todomvc)
 * [reactodo - Multiple localStorage TODO lists](https://github.com/insin/reactodo)
+* [lifequote - React port of a life insurance quick quoting application](https://github.com/insin/lifequote)
 * [reactor-demo - Isomorphic Javascript app with React](https://github.com/natew/reactor-demo)
 * [imgsible - React-based Imgur-like isomorphic demo app](https://github.com/BinaryMuse/imgsible)
 * [wow-realm-status-react - WoW Realm Status: React Edition](https://github.com/BinaryMuse/wow-realm-status-react)
