@@ -545,6 +545,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React.js, The Rails Way](https://www.gitbook.io/book/checkraiser/rails-and-react-js)
 
 ### Demos
+* [react-hn - A React & react-router-powered implementation of Hacker News](https://github.com/insin/react-hn)
 * [react-pokemon - A React component for displaying Pokémon](https://github.com/passy/react-pokemon)
 * [React + Backbone TodoMVC](http://todomvc.com/labs/architecture-examples/react-backbone/)
 * [react-rxjs-todomvc - TodoMVC implementation with React and RxJS](https://github.com/fdecampredon/react-rxjs-todomvc)
