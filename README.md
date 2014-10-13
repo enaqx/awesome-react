@@ -433,6 +433,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-style - Integrate CSS into your React.js components](https://github.com/js-next/react-style)
 * [rx-react - Utilitiels to works with React in a RxJS](https://github.com/fdecampredon/rx-react)
 * [react-typescript - Wrapper to make react play nicely with typescript](https://github.com/fdecampredon/react-typescript)
+* [react-with-di - A hacked prototype of React.js with DI](https://github.com/vojtajina/react-with-di)
 
 #### Routing
 * [react-router by @raackt - A complete routing solution for React.js](https://github.com/rackt/react-router)
