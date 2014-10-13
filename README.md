@@ -547,6 +547,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-pokemon - A React component for displaying Pokémon](https://github.com/passy/react-pokemon)
 * [React + Backbone TodoMVC](http://todomvc.com/labs/architecture-examples/react-backbone/)
 * [react-rxjs-todomvc - TodoMVC implementation with React and RxJS](https://github.com/fdecampredon/react-rxjs-todomvc)
+* [react-observe-todomvc - TodoMVC implementation built on top of React and Object.observe](https://github.com/fdecampredon/react-observe-todomvc)
 * [reactor-demo - Isomorphic Javascript app with React](https://github.com/natew/reactor-demo)
 * [imgsible - React-based Imgur-like isomorphic demo app](https://github.com/BinaryMuse/imgsible)
 * [wow-realm-status-react - WoW Realm Status: React Edition](https://github.com/BinaryMuse/wow-realm-status-react)
