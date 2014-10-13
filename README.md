@@ -434,6 +434,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [rx-react - Utilitiels to works with React in a RxJS](https://github.com/fdecampredon/rx-react)
 * [react-typescript - Wrapper to make react play nicely with typescript](https://github.com/fdecampredon/react-typescript)
 * [react-with-di - A hacked prototype of React.js with DI](https://github.com/vojtajina/react-with-di)
+* [reactfire - ReactJS mixin for easy Firebase integration](https://github.com/firebase/reactfire)
 
 #### Routing
 * [react-router by @raackt - A complete routing solution for React.js](https://github.com/rackt/react-router)
