@@ -532,6 +532,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Pete Hunt: React RESTful UI Rendering - Strange Loop 2014](http://www.youtube.com/watch?v=IVvHPPcl2TM)
 * [Stefano Masini: Refactoring to React - Amsterdam Javascript MVC meetup 10 sep 2014](http://www.youtube.com/watch?v=MivXyEtwK24)
 * [Pete Hunt: How Instagram.com Works - OSCON 2014](http://www.youtube.com/watch?v=VkTCL6Nqm6Y)
+* [Bill Fisher and Jing Chen: React and Flux: Building Applications with a Unidirectional Data Flow - NewCircle Training 2014](http://www.youtube.com/watch?v=i__969noyAM)
 
 #### Video Tutorials
 * [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
