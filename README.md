@@ -251,6 +251,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [capacitor - Lightweight implementation of the Flux architecture for client-side applications](https://github.com/josephsavona/capacitor)
 
 #### Boilerplates
+* [react-starter-kit - a skeleton for an isomorphic web application](https://github.com/kriasoft/react-starter-kit)
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
 * [React Hack](https://github.com/petehunt/ReactHack)
 * [react-component-boilerplate - Boilerplate for creating React components](https://github.com/mzabriskie/react-component-boilerplate)
