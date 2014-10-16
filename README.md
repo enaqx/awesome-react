@@ -115,6 +115,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [newforms-examples - Examples repository for newforms](https://github.com/insin/newforms-examples)
 * [isomorphic-blog-react - Proof of concept and experiment rendering blog isomorphically using React](https://github.com/jonykrause/isomorphic-blog-react)
 * [Swarm.js+React — real-time, offline-ready Holy Grail web apps](http://swarmjs.github.io/articles/todomvc/)
+* [Creating Isomorphic apps with React and Node.js](http://www.htmlxprs.com/post/20/creating-isomorphic-apps-with-react-and-nodejs)
 
 ##### JSX Tutorials
 * [JSX Specification](http://facebook.github.io/jsx/)
