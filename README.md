@@ -238,6 +238,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ### Tools
 
+#### Frameworks
+* [React on Rails](https://github.com/elierotenberg/react-rails)
+
 #### Flux
 * [Flux official site](http://facebook.github.io/flux/)
 * [Flux Project](https://github.com/facebook/flux)
@@ -251,6 +254,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [capacitor - Lightweight implementation of the Flux architecture for client-side applications](https://github.com/josephsavona/capacitor)
 
 #### Boilerplates
+* [React on Rails Starter Kit](https://github.com/elierotenberg/react-rails-starterkit)
 * [react-starter-kit - a skeleton for an isomorphic web application](https://github.com/kriasoft/react-starter-kit)
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
 * [React Hack](https://github.com/petehunt/ReactHack)
