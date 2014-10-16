@@ -113,6 +113,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [newforms - Isomorphic form-handling for React](https://github.com/insin/newforms)
 * [newforms-examples - Examples repository for newforms](https://github.com/insin/newforms-examples)
 * [isomorphic-blog-react - Proof of concept and experiment rendering blog isomorphically using React](https://github.com/jonykrause/isomorphic-blog-react)
+* [Swarm.js+React — real-time, offline-ready Holy Grail web apps](http://swarmjs.github.io/articles/todomvc/)
 
 ##### JSX Tutorials
 * [JSX Specification](http://facebook.github.io/jsx/)
@@ -566,6 +567,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React + Backbone TodoMVC](http://todomvc.com/labs/architecture-examples/react-backbone/)
 * [react-rxjs-todomvc - TodoMVC implementation with React and RxJS](https://github.com/fdecampredon/react-rxjs-todomvc)
 * [react-observe-todomvc - TodoMVC implementation built on top of React and Object.observe](https://github.com/fdecampredon/react-observe-todomvc)
+* [todomvc-swarm - React TodoMVC implementation using Swarm for real-time collaboration](https://github.com/gritzko/todomvc-swarm)
 * [reactodo - Multiple localStorage TODO lists](https://github.com/insin/reactodo)
 * [lifequote - React port of a life insurance quick quoting application](https://github.com/insin/lifequote)
 * [reactor-demo - Isomorphic Javascript app with React](https://github.com/natew/reactor-demo)
