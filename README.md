@@ -602,6 +602,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 
 ### Other Awesome Lists
+* [reactjs-stuff](https://github.com/mindreframer/reactjs-stuff)
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [JavaScript Programming](https://github.com/sorrycc/awesome-javascript)
 * [Node.js Programming by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
