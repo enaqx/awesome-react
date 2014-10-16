@@ -579,6 +579,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React + Backbone TodoMVC](http://todomvc.com/labs/architecture-examples/react-backbone/)
 * [react-rxjs-todomvc - TodoMVC implementation with React and RxJS](https://github.com/fdecampredon/react-rxjs-todomvc)
 * [react-observe-todomvc - TodoMVC implementation built on top of React and Object.observe](https://github.com/fdecampredon/react-observe-todomvc)
+* [react-lights-out - Simple demo of the React framework's power and flexibility](https://github.com/chenglou/react-lights-out)
 * [todomvc-swarm - React TodoMVC implementation using Swarm for real-time collaboration](https://github.com/gritzko/todomvc-swarm)
 * [reactodo - Multiple localStorage TODO lists](https://github.com/insin/reactodo)
 * [lifequote - React port of a life insurance quick quoting application](https://github.com/insin/lifequote)
