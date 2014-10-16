@@ -30,6 +30,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Routing](#routing)
   - [Unit Testing](#unit-testing)
   - [Graphics](#graphics)
+  - [Model Libraries](#model-libraries)
   - [Data Managing](#data-managing)
   - [Development Environment](#development-environment)
   - [Generating](#generating)
@@ -482,6 +483,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Graphics
 * [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
 * [react-kinetic - HTML5 Canvas via KineticJS using React](https://github.com/freiksenet/react-kinetic)
+
+#### Model Libraries
+* [mori - ClojureScript's persistent data structures and supporting API](https://github.com/swannodette/mori)
+* [swarm - JavaScript replicated model (M of MVC) library](https://github.com/gritzko/swarm)
 
 #### Data Managing
 * [immutable-js - Immutable Data Collections for Javascript](https://github.com/facebook/immutable-js)
