@@ -249,6 +249,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [dispatchr - A Flux dispatcher for applications that run on the server and the client](https://github.com/yahoo/dispatchr)
 * [fetchr - Augments Flux applications by allowing the same syntax on server/client](https://github.com/yahoo/fetchr)
 * [capacitor - Lightweight implementation of the Flux architecture for client-side applications](https://github.com/josephsavona/capacitor)
+* [normalizr — Normalizes nested JSON according to schema for Flux Stores](https://github.com/gaearon/normalizr)
 
 #### Boilerplates
 * [react-starter-kit - a skeleton for an isomorphic web application](https://github.com/kriasoft/react-starter-kit)
@@ -334,6 +335,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-scroll-components - A set of components that react to page scrolling](https://github.com/jeroencoumans/react-scroll-components)
 * [react-fullscreen-component - Create fullscreen toggles](https://github.com/jeroencoumans/react-fullscreen-component)
 * [react-frozenhead - Make your whole page a React component and render it on the server](https://github.com/matthewwithanm/react-frozenhead)
+* [react-document-title - declarative, nested, stateful document.title](https://github.com/gaearon/react-document-title)
 * [react-tags - A simple wrapper around React.DOM](https://github.com/adelevie/react-tags)
 * [react-datepicker by @misino - Datepicker component for application using Facebook React](https://github.com/misino/react-datepicker)
 * [react-datepicker by @Hacker0x01 - A simple and reusable datepicker component for React](https://github.com/Hacker0x01/react-datepicker)
