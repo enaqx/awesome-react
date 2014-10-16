@@ -255,6 +255,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [fetchr - Augments Flux applications by allowing the same syntax on server/client](https://github.com/yahoo/fetchr)
 * [capacitor - Lightweight implementation of the Flux architecture for client-side applications](https://github.com/josephsavona/capacitor)
 * [normalizr — Normalizes nested JSON according to schema for Flux Stores](https://github.com/gaearon/normalizr)
+* [barracks - Event dispatcher for the React Flux architecture](https://github.com/yoshuawuyts/barracks)
 
 #### Boilerplates
 * [react-starter-kit - a skeleton for an isomorphic web application](https://github.com/kriasoft/react-starter-kit)
