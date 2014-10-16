@@ -195,6 +195,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Testing React Components](http://www.asbjornenge.com/wwc/testing_react_components.html)
 * [Testing React components with Huxley](https://caurea.org/2014/02/23/testing-react-components-with-huxley.html)
 * [Testing React.js](http://engineering.venmo.com/blog/2014/05/15/testing-react/)
+* [Unit Testing React.js With Jasmine and Karma](http://myshareoftech.com/2013/12/unit-testing-react-dot-js-with-jasmine-and-karma.html)
 
 ##### Data Models for React
 * [Valuable — A Data Model for React](https://medium.com/@josephsavona/valuable-a-data-model-for-react-1b8868493bf6)
