@@ -112,6 +112,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Going Isomorphic with React](http://bensmithett.github.io/going-isomorphic-with-react/#/)
 * [newforms - Isomorphic form-handling for React](https://github.com/insin/newforms)
 * [newforms-examples - Examples repository for newforms](https://github.com/insin/newforms-examples)
+* [isomorphic-blog-react - Proof of concept and experiment rendering blog isomorphically using React](https://github.com/jonykrause/isomorphic-blog-react)
 
 ##### JSX Tutorials
 * [JSX Specification](http://facebook.github.io/jsx/)
