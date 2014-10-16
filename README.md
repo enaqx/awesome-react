@@ -384,6 +384,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-html-elements-styleguide -React styleguide component](https://github.com/KyleAMathews/react-html-elements-styleguide)
 * [react.animate - State animation plugin for react.js](https://github.com/pleasetrythisathome/react.animate)
 * [react-animate - React animation mixin](https://github.com/elierotenberg/react-animate)
+* [react-star-rating-input - React.js component for entering 0-5 stars](https://github.com/ikr/react-star-rating-input)
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
