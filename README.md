@@ -238,9 +238,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ### Tools
 
-#### Frameworks
-* [React on Rails](https://github.com/elierotenberg/react-rails)
-
 #### Flux
 * [Flux official site](http://facebook.github.io/flux/)
 * [Flux Project](https://github.com/facebook/flux)
@@ -254,11 +251,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [capacitor - Lightweight implementation of the Flux architecture for client-side applications](https://github.com/josephsavona/capacitor)
 
 #### Boilerplates
-* [React on Rails Starter Kit](https://github.com/elierotenberg/react-rails-starterkit)
 * [react-starter-kit - a skeleton for an isomorphic web application](https://github.com/kriasoft/react-starter-kit)
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
 * [React Hack](https://github.com/petehunt/ReactHack)
 * [react-component-boilerplate - Boilerplate for creating React components](https://github.com/mzabriskie/react-component-boilerplate)
+* [React on Rails Starter Kit](https://github.com/elierotenberg/react-rails-starterkit)
 * [react-browserify-template - Quick template for building with Browserify + React](https://github.com/petehunt/react-browserify-template)
 * [React Boileplate](https://github.com/rackt/react-boilerplate)
 * [Coffee React Quickstart](https://github.com/KyleAMathews/coffee-react-quickstart)
@@ -392,6 +389,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap/)
 * [React Bootstrap Components Playground](http://gcanti.github.io/resources/tcomb-react-bootstrap/playground/playground.html)
 * [React Rails](https://github.com/reactjs/react-rails)
+* [React on Rails](https://github.com/elierotenberg/react-rails)
 * [om - ClojureScript interface](https://github.com/swannodette/om)
 * [quiescent - A lightweight ClojureScript abstraction over React](https://github.com/levand/quiescent)
 * [Express React views](https://github.com/reactjs/express-react-views)
