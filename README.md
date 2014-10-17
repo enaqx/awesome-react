@@ -124,6 +124,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Compiling JSX with Sweet.js using Readtables](http://jlongster.com/Compiling-JSX-with-Sweet.js-using-Readtables)
 * [JSX for the real DOM](http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html)
 * [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
+* [Testing Flux Applications](http://facebook.github.io/react/blog/2014/09/24/testing-flux-applications.html)
 
 ##### Flux Tutorials
 * [Flux Application Architecture](http://facebook.github.io/react/docs/flux-overview.html)
@@ -559,6 +560,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Stefano Masini: Refactoring to React - Amsterdam Javascript MVC meetup 10 sep 2014](http://www.youtube.com/watch?v=MivXyEtwK24)
 * [Pete Hunt: How Instagram.com Works - OSCON 2014](http://www.youtube.com/watch?v=VkTCL6Nqm6Y)
 * [Bill Fisher and Jing Chen: React and Flux: Building Applications with a Unidirectional Data Flow - NewCircle Training 2014](http://www.youtube.com/watch?v=i__969noyAM)
+* [Vagmi Mudumbai: Building single page apps with React.JS - JSFoo 2014](https://www.youtube.com/watch?v=-v9MehRHsNE)
+* [Ben Anderson: Reactive, Component-based UIs with React - E4E Developer Conf 2014](https://www.youtube.com/watch?v=uwnjDXtJufs)
 
 #### Video Tutorials
 * [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
@@ -569,10 +572,12 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [ReactJS: Dealing with the Server](https://www.youtube.com/watch?v=lJUUjdsv0aw)
 * [Thinking in React](https://www.tagtree.tv/thinking-in-react)
 * [Building UIs with ReactJS](http://www.youtube.com/watch?v=lAn7GVoGlKU)
+* [React.js Internals](https://www.youtube.com/watch?v=FAgSdSikSCc)
 
 ### Books
 * [Free JS book from Revolunet](http://jsbooks.revolunet.com/)
 * [React.js, The Rails Way](https://www.gitbook.io/book/checkraiser/rails-and-react-js)
+* [Developing a React.js Edge, The JavaScript Library for User Interfaces](http://shop.oreilly.com/product/9781939902122.do)
 
 ### Demos
 * [react-hn - A React & react-router-powered implementation of Hacker News](https://github.com/insin/react-hn)
