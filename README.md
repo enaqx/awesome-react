@@ -91,6 +91,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Getting Started with React.js: Creating Material Design Components](http://www.syncano.com/getting-started-reactjs-tutorial/)
 * [Building a board game with React.js](http://jjt.io/2014/07/30/building-a-board-game-with-react-js/)
 * [ReactJS and Socket.IO Chat Application](http://danialk.github.io/blog/2013/06/16/reactjs-and-socket-dot-io-chat-application/)
+* [Learning React.js: Getting Started and Concepts](http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts)
 
 ##### Writing React Components
 * [Writing React components as CommonJS modules](http://simonsmith.io/writing-react-components-as-commonjs-modules/)
