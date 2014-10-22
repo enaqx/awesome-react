@@ -398,6 +398,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-animate - React animation mixin](https://github.com/elierotenberg/react-animate)
 * [react-star-rating-input - React.js component for entering 0-5 stars](https://github.com/ikr/react-star-rating-input)
 * [react-data-components - React components and mixins for sorting, filtering and pagination of data](https://github.com/carlosrocha/react-data-components)
+* [react-number-editor - Number editor (textfield) component for react](https://github.com/tleunen/react-number-editor)
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
@@ -461,6 +462,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-typescript - Wrapper to make react play nicely with typescript](https://github.com/fdecampredon/react-typescript)
 * [react-with-di - A hacked prototype of React.js with DI](https://github.com/vojtajina/react-with-di)
 * [reactfire - ReactJS mixin for easy Firebase integration](https://github.com/firebase/reactfire)
+* [react-clickdrag-mixin - ClickDrag mixin for React component](https://github.com/tleunen/react-clickdrag-mixin)
 
 #### Routing
 * [react-router by @raackt - A complete routing solution for React.js](https://github.com/rackt/react-router)
