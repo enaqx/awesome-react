@@ -398,6 +398,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-animate - React animation mixin](https://github.com/elierotenberg/react-animate)
 * [react-star-rating-input - React.js component for entering 0-5 stars](https://github.com/ikr/react-star-rating-input)
 * [react-data-components - React components and mixins for sorting, filtering and pagination of data](https://github.com/carlosrocha/react-data-components)
+* [react-number-editor - Number editor (textfield) component for react](https://github.com/tleunen/react-number-editor)
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
