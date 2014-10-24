@@ -585,6 +585,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 ### Books
 * [Free JS book from Revolunet](http://jsbooks.revolunet.com/)
 * [React.js, The Rails Way](https://www.gitbook.io/book/checkraiser/rails-and-react-js)
+* [React, User Interfaces with JavaScript](http://www.reactbook.org/)
 * [Developing a React.js Edge, The JavaScript Library for User Interfaces](http://shop.oreilly.com/product/9781939902122.do)
 
 ### Demos
