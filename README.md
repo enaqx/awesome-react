@@ -8,7 +8,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [General Tutorials](#general-tutorials)
     - [Writing React Components](#writing-react-components)
     - [Writing Isomorphic Apps](#writing-isomorphic-apps)
-    - [JSX Tutorials](#jsx-tutorials)
+    - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [React and Backbone](#react-and-backbone)
@@ -120,7 +120,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Swarm.js+React — real-time, offline-ready Holy Grail web apps](http://swarmjs.github.io/articles/todomvc/)
 * [Creating Isomorphic apps with React and Node.js](http://www.htmlxprs.com/post/20/creating-isomorphic-apps-with-react-and-nodejs)
 
-##### JSX Tutorials
+##### JSX
 * [JSX Specification](http://facebook.github.io/jsx/)
 * [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
 * [JSX extensions to Mozilla AST Format](https://github.com/facebook/jsx/blob/master/AST.md)
@@ -128,6 +128,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [JSX for the real DOM](http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html)
 * [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
 * [Testing Flux Applications](http://facebook.github.io/react/blog/2014/09/24/testing-flux-applications.html)
+* [JSX support in eslint](https://github.com/eslint/eslint/issues/1291)
 
 ##### Flux Tutorials
 * [Flux Application Architecture](http://facebook.github.io/react/docs/flux-overview.html)
