@@ -61,6 +61,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Tools npm module](https://www.npmjs.org/package/react-tools)
 * [React TodoMVC](http://todomvc.com/architecture-examples/react/)
 * [React Future](https://github.com/reactjs/react-future)
+* [React JSFiddle Integration with JSX](http://jsfiddle.net/vjeux/kb3gN/)
+* [React JSFiddle Integration without JSX](http://jsfiddle.net/vjeux/VkebS/)
 
 #### Tutorials
 
