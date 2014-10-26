@@ -97,6 +97,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Learning React.js: Getting Started and Concepts](http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts)
 * [Using Firebase with ReactJS](https://www.firebase.com/blog/2014-05-01-using-firebase-with-react.html)
 * [5 Practical Examples For Learning The React Framework](http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/)
+* [Working with jQuery UI Dialog and ReactJS components](http://sterling.ghost.io/working-with-jqueryui-and-reactjs-components/)
 
 ##### Writing React Components
 * [Writing React components as CommonJS modules](http://simonsmith.io/writing-react-components-as-commonjs-modules/)
@@ -146,6 +147,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Avoiding Event Chains in Single Page Applications](http://www.code-experience.com/avoiding-event-chains-in-single-page-applications/)
 * [ReactJS and FLUX](http://christianalfoni.github.io/javascript/2014/08/20/react-js-and-flux.html)
 * [Deconstructing ReactJS's Flux](http://spoike.ghost.io/deconstructing-reactjss-flux/)
+* [Flux Step By Step](http://blogs.atlassian.com/2014/08/flux-architecture-step-by-step/)
 
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
