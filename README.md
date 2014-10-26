@@ -583,6 +583,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Ben Anderson: Reactive, Component-based UIs with React - E4E Developer Conf 2014](https://www.youtube.com/watch?v=uwnjDXtJufs)
 * [Adam Solove: ReactJS - Web Platform DC 2014](http://vimeo.com/92687646)
 * [Sebastian Markbage: Minimal API Surface Area - JSConf EU 2014](http://www.youtube.com/watch?v=4anAwXYqLG8)
+* [Pete Hunt, Aaron Murray, and Contra Schoffstall: Facebook React at the Famo.us Meetup 8/13/14](http://www.youtube.com/watch?v=1tWCnNgNZm4)
 
 #### Video Tutorials
 * [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
