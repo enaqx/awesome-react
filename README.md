@@ -145,6 +145,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React.js architecture - Flux VS Reflux](http://blog.krawaller.se/posts/react-js-architecture-flux-vs-reflux/)
 * [Avoiding Event Chains in Single Page Applications](http://www.code-experience.com/avoiding-event-chains-in-single-page-applications/)
 * [ReactJS and FLUX](http://christianalfoni.github.io/javascript/2014/08/20/react-js-and-flux.html)
+* [Deconstructing ReactJS's Flux](http://spoike.ghost.io/deconstructing-reactjss-flux/)
 
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
