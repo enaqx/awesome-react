@@ -252,7 +252,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [AngularJS vs ReactJS for large web applications](http://blog.liip.ch/archive/2014/09/16/angularjs-vs-reactjs-for-large-web-applications.html)
 
 
-#### Approach Explanation
+#### React Internals
 * [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
 * [An Optimal Decomposition Algorithm for Tree Edit Distance](http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf)
 
