@@ -537,6 +537,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [web-mode.el - An autonomous emacs major-mode for editing web templates](http://web-mode.org/)
 * [JSXHint - Wrapper around JSHint for linting JSX files](https://github.com/STRML/JSXHint)
 * [React Starter Kit for Microsoft Visual Studio](http://visualstudiogallery.msdn.microsoft.com/d65d6b29-6dd7-4100-81b1-609e5afce356)
+* [WebStorm 9 - JavaScript IDE by JetBrains with JSX support](https://www.jetbrains.com/webstorm/)
 
 #### Generating
 * [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
