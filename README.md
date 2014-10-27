@@ -60,7 +60,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Twitter](https://twitter.com/reactjs)
 * [React npm module](https://www.npmjs.org/package/react)
 * [React Tools npm module](https://www.npmjs.org/package/react-tools)
-* [React TodoMVC](http://todomvc.com/architecture-examples/react/)
+* [React TodoMVC](http://todomvc.com/examples/react/)
 * [React Future](https://github.com/reactjs/react-future)
 * [React JSFiddle Integration with JSX](http://jsfiddle.net/vjeux/kb3gN/)
 * [React JSFiddle Integration without JSX](http://jsfiddle.net/vjeux/VkebS/)
