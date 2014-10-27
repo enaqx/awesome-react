@@ -60,7 +60,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Twitter](https://twitter.com/reactjs)
 * [React npm module](https://www.npmjs.org/package/react)
 * [React Tools npm module](https://www.npmjs.org/package/react-tools)
-* [React TodoMVC](http://todomvc.com/architecture-examples/react/)
+* [React TodoMVC](http://todomvc.com/examples/react/)
 * [React Future](https://github.com/reactjs/react-future)
 * [React JSFiddle Integration with JSX](http://jsfiddle.net/vjeux/kb3gN/)
 * [React JSFiddle Integration without JSX](http://jsfiddle.net/vjeux/VkebS/)
@@ -415,6 +415,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-star-rating-input - React.js component for entering 0-5 stars](https://github.com/ikr/react-star-rating-input)
 * [react-data-components - React components and mixins for sorting, filtering and pagination of data](https://github.com/carlosrocha/react-data-components)
 * [react-number-editor - Number editor (textfield) component for react](https://github.com/tleunen/react-number-editor)
+* [react-localstorage - Simple localstorage mixin for react](https://github.com/STRML/react-localstorage)
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
@@ -483,7 +484,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Routing
 * [react-router by @raackt - A complete routing solution for React.js](https://github.com/rackt/react-router)
-* [react-router-component by @andreypopp - Declarative router component for React](https://github.com/andreypopp/react-router-component)
+* [react-router-component by @andreypopp - Declarative router component for React](https://github.com/STRML/react-router-component)
 * [react-router by @jaredly - An integrated router for react](https://github.com/jaredly/react-router)
 * [rrouter - Declarative routing layer for React applications](https://github.com/andreypopp/rrouter)
 * [react-mini-router - A minimal URL router for React.js](https://github.com/larrymyers/react-mini-router)
