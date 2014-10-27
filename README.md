@@ -260,7 +260,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### React Internals
 * [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
 * [An Optimal Decomposition Algorithm for Tree Edit Distance](http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf)
-
+* [ReadTheSource: React.js Internals with Nick Niemeir](https://www.youtube.com/watch?v=FAgSdSikSCc)
 
 ### Tools
 
