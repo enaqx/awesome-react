@@ -543,6 +543,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
 * [generator-react-app - Yeoman generator to create React application (with Express and Mongoose) + Backbone + Bootstrap](https://github.com/js-experiments/generator-react-app)
 * [generator-react-library - Yeoman generator for React components](https://github.com/petehunt/generator-react-library)
+* [generator-react-gulp-browserify - Yeoman generator for React including gulp, browserify, livereload and bootstrap](https://github.com/randylien/generator-react-gulp-browserify)
 
 #### Compiling
 * [reactify - Browserify transform for JSX](https://github.com/andreypopp/reactify)
