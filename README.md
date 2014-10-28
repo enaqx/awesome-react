@@ -415,7 +415,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-star-rating-input - React.js component for entering 0-5 stars](https://github.com/ikr/react-star-rating-input)
 * [react-data-components - React components and mixins for sorting, filtering and pagination of data](https://github.com/carlosrocha/react-data-components)
 * [react-number-editor - Number editor (textfield) component for react](https://github.com/tleunen/react-number-editor)
+<<<<<<< HEAD
 * [react-localstorage - Simple localstorage mixin for react](https://github.com/STRML/react-localstorage)
+=======
+* [react-sortable-data React Mixin to sort data easily](https://github.com/AndrewHathaway/ReactSortableDataMixin)
+>>>>>>> c4b3a123d5cd4bb98bf55d385d87d8d0e2df0864
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
