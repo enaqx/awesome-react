@@ -416,10 +416,14 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-data-components - React components and mixins for sorting, filtering and pagination of data](https://github.com/carlosrocha/react-data-components)
 * [react-number-editor - Number editor (textfield) component for react](https://github.com/tleunen/react-number-editor)
 <<<<<<< HEAD
+<<<<<<< HEAD
 * [react-localstorage - Simple localstorage mixin for react](https://github.com/STRML/react-localstorage)
 =======
 * [react-sortable-data React Mixin to sort data easily](https://github.com/AndrewHathaway/ReactSortableDataMixin)
 >>>>>>> c4b3a123d5cd4bb98bf55d385d87d8d0e2df0864
+=======
+* [react-widgets - Suite of ui input widgets including combobox, multiselect, datepicker and more](https://github.com/theporchrat/react-widgets)
+>>>>>>> d0c9d4fb79fba860c079434ea6dc0d585fc9b4a6
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
