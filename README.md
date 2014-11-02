@@ -4,6 +4,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 - [Resources](#resources)
   - [General Resources](#general-resources)
+  - [React Online Playground](#react-online-playground)
+  - [React Community](#react-community)
   - [Tutorials](#tutorials)
     - [General Tutorials](#general-tutorials)
     - [Writing React Components](#writing-react-components)
@@ -55,22 +57,25 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Blog](http://facebook.github.io/react/blog/)
 * [React GitHub](https://github.com/facebook/react)
 * [React Wiki](https://github.com/facebook/react/wiki)
-* [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
-* [React GoogleGroup](https://groups.google.com/forum/#!forum/reactjs)
-* [React Facebook Community](https://www.facebook.com/react)
-* [React Twitter](https://twitter.com/reactjs)
 * [React npm module](https://www.npmjs.org/package/react)
 * [React Tools npm module](https://www.npmjs.org/package/react-tools)
 * [React TodoMVC](http://todomvc.com/examples/react/)
-* [React Future](https://github.com/reactjs/react-future)
+
+#### React Online Playground
 * [React JSFiddle Integration with JSX](http://jsfiddle.net/vjeux/kb3gN/)
 * [React JSFiddle Integration without JSX](http://jsfiddle.net/vjeux/VkebS/)
+
+#### React Community
+* [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
+* [React GoogleGroup](https://groups.google.com/forum/#!forum/reactjs)
+* [React Twitter](https://twitter.com/reactjs)
+* [React #reactjs Twitter](https://twitter.com/search?q=%23reactjs)
+* IRC network in `#reactjs` channel on freenode
 
 #### Tutorials
 
 ##### General Tutorials
 * [React Tutorial](http://facebook.github.io/react/docs/tutorial.html)
-* [React Tutorial Project](https://github.com/reactjs/react-tutorial)
 * [React One Hour](https://github.com/petehunt/react-one-hour-email/commits/master)
 * [Pro Javascript React Tutorial](http://webdesignporto.com/react-js-an-interactive-tutorial-to-get-started/)
 * [Medium React Tutorials](https://medium.com/react-tutorials)
