@@ -11,7 +11,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
-    - [Scotch.io React tutorials series](#scotch.io-react-tutorials-series)
+    - [Scotch.io React tutorials series](#scotch-io-react-tutorials-series)
     - [React and Backbone](#react-and-backbone)
     - [React and Angular](#react-and-angular)
     - [React and Bootstrap](#react-and-bootstrap)
