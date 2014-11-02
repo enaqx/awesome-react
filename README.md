@@ -23,6 +23,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [Compiling React Tutorials](#compiling-react-tutorials)
     - [Testing React Tutorials](#testing-react-tutorials)
     - [Data Models for React](#data-models-for-react)
+    - [Debugging React](#debugging-react)
   - [Approach Explanation](#approach-explanation)
   - [React Internals](#react-internals)
 - [Tools](#tools)
@@ -225,6 +226,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ##### Data Models for React
 * [Valuable — A Data Model for React](https://medium.com/@josephsavona/valuable-a-data-model-for-react-1b8868493bf6)
+
+##### Debugging React
+* [Trace Logging with React](http://www.garysieling.com/blog/trace-logging-react)
 
 
 #### Approach Explanation
