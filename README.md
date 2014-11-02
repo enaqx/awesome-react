@@ -64,12 +64,15 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### React Online Playground
 * [React JSFiddle Integration with JSX](http://jsfiddle.net/vjeux/kb3gN/)
 * [React JSFiddle Integration without JSX](http://jsfiddle.net/vjeux/VkebS/)
+* [React CodePen Integration with JSX](http://codepen.io/enaqx/pen/cuIxm)
+* [React CodePen Integration without JSX](http://codepen.io/enaqx/pen/aAcdk)
 
 #### React Community
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 * [React GoogleGroup](https://groups.google.com/forum/#!forum/reactjs)
 * [React Twitter](https://twitter.com/reactjs)
 * [React #reactjs Twitter](https://twitter.com/search?q=%23reactjs)
+* [React SubReddit](http://www.reddit.com/r/reactjs/)
 * IRC network in `#reactjs` channel on freenode
 
 #### Tutorials
