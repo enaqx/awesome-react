@@ -296,6 +296,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [capacitor - Lightweight implementation of the Flux architecture for client-side applications](https://github.com/josephsavona/capacitor)
 * [normalizr — Normalizes nested JSON according to schema for Flux Stores](https://github.com/gaearon/normalizr)
 * [barracks - Event dispatcher for the React Flux architecture](https://github.com/yoshuawuyts/barracks)
+* [McFly - A lightweight flux library with factories for Actions & Stores](https://github.com/kenwheeler/mcfly)
 
 #### Boilerplates
 * [react-starter-kit - a skeleton for an isomorphic web application](https://github.com/kriasoft/react-starter-kit)
