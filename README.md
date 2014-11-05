@@ -676,7 +676,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [JavaScript Programming](https://github.com/sorrycc/awesome-javascript)
 * [Node.js Programming by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
 * [Node.js Programming by @vndmtrx](https://github.com/vndmtrx/awesome-nodejs) 
-* [Awesome Awesomness](https://github.com/bayandin/awesome-awesomeness)
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 
 ### Contribution
