@@ -426,6 +426,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-sparkline - React component for rendering simple sparklines](https://github.com/KyleAMathews/react-sparkline)
 * [react-component-width-mixin - React mixin which sets width](https://github.com/KyleAMathews/react-component-width-mixin)
 * [react-micro-bar-chart - React component for micro bar-charts rendered with D3](https://github.com/KyleAMathews/react-micro-bar-chart)
+* [react-horizontal-bar-chart - Simple horizontal bar chart component, using D3 scales only ](https://github.com/laem/react-horizontal-bar-chart)
 * [react-infinity - A UITableView Inspired list and grid display](https://github.com/naman34/react-infinity)
 * [react-timeago - A simple time-ago component for React](https://github.com/naman34/react-timeago)
 * [react-stylePrefixr - A simple utility for React.js to help deal with style vendor prefixes](https://github.com/naman34/react-stylePrefixr)
