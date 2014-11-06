@@ -460,6 +460,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [om - ClojureScript interface](https://github.com/swannodette/om)
 * [quiescent - A lightweight ClojureScript abstraction over React](https://github.com/levand/quiescent)
 * [Express React views](https://github.com/reactjs/express-react-views)
+* [Express Coffee-React views - render coffee-react on the server](https://github.com/duereg/express-coffee-react-views)
 * [React Page Middleware](https://github.com/reactjs/react-page-middleware)
 * [ngReact - React Components in Angular](https://github.com/davidchang/ngReact)
 * [React Bower](https://github.com/reactjs/react-bower)
