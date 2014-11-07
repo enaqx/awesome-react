@@ -334,6 +334,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [VistarMedia Components](http://cmpnt.vistarmedia.com/)
 * [Reactjsx Components List](http://www.reactjsx.com/)
 * [react-material - Material design components written with React.js and React Style](https://github.com/SanderSpies/react-material)
+* [material-ui - A CSS Framework and a Set of React Components that Implement Google's Material Design.](https://github.com/callemall/material-ui)
 * [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
 * [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
 * [react-grid - Data grid for React](https://github.com/prometheusresearch/react-grid)
