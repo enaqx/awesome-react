@@ -296,6 +296,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [normalizr — Normalizes nested JSON according to schema for Flux Stores](https://github.com/gaearon/normalizr)
 * [barracks - Event dispatcher for the React Flux architecture](https://github.com/yoshuawuyts/barracks)
 * [McFly - A lightweight flux library with factories for Actions & Stores](https://github.com/kenwheeler/mcfly)
+* [DeLorean - A completely agnostic JavaScript framework to apply Flux concepts into your interfaces easily](http://deloreanjs.com/)
 
 #### Boilerplates
 * [react-starter-kit - a skeleton for an isomorphic web application](https://github.com/kriasoft/react-starter-kit)
