@@ -445,6 +445,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-localstorage - Simple localstorage mixin for react](https://github.com/STRML/react-localstorage)
 * [react-sortable - Data React Mixin to sort data easily](https://github.com/AndrewHathaway/ReactSortableDataMixin)
 * [react-select - Rich Select Component](https://github.com/JedWatson/react-select)
+* [react-video - React component to load video from Vimeo or Youtube](https://github.com/pedronauck/react-video)
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
