@@ -558,7 +558,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [cortex - A javascript library for centrally managing data with React](https://github.com/mquan/cortex)
 * [avers - A modern client-side model abstraction library](https://github.com/wereHamster/avers)
 * [imvvm - Immutable Model-View-ViewModel for React](https://github.com/entrendipity/imvvm)
-* [morearty.js - Better state management for React in pure JavaScript](https://github.com/Tvaroh/moreartyjs)
+* [morearty.js - Better state management for React in pure JavaScript](https://github.com/moreartyjs/moreartyjs)
 * [valuable - An immutable data store for React](https://github.com/josephsavona/valuable)
 
 #### Development Environment
