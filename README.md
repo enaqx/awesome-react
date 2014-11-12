@@ -142,7 +142,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [JSX support in eslint](https://github.com/eslint/eslint/issues/1291)
 
 ##### Flux Tutorials
-* [Flux Application Architecture](http://facebook.github.io/react/docs/flux-overview.html)
+* [Flux Application Architecture](http://facebook.github.io/flux/docs/overview.html)
 * [Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo](https://github.com/yahoo/flux-examples)
 * [Async requests with React.js and Flux](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
 * [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
