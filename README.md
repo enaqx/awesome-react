@@ -173,7 +173,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Creating A Simple Shopping Cart with React.js and Flux](http://scotch.io/tutorials/javascript/creating-a-simple-shopping-cart-with-react-js-and-flux)
 
 ##### React styling
-* [React:CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
+* [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
 
 ##### React and Backbone
 * [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
