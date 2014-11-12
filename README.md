@@ -106,6 +106,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Using Firebase with ReactJS](https://www.firebase.com/blog/2014-05-01-using-firebase-with-react.html)
 * [5 Practical Examples For Learning The React Framework](http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/)
 * [Working with jQuery UI Dialog and ReactJS components](http://sterling.ghost.io/working-with-jqueryui-and-reactjs-components/)
+* [ReactJS for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 
 ##### Writing React Components
 * [Reliable web components with React.js and ReactiveElements](http://pixelscommander.com/en/interactive-revolution/web-components-and-react-js-with-reactiveelements/)
@@ -156,6 +157,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Deconstructing ReactJS's Flux](http://spoike.ghost.io/deconstructing-reactjss-flux/)
 * [Flux Step By Step](http://blogs.atlassian.com/2014/08/flux-architecture-step-by-step/)
 * [Flux in practice](https://medium.com/@garychambers108/flux-in-practice-ec08daa9041a)
+* [Flux for Stupid People](http://blog.andrewray.me/flux-for-stupid-people/)
 
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
