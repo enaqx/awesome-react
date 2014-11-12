@@ -55,8 +55,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### General Resources
 * [React Official Site](http://facebook.github.io/react/)
-* [React Docs](http://facebook.github.io/react/docs/)
-* [React Blog](http://facebook.github.io/react/blog/)
 * [React GitHub](https://github.com/facebook/react)
 * [React Wiki](https://github.com/facebook/react/wiki)
 * [React npm module](https://www.npmjs.org/package/react)
@@ -110,7 +108,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Working with jQuery UI Dialog and ReactJS components](http://sterling.ghost.io/working-with-jqueryui-and-reactjs-components/)
 
 ##### Writing React Components
-* [Writing React components as CommonJS modules](http://simonsmith.io/writing-react-components-as-commonjs-modules/)
 * [Reliable web components with React.js and ReactiveElements](http://pixelscommander.com/en/interactive-revolution/web-components-and-react-js-with-reactiveelements/)
 * [A Sortable List Component in React utilizing the HTML5 Drag & Drop API](http://webcloud.se/sortable-list-component-react-js/)
 * [A Truly Reactive Sortable Component](http://webcloud.se/truly-reactive-sortable-component/)
@@ -217,11 +214,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ##### Compiling React Tutorials
 * [Webpack Howto by Pete Hunt](https://github.com/petehunt/webpack-howto)
-* [React JS and a browserify workflow](http://christianalfoni.github.io/javascript/2014/08/15/react-js-workflow.html)
-* [Using ReactJS with Browserify and Gulp](http://truongtx.me/2014/07/18/using-reactjs-with-browserify-and-gulp/)
+* [AMD and CommonJS examples with Webpack](https://github.com/simonsmith/webpack-example)
+* [Integrating JSX live reload into your React workflow](http://gaearon.github.io/react-hot-loader/)
+* [React JS and a browserify workflow, part1](http://christianalfoni.github.io/javascript/2014/08/15/react-js-workflow.html)
+* [React JS and a browserify workflow, part2](http://christianalfoni.github.io/javascript/2014/10/30/react-js-workflow-part2.html)
 * [Choosing the correct packaging tool for React JS](http://christianalfoni.github.io/javascript/2014/08/29/choosing-the-correct-packaging-tool-for-react-js.html)
-* [Browserify and Gulp with React](https://hacks.mozilla.org/2014/08/browserify-and-gulp-with-react/)
-* [Using Facebook's React with Require.js](http://blog.xenji.com/2013/06/using-facebook-react-with-requirejs.html)
 
 ##### Testing React Tutorials
 * [Testing React Components](http://www.asbjornenge.com/wwc/testing_react_components.html)
