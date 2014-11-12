@@ -12,7 +12,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [Writing Isomorphic Apps](#writing-isomorphic-apps)
     - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
-    - [Building Robust Web Apps with React](#building-robust-web-apps-with-reingact)
+    - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [Scotch.io React tutorials series](#scotchio-react-tutorials-series)
     - [React styling](#react-styling)
     - [React and Backbone](#react-and-backbone)
