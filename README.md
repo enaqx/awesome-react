@@ -647,6 +647,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Developing a React.js Edge, The JavaScript Library for User Interfaces](http://shop.oreilly.com/product/9781939902122.do)
 
 ### Demos
+* [react.rocks - Pinterest-style directory of online demos with available code](http://react.rocks/)
 * [react-hn - A React & react-router-powered implementation of Hacker News](https://github.com/insin/react-hn)
 * [react-pokemon - A React component for displaying Pokémon](https://github.com/passy/react-pokemon)
 * [React + Backbone TodoMVC](http://todomvc.com/labs/architecture-examples/react-backbone/)
