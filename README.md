@@ -332,6 +332,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Full example using Koa, React, Passport, Mongoose, Gulp, Mocha](https://github.com/dozoisch/koa-react-full-example)
 * [Basic skeleton for a Rendr app](https://github.com/petehunt/rendr-react-template)
 * [react-component-boilerplate - A React component boilerplate](https://github.com/TYRONEMICHAEL/react-component-boilerplate)
+* [mullet - A React + Hapi Starter Kit](https://github.com/lynnaloo/mullet)
 
 #### Components
 * [React Components](http://react-components.com/)
