@@ -639,6 +639,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Thinking in React](https://www.tagtree.tv/thinking-in-react)
 * [Building UIs with ReactJS](http://www.youtube.com/watch?v=lAn7GVoGlKU)
 * [React.js Internals](https://www.youtube.com/watch?v=FAgSdSikSCc)
+* [Introduction to React JS](http://videos.bigbinary.com/react/introduction-to-react.html)
+* [React Lifecycle Methods, and creating a Clock-Tick using it](http://videos.bigbinary.com/react/clock-tick-using-react-life-cycle-method.html)
+* [React Life cycle methods - In Depth ](http://videos.bigbinary.com/react/react-life-cycle-methods-in-depth.html)
+* [Using multiple components in React JS](http://videos.bigbinary.com/react/using-multiple-components-in-react.html)
 
 ### Books
 * [Free JS book from Revolunet](http://jsbooks.revolunet.com/)
