@@ -629,6 +629,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Adam Solove: ReactJS - Web Platform DC 2014](http://vimeo.com/92687646)
 * [Sebastian Markbage: Minimal API Surface Area - JSConf EU 2014](http://www.youtube.com/watch?v=4anAwXYqLG8)
 * [Pete Hunt, Aaron Murray, and Contra Schoffstall: Facebook React at the Famo.us Meetup 8/13/14](http://www.youtube.com/watch?v=1tWCnNgNZm4)
+* [Steven Luscher: Decomplexifying Code with React - Powered by JavaScript conf 2014](https://www.youtube.com/watch?v=rI0GQc__0SM)
 
 #### Video Tutorials
 * [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
