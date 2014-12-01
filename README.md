@@ -631,6 +631,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Pete Hunt, Aaron Murray, and Contra Schoffstall: Facebook React at the Famo.us Meetup 8/13/14](http://www.youtube.com/watch?v=1tWCnNgNZm4)
 * [Steven Luscher: Decomplexifying Code with React - Powered by JavaScript conf 2014](https://www.youtube.com/watch?v=rI0GQc__0SM)
 * [James Pearce: An Introduction to ReactJS - All Things Open 2014](https://www.youtube.com/watch?v=m2fuO2wl_3c)
+* [Jonathan Beebe: Real World React - Nodevember 2014](https://www.youtube.com/watch?v=uZgAq1CZ1N8)
 
 #### Video Tutorials
 * [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
