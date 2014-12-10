@@ -455,6 +455,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-sortable - Data React Mixin to sort data easily](https://github.com/AndrewHathaway/ReactSortableDataMixin)
 * [react-select - Rich Select Component](https://github.com/JedWatson/react-select)
 * [react-video - React component to load video from Vimeo or Youtube](https://github.com/pedronauck/react-video)
+* [react-google-maps - React.js Google Maps integration component](https://github.com/tomchentw/react-google-maps)
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
@@ -462,7 +463,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-responsive - Media queries in react for responsive design](https://github.com/wearefractal/react-responsive)
 * [react-cursor - Functional state management abstraction for use with Facebook React](https://github.com/dustingetz/react-cursor)
 * [Omniscient.js - Abstracting React components for fast top down render of immutable data](https://github.com/omniscientjs/omniscient)
-
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
