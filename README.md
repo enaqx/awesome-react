@@ -306,6 +306,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [barracks - Event dispatcher for the React Flux architecture](https://github.com/yoshuawuyts/barracks)
 * [McFly - A lightweight flux library with factories for Actions & Stores](https://github.com/kenwheeler/mcfly)
 * [DeLorean - A completely agnostic JavaScript framework to apply Flux concepts into your interfaces easily](http://deloreanjs.com/)
+* [marty - A library for make it easy build isomorphic flux applications with React](http://martyjs.org/)
 
 #### Boilerplates
 * [react-starter-kit - a skeleton for an isomorphic web application](https://github.com/kriasoft/react-starter-kit)
