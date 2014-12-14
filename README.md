@@ -465,6 +465,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-responsive - Media queries in react for responsive design](https://github.com/wearefractal/react-responsive)
 * [react-cursor - Functional state management abstraction for use with Facebook React](https://github.com/dustingetz/react-cursor)
 * [Omniscient.js - Abstracting React components for fast top down render of immutable data](https://github.com/omniscientjs/omniscient)
+* [Touchstonejs - React.js powered UI framework for developing beautiful hybrid mobile apps.](http://touchstonejs.io/)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
