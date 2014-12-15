@@ -458,6 +458,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-select - Rich Select Component](https://github.com/JedWatson/react-select)
 * [react-video - React component to load video from Vimeo or Youtube](https://github.com/pedronauck/react-video)
 * [react-google-maps - React.js Google Maps integration component](https://github.com/tomchentw/react-google-maps)
+* [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
