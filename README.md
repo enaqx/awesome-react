@@ -309,6 +309,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [marty - A library for make it easy build isomorphic flux applications with React](http://martyjs.org/)
 
 #### Boilerplates
+* [React Starterify - application skeleton using Browserify and other awesome tools] (https://github.com/Granze/react-starterify)
 * [react-starter-kit - a skeleton for an isomorphic web application](https://github.com/kriasoft/react-starter-kit)
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
 * [React Hack](https://github.com/petehunt/ReactHack)
