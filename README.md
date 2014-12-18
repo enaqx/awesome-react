@@ -50,7 +50,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contribution](#contribution)
 
-
 ### Resources
 
 #### General Resources
@@ -238,7 +237,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 ##### Debugging React
 * [Trace Logging with React](http://www.garysieling.com/blog/trace-logging-react)
 
-
 #### Approach Explanation
 * [React: Convincing the Boss](http://www.quora.com/Pete-Hunt/Posts/React-Convincing-the-Boss)
 * [Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)
@@ -285,11 +283,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [What You Need to Know About React](http://revelry.co/2014/11/01/what-you-need-to-know-about-react/)
 * [From Backbone To React: Our Experience Scaling a Web Application](http://www.techsonian.net/2014/09/from-backbone-to-react-our-experience-scaling-a-web-application/)
 
-
 #### React Internals
 * [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
 * [An Optimal Decomposition Algorithm for Tree Edit Distance](http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf)
-
 
 ### Tools
 
@@ -310,7 +306,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [marty - A library for make it easy build isomorphic flux applications with React](http://martyjs.org/)
 
 #### Boilerplates
-* [React Starterify - application skeleton using Browserify and other awesome tools] (https://github.com/Granze/react-starterify)
+* [React Starterify - application skeleton using Browserify and other awesome tools](https://github.com/Granze/react-starterify)
 * [react-starter-kit - a skeleton for an isomorphic web application](https://github.com/kriasoft/react-starter-kit)
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
 * [React Hack](https://github.com/petehunt/ReactHack)
@@ -611,7 +607,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [mimosa-react - A JSX compiler for Mimosa build tool](https://github.com/dbashford/mimosa-react)
 * [HTML2React - Convert plain HTML into Coffeescript calls of React.DOM](http://html2react.alhur.es/)
 
-
 ### Videos
 
 #### Video from Confs
@@ -698,7 +693,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [POST/GET with HTTP server](https://github.com/enaqx/awesome-react/tree/master/examples/006_with_http_server)
 * [Refs to send messages between components](https://github.com/enaqx/awesome-react/tree/master/examples/007_refs)
 
-
 ### Other Awesome Lists
 * [reactjs-stuff](https://github.com/mindreframer/reactjs-stuff)
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -707,7 +701,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Node.js Programming by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
 * [Node.js Programming by @vndmtrx](https://github.com/vndmtrx/awesome-nodejs) 
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
-
 
 ### Contribution
 Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
