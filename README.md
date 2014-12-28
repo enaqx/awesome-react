@@ -188,6 +188,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Using React for Faster Renders and Isomosphism in Angular](http://davidandsuzi.com/using-react-for-faster-renders-and-isomorphism-in-angular/)
 * [Faster AngularJS Rendering](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
 * [Improving AngularJS long list rendering performance using ReactJS](http://www.mono-software.com/blog/post/Mono/242/Improving-AngularJS-long-list-rendering-performance-using-ReactJS/)
+* [How can React and Flux help us create better Angular applications?](https://medium.com/@gilbox/how-can-react-and-flux-help-us-create-better-stronger-faster-angular-applications-639247898fb)
 
 ##### React and Bootstrap
 * [Better Bootstrap modals and popover with React.js](http://clozeit.wordpress.com/2014/01/08/bootstrap-modals-and-popover-in-react-js/)
