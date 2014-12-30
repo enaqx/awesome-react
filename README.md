@@ -110,7 +110,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Introduction to Contexts in React.js](https://www.tildedave.com/2014/11/15/introduction-to-contexts-in-react-js.html)
 
 ##### Writing React Components
-* [Reliable web components with React.js and ReactiveElements](http://pixelscommander.com/en/interactive-revolution/web-components-and-react-js-with-reactiveelements/)
 * [A Sortable List Component in React utilizing the HTML5 Drag & Drop API](http://webcloud.se/sortable-list-component-react-js/)
 * [A Truly Reactive Sortable Component](http://webcloud.se/truly-reactive-sortable-component/)
 * [Dealing with asynchronous code in React components](https://caurea.org/2014/02/04/dealing-with-asynchronous-code-in-react-components.html)
