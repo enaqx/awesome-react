@@ -390,6 +390,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-swf - Shockwave Flash Player component for React](https://github.com/syranide/react-swf)
 * [react-unmount-listener-mixin - React mixin for listenable componentWillUnmount](https://github.com/syranide/react-unmount-listener-mixin)
 * [react-sortable - A sortable list component built \w React](https://github.com/danielstocks/react-sortable)
+* [react-anything-sortable - A sortable component with IE8 compatibility](https://github.com/jasonslyvia/react-anything-sortable)
 * [react-controllables - Easily create controllable components](https://github.com/matthewwithanm/react-controllables)
 * [react-datalist - A <datalist> polyfill for Reactjs](https://github.com/asbjornenge/react-datalist)
 * [react-pad - Authoring tool for React components](https://github.com/andreypopp/react-pad)
