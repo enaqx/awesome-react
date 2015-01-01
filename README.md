@@ -108,6 +108,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [ReactJS for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 * [WebRTC chat with React.js](http://blog.mgechev.com/2014/09/03/webrtc-peer-to-peer-chat-with-react/)
 * [Introduction to Contexts in React.js](https://www.tildedave.com/2014/11/15/introduction-to-contexts-in-react-js.html)
+* [Learn React by building the Hacker News front page](https://github.com/mking/react-hn)
 
 ##### Writing React Components
 * [A Sortable List Component in React utilizing the HTML5 Drag & Drop API](http://webcloud.se/sortable-list-component-react-js/)
