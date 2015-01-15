@@ -122,6 +122,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Creating Modular View Components with React and Grunt](http://modernweb.com/2014/03/17/creating-modular-view-components-with-react-and-grunt/)
 * [React Components for Cat Videos](http://davidandsuzi.com/react-components-for-cat-videos/)
 * [ReactJS: Keep Simple. Everything can be a component!](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
+* [Complex Drag and Drop Lists using React.js](https://reactjsnews.com/complex-drag-and-drop-lists-using-react/)
 
 ##### Writing Isomorphic Apps
 * [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)
