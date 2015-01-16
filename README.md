@@ -460,6 +460,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-video - React component to load video from Vimeo or Youtube](https://github.com/pedronauck/react-video)
 * [react-google-maps - React.js Google Maps integration component](https://github.com/tomchentw/react-google-maps)
 * [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
+* [react-tagsinput - A simple react component for inputing tags.](https://github.com/olahol/react-tagsinput)
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
