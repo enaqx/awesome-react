@@ -294,6 +294,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Flux
 * [Flux official site](http://facebook.github.io/flux/)
 * [Flux Project](https://github.com/facebook/flux)
+* [ReactFlux](https://github.com/kjda/ReactFlux)
 * [fluxxor - A set of tools to facilitate building JavaScript data layers using the Flux](http://fluxxor.com/)
 * [refluxjs - A simple library for uni-directional dataflow application architecture inspired by Flux](https://github.com/spoike/refluxjs)
 * [fluxy - An implementation of Facebook's Flux architecture](https://github.com/jmreidy/fluxy)
@@ -312,6 +313,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-starter-kit - a skeleton for an isomorphic web application](https://github.com/kriasoft/react-starter-kit)
 * [React Quickstart](https://github.com/andreypopp/react-quickstart)
 * [React Hack](https://github.com/petehunt/ReactHack)
+* [React Phonegap/Cordova App](https://github.com/kjda/ReactJs-Phonegap)
 * [react-component-boilerplate - Boilerplate for creating React components](https://github.com/mzabriskie/react-component-boilerplate)
 * [React on Rails Starter Kit](https://github.com/elierotenberg/react-rails-starterkit)
 * [react-browserify-template - Quick template for building with Browserify + React](https://github.com/petehunt/react-browserify-template)
@@ -346,6 +348,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Khan Academy React Components](http://khan.github.io/react-components/)
 * [VistarMedia Components](http://cmpnt.vistarmedia.com/)
 * [Reactjsx Components List](http://www.reactjsx.com/)
+* [React Topcoat UI components](https://github.com/kjda/react-topui)
 * [react-material - Material design components written with React.js and React Style](https://github.com/SanderSpies/react-material)
 * [material-ui - A CSS Framework and a Set of React Components that Implement Google's Material Design.](https://github.com/callemall/material-ui)
 * [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
