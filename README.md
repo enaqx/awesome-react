@@ -356,6 +356,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-grid - Data grid for React](https://github.com/prometheusresearch/react-grid)
 * [react-async - Async rendering for React components](https://github.com/andreypopp/react-async)
 * [react-async-input - Inputs that behave properly with async set{State,Props} calls](https://github.com/grncdr/react-async-input)
+* [react-avatar-editr - Facebook / OSX like Profile Picture Editor](https://github.com/mosch/react-avatar-editor)
 * [react-mediaswitch - Choose your DOM based on media queries](https://github.com/matthewwithanm/react-mediaswitch)
 * [react-frame-component - Render your React app to an iFrame](https://github.com/ryanseddon/react-frame-component)
 * [react-gravatar - React component for rendering a gravatar profile image](https://github.com/KyleAMathews/react-gravatar)
