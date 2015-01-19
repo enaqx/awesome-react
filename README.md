@@ -109,7 +109,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [WebRTC chat with React.js](http://blog.mgechev.com/2014/09/03/webrtc-peer-to-peer-chat-with-react/)
 * [Introduction to Contexts in React.js](https://www.tildedave.com/2014/11/15/introduction-to-contexts-in-react-js.html)
 * [Learn React by building the Hacker News front page](https://github.com/mking/react-hn)
+<<<<<<< HEAD
 * [Play Framework and Facebook's React library](http://matthiasnehlsen.com/blog/2014/01/05/play-framework-and-facebooks-react-library/)
+=======
+* [Build with React](http://buildwithreact.com/)
+>>>>>>> 191bc32139cb12cbd572be82bb5c56249330fc8b
 
 ##### Writing React Components
 * [A Sortable List Component in React utilizing the HTML5 Drag & Drop API](http://webcloud.se/sortable-list-component-react-js/)
