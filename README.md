@@ -109,6 +109,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [WebRTC chat with React.js](http://blog.mgechev.com/2014/09/03/webrtc-peer-to-peer-chat-with-react/)
 * [Introduction to Contexts in React.js](https://www.tildedave.com/2014/11/15/introduction-to-contexts-in-react-js.html)
 * [Learn React by building the Hacker News front page](https://github.com/mking/react-hn)
+* [Play Framework and Facebook's React library](http://matthiasnehlsen.com/blog/2014/01/05/play-framework-and-facebooks-react-library/)
 
 ##### Writing React Components
 * [A Sortable List Component in React utilizing the HTML5 Drag & Drop API](http://webcloud.se/sortable-list-component-react-js/)
@@ -199,6 +200,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Bootstrap forms using React.js](http://clozeit.wordpress.com/2014/01/13/bootstrap-forms-using-react-js/)
 
 ##### React and ClojureScript
+* [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/)
+* [Om sweet Om](http://blog.getprismatic.com/om-sweet-om-high-functional-frontend-engineering-with-clojurescript-and-react/)
 * [The Case for React.js and ClojureScript](http://murilopereira.com/the-case-for-reactjs-and-clojurescript/)
 
 ##### React and D3js
@@ -243,9 +246,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React: Convincing the Boss](http://www.quora.com/Pete-Hunt/Posts/React-Convincing-the-Boss)
 * [Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)
 * [Remarkable React](http://www.phpied.com/remarkable-react/)
-* [Play Framework and Facebook's React library](http://matthiasnehlsen.com/blog/2014/01/05/play-framework-and-facebooks-react-library/)
-* [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/)
-* [Om sweet Om](http://blog.getprismatic.com/om-sweet-om-high-functional-frontend-engineering-with-clojurescript-and-react/)
+* [Using React to speed up the Khan Academy question editor](http://benalpert.com/2013/06/09/using-react-to-speed-up-khan-academy.html)
+* [React Tutorial rewritten in plain javascript](http://ricardo.cc/2013/06/07/react-tutorial-rewritten-in-plain-javascript.html)
 * [BirdWatch: AngularJS vs. ReactJS](http://matthiasnehlsen.com/blog/2014/03/31/birdwatch-with-reactjs/)
 * [Scala.js and ReactJS](http://matthiasnehlsen.com/blog/2014/01/24/scala-dot-js-and-reactjs/)
 * [Pros and Cons of Facebook's React vs. Web Components](http://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer)
@@ -263,8 +265,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React.js vs traditional MVC](http://www.code-experience.com/react-js-vs-traditional-mvc-backbone-ember-angular/)
 * [Why you might not need MVC with React.js](http://www.code-experience.com/why-you-might-not-need-mvc-with-reactjs/)
 * [React: Finally, a great server/client web stack](http://eflorenzano.com/blog/2014/01/23/react-finally-server-client/)
-* [Custom Components: React & x-tags](http://blog.vjeux.com/2013/javascript/custom-components-react-x-tags.html)
-* [React & CoffeeScript](http://blog.vjeux.com/2013/javascript/react-coffeescript.html)
 * [React: Referencing Dynamic Children](http://www.mattzabriskie.com/blog/react-referencing-dynamic-children)
 * [React.js and How Does It Fit In With Everything Else?](http://www.funnyant.com/reactjs-what-is-it/)
 * [JavaScript’s History and How it Led To ReactJS](http://thenewstack.io/javascripts-history-and-how-it-led-to-reactjs/)
@@ -277,7 +277,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)
 * [Two-Way Data Binding](http://n12v.com/2-way-data-binding/?hn)
 * [React vs. Ember](https://docs.google.com/presentation/d/1afMLTCpRxhJpurQ97VBHCZkLbR1TEsRnd3yyxuSQ5YY/preview?sle=true)
-* [Using React to speed up the Khan Academy question editor](http://benalpert.com/2013/06/09/using-react-to-speed-up-khan-academy.html)
 * [How I Learned to Stop Worrying and Love React](http://www.nixtu.info/2014/07/how-i-learned-to-stop-worrying-and-love.html)
 * [10 reasons to use React in your next project](http://www.htmlxprs.com/post/17/10-reasons-to-use-react-in-your-next-project)
 * [AngularJS vs ReactJS for large web applications](http://blog.liip.ch/archive/2014/09/16/angularjs-vs-reactjs-for-large-web-applications.html)
@@ -478,6 +477,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [om - ClojureScript interface](https://github.com/swannodette/om)
 * [quiescent - A lightweight ClojureScript abstraction over React](https://github.com/levand/quiescent)
 * [Express React views](https://github.com/reactjs/express-react-views)
+* [React & CoffeeScript](http://blog.vjeux.com/2013/javascript/react-coffeescript.html)
 * [Express Coffee-React views - render coffee-react on the server](https://github.com/duereg/express-coffee-react-views)
 * [React Page Middleware](https://github.com/reactjs/react-page-middleware)
 * [ngReact - React Components in Angular](https://github.com/davidchang/ngReact)
