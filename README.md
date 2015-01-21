@@ -41,6 +41,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Development Environment](#development-environment)
   - [Generating](#generating)
   - [Compiling](#compiling)
+  - [Platforms](#platforms)
 - [Videos](#videos)
   - [Video from Confs](#video-from-confs)
   - [Video Tutorials](#video-tutorials)
@@ -617,6 +618,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [fez-react - Transform React JSX using Fez build tool](http://fez.github.io/)
 * [mimosa-react - A JSX compiler for Mimosa build tool](https://github.com/dbashford/mimosa-react)
 * [HTML2React - Convert plain HTML into Coffeescript calls of React.DOM](http://html2react.alhur.es/)
+
+#### Platforms
+ * [morpheus - The next generation web publishing platform built with reactjs](https://github.com/vesparny/morpheus)
 
 ### Videos
 
