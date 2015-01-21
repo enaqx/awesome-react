@@ -73,6 +73,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React #reactjs Twitter](https://twitter.com/search?q=%23reactjs)
 * [React SubReddit](http://www.reddit.com/r/reactjs/)
 * IRC network in `#reactjs` channel on freenode
+* [Reactiflux Slack Group](http://www.slackchats.com/site/contents/content/43043/2014-12-24/flux-reactjs-chat)
+
 
 #### Tutorials
 
