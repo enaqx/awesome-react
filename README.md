@@ -466,7 +466,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-video - React component to load video from Vimeo or Youtube](https://github.com/pedronauck/react-video)
 * [react-google-maps - React.js Google Maps integration component](https://github.com/tomchentw/react-google-maps)
 * [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
+<<<<<<< HEAD
 * [react-sortablejs - React wrapper for Sortable](https://github.com/mking/react-sortablejs)
+=======
+* [react-cassette-player - Vector-based HTML5 Audio Player](https://github.com/chadpaulson/react-cassette-player)
+>>>>>>> 139bf9b8d9d2f56abb72731358d58e044ed9b2df
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
@@ -697,6 +701,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [wolfenstein3D-react - Wolfenstein with the rendering layer written in React](https://github.com/petehunt/wolfenstein3D-react)
 * [flux-react-router-example - Sample Flux app with routing and pagination using Github API](https://github.com/gaearon/flux-react-router-example)
 * [catshop - Shopping cart built on Bootstrap 3.1 using test/fake Bitcoins](https://github.com/coinbolt/catshop)
+* [react-isomorphic-video-game-search - An Isomorphic demo powered by React, reflux, react-router-component, express, superagent and the Giant Bomb API](http://react-isomorphic-video-game-search.warppi.pe/)
 
 ### Examples
 * [React HTML Template](https://github.com/enaqx/awesome-react/tree/master/examples/000_react_html_template)
