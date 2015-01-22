@@ -466,11 +466,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-video - React component to load video from Vimeo or Youtube](https://github.com/pedronauck/react-video)
 * [react-google-maps - React.js Google Maps integration component](https://github.com/tomchentw/react-google-maps)
 * [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
-<<<<<<< HEAD
 * [react-sortablejs - React wrapper for Sortable](https://github.com/mking/react-sortablejs)
-=======
 * [react-cassette-player - Vector-based HTML5 Audio Player](https://github.com/chadpaulson/react-cassette-player)
->>>>>>> 139bf9b8d9d2f56abb72731358d58e044ed9b2df
+
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
