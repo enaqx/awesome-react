@@ -212,6 +212,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Om sweet Om](http://blog.getprismatic.com/om-sweet-om-high-functional-frontend-engineering-with-clojurescript-and-react/)
 * [The Case for React.js and ClojureScript](http://murilopereira.com/the-case-for-reactjs-and-clojurescript/)
 
+##### React and Haskell
+* [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/index.html)
+
 ##### React and D3js
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
 * [D3 and React - the future of charting components?](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
@@ -490,6 +493,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React on Rails](https://github.com/elierotenberg/react-rails)
 * [om - ClojureScript interface](https://github.com/swannodette/om)
 * [quiescent - A lightweight ClojureScript abstraction over React](https://github.com/levand/quiescent)
+* [react-haskell - React bindings for Haskell](https://github.com/joelburget/react-haskell)
 * [Express React views](https://github.com/reactjs/express-react-views)
 * [React & CoffeeScript](http://blog.vjeux.com/2013/javascript/react-coffeescript.html)
 * [Express Coffee-React views - render coffee-react on the server](https://github.com/duereg/express-coffee-react-views)
