@@ -467,7 +467,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
 * [react-sortablejs - React wrapper for Sortable](https://github.com/mking/react-sortablejs)
 * [react-cassette-player - Vector-based HTML5 Audio Player](https://github.com/chadpaulson/react-cassette-player)
-
+* [react-tagsinput - A simple react component for inputing tags.](https://github.com/olahol/react-tagsinput)
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
