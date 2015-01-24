@@ -622,13 +622,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [mimosa-react - A JSX compiler for Mimosa build tool](https://github.com/dbashford/mimosa-react)
 * [HTML2React - Convert plain HTML into Coffeescript calls of React.DOM](http://html2react.alhur.es/)
 
-<<<<<<< HEAD
 #### Platforms
  * [morpheus - The next generation web publishing platform built with reactjs](https://github.com/vesparny/morpheus)
 
-=======
+
 ---
->>>>>>> 9950b988b3294a410478ba4e9fd51550318e4495
 ### Videos
 
 #### Video from Confs
