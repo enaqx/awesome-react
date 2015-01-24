@@ -19,6 +19,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [React and Angular](#react-and-angular)
     - [React and Bootstrap](#react-and-bootstrap)
     - [React and ClojureScript](#react-and-clojurescript)
+    - [React and Haskell](#react-and-haskell)
     - [Server-Client with React](#server-client-with-react)
     - [Server Side Rendering](#server-side-rendering)
     - [Compiling React Tutorials](#compiling-react-tutorials)
