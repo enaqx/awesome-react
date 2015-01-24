@@ -51,6 +51,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contribution](#contribution)
 
+---
 ### Resources
 
 #### General Resources
@@ -293,6 +294,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
 * [An Optimal Decomposition Algorithm for Tree Edit Distance](http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf)
 
+---
 ### Tools
 
 #### Flux
@@ -620,9 +622,13 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [mimosa-react - A JSX compiler for Mimosa build tool](https://github.com/dbashford/mimosa-react)
 * [HTML2React - Convert plain HTML into Coffeescript calls of React.DOM](http://html2react.alhur.es/)
 
+<<<<<<< HEAD
 #### Platforms
  * [morpheus - The next generation web publishing platform built with reactjs](https://github.com/vesparny/morpheus)
 
+=======
+---
+>>>>>>> 9950b988b3294a410478ba4e9fd51550318e4495
 ### Videos
 
 #### Video from Confs
@@ -670,12 +676,14 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Using multiple components in React JS](http://videos.bigbinary.com/react/using-multiple-components-in-react.html)
 * [React in 7 Minutes](https://egghead.io/lessons/react-react-in-7-minutes)
 
+---
 ### Books
 * [Free JS book from Revolunet](http://jsbooks.revolunet.com/)
 * [React.js, The Rails Way](https://www.gitbook.io/book/checkraiser/rails-and-react-js)
 * [React, User Interfaces with JavaScript](http://www.reactbook.org/)
 * [Developing a React.js Edge, The JavaScript Library for User Interfaces](http://shop.oreilly.com/product/9781939902122.do)
 
+---
 ### Demos
 * [react.rocks - Pinterest-style directory of online demos with available code](http://react.rocks/)
 * [react-hn - A React & react-router-powered implementation of Hacker News](https://github.com/insin/react-hn)
@@ -700,6 +708,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [catshop - Shopping cart built on Bootstrap 3.1 using test/fake Bitcoins](https://github.com/coinbolt/catshop)
 * [react-isomorphic-video-game-search - An Isomorphic demo powered by React, reflux, react-router-component, express, superagent and the Giant Bomb API](http://react-isomorphic-video-game-search.warppi.pe/)
 
+---
 ### Examples
 * [React HTML Template](https://github.com/enaqx/awesome-react/tree/master/examples/000_react_html_template)
 * [React Helloworld](https://github.com/enaqx/awesome-react/tree/master/examples/001_helloworld)
@@ -710,6 +719,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [POST/GET with HTTP server](https://github.com/enaqx/awesome-react/tree/master/examples/006_with_http_server)
 * [Refs to send messages between components](https://github.com/enaqx/awesome-react/tree/master/examples/007_refs)
 
+---
 ### Other Awesome Lists
 * [reactjs-stuff](https://github.com/mindreframer/reactjs-stuff)
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -719,5 +729,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Node.js Programming by @vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
+---
 ### Contribution
 Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
