@@ -20,6 +20,8 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [React and Bootstrap](#react-and-bootstrap)
     - [React and ClojureScript](#react-and-clojurescript)
     - [React and Haskell](#react-and-haskell)
+    - [React and D3](#react-and-d3)
+    - [React and SocketIO](#react-and-socketio)
     - [Server-Client with React](#server-client-with-react)
     - [Server Side Rendering](#server-side-rendering)
     - [Compiling React Tutorials](#compiling-react-tutorials)
@@ -216,10 +218,15 @@ A collection of awesome React tools, resources, videos and shiny things.
 ##### React and Haskell
 * [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/index.html)
 
-##### React and D3js
+##### React and D3
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
 * [D3 and React - the future of charting components?](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
 * [Choropleth mapping with React and d3](http://pleasetrythisathome.github.io/react%20d3%20visualization%20choropleth/2014/03/20/react-choropleth.html)
+
+###### React and Socket.IO
+* [Socket.IO integration example](https://gist.github.com/zpao/5686416)
+* [Socket.IO integration example inside of a single React component](https://gist.github.com/petehunt/5687230)
+* [Socket.IO integration employing separation of concerns](https://gist.github.com/petehunt/5687276)
 
 ##### Server-Client with React
 * [Server/Client With React, Part 1: Getting Started](http://eflorenzano.com/blog/2014/04/09/react-part-1-getting-started/)
