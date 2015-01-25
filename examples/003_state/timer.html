@@ -2,13 +2,13 @@
 <html>
   <head>
     <title>Timer</title>
-    <script src="http://fb.me/react-0.11.2.js"></script>
-    <script src="http://fb.me/JSXTransformer-0.11.2.js"></script>
+    <script src="http://fb.me/react-0.12.2.js"></script>
+    <script src="http://fb.me/JSXTransformer-0.12.2.js"></script>
   </head>
   <body>
     <div id="content"></div>
     <script type="text/jsx">
-      /** @jsx React.DOM */
+
       var Timer = React.createClass({
         getInitialState: function() {
           return {secondsElapsed: 0};
@@ -29,10 +29,11 @@
         }
       });
 
-      React.renderComponent(
+      React.render(
         <Timer />, 
         document.getElementById('content')
       );
+
     </script>
   </body>
 </html>

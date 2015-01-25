@@ -4,7 +4,7 @@
   "description": "React ref",
   "main": "server.js",
   "dependencies": {
-    "express": "4.9"
+    "express": "4.11.1"
   },
   "author": "petehunt",
   "license": "MIT"

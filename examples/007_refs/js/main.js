@@ -1,6 +1,4 @@
- /** @jsx React.DOM */
-
-var SearchBox = React.createClass({
+SearchBox = React.createClass({
   getInitialState: function(){
     return {
       value: 'Using refs'
@@ -30,7 +28,7 @@ var SearchBox = React.createClass({
 var globalValue = '';
 
 var render = function() {
-  React.renderComponent(
+  React.render(
     new React.DOM.div({},
       new SearchBox({ 
         onChange: function(e) {

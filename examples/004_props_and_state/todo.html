@@ -2,13 +2,13 @@
 <html>
   <head>
     <title>Todo</title>
-    <script src="http://fb.me/react-0.11.2.js"></script>
-    <script src="http://fb.me/JSXTransformer-0.11.2.js"></script>
+    <script src="http://fb.me/react-0.12.2.js"></script>
+    <script src="http://fb.me/JSXTransformer-0.12.2.js"></script>
   </head>
   <body>
     <div id="content"></div>
     <script type="text/jsx">
-      /** @jsx React.DOM */
+
       var TodoList = React.createClass({
         render: function() {
           var createItem = function(itemText) {
@@ -45,10 +45,11 @@
         }
       });
       
-      React.renderComponent(
+      React.render(
         <TodoApp />, 
         document.getElementById('content')
       );
+
     </script>
   </body>
 </html>

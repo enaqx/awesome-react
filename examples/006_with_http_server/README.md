@@ -2,7 +2,7 @@
 
 ```
 npm install
-node server.js
+npm run
 ```
 
 And visit [http://localhost:3000/](http://localhost:3000/). Try opening multiple tabs!

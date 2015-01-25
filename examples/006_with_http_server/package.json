@@ -4,8 +4,8 @@
   "description": "Code from the React tutorial.",
   "main": "server.js",
   "dependencies": {
-    "body-parser": "1.9",
-    "express": "4.9"
+    "body-parser": "1.10.2",
+    "express": "4.11.1"
   },
   "author": "petehunt",
   "license": "MIT"
