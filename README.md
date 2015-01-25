@@ -486,6 +486,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-tagsinput - A simple react component for inputing tags.](https://github.com/olahol/react-tagsinput)
 
 #### Libraries
+* [tuxx - A feature complete framework built on the React view layer, Flux Architecture, and CommonJS modules](http://www.tuxedojs.org//)
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
 * [tcomb-react -  Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
 * [react-responsive - Media queries in react for responsive design](https://github.com/wearefractal/react-responsive)
