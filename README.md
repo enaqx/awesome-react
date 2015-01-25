@@ -153,7 +153,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Compiling JSX with Sweet.js using Readtables](http://jlongster.com/Compiling-JSX-with-Sweet.js-using-Readtables)
 * [JSX for the real DOM](http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html)
 * [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
-* [Testing Flux Applications](http://facebook.github.io/react/blog/2014/09/24/testing-flux-applications.html)
 * [JSX support in eslint](https://github.com/eslint/eslint/issues/1291)
 
 ##### Flux Tutorials
@@ -223,7 +222,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [D3 and React - the future of charting components?](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
 * [Choropleth mapping with React and d3](http://pleasetrythisathome.github.io/react%20d3%20visualization%20choropleth/2014/03/20/react-choropleth.html)
 
-###### React and Socket.IO
+##### React and Socket.IO
 * [Socket.IO integration example](https://gist.github.com/zpao/5686416)
 * [Socket.IO integration example inside of a single React component](https://gist.github.com/petehunt/5687230)
 * [Socket.IO integration employing separation of concerns](https://gist.github.com/petehunt/5687276)
@@ -250,6 +249,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Choosing the correct packaging tool for React JS](http://christianalfoni.github.io/javascript/2014/08/29/choosing-the-correct-packaging-tool-for-react-js.html)
 
 ##### Testing React Tutorials
+* [Testing Flux Applications](http://facebook.github.io/react/blog/2014/09/24/testing-flux-applications.html)
 * [Testing React Components](http://www.asbjornenge.com/wwc/testing_react_components.html)
 * [Testing React components with Huxley](https://caurea.org/2014/02/23/testing-react-components-with-huxley.html)
 * [Testing React.js](http://engineering.venmo.com/blog/2014/05/15/testing-react/)
