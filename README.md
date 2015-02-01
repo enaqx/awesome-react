@@ -13,6 +13,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
+    - [Comprehensive Guide to Building Apps with React](#comprehensive-guide-to-building-apps-with-react)
     - [Scotch.io React tutorials series](#scotchio-react-tutorials-series)
     - [React styling](#react-styling)
     - [React and Backbone](#react-and-backbone)
@@ -180,6 +181,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Building robust web apps with React: Part 2](http://maketea.co.uk/2014/04/07/building-robust-web-apps-with-react-part-2.html)
 * [Building robust web apps with React: Part 3](http://maketea.co.uk/2014/05/22/building-robust-web-apps-with-react-part-3.html)
 * [Building robust web apps with React: Part 4](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html)
+
+##### Comprehensive Guide to Building Apps with React 
+* [Part 1 - Comprehensive Guide to Building Apps with React](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/) 
+* [Part 2 - Building React Applications with Gulp and Browserify](http://tylermcginnis.com/reactjs-tutorial-pt-2-building-react-applications-with-gulp-and-browserify/)
 
 ##### Scotch.io React tutorials series
 * [Learning React.js: Getting Started and Concepts](http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts)
