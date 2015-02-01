@@ -221,6 +221,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
 * [D3 and React - the future of charting components?](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
 * [Choropleth mapping with React and d3](http://pleasetrythisathome.github.io/react%20d3%20visualization%20choropleth/2014/03/20/react-choropleth.html)
+* [react-d3 chart library](http://esbullington.github.io/react-d3/)
 
 ##### React and Socket.IO
 * [Socket.IO integration example](https://gist.github.com/zpao/5686416)
