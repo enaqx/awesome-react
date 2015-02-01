@@ -28,6 +28,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [Testing React Tutorials](#testing-react-tutorials)
     - [Data Models for React](#data-models-for-react)
     - [Debugging React](#debugging-react)
+    - [Authentication and Authorization](#authentication-and-authorization)
   - [Approach Explanation](#approach-explanation)
   - [React Internals](#react-internals)
 - [Tools](#tools)
@@ -261,6 +262,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ##### Debugging React
 * [Trace Logging with React](http://www.garysieling.com/blog/trace-logging-react)
+
+##### Authentication and Authorization
+* [Role-based authorization](http://blog.littleblimp.com/post/109540707808/role-based-authorization-with-react-js)
 
 #### Approach Explanation
 * [React: Convincing the Boss](http://www.quora.com/Pete-Hunt/Posts/React-Convincing-the-Boss)
