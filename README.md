@@ -175,6 +175,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Flux in practice](https://medium.com/@garychambers108/flux-in-practice-ec08daa9041a)
 * [Flux for Stupid People](http://blog.andrewray.me/flux-for-stupid-people/)
 * [What is the Flux Application Architecture?](https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e)
+* [React + Flux Backed by Rails API](http://fancypixel.github.io/blog/2015/01/28/react-plus-flux-backed-by-rails-api/)
 
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
