@@ -278,6 +278,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Remarkable React](http://www.phpied.com/remarkable-react/)
 * [Using React to speed up the Khan Academy question editor](http://benalpert.com/2013/06/09/using-react-to-speed-up-khan-academy.html)
 * [Getting your team to adopt new technology](http://bjk5.com/post/53742233351/getting-your-team-to-adopt-new-technology)
+* [Arguing for ReactJS](https://medium.com/@joaomilho/arguing-for-reactjs-7b80aafc6493)
 * [React Tutorial rewritten in plain javascript](http://ricardo.cc/2013/06/07/react-tutorial-rewritten-in-plain-javascript.html)
 * [BirdWatch: AngularJS vs. ReactJS](http://matthiasnehlsen.com/blog/2014/03/31/birdwatch-with-reactjs/)
 * [Scala.js and ReactJS](http://matthiasnehlsen.com/blog/2014/01/24/scala-dot-js-and-reactjs/)
