@@ -336,6 +336,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [flux-router-component - Router React mixin for applications built with Flux](https://github.com/yahoo/flux-router-component)
 * [fluxy - An implementation of Facebook's Flux architecture](https://github.com/jmreidy/fluxy)
 * [normalizr — Normalizes nested JSON according to schema for Flux Stores](https://github.com/gaearon/normalizr)
+* [Flummox - An isomorphic Flux library with zero singletons](https://github.com/acdlite/flummox)
 
 #### Boilerplates
 * [React Starterify - application skeleton using Browserify and other awesome tools](https://github.com/Granze/react-starterify)
