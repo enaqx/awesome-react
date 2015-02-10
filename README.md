@@ -224,6 +224,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Om sweet Om](http://blog.getprismatic.com/om-sweet-om-high-functional-frontend-engineering-with-clojurescript-and-react/)
 * [The Case for React.js and ClojureScript](http://murilopereira.com/the-case-for-reactjs-and-clojurescript/)
 
+##### React and CoffeeScript
+
+* [React patterns - Mostly reasonable patterns for writing React in CoffeeScript](https://github.com/planningcenter/react-patterns)
+
 ##### React and Haskell
 * [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/index.html)
 
