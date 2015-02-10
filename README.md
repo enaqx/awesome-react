@@ -89,7 +89,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 ##### General Tutorials
 * [React Tutorial](http://facebook.github.io/react/docs/tutorial.html)
 * [React One Hour](https://github.com/petehunt/react-one-hour-email/commits/master)
-* [Pro Javascript React Tutorial](http://webdesignporto.com/react-js-an-interactive-tutorial-to-get-started/)
 * [Medium React Tutorials](https://medium.com/react-tutorials)
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [React beginner tutorial: implementing the board game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html)
@@ -185,8 +184,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Building robust web apps with React: Part 3](http://maketea.co.uk/2014/05/22/building-robust-web-apps-with-react-part-3.html)
 * [Building robust web apps with React: Part 4](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html)
 
-##### Comprehensive Guide to Building Apps with React 
-* [Part 1 - Comprehensive Guide to Building Apps with React](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/) 
+##### Comprehensive Guide to Building Apps with React
+* [Part 1 - Comprehensive Guide to Building Apps with React](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 * [Part 2 - Building React Applications with Gulp and Browserify](http://tylermcginnis.com/reactjs-tutorial-pt-2-building-react-applications-with-gulp-and-browserify/)
 
 ##### Scotch.io React tutorials series
