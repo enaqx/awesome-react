@@ -20,6 +20,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [React and Angular](#react-and-angular)
     - [React and Bootstrap](#react-and-bootstrap)
     - [React and ClojureScript](#react-and-clojurescript)
+    - [React and CoffeeScript](#react-and-coffeescript)
     - [React and Haskell](#react-and-haskell)
     - [React and D3](#react-and-d3)
     - [React and SocketIO](#react-and-socketio)
@@ -225,7 +226,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [The Case for React.js and ClojureScript](http://murilopereira.com/the-case-for-reactjs-and-clojurescript/)
 
 ##### React and CoffeeScript
-
+* [React & CoffeeScript](http://blog.vjeux.com/2013/javascript/react-coffeescript.html)
 * [React patterns - Mostly reasonable patterns for writing React in CoffeeScript](https://github.com/planningcenter/react-patterns)
 
 ##### React and Haskell
@@ -525,7 +526,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [quiescent - A lightweight ClojureScript abstraction over React](https://github.com/levand/quiescent)
 * [react-haskell - React bindings for Haskell](https://github.com/joelburget/react-haskell)
 * [Express React views](https://github.com/reactjs/express-react-views)
-* [React & CoffeeScript](http://blog.vjeux.com/2013/javascript/react-coffeescript.html)
 * [Express Coffee-React views - render coffee-react on the server](https://github.com/duereg/express-coffee-react-views)
 * [React Page Middleware](https://github.com/reactjs/react-page-middleware)
 * [ngReact - React Components in Angular](https://github.com/davidchang/ngReact)
