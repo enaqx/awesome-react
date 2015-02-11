@@ -321,7 +321,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [10 reasons to use React in your next project](http://www.htmlxprs.com/post/17/10-reasons-to-use-react-in-your-next-project)
 * [AngularJS vs ReactJS for large web applications](http://blog.liip.ch/archive/2014/09/16/angularjs-vs-reactjs-for-large-web-applications.html)
 * [Easier UI Reasoning with Unidirectional Dataflow and Immutable Data - Using React.js and Omniscient.js](http://open.bekk.no/easier-reasoning-with-unidirectional-dataflow-and-immutable-data)
-* [What You Need to Know About React](http://revelry.co/2014/11/01/what-you-need-to-know-about-react/)
+
 * [From Backbone To React: Our Experience Scaling a Web Application](http://www.techsonian.net/2014/09/from-backbone-to-react-our-experience-scaling-a-web-application/)
 
 #### React Internals
