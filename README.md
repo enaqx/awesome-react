@@ -709,6 +709,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Life cycle methods - In Depth ](http://videos.bigbinary.com/react/react-life-cycle-methods-in-depth.html)
 * [Using multiple components in React JS](http://videos.bigbinary.com/react/using-multiple-components-in-react.html)
 * [React in 7 Minutes](https://egghead.io/lessons/react-react-in-7-minutes)
+* [jFlux - Going from MVC to FLUX](https://www.youtube.com/watch?v=plUN2L4Ak14)
 
 ---
 ### Books
