@@ -671,6 +671,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-google-maps - React.js Google Maps integration component](https://github.com/tomchentw/react-google-maps)
 * [react-gmaps - A Google Maps component for React.js](https://github.com/MicheleBertoli/react-gmaps)
 
+#### Service Workers
+ * [react-worker - Using Service Workers to render React components](https://github.com/MicheleBertoli/react-worker)
+
 ---
 ### Videos
 
