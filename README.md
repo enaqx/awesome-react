@@ -121,6 +121,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Play Framework and Facebook's React library](http://matthiasnehlsen.com/blog/2014/01/05/play-framework-and-facebooks-react-library/)
 * [Build with React](http://buildwithreact.com/)
 * [Taking React to the next level: Mixins, Gulp, and Browserify](http://pomax.github.io/?#gh-weblog-1420592591221)
+* [Getting Started with React](http://ryanclark.me/getting-started-with-react/)
 
 ##### Writing React Components
 * [A Sortable List Component in React utilizing the HTML5 Drag & Drop API](http://webcloud.se/sortable-list-component-react-js/)
