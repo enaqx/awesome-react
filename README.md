@@ -271,9 +271,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Testing React.js](http://engineering.venmo.com/blog/2014/05/15/testing-react/)
 * [Unit Testing React.js With Jasmine and Karma](http://myshareoftech.com/2013/12/unit-testing-react-dot-js-with-jasmine-and-karma.html)
 
-##### Data Models for React
-* [Valuable — A Data Model for React](https://medium.com/@josephsavona/valuable-a-data-model-for-react-1b8868493bf6)
-
 ##### Debugging React
 * [Trace Logging with React](http://www.garysieling.com/blog/trace-logging-react)
 
