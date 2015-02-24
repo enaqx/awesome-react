@@ -147,6 +147,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Swarm.js+React — real-time, offline-ready Holy Grail web apps](http://swarmjs.github.io/articles/todomvc/)
 * [Creating Isomorphic apps with React and Node.js](http://www.htmlxprs.com/post/20/creating-isomorphic-apps-with-react-and-nodejs)
 * [Serverside React Rendering: Isomorphic JavaScript with ReactJS + Node](https://reactjsnews.com/isomorphic-javascript-with-react-node/)
+* [Serverside React Rendering: Isomorphic JavaScript with ReactJS + Golang](https://github.com/olebedev/go-react-example)
 
 ##### JSX
 * [JSX Specification](http://facebook.github.io/jsx/)
