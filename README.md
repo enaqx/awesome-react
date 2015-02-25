@@ -697,6 +697,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Jonathan Beebe: Real World React - Nodevember 2014](https://www.youtube.com/watch?v=uZgAq1CZ1N8)
 
 #### Video Tutorials
+* [learnreact.com — 3ish minute videos on React.js](http://learnreact.com/)
 * [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
 * [Learn ReactJS (make a Pokedex!) - part 2](https://www.youtube.com/watch?v=lNqnZ58YGE0)
 * [React.js Components  - part 1](http://www.youtube.com/watch?v=rFvZydtmsxM)
