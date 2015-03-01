@@ -341,6 +341,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [fluxy - An implementation of Facebook's Flux architecture](https://github.com/jmreidy/fluxy)
 * [normalizr — Normalizes nested JSON according to schema for Flux Stores](https://github.com/gaearon/normalizr)
 * [Flummox - An isomorphic Flux library with zero singletons](https://github.com/acdlite/flummox)
+* [Hoverboard - A very lightweight (anti-gravity?) data model and Flux store with actions and a state change listener.](https://github.com/jesseskinner/hoverboard)
 
 #### Boilerplates
 * [React Starterify - application skeleton using Browserify and other awesome tools](https://github.com/Granze/react-starterify)
