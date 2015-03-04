@@ -122,6 +122,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Build with React](http://buildwithreact.com/)
 * [Taking React to the next level: Mixins, Gulp, and Browserify](http://pomax.github.io/?#gh-weblog-1420592591221)
 * [Getting Started with React](http://ryanclark.me/getting-started-with-react/)
+* [React JS Tutorial and Guide to the Gotchas](https://zapier.com/engineering/react-js-tutorial-guide-gotchas)
 
 ##### Writing React Components
 * [A Sortable List Component in React utilizing the HTML5 Drag & Drop API](http://webcloud.se/sortable-list-component-react-js/)
