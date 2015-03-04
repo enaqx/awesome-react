@@ -48,6 +48,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Compiling](#compiling)
   - [Platforms](#platforms)
   - [JSX Alternatives](#jsx-alternatives)
+  - [Maps](#maps)
 - [Videos](#videos)
   - [Video from Confs](#video-from-confs)
   - [Video Tutorials](#video-tutorials)
@@ -423,7 +424,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-controlfacades - Style form controls but use their default behavior](https://github.com/hzdg/react-controlfacades)
 * [react-pressable - Add onRelease, onReleaseInside, onReleaseOutside, and onPress events](https://github.com/hzdg/react-pressable)
 * [react-google-analytics - Google analytics component](https://github.com/hzdg/react-google-analytics)
-* [react-googlemaps - React interface to Google maps](https://github.com/pieterv/react-googlemaps)
 * [react-layers - A library for layering components in React](https://github.com/pieterv/react-layers)
 * [react-gcal-events-list - A Reusable component that pulls events from your google calendar](https://github.com/VinSpee/react-gcal-events-list)
 * [reactdi - Dependency injection for ReactJS components](https://github.com/hzdg/reactdi)
@@ -444,7 +444,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-tags - A simple wrapper around React.DOM](https://github.com/adelevie/react-tags)
 * [react-datepicker by @misino - Datepicker component for application using Facebook React](https://github.com/misino/react-datepicker)
 * [react-datepicker by @Hacker0x01 - A simple and reusable datepicker component for React](https://github.com/Hacker0x01/react-datepicker)
-* [react-maps - A map component for React](https://github.com/matnel/react-maps)
 * [react-styles - Utility to manage styles for React JS components](https://github.com/hedgerwang/react-styles)
 * [react-stylesheet - A component for React to declare stylesheet dependencies](https://github.com/andreypopp/react-stylesheet)
 * [react-table-sorter-demo - A React.js Table Sorter Component](https://github.com/bgerm/react-table-sorter-demo)
@@ -498,7 +497,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-sortable - Data React Mixin to sort data easily](https://github.com/AndrewHathaway/ReactSortableDataMixin)
 * [react-select - Rich Select Component](https://github.com/JedWatson/react-select)
 * [react-video - React component to load video from Vimeo or Youtube](https://github.com/pedronauck/react-video)
-* [react-google-maps - React.js Google Maps integration component](https://github.com/tomchentw/react-google-maps)
 * [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
 * [react-sortablejs - React wrapper for Sortable](https://github.com/mking/react-sortablejs)
 * [react-cassette-player - Vector-based HTML5 Audio Player](https://github.com/chadpaulson/react-cassette-player)
@@ -665,6 +663,12 @@ A collection of awesome React tools, resources, videos and shiny things.
  * [r-dom - A simple React DOM wrapper](https://github.com/uber/r-dom)
  * [react-hyperscript - Hyperscript syntax for React.js markup](https://github.com/mlmorg/react-hyperscript)
  * [react-no-jsx - A pure JS DSL to be used instead of JSX](https://github.com/jussi-kalliokoski/react-no-jsx)
+
+#### Maps
+* [react-googlemaps - React interface to Google maps](https://github.com/pieterv/react-googlemaps)
+* [react-maps - A map component for React](https://github.com/matnel/react-maps)
+* [react-google-maps - React.js Google Maps integration component](https://github.com/tomchentw/react-google-maps)
+* [react-gmaps - A Google Maps component for React.js](https://github.com/MicheleBertoli/react-gmaps)
 
 ---
 ### Videos
