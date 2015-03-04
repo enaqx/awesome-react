@@ -83,6 +83,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * IRC network in `#reactjs` channel on freenode
 * [Reactiflux Slack Group](http://reactiflux.com)
 * [React.js Newsletter](http://reactjsnewsletter.com)
+* [ReactLoop.org](http://reactloop.org)
 
 
 #### Tutorials
