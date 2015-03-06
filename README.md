@@ -49,6 +49,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Platforms](#platforms)
   - [JSX Alternatives](#jsx-alternatives)
   - [Maps](#maps)
+  - [Service Workers](#service-workers)
 - [Videos](#videos)
   - [Video from Confs](#video-from-confs)
   - [Video Tutorials](#video-tutorials)
