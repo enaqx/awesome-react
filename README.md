@@ -182,6 +182,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React + Flux Backed by Rails API: Part 2](http://fancypixel.github.io/blog/2015/01/29/react-plus-flux-backed-by-rails-api-part-2/)
 * [React + Flux Backed by Rails API: Part 3](http://fancypixel.github.io/blog/2015/01/30/react-plus-flux-backed-by-rails-api-part-3/)
 * [Introduction to Facebook's Flux architecture](http://ryanclark.me/getting-started-with-flux/)
+* [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
