@@ -626,6 +626,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [imvvm - Immutable Model-View-ViewModel for React](https://github.com/entrendipity/imvvm)
 * [morearty.js - Better state management for React in pure JavaScript](https://github.com/moreartyjs/moreartyjs)
 * [valuable - An immutable data store for React](https://github.com/josephsavona/valuable)
+* [react-resolver - Isomorphic library to recursively lazy-load data for React components](https://github.com/ericclemmons/react-resolver)
 
 #### Development Environment
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
