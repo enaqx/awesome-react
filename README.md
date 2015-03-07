@@ -762,6 +762,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [flux-react-router-example - Sample Flux app with routing and pagination using Github API](https://github.com/gaearon/flux-react-router-example)
 * [catshop - Shopping cart built on Bootstrap 3.1 using test/fake Bitcoins](https://github.com/coinbolt/catshop)
 * [react-isomorphic-video-game-search - An Isomorphic demo powered by React, reflux, react-router-component, express, superagent and the Giant Bomb API](http://react-isomorphic-video-game-search.warppi.pe/)
+* [Flux ImmutableJS TodoList](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
 
 ---
 ### Examples
@@ -773,7 +774,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [External Plugin](https://github.com/enaqx/awesome-react/tree/master/examples/005_external_plugin)
 * [POST/GET with HTTP server](https://github.com/enaqx/awesome-react/tree/master/examples/006_with_http_server)
 * [Refs to send messages between components](https://github.com/enaqx/awesome-react/tree/master/examples/007_refs)
-* [Flux ImmutableJS TodoList](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
+
 ---
 ### Other Awesome Lists
 * [reactjs-stuff](https://github.com/mindreframer/reactjs-stuff)
