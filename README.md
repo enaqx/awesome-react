@@ -375,7 +375,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-component-boilerplate - A React component boilerplate](https://github.com/TYRONEMICHAEL/react-component-boilerplate)
 * [mullet - A React + Hapi Starter Kit](https://github.com/lynnaloo/mullet)
 * [react-express-webpack-template - Server and client-side template with react-router and react-hot-reload ](https://github.com/gpbl/react-express-webpack-template)
-* [react-isomorphic-starterkit - Isomorphic starterkit for React apps, that just works.](https://github.com/RickWong/react-isomorphic-starterkit)
+* [react-isomorphic-starterkit - Create an isomorphic React app in less than 5 minutes](https://github.com/RickWong/react-isomorphic-starterkit)
 
 #### Components
 * [React Components](http://react-components.com/)
