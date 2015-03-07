@@ -201,6 +201,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ##### React styling
 * [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
+* [Radium](https://github.com/FormidableLabs/radium)
 
 ##### React and Backbone
 * [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
