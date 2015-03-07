@@ -162,6 +162,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [JSX for the real DOM](http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html)
 * [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
 * [JSX support in eslint](https://github.com/eslint/eslint/issues/1291)
+* [Lint Like It’s 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48)
 
 ##### Flux Tutorials
 * [Flux Application Architecture](http://facebook.github.io/flux/docs/overview.html)
