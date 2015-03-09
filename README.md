@@ -532,6 +532,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React on Rails](https://github.com/elierotenberg/react-rails)
 * [om - ClojureScript interface](https://github.com/swannodette/om)
 * [quiescent - A lightweight ClojureScript abstraction over React](https://github.com/levand/quiescent)
+* [Reagent - A minimalistic ClojureScript interface to React.js](https://github.com/reagent-project/reagent)
 * [react-haskell - React bindings for Haskell](https://github.com/joelburget/react-haskell)
 * [Express React views](https://github.com/reactjs/express-react-views)
 * [Express Coffee-React views - render coffee-react on the server](https://github.com/duereg/express-coffee-react-views)
