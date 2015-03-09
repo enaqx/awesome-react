@@ -520,7 +520,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-cursor - Functional state management abstraction for use with Facebook React](https://github.com/dustingetz/react-cursor)
 * [Omniscient.js - Abstracting React components for fast top down render of immutable data](https://github.com/omniscientjs/omniscient)
 * [Touchstonejs - React.js powered UI framework for developing beautiful hybrid mobile apps.](http://touchstonejs.io/)
-* * [StateTrooper - Centrally manage state for React applications with CSP](https://github.com/swipely/state-trooper)
+* [StateTrooper - Centrally manage state for React applications with CSP](https://github.com/swipely/state-trooper)
+* [riotjs - A React- like, 3.5KB user interface library](https://github.com/muut/riotjs)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
