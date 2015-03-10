@@ -48,7 +48,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Compiling](#compiling)
   - [Platforms](#platforms)
   - [JSX Alternatives](#jsx-alternatives)
-  - [Template Engines]((#template-engines))
+  - [Template Engines](#template-engines)
   - [Maps](#maps)
   - [Service Workers](#service-workers)
 - [Videos](#videos)
