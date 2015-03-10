@@ -48,6 +48,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Compiling](#compiling)
   - [Platforms](#platforms)
   - [JSX Alternatives](#jsx-alternatives)
+  - [Template Engines]((#template-engines))
   - [Maps](#maps)
   - [Service Workers](#service-workers)
 - [Videos](#videos)
@@ -678,6 +679,9 @@ A collection of awesome React tools, resources, videos and shiny things.
  * [r-dom - A simple React DOM wrapper](https://github.com/uber/r-dom)
  * [react-hyperscript - Hyperscript syntax for React.js markup](https://github.com/mlmorg/react-hyperscript)
  * [react-no-jsx - A pure JS DSL to be used instead of JSX](https://github.com/jussi-kalliokoski/react-no-jsx)
+
+#### Template Engines 
+ * [react-templates - Lightweight templates for React](https://github.com/wix/react-templates)
 
 #### Maps
 * [react-googlemaps - React interface to Google maps](https://github.com/pieterv/react-googlemaps)
