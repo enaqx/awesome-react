@@ -609,6 +609,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Autocomplete
 * [react-autocomplete by @rackt - WAI-ARIA compliant React autocomplete](https://github.com/rackt/react-autocomplete)
+* [react-autosuggest by @moroshko - WAI-ARIA compliant React autosuggest component](https://github.com/moroshko/react-autosuggest)
 * [react-autocomplete by @eliseumds- Just tasting some ReactJS + RxJS](https://github.com/eliseumds/react-autocomplete)
 * [react-autocomplete by @prometheusresearch - Autocomplete widget based on React](https://github.com/prometheusresearch/react-autocomplete)
 * [react-select by @JedWatson - Like Selectize / Chosen / Select2 etc, work in progress](https://github.com/JedWatson/react-select)
