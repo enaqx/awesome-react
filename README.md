@@ -720,6 +720,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [James Pearce: An Introduction to ReactJS - All Things Open 2014](https://www.youtube.com/watch?v=m2fuO2wl_3c)
 * [Jonathan Beebe: Real World React - Nodevember 2014](https://www.youtube.com/watch?v=uZgAq1CZ1N8)
 * [Pete Hunt: Secrets of the Virtual DOM - JSConf.au 2014](https://www.youtube.com/watch?v=a21b-KDHG-Q)
+* [Dave Smith: Angular + React = Speed - ng-conf 2015](https://www.youtube.com/watch?v=XQM0K6YG18s)
 
 #### Video from React.js Conf 2015
 * [Tom Occhino and Christopher Chedeau: Keynote](http://conf.reactjs.com/schedule.html#keynote)
