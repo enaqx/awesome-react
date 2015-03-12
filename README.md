@@ -211,7 +211,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 ##### React and Backbone
 * [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
 * [Chicago Backbone Meetup: React + Backbone slides](https://speakerdeck.com/larsonjj/chicago-backbone-meetup-react-plus-backbone)
-* [Pimp my Backbone.View ](https://blog.mayflower.de/3937-Backbone-React.html)
+* [Pimp my Backbone.View](https://blog.mayflower.de/3937-Backbone-React.html)
 
 ##### React and Angular
 * [NgReact - React Components in Angular](http://davidandsuzi.com/ngreact-react-components-in-angular/)
@@ -387,7 +387,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Basic skeleton for a Rendr app](https://github.com/petehunt/rendr-react-template)
 * [react-component-boilerplate - A React component boilerplate](https://github.com/TYRONEMICHAEL/react-component-boilerplate)
 * [mullet - A React + Hapi Starter Kit](https://github.com/lynnaloo/mullet)
-* [react-express-webpack-template - Server and client-side template with react-router and react-hot-reload ](https://github.com/gpbl/react-express-webpack-template)
+* [react-express-webpack-template - Server and client-side template with react-router and react-hot-reload](https://github.com/gpbl/react-express-webpack-template)
 * [react-isomorphic-starterkit - Create an isomorphic React app in less than 5 minutes](https://github.com/RickWong/react-isomorphic-starterkit)
 
 #### Components
@@ -490,7 +490,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-sparkline - React component for rendering simple sparklines](https://github.com/KyleAMathews/react-sparkline)
 * [react-component-width-mixin - React mixin which sets width](https://github.com/KyleAMathews/react-component-width-mixin)
 * [react-micro-bar-chart - React component for micro bar-charts rendered with D3](https://github.com/KyleAMathews/react-micro-bar-chart)
-* [react-horizontal-bar-chart - Simple horizontal bar chart component, using D3 scales only ](https://github.com/laem/react-horizontal-bar-chart)
+* [react-horizontal-bar-chart - Simple horizontal bar chart component, using D3 scales only](https://github.com/laem/react-horizontal-bar-chart)
 * [react-infinity - A UITableView Inspired list and grid display](https://github.com/naman34/react-infinity)
 * [react-timeago - A simple time-ago component for React](https://github.com/naman34/react-timeago)
 * [react-stylePrefixr - A simple utility for React.js to help deal with style vendor prefixes](https://github.com/naman34/react-stylePrefixr)
@@ -664,7 +664,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [require-jsx - A require.js plugin that allows you to use JSX files as require.js dependencies](https://github.com/seiffert/require-jsx)
 * [react-requirejs-example - React tutorial working together with require.js](https://github.com/samspot/react-requirejs-example)
 * [jsx-requirejs-plugin - A RequireJS plugin for loading and compiling](https://github.com/philix/jsx-requirejs-plugin)
-* [react-brunch - Adds React.js support to brunch build tool ](https://github.com/darthapo/react-brunch)
+* [react-brunch - Adds React.js support to brunch build tool](https://github.com/darthapo/react-brunch)
 * [react-tags-brunch - Adds React.js tag interpolation to brunch build tool](https://github.com/elucidata/react-tags-brunch)
 * [react-hot-loader - Webpack loader that enables live-editing React components without unmounting or losing their state](https://github.com/gaearon/react-hot-loader)
 * [fez-react - Transform React JSX using Fez build tool](http://fez.github.io/)
@@ -757,7 +757,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React.js Internals](https://www.youtube.com/watch?v=FAgSdSikSCc)
 * [Introduction to React JS](http://videos.bigbinary.com/react/introduction-to-react.html)
 * [React Lifecycle Methods, and creating a Clock-Tick using it](http://videos.bigbinary.com/react/clock-tick-using-react-life-cycle-method.html)
-* [React Life cycle methods - In Depth ](http://videos.bigbinary.com/react/react-life-cycle-methods-in-depth.html)
+* [React Life cycle methods - In Depth](http://videos.bigbinary.com/react/react-life-cycle-methods-in-depth.html)
 * [Using multiple components in React JS](http://videos.bigbinary.com/react/using-multiple-components-in-react.html)
 * [React in 7 Minutes](https://egghead.io/lessons/react-react-in-7-minutes)
 * [jFlux - Going from MVC to FLUX](https://www.youtube.com/watch?v=plUN2L4Ak14)
