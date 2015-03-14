@@ -622,6 +622,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Graphics
 * [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
 * [react-canvas - High performance <canvas> rendering for React components](https://github.com/Flipboard/react-canvas)
+* [react-famous - Complex 3D animations UI at 60 FPS with Famo.us](https://github.com/pilwon/react-famous)
 * [react-kinetic - HTML5 Canvas via KineticJS using React](https://github.com/freiksenet/react-kinetic)
 
 #### Model Libraries
