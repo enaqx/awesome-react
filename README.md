@@ -127,6 +127,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Taking React to the next level: Mixins, Gulp, and Browserify](http://pomax.github.io/?#gh-weblog-1420592591221)
 * [Getting Started with React](http://ryanclark.me/getting-started-with-react/)
 * [React Tips and Best Practices](http://aeflash.com/2015-02/react-tips-and-best-practices.html)
+* [Building a Stateless Rails API with React and Twitter OAuth](http://fredguest.com/2015/03/06/building-a-stateless-rails-api-with-react-and-twitter-oauth/)
 
 ##### Writing React Components
 * [A Sortable List Component in React utilizing the HTML5 Drag & Drop API](http://webcloud.se/sortable-list-component-react-js/)
