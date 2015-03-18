@@ -152,7 +152,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Going Isomorphic with React](http://bensmithett.github.io/going-isomorphic-with-react/#/)
 * [newforms - Isomorphic form-handling for React](https://github.com/insin/newforms)
 * [newforms-examples - Examples repository for newforms](https://github.com/insin/newforms-examples)
-* [isomorphic-blog-react - Proof of concept and experiment rendering blog isomorphically using React](https://github.com/jonykrause/isomorphic-blog-react)
+* [isomorphic-blog-react - Blog isomorphically using React](https://github.com/jonykrause/isomorphic-blog-react)
 * [Swarm.js+React — real-time, offline-ready Holy Grail web apps](http://swarmjs.github.io/articles/todomvc/)
 * [Creating Isomorphic apps with React and Node.js](http://www.htmlxprs.com/post/20/creating-isomorphic-apps-with-react-and-nodejs)
 * [Serverside React Rendering: Isomorphic JavaScript with ReactJS + Node](https://reactjsnews.com/isomorphic-javascript-with-react-node/)
@@ -179,7 +179,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Yo in Flux](http://davidandsuzi.com/yo-in-flux/)
 * [React.js architecture - Flux VS Reflux](http://blog.krawaller.se/posts/react-js-architecture-flux-vs-reflux/)
 * [Avoiding Event Chains in Single Page Applications](http://www.code-experience.com/avoiding-event-chains-in-single-page-applications/)
-* [ReactJS and FLUX](http://christianalfoni.github.io/javascript/2014/08/20/react-js-and-flux.html)
+* [ReactJS and Flux](http://christianalfoni.github.io/javascript/2014/08/20/react-js-and-flux.html)
 * [Deconstructing ReactJS's Flux](http://spoike.ghost.io/deconstructing-reactjss-flux/)
 * [Flux Step By Step](http://blogs.atlassian.com/2014/08/flux-architecture-step-by-step/)
 * [Flux in practice](https://medium.com/@garychambers108/flux-in-practice-ec08daa9041a)
@@ -356,7 +356,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [fluxy - An implementation of Facebook's Flux architecture](https://github.com/jmreidy/fluxy)
 * [normalizr — Normalizes nested JSON according to schema for Flux Stores](https://github.com/gaearon/normalizr)
 * [Flummox - An isomorphic Flux library with zero singletons](https://github.com/acdlite/flummox)
-* [Hoverboard - A very lightweight (anti-gravity?) data model and Flux store with actions and a state change listener.](https://github.com/jesseskinner/hoverboard)
+* [Hoverboard - Lightweight data model and Flux store with actions and a state change listener](https://github.com/jesseskinner/hoverboard)
 
 #### Boilerplates
 * [React Starterify - application skeleton using Browserify and other awesome tools](https://github.com/Granze/react-starterify)
@@ -377,7 +377,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [genesis-skeleton - Modern, opinionated, full-stack starter kit](https://github.com/ericclemmons/genesis-skeleton)
 * [react-seed by @fizerkhan - Seed project for react apps](https://github.com/fizerkhan/react-seed)
 * [react-seed by @kriasoft - A single-page application (SPA) project template based on React](https://github.com/kriasoft/React-Seed)
-* [gulp-browserify-react-phonegap-starter - A starter kit for Phonegap, using Gulp, Browserify and React](https://github.com/stample/gulp-browserify-react-phonegap-starter)
+* [gulp-browserify-react-phonegap-starter - Phonegap, using Gulp, Browserify and React](https://github.com/stample/gulp-browserify-react-phonegap-starter)
 * [react-bb-broccoli - A starter kit for React and Backbone build with Broccoli](https://github.com/mlunoe/react-bb-broccoli)
 * [react-isomorphic -  An experimental playground to try and find unobtrusive patterns using React](https://github.com/redbadger/react-isomorphic)
 * [react-isomorphic-test - Testing an isomorphic React application](https://github.com/BinaryMuse/react-isomorphic-test)
@@ -390,7 +390,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Basic skeleton for a Rendr app](https://github.com/petehunt/rendr-react-template)
 * [react-component-boilerplate - A React component boilerplate](https://github.com/TYRONEMICHAEL/react-component-boilerplate)
 * [mullet - A React + Hapi Starter Kit](https://github.com/lynnaloo/mullet)
-* [react-express-webpack-template - Server and client-side template with react-router and react-hot-reload](https://github.com/gpbl/react-express-webpack-template)
+* [react-express-webpack-template - Server and client-side template with react-router](https://github.com/gpbl/react-express-webpack-template)
 * [react-isomorphic-starterkit - Create an isomorphic React app in less than 5 minutes](https://github.com/RickWong/react-isomorphic-starterkit)
 
 #### Components
@@ -401,7 +401,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Reactjsx Components List](http://www.reactjsx.com/)
 * [React Topcoat UI components](https://github.com/kjda/react-topui)
 * [react-material - Material design components written with React.js and React Style](https://github.com/SanderSpies/react-material)
-* [material-ui - A CSS Framework and a Set of React Components that Implement Google's Material Design.](https://github.com/callemall/material-ui)
+* [material-ui - A CSS Framework and a Set of React Components for Material Design](https://github.com/callemall/material-ui)
 * [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
 * [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
 * [react-grid - Data grid for React](https://github.com/prometheusresearch/react-grid)
@@ -411,7 +411,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-frame-component - Render your React app to an iFrame](https://github.com/ryanseddon/react-frame-component)
 * [react-gravatar - React component for rendering a gravatar profile image](https://github.com/KyleAMathews/react-gravatar)
 * [markdown-react - React Render for Standard Markdown](https://github.com/vjeux/markdown-react)
-* [react-component-gallery — React component for creating an evenly spaced gallery of child components]( https://github.com/KyleAMathews/react-component-gallery)
+* [react-component-gallery — React component for creating an evenly spaced components]( https://github.com/KyleAMathews/react-component-gallery)
 * [react-markdown-textarea - Component to create textareas for entering Markdown](https://github.com/KyleAMathews/react-markdown-textarea)
 * [react-textarea-autosize - Textarea component for React which grows with content](https://github.com/andreypopp/react-textarea-autosize)
 * [react-spinner - Zero configuration loading spinner](https://github.com/chenglou/react-spinner)
@@ -502,7 +502,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react.animate - State animation plugin for react.js](https://github.com/pleasetrythisathome/react.animate)
 * [react-animate - React animation mixin](https://github.com/elierotenberg/react-animate)
 * [react-star-rating-input - React.js component for entering 0-5 stars](https://github.com/ikr/react-star-rating-input)
-* [react-data-components - React components and mixins for sorting, filtering and pagination of data](https://github.com/carlosrocha/react-data-components)
+* [react-data-components - React components and mixins for manipulating data](https://github.com/carlosrocha/react-data-components)
 * [react-number-editor - Number editor (textfield) component for react](https://github.com/tleunen/react-number-editor)
 * [react-localstorage - Simple localstorage mixin for react](https://github.com/STRML/react-localstorage)
 * [react-sortable-data React Mixin to sort data easily](https://github.com/AndrewHathaway/ReactSortableDataMixin)
@@ -517,7 +517,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-tagsinput - A simple react component for inputing tags.](https://github.com/olahol/react-tagsinput)
 
 #### Libraries
-* [tuxx - A feature complete framework built on the React view layer, Flux Architecture, and CommonJS modules](http://www.tuxedojs.org)
+* [tuxx - A feature complete framework built on the React view layer](http://www.tuxedojs.org)
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
 * [tcomb-react -  Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
 * [react-responsive - Media queries in react for responsive design](https://github.com/wearefractal/react-responsive)
@@ -597,7 +597,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [rrouter - Declarative routing layer for React applications](https://github.com/andreypopp/rrouter)
 * [react-mini-router - A minimal URL router for React.js](https://github.com/larrymyers/react-mini-router)
 * [monorouter - An isomorphic JS router](https://github.com/matthewwithanm/monorouter)
-* [routr - A component that provides router related functionalities for both client and server from Yahoo](https://github.com/yahoo/routr)
+* [routr - A component that provides router related functionalities from Yahoo](https://github.com/yahoo/routr)
 * [route-reactor - Framework-agnostic client-side router](https://github.com/josephsavona/route-reactor)
 
 #### Forms
@@ -657,9 +657,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Generating
 * [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
-* [generator-react-app - Yeoman generator to create React application (with Express and Mongoose) + Backbone + Bootstrap](https://github.com/js-experiments/generator-react-app)
+* [generator-react-app - Yeoman generator to create React application](https://github.com/js-experiments/generator-react-app)
 * [generator-react-library - Yeoman generator for React components](https://github.com/petehunt/generator-react-library)
-* [generator-react-gulp-browserify - Yeoman generator for React including gulp, browserify, livereload and bootstrap](https://github.com/randylien/generator-react-gulp-browserify)
+* [generator-react-gulp-browserify - Yeoman generator for React](https://github.com/randylien/generator-react-gulp-browserify)
 
 #### Compiling
 * [reactify - Browserify transform for JSX](https://github.com/andreypopp/reactify)
@@ -671,7 +671,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [jsx-requirejs-plugin - A RequireJS plugin for loading and compiling](https://github.com/philix/jsx-requirejs-plugin)
 * [react-brunch - Adds React.js support to brunch build tool](https://github.com/darthapo/react-brunch)
 * [react-tags-brunch - Adds React.js tag interpolation to brunch build tool](https://github.com/elucidata/react-tags-brunch)
-* [react-hot-loader - Webpack loader that enables live-editing React components without unmounting or losing their state](https://github.com/gaearon/react-hot-loader)
+* [react-hot-loader - Webpack loader that enables live-editing React components](https://github.com/gaearon/react-hot-loader)
 * [fez-react - Transform React JSX using Fez build tool](http://fez.github.io/)
 * [mimosa-react - A JSX compiler for Mimosa build tool](https://github.com/dbashford/mimosa-react)
 * [HTML2React - Convert plain HTML into Coffeescript calls of React.DOM](http://html2react.alhur.es/)
@@ -718,12 +718,12 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Pete Hunt: React RESTful UI Rendering - Strange Loop 2014](http://www.youtube.com/watch?v=IVvHPPcl2TM)
 * [Stefano Masini: Refactoring to React - Amsterdam Javascript MVC meetup 10 sep 2014](http://www.youtube.com/watch?v=MivXyEtwK24)
 * [Pete Hunt: How Instagram.com Works - OSCON 2014](http://www.youtube.com/watch?v=VkTCL6Nqm6Y)
-* [Bill Fisher and Jing Chen: React and Flux: Building Applications with a Unidirectional Data Flow - NewCircle Training 2014](http://www.youtube.com/watch?v=i__969noyAM)
+* [Bill Fisher and Jing Chen: React and Flux - NewCircle Training 2014](http://www.youtube.com/watch?v=i__969noyAM)
 * [Vagmi Mudumbai: Building single page apps with React.JS - JSFoo 2014](https://www.youtube.com/watch?v=-v9MehRHsNE)
 * [Ben Anderson: Reactive, Component-based UIs with React - E4E Developer Conf 2014](https://www.youtube.com/watch?v=uwnjDXtJufs)
 * [Adam Solove: ReactJS - Web Platform DC 2014](http://vimeo.com/92687646)
 * [Sebastian Markbage: Minimal API Surface Area - JSConf EU 2014](http://www.youtube.com/watch?v=4anAwXYqLG8)
-* [Pete Hunt, Aaron Murray, and Contra SchofJSConf.au 2014fstall: Facebook React at the Famo.us Meetup 8/13/14](http://www.youtube.com/watch?v=1tWCnNgNZm4)
+* [Pete Hunt, Aaron Murray, and Contra Schof: Facebook React at the Famo.us Meetup 8/13/14](http://www.youtube.com/watch?v=1tWCnNgNZm4)
 * [Steven Luscher: Decomplexifying Code with React - Powered by JavaScript conf 2014](https://www.youtube.com/watch?v=rI0GQc__0SM)
 * [James Pearce: An Introduction to ReactJS - All Things Open 2014](https://www.youtube.com/watch?v=m2fuO2wl_3c)
 * [Jonathan Beebe: Real World React - Nodevember 2014](https://www.youtube.com/watch?v=uZgAq1CZ1N8)
@@ -795,12 +795,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-json-editor - A generic JSON editor](https://github.com/dustingetz/react-json-editor)
 * [react-todos - Backbone's example TODO app with React JS for views](https://github.com/ssorallen/react-todos)
 * [reactodo - Multiple localStorage TODO lists, built with React](https://github.com/insin/reactodo)
-* [react.io - Small experiment to see how easy it is to synchronize React.js components using Socket.io](https://github.com/Enome/react.io)
 * [github-issues-viewer - A gitub issues viewer build in react + backbone](https://github.com/jaredly/github-issues-viewer)
 * [wolfenstein3D-react - Wolfenstein with the rendering layer written in React](https://github.com/petehunt/wolfenstein3D-react)
 * [flux-react-router-example - Sample Flux app with routing and pagination using Github API](https://github.com/gaearon/flux-react-router-example)
 * [catshop - Shopping cart built on Bootstrap 3.1 using test/fake Bitcoins](https://github.com/coinbolt/catshop)
-* [react-isomorphic-video-game-search - An Isomorphic demo powered by React, reflux, react-router-component, express, superagent and the Giant Bomb API](http://react-isomorphic-video-game-search.warppi.pe/)
+* [react-isomorphic-video-game-search - An Isomorphic demo powered by React](http://react-isomorphic-video-game-search.warppi.pe/)
 * [Flux ImmutableJS TodoList](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
 
 ---
