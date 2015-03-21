@@ -514,6 +514,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)  
 * [react-cassette-player - Vector-based HTML5 Audio Player](https://github.com/chadpaulson/react-cassette-player)
 * [react-tagsinput - A simple react component for inputing tags.](https://github.com/olahol/react-tagsinput)
+* [react-autolink - An autolink mixin for React](https://github.com/banyan/react-autolink)
 
 #### Libraries
 * [tuxx - A feature complete framework built on the React view layer](http://www.tuxedojs.org)
