@@ -631,6 +631,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Model Libraries
 * [mori - ClojureScript's persistent data structures and supporting API](https://github.com/swannodette/mori)
 * [swarm - JavaScript replicated model (M of MVC) library](https://github.com/gritzko/swarm)
+* [caplet - JavaScript models library](https://github.com/mojo-js/caplet.js)
 
 #### Data Managing
 * [immutable-js - Immutable Data Collections for Javascript](https://github.com/facebook/immutable-js)
