@@ -511,11 +511,12 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-sortable - Data React Mixin to sort data easily](https://github.com/AndrewHathaway/ReactSortableDataMixin)
 * [react-select - Rich Select Component](https://github.com/JedWatson/react-select)
 * [react-video - React component to load video from Vimeo or Youtube](https://github.com/pedronauck/react-video)
-* [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)  
+* [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
 * [react-cassette-player - Vector-based HTML5 Audio Player](https://github.com/chadpaulson/react-cassette-player)
 * [react-tagsinput - A simple react component for inputing tags.](https://github.com/olahol/react-tagsinput)
 * [react-autolink - An autolink mixin for React](https://github.com/banyan/react-autolink)
 * [react-emoji - An emoji mixin for React](https://github.com/banyan/react-emoji)
+* [react-portal - A transportation of (not just) modals and lightboxes to document.body](https://github.com/tajo/react-portal)
 
 #### Libraries
 * [tuxx - A feature complete framework built on the React view layer](http://www.tuxedojs.org)
@@ -686,7 +687,7 @@ A collection of awesome React tools, resources, videos and shiny things.
  * [react-hyperscript - Hyperscript syntax for React.js markup](https://github.com/mlmorg/react-hyperscript)
  * [react-no-jsx - A pure JS DSL to be used instead of JSX](https://github.com/jussi-kalliokoski/react-no-jsx)
 
-#### Template Engines 
+#### Template Engines
  * [react-templates - Lightweight templates for React](https://github.com/wix/react-templates)
 
 #### Maps
