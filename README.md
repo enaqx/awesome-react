@@ -55,10 +55,8 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Video from Confs](#video-from-confs)
   - [Video from React.js Conf 2015](#video-from-reactjs-conf-2015)
   - [Video Tutorials](#video-tutorials)
-- [Books](#books)
 - [Demos](#demos)
 - [Examples](#examples)
-- [Other Awesome Lists](#other-awesome-lists)
 - [Contribution](#contribution)
 
 ---
@@ -773,12 +771,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React in 7 Minutes](https://egghead.io/lessons/react-react-in-7-minutes)
 * [jFlux - Going from MVC to FLUX](https://www.youtube.com/watch?v=plUN2L4Ak14)
 
----
-### Books
-* [Free JS book from Revolunet](http://jsbooks.revolunet.com/)
-* [React.js, The Rails Way](https://www.gitbook.io/book/checkraiser/rails-and-react-js)
-* [React, User Interfaces with JavaScript](http://www.reactbook.org/)
-* [Developing a React.js Edge, The JavaScript Library for User Interfaces](http://shop.oreilly.com/product/9781939902122.do)
 
 ---
 ### Demos
@@ -815,16 +807,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [External Plugin](https://github.com/enaqx/awesome-react/tree/master/examples/005_external_plugin)
 * [POST/GET with HTTP server](https://github.com/enaqx/awesome-react/tree/master/examples/006_with_http_server)
 * [Refs to send messages between components](https://github.com/enaqx/awesome-react/tree/master/examples/007_refs)
-
----
-### Other Awesome Lists
-* [reactjs-stuff](https://github.com/mindreframer/reactjs-stuff)
-* [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
-* [Community driven list of useful things for Front End Developers](https://github.com/miripiruni/frontdesk)
-* [JavaScript Programming](https://github.com/sorrycc/awesome-javascript)
-* [Node.js Programming by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
-* [Node.js Programming by @vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 ---
 ### Contribution
