@@ -12,6 +12,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [Writing Isomorphic Apps](#writing-isomorphic-apps)
     - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
+    - [Mobile](#mobile)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [Comprehensive Guide to Building Apps with React](#comprehensive-guide-to-building-apps-with-react)
     - [Scotch.io React tutorials series](#scotchio-react-tutorials-series)
@@ -190,6 +191,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React + Flux Backed by Rails API: Part 3](http://fancypixel.github.io/blog/2015/01/30/react-plus-flux-backed-by-rails-api-part-3/)
 * [Introduction to Facebook's Flux architecture](http://ryanclark.me/getting-started-with-flux/)
 * [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
+
+##### Mobile
+* [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
 
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
@@ -649,13 +653,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [babel-sublime - Syntax definitions for ES6 JavaScript with React JSX extensions](https://github.com/babel/babel-sublime)
 * [Atom React](https://atom.io/packages/react)
 * [vim-jsx - Vim JSX Syntax](https://github.com/mxw/vim-jsx)
-* [Vim React Snippets](https://github.com/justinj/vim-react-snippets)
-* [Textmate Bundle for JSX](https://github.com/jjeising/javascript-react.tmbundle)
+* [vim-react-snippets - Vim version of the snippets from sublime-react](https://github.com/justinj/vim-react-snippets)
 * [js2-mode - JavaScript editing mode for GNU Emacs](https://github.com/mooz/js2-mode)
 * [web-mode.el - An autonomous emacs major-mode for editing web templates](http://web-mode.org/)
 * [JSXHint - Wrapper around JSHint for linting JSX files](https://github.com/STRML/JSXHint)
-* [React Starter Kit for Microsoft Visual Studio](http://visualstudiogallery.msdn.microsoft.com/d65d6b29-6dd7-4100-81b1-609e5afce356)
-* [WebStorm 9 - JavaScript IDE by JetBrains with JSX support](https://www.jetbrains.com/webstorm/)
 
 #### Generating
 * [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
