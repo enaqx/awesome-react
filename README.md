@@ -12,7 +12,6 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [Writing Isomorphic Apps](#writing-isomorphic-apps)
     - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
-    - [Mobile](#mobile)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [Comprehensive Guide to Building Apps with React](#comprehensive-guide-to-building-apps-with-react)
     - [Scotch.io React tutorials series](#scotchio-react-tutorials-series)
@@ -35,6 +34,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [React Internals](#react-internals)
 - [Tools](#tools)
   - [Flux](#flux)
+  - [Mobile](#mobile)
   - [Boilerplates](#boilerplates)
   - [Components](#components)
   - [Libraries](#libraries)
@@ -191,9 +191,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React + Flux Backed by Rails API: Part 3](http://fancypixel.github.io/blog/2015/01/30/react-plus-flux-backed-by-rails-api-part-3/)
 * [Introduction to Facebook's Flux architecture](http://ryanclark.me/getting-started-with-flux/)
 * [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
-
-##### Mobile
-* [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
 
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
@@ -361,6 +358,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [normalizr — Normalizes nested JSON according to schema for Flux Stores](https://github.com/gaearon/normalizr)
 * [Flummox - An isomorphic Flux library with zero singletons](https://github.com/acdlite/flummox)
 * [Hoverboard - Lightweight data model and Flux store with actions and a state change listener](https://github.com/jesseskinner/hoverboard)
+
+##### Mobile
+* [react-native - A framework for building native apps with React](https://github.com/facebook/react-native)
+* [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
 
 #### Boilerplates
 * [React Starterify - application skeleton using Browserify and other awesome tools](https://github.com/Granze/react-starterify)
