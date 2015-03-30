@@ -17,7 +17,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [Comprehensive Guide to Building Apps with React](#comprehensive-guide-to-building-apps-with-react)
     - [Scotch.io React tutorials series](#scotchio-react-tutorials-series)
     - [React styling](#react-styling)
-    - [React Charts Tutorials](#react-chart-tutorials)
+    - [React Charts Tutorials](#react-charts-tutorials)
     - [React and Backbone](#react-and-backbone)
     - [React and Angular](#react-and-angular)
     - [React and Bootstrap](#react-and-bootstrap)
