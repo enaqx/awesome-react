@@ -113,7 +113,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [The New React-based Brackets Project Tree](http://www.kevindangoor.com/2014/09/intro-to-the-new-brackets-project-tree/)
 * [A React.js case study follow-up](http://blog.krawaller.se/posts/a-react-js-case-study-follow-up/)
 * [Scroll Position with React](http://blog.vjeux.com/2013/javascript/scroll-position-with-react.html)
-* [React Style](https://andreypopp.com/posts/2014-08-06-react-style.html)
 * [Component Interop With React And Custom Elements](http://addyosmani.com/blog/component-interop-with-react-and-custom-elements/)
 * [Getting Started with React.js: Creating Material Design Components](http://www.syncano.com/getting-started-reactjs-tutorial/)
 * [Building a board game with React.js](http://jjt.io/2014/07/30/building-a-board-game-with-react-js/)
@@ -217,6 +216,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 ##### React styling
 * [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
 * [Radium](https://github.com/FormidableLabs/radium)
+* [React Style](https://github.com/js-next/react-style)
 
 ##### React Charts Tutorials
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
