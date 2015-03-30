@@ -96,7 +96,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ##### General Tutorials
 * [React Tutorial](http://facebook.github.io/react/docs/tutorial.html)
-* [React One Hour](https://github.com/petehunt/react-one-hour-email/commits/master)
+* [React One Hour](https://github.com/petehunt/react-one-hour-email/)
 * [Medium React Tutorials](https://medium.com/react-tutorials)
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [React beginner tutorial: implementing the board game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html)
