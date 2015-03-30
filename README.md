@@ -17,13 +17,13 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [Comprehensive Guide to Building Apps with React](#comprehensive-guide-to-building-apps-with-react)
     - [Scotch.io React tutorials series](#scotchio-react-tutorials-series)
     - [React styling](#react-styling)
+    - [React Charts Tutorials](#react-chart-tutorials)
     - [React and Backbone](#react-and-backbone)
     - [React and Angular](#react-and-angular)
     - [React and Bootstrap](#react-and-bootstrap)
     - [React and ClojureScript](#react-and-clojurescript)
     - [React and CoffeeScript](#react-and-coffeescript)
     - [React and Haskell](#react-and-haskell)
-    - [React and D3](#react-and-d3)
     - [React and SocketIO](#react-and-socketio)
     - [Server-Client with React](#server-client-with-react)
     - [Server Side Rendering](#server-side-rendering)
@@ -52,6 +52,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [JSX Alternatives](#jsx-alternatives)
   - [Template Engines](#template-engines)
   - [Maps](#maps)
+  - [Charts](#charts)
   - [Service Workers](#service-workers)
 - [Videos](#videos)
   - [Video from Confs](#video-from-confs)
@@ -217,6 +218,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
 * [Radium](https://github.com/FormidableLabs/radium)
 
+##### React Charts Tutorials
+* [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
+* [D3 and React - the future of charting components?](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
+* [Choropleth mapping with React and d3](http://pleasetrythisathome.github.io/react%20d3%20visualization%20choropleth/2014/03/20/react-choropleth.html)
+
 ##### React and Backbone
 * [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
 * [Chicago Backbone Meetup: React + Backbone slides](https://speakerdeck.com/larsonjj/chicago-backbone-meetup-react-plus-backbone)
@@ -249,12 +255,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ##### React and Haskell
 * [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/index.html)
-
-##### React and D3
-* [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
-* [D3 and React - the future of charting components?](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
-* [Choropleth mapping with React and d3](http://pleasetrythisathome.github.io/react%20d3%20visualization%20choropleth/2014/03/20/react-choropleth.html)
-* [react-d3 chart library](http://esbullington.github.io/react-d3-website/)
 
 ##### React and Socket.IO
 * [Socket.IO integration example](https://gist.github.com/zpao/5686416)
@@ -703,6 +703,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-maps - A map component for React](https://github.com/matnel/react-maps)
 * [react-google-maps - React.js Google Maps integration component](https://github.com/tomchentw/react-google-maps)
 * [react-gmaps - A Google Maps component for React.js](https://github.com/MicheleBertoli/react-gmaps)
+
+#### Charts
+* [react-d3 - Modular React charts made with d3.js](https://github.com/esbullington/react-d3)
+* [react-chartjs - Common react charting components using chart.js](https://github.com/jhudson8/react-chartjs)
 
 #### Service Workers
  * [react-worker - Using Service Workers to render React components](https://github.com/MicheleBertoli/react-worker)
