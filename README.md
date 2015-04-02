@@ -367,6 +367,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 ##### Mobile
 * [react-native - A framework for building native apps with React](https://github.com/facebook/react-native)
 * [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
+* [Reapp - A UI-kit with widgets and CLI to build mobile web apps](http://reapp.io)
 
 #### Boilerplates
 * [React Starterify - application skeleton using Browserify and other awesome tools](https://github.com/Granze/react-starterify)
