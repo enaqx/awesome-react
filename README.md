@@ -13,6 +13,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
     - [React Native](#react-native)
+    - [Relay](#relay-tutorials)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [Comprehensive Guide to Building Apps with React](#comprehensive-guide-to-building-apps-with-react)
     - [Scotch.io React tutorials series](#scotchio-react-tutorials-series)
@@ -36,6 +37,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 - [Tools](#tools)
   - [Flux](#flux)
   - [Mobile](#mobile)
+  - [Relay](#relay)
   - [Boilerplates](#boilerplates)
   - [Components](#components)
   - [Libraries](#libraries)
@@ -196,6 +198,13 @@ A collection of awesome React tools, resources, videos and shiny things.
 ##### React Native
 * [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 * [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
+
+##### Relay
+* [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
+* [Building The Facebook News Feed With Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
+* [React Native & Relay: Bringing Modern Web Techniques to Mobile (f8 2015)](https://www.youtube.com/watch?v=X6YbAKiLCLU)
+* [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47?)
+* [The Changelog #149: React.js, React Native, Flux, Relay, and GraphQL with Facebook](https://thechangelog.com/149/)
 
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
@@ -368,6 +377,15 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-native - A framework for building native apps with React](https://github.com/facebook/react-native)
 * [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
 * [Reapp - A UI-kit with widgets and CLI to build mobile web apps](http://reapp.io)
+
+##### Relay
+* [react-relay - A framework for building data-driven React applications (officially by Facebook)](https://www.npmjs.com/package/react-relay)
+* [react-transmit - Relay-inspired library based on Promises](https://github.com/RickWong/react-transmit)
+* [graphqlite - An experimental implementation of Facebook's GraphQL](https://github.com/madjam002/graphqlite)
+* [graphqljs - GraphQL parser written in JavaScript](https://github.com/cobbweb/graphqljs)
+* [GraphNoQL - Facebook's GraphQL backend implemented with Node+Mongo](https://github.com/lutherism/GraphNoQL)
+* [GraphpostgresQL - GraphQL for Postgres](https://github.com/solidsnack/GraphpostgresQL)
+* [graphql-ruby - Ruby implementation of Facebook's GraphQL](https://github.com/rmosolgo/graphql-ruby)
 
 #### Boilerplates
 * [React Starterify - application skeleton using Browserify and other awesome tools](https://github.com/Granze/react-starterify)
