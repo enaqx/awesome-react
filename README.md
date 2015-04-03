@@ -13,7 +13,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
     - [React Native](#react-native)
-    - [Relay](#relay-tutorials)
+    - [Relay](#relay)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [Comprehensive Guide to Building Apps with React](#comprehensive-guide-to-building-apps-with-react)
     - [Scotch.io React tutorials series](#scotchio-react-tutorials-series)
@@ -37,7 +37,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 - [Tools](#tools)
   - [Flux](#flux)
   - [Mobile](#mobile)
-  - [Relay](#relay)
+  - [Relay and GraphQL](#relay-and-graphql)
   - [Boilerplates](#boilerplates)
   - [Components](#components)
   - [Libraries](#libraries)
@@ -378,7 +378,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
 * [Reapp - A UI-kit with widgets and CLI to build mobile web apps](http://reapp.io)
 
-##### Relay
+##### Relay and GraphQL
 * [react-relay - A framework for building data-driven React applications (officially by Facebook)](https://www.npmjs.com/package/react-relay)
 * [react-transmit - Relay-inspired library based on Promises](https://github.com/RickWong/react-transmit)
 * [graphqlite - An experimental implementation of Facebook's GraphQL](https://github.com/madjam002/graphqlite)
