@@ -196,6 +196,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 ##### React Native
 * [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 * [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
+* [React Native Components](http://react.parts) 
 
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
