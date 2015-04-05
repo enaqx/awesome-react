@@ -198,7 +198,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 ##### React Native
 * [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 * [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
-* [React Native Components](http://react.parts) 
+* [React Native Components](http://react.parts)
 
 ##### Relay
 * [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
@@ -423,6 +423,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [mullet - A React + Hapi Starter Kit](https://github.com/lynnaloo/mullet)
 * [react-express-webpack-template - Server and client-side template with react-router](https://github.com/gpbl/react-express-webpack-template)
 * [react-isomorphic-starterkit - Create an isomorphic React app in less than 5 minutes](https://github.com/RickWong/react-isomorphic-starterkit)
+* [essential-react - A minimal skeleton for building testable React apps using ES6](https://github.com/pheuter/essential-react)
 
 #### Components
 * [React Components](http://react-components.com/)
