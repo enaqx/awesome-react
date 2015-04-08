@@ -133,6 +133,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Tips and Best Practices](http://aeflash.com/2015-02/react-tips-and-best-practices.html)
 * [Building a Stateless Rails API with React and Twitter OAuth](http://fredguest.com/2015/03/06/building-a-stateless-rails-api-with-react-and-twitter-oauth/)
 * [React Primer](https://github.com/mikechau/react-primer-draft)
+* [Mailbox in React](http://blog.tryolabs.com/2015/04/07/react-examples-mailbox/)
 
 ##### Writing React Components
 * [A Sortable List Component in React utilizing the HTML5 Drag & Drop API](http://webcloud.se/sortable-list-component-react-js/)
