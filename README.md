@@ -550,6 +550,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-autolink - An autolink mixin for React](https://github.com/banyan/react-autolink)
 * [react-emoji - An emoji mixin for React](https://github.com/banyan/react-emoji)
 * [react-portal - A transportation of (not just) modals and lightboxes to document.body](https://github.com/tajo/react-portal)
+* [react-hotkeys - Declarative hotkey and focus area management for React](https://github.com/Chrisui/react-hotkeys)
 
 #### Libraries
 * [tuxx - A feature complete framework built on the React view layer](http://www.tuxedojs.org)
