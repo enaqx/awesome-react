@@ -81,6 +81,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React CodePen Integration with JSX](http://codepen.io/enaqx/pen/cuIxm)
 * [React CodePen Integration without JSX](http://codepen.io/enaqx/pen/aAcdk)
 * [React 0.13 CodePen Integration with ES6 and JSX](http://codepen.io/bradleyboy/pen/OPBpGw)
+* [React 0.13 JSBin Integration with JSX](http://jsbin.com/basitofoqo/1/edit?html,js,output)
 
 #### React Community
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
