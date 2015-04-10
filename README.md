@@ -287,6 +287,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ##### Compiling React Tutorials
 * [Webpack Howto by Pete Hunt](https://github.com/petehunt/webpack-howto)
+* [React Webpack Cookbook](https://github.com/christianalfoni/react-webpack-cookbook)
 * [AMD and CommonJS examples with Webpack](https://github.com/simonsmith/webpack-example)
 * [Integrating JSX live reload into your React workflow](http://gaearon.github.io/react-hot-loader/)
 * [React JS and a browserify workflow, part1](http://christianalfoni.github.io/javascript/2014/08/15/react-js-workflow.html)
