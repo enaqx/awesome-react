@@ -713,6 +713,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [mimosa-react - A JSX compiler for Mimosa build tool](https://github.com/dbashford/mimosa-react)
 * [HTML2React - Convert plain HTML into Coffeescript calls of React.DOM](http://html2react.alhur.es/)
 * [JSXZ - Precompile your JSX HTML components from static HTML using CSS selectors](https://github.com/awetzel/jsxz)
+* [react-to-html-webpack-plugin - Compile React components to static HTML](https://github.com/markdalgleish/react-to-html-webpack-plugin)
+* [static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
 
 #### Platforms
  * [morpheus - The next generation web publishing platform built with reactjs](https://github.com/vesparny/morpheus)
