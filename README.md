@@ -629,7 +629,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-packery-mixin - Standalone mixin for Packery (Metafizzy)](https://github.com/eiriklv/react-packery-mixin)
 
 #### Routing
-* [react-router by @raackt - A complete routing solution for React.js](https://github.com/rackt/react-router)
+* [react-router by @rackt - A complete routing solution for React.js](https://github.com/rackt/react-router)
 * [react-router-component by @andreypopp - Declarative router component for React](https://github.com/STRML/react-router-component)
 * [react-router by @jaredly - An integrated router for react](https://github.com/jaredly/react-router)
 * [rrouter - Declarative routing layer for React applications](https://github.com/andreypopp/rrouter)
