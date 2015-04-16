@@ -383,6 +383,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-native - A framework for building native apps with React](https://github.com/facebook/react-native)
 * [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
 * [Reapp - A UI-kit with widgets and CLI to build mobile web apps](http://reapp.io)
+* [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
 
 ##### Relay and GraphQL
 * [react-relay - A framework for building data-driven React applications (officially by Facebook)](https://www.npmjs.com/package/react-relay)
