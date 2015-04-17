@@ -268,6 +268,13 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ##### React and Haskell
 * [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/index.html)
+* [stackage-view, built with Yesod and GHCJS+React](https://github.com/fpco/stackage-view)
+* [TodoMVC example with Shade (Haste+React)](https://github.com/takeoutweight/shade-todomvc)
+* [react-haskell, to be used with Haste](https://hackage.haskell.org/package/react-haskell) ([blog post](http://joelburget.com/react-haskell/))
+* [blaze-react, blaze-html style React bindings using GHCJS](https://github.com/meiersi/blaze-react) ([video tutorial](https://www.youtube.com/watch?v=4nTnC0t7pzY))
+
+##### React and PureScript
+* [purescript-react bindings](https://github.com/purescript-contrib/purescript-react) ([example app](https://github.com/fujimura/purescript-react-example))
 
 ##### React and Socket.IO
 * [Socket.IO integration example](https://gist.github.com/zpao/5686416)
