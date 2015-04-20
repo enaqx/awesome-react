@@ -230,6 +230,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
 * [Radium](https://github.com/FormidableLabs/radium)
 * [React Style](https://github.com/js-next/react-style)
+* [React Inline](https://github.com/martinandert/react-inline)
 
 ##### React Charts Tutorials
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
@@ -460,9 +461,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-autoupdate-time - Renders a <time> element that autoupdates](https://github.com/KyleAMathews/react-autoupdate-time)
 * [react-time - Component for React to render relative and/or formatted dates into <time>](https://github.com/andreypopp/react-time)
 * [react-crouton - A message component for reactjs](https://github.com/xeodou/react-crouton)
-* [react-ago-component - A component for React that renders the approximate time ago](https://github.com/martinandert/react-ago-component)
-* [react-translate-component - A component for React that multi-lingual/localized text](https://github.com/martinandert/react-translate-component)
-* [react-lorem-component - A component for React that renders lorem ipsum placeholder text](https://github.com/martinandert/react-lorem-component)
+* [react-ago-component - Renders the approximate time ago in words from a specific past date](https://github.com/martinandert/react-ago-component)
+* [react-translate-component - Provides multi-lingual/localized text content](https://github.com/martinandert/react-translate-component)
+* [react-lorem-component - Renders lorem ipsum placeholder text](https://github.com/martinandert/react-lorem-component)
 * [react-interpolate-component - Renders elements into a format string](https://github.com/martinandert/react-interpolate-component)
 * [react-proxy-loader - Hot Module Replacement and Code Splitting](https://github.com/webpack/react-proxy-loader)
 * [RCSS - Turn your JavaScript objects into CSS classes](https://github.com/chenglou/RCSS)
@@ -717,6 +718,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [JSXZ - Precompile your JSX HTML components from static HTML using CSS selectors](https://github.com/awetzel/jsxz)
 * [react-to-html-webpack-plugin - Compile React components to static HTML](https://github.com/markdalgleish/react-to-html-webpack-plugin)
 * [static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
+* [React Inline - Transform inline styles into static CSS code and class names](https://github.com/martinandert/react-inline)
 
 #### Platforms
  * [morpheus - The next generation web publishing platform built with reactjs](https://github.com/vesparny/morpheus)
