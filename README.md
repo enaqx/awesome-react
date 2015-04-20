@@ -775,6 +775,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Jonathan Beebe: Real World React - Nodevember 2014](https://www.youtube.com/watch?v=uZgAq1CZ1N8)
 * [Pete Hunt: Secrets of the Virtual DOM - JSConf.au 2014](https://www.youtube.com/watch?v=a21b-KDHG-Q)
 * [Dave Smith: Angular + React = Speed - ng-conf 2015](https://www.youtube.com/watch?v=XQM0K6YG18s)
+* [Ilya Boyandin: Interactive Data Visualization with React: Taming the Complexity of Changing State - OpenVis 2015](https://www.youtube.com/watch?v=dcLrbiHIX5M)
 
 #### Video from React.js Conf 2015
 * [Tom Occhino and Christopher Chedeau: Keynote](http://conf.reactjs.com/schedule.html#keynote)
