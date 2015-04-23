@@ -434,6 +434,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-express-webpack-template - Server and client-side template with react-router](https://github.com/gpbl/react-express-webpack-template)
 * [react-isomorphic-starterkit - Create an isomorphic React app in less than 5 minutes](https://github.com/RickWong/react-isomorphic-starterkit)
 * [essential-react - A minimal skeleton for building testable React apps using ES6](https://github.com/pheuter/essential-react)
+* [react-engine - A composite render engine for isomorphic express apps to render both plain react views and react-router views](https://github.com/paypal/react-engine)
 
 #### Components
 * [React Components](http://react-components.com/)
