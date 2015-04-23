@@ -560,6 +560,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-emoji - An emoji mixin for React](https://github.com/banyan/react-emoji)
 * [react-portal - A transportation of (not just) modals and lightboxes to document.body](https://github.com/tajo/react-portal)
 * [react-hotkeys - Declarative hotkey and focus area management for React](https://github.com/Chrisui/react-hotkeys)
+* [react-datagrid - A carefully crafted DataGrid for React](https://github.com/zippyui/react-datagrid)
 
 #### Libraries
 * [tuxx - A feature complete framework built on the React view layer](http://www.tuxedojs.org)
