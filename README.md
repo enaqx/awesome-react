@@ -69,7 +69,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### General Resources
 * [React Official Site](http://facebook.github.io/react/)
+* [React Native Official Site](https://facebook.github.io/react-native/)
 * [React GitHub](https://github.com/facebook/react)
+* [React Native GitHub](https://github.com/facebook/react-native)
 * [React Wiki](https://github.com/facebook/react/wiki)
 * [React npm module](https://www.npmjs.org/package/react)
 * [React Tools npm module](https://www.npmjs.org/package/react-tools)
