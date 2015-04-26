@@ -76,8 +76,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React TodoMVC](http://todomvc.com/examples/react/)
 
 #### React Online Playground
-* [React JSFiddle Integration with JSX](http://jsfiddle.net/vjeux/kb3gN/)
-* [React JSFiddle Integration without JSX](http://jsfiddle.net/vjeux/VkebS/)
+* [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
+* [React JSFiddle Integration without JSX](https://jsfiddle.net/reactjs/5vjqabv3/)
 * [React CodePen Integration with JSX](http://codepen.io/enaqx/pen/cuIxm)
 * [React CodePen Integration without JSX](http://codepen.io/enaqx/pen/aAcdk)
 * [React 0.13 CodePen Integration with ES6 and JSX](http://codepen.io/bradleyboy/pen/OPBpGw)
