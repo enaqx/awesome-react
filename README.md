@@ -294,6 +294,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Server-side React with PHP – part 1](http://www.phpied.com/server-side-react-with-php/)
 * [Server-side React with PHP – part 2](http://www.phpied.com/server-side-react-with-php-part-2/)
 * [Server-rendered React components in Rails](http://bensmithett.com/server-rendered-react-components-in-rails/)
+* [Server-rendered React + Flux in Rails](https://github.com/nambrot/rails-webpack-react-flux)
 
 ##### Compiling React Tutorials
 * [Webpack Howto by Pete Hunt](https://github.com/petehunt/webpack-howto)
