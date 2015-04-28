@@ -75,6 +75,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Wiki](https://github.com/facebook/react/wiki)
 * [React npm module](https://www.npmjs.org/package/react)
 * [React Tools npm module](https://www.npmjs.org/package/react-tools)
+* [React Native npm module](https://www.npmjs.com/package/react-native)
 * [React TodoMVC](http://todomvc.com/examples/react/)
 
 #### React Online Playground
@@ -87,11 +88,14 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### React Community
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
+* [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
 * [React GoogleGroup](https://groups.google.com/forum/#!forum/reactjs)
 * [React Twitter](https://twitter.com/reactjs)
 * [React #reactjs Twitter](https://twitter.com/search?q=%23reactjs)
+* [React #reactnative Twitter](https://twitter.com/search?q=%23reactnative)
 * [React SubReddit](http://www.reddit.com/r/reactjs/)
 * IRC network in `#reactjs` channel on freenode
+* IRC network in `#reactnative` channel on freenode
 * [Reactiflux Slack Group](http://reactiflux.com)
 * [React.js Newsletter](http://reactjsnewsletter.com)
 * [ReactLoop.org](http://reactloop.org)
