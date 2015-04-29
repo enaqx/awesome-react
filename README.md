@@ -377,6 +377,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Flux
 * [Flux official site](http://facebook.github.io/flux/)
 * [Flux Project](https://github.com/facebook/flux)
+* [flux-comparision](https://github.com/voronianski/flux-comparison)
 * [fluxxor - A set of tools to facilitate building JavaScript data layers using the Flux](http://fluxxor.com/)
 * [refluxjs - A simple library for uni-directional dataflow application architecture inspired by Flux](https://github.com/spoike/refluxjs)
 * [barracks - Event dispatcher for the React Flux architecture](https://github.com/yoshuawuyts/barracks)
