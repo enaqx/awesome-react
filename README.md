@@ -203,6 +203,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React + Flux Backed by Rails API: Part 3](http://fancypixel.github.io/blog/2015/01/30/react-plus-flux-backed-by-rails-api-part-3/)
 * [Introduction to Facebook's Flux architecture](http://ryanclark.me/getting-started-with-flux/)
 * [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
+* [Flux Cargo-Culting](https://medium.com/@cassiozen/flux-cargo-culting-3cae9ff27c0c)
 
 ##### React Native
 * [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
