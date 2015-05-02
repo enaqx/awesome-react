@@ -702,8 +702,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Development Environment
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
-* [sublime-react - Sublime Text React](https://github.com/reactjs/sublime-react)
+* [sublime-react - Snippets for ReactJS](https://github.com/reactjs/sublime-react)
 * [babel-sublime - Syntax definitions for ES6 JavaScript with React JSX extensions](https://github.com/babel/babel-sublime)
+* [babel-sublime-snippets - Next generation JavaScript and React snippets for Sublime](https://github.com/babel/babel-sublime-snippets)
 * [Atom React](https://atom.io/packages/react)
 * [vim-jsx - Vim JSX Syntax](https://github.com/mxw/vim-jsx)
 * [vim-react-snippets - Vim version of the snippets from sublime-react](https://github.com/justinj/vim-react-snippets)
