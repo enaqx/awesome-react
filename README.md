@@ -428,6 +428,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [genesis-skeleton - Modern, opinionated, full-stack starter kit](https://github.com/ericclemmons/genesis-skeleton)
 * [react-seed by @fizerkhan - Seed project for react apps](https://github.com/fizerkhan/react-seed)
 * [react-seed by @kriasoft - A single-page application (SPA) project template based on React](https://github.com/kriasoft/React-Seed)
+* [react-seed by @badsyntax - Seed project for React apps using ES6 & webpack](https://github.com/badsyntax/react-seed)
 * [gulp-browserify-react-phonegap-starter - Phonegap, using Gulp, Browserify and React](https://github.com/stample/gulp-browserify-react-phonegap-starter)
 * [react-bb-broccoli - A starter kit for React and Backbone build with Broccoli](https://github.com/mlunoe/react-bb-broccoli)
 * [react-isomorphic -  An experimental playground to try and find unobtrusive patterns using React](https://github.com/redbadger/react-isomorphic)
