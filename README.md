@@ -204,8 +204,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Introduction to Facebook's Flux architecture](http://ryanclark.me/getting-started-with-flux/)
 * [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 * [Flux Cargo-Culting](https://medium.com/@cassiozen/flux-cargo-culting-3cae9ff27c0c)
+* [ReactJS Example starter kit (FLUX+Parse+React Router)](https://github.com/przeor/react-router-flux-starter-kit)
 
 ##### React Native
+* [React Native Example (iOS+FLUX architecture)](https://github.com/przeor/React-Native-example-FLUX-starter-kit-for-ios)
 * [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 * [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
 * [React Native Components](http://react.parts)
