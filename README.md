@@ -169,6 +169,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Swarm.js+React — real-time, offline-ready Holy Grail web apps](http://swarmjs.github.io/articles/todomvc/)
 * [Creating Isomorphic apps with React and Node.js](http://www.htmlxprs.com/post/20/creating-isomorphic-apps-with-react-and-nodejs)
 * [Serverside React Rendering: Isomorphic JavaScript with ReactJS + Node](https://reactjsnews.com/isomorphic-javascript-with-react-node/)
+* [Bringing Flux to the Server](http://fluxible.io/api/bringing-flux-to-the-server.html)
+* [Isomorphic Routing with Fluxible](http://fluxible.io/tutorials/routing.html)
+* [Isomorphic Data Services with Fluxible](http://fluxible.io/guides/data-services.html)
 * [Serverside React Rendering: Isomorphic JavaScript with ReactJS + Golang](https://github.com/olebedev/go-react-example)
 
 ##### JSX
@@ -385,6 +388,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [mcfly - A lightweight flux library with factories for Actions & Stores](https://github.com/kenwheeler/mcfly)
 * [delorean - A completely agnostic JavaScript framework to apply Flux concepts](http://deloreanjs.com/)
 * [marty - A library for make it easy build isomorphic flux applications with React](http://martyjs.org/)
+* [Fluxible - A pluggable, singleton-free container for isomorphic Flux applications.](https://github.com/yahoo/fluxible)
 * [dispatchr - A Flux dispatcher for applications that run on the server and the client](https://github.com/yahoo/dispatchr)
 * [fetchr - Augments Flux applications by allowing the same syntax on server/client](https://github.com/yahoo/fetchr)
 * [flux-router-component - Router React mixin for applications built with Flux](https://github.com/yahoo/flux-router-component)
@@ -717,6 +721,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [generator-react-app - Yeoman generator to create React application](https://github.com/js-experiments/generator-react-app)
 * [generator-react-library - Yeoman generator for React components](https://github.com/petehunt/generator-react-library)
 * [generator-react-gulp-browserify - Yeoman generator for React](https://github.com/randylien/generator-react-gulp-browserify)
+* [generator-fluxible - Yeoman generator for Isomorphic React with fluxible](https://github.com/yahoo/generator-fluxible)
 
 #### Compiling
 * [reactify - Browserify transform for JSX](https://github.com/andreypopp/reactify)
@@ -871,6 +876,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [External Plugin](https://github.com/enaqx/awesome-react/tree/master/examples/005_external_plugin)
 * [POST/GET with HTTP server](https://github.com/enaqx/awesome-react/tree/master/examples/006_with_http_server)
 * [Refs to send messages between components](https://github.com/enaqx/awesome-react/tree/master/examples/007_refs)
+* [Isomorphic React Examples with Fluxible](https://github.com/yahoo/flux-examples)
 
 ---
 ### Contribution
