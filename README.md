@@ -169,6 +169,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Swarm.js+React — real-time, offline-ready Holy Grail web apps](http://swarmjs.github.io/articles/todomvc/)
 * [Creating Isomorphic apps with React and Node.js](http://www.htmlxprs.com/post/20/creating-isomorphic-apps-with-react-and-nodejs)
 * [Serverside React Rendering: Isomorphic JavaScript with ReactJS + Node](https://reactjsnews.com/isomorphic-javascript-with-react-node/)
+* [Bringing Flux to the Server](http://fluxible.io/api/bringing-flux-to-the-server.html)
+* [Isomorphic Routing with Fluxible](http://fluxible.io/tutorials/routing.html)
+* [Isomorphic Data Services with Fluxible](http://fluxible.io/guides/data-services.html)
 * [Serverside React Rendering: Isomorphic JavaScript with ReactJS + Golang](https://github.com/olebedev/go-react-example)
 
 ##### JSX
