@@ -392,6 +392,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [normalizr — Normalizes nested JSON according to schema for Flux Stores](https://github.com/gaearon/normalizr)
 * [Flummox - An isomorphic Flux library with zero singletons](https://github.com/acdlite/flummox)
 * [Hoverboard - Lightweight data model and Flux store with actions and a state change listener](https://github.com/jesseskinner/hoverboard)
+* [Alt - Isomorphic Flux + many addons](http://github.com/goatslacker/alt)
 
 ##### React Native
 * [Use React Native](http://www.reactnative.com/)
