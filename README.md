@@ -12,7 +12,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [Writing Isomorphic Apps](#writing-isomorphic-apps)
     - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
-    - [React Native](#react-native)
+    - [React Native Tutorials](#react-native=tutorials)
     - [Relay](#relay)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [Comprehensive Guide to Building Apps with React](#comprehensive-guide-to-building-apps-with-react)
@@ -36,6 +36,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [React Internals](#react-internals)
 - [Tools](#tools)
   - [Flux](#flux)
+  - [React Native](#react-native)
   - [Mobile](#mobile)
   - [Relay and GraphQL](#relay-and-graphql)
   - [Boilerplates](#boilerplates)
@@ -205,15 +206,14 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 * [Flux Cargo-Culting](https://medium.com/@cassiozen/flux-cargo-culting-3cae9ff27c0c)
 
-##### React Native
+##### React Native Tutorials
 * [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 * [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
-* [React Native Components](http://react.parts)
+
 
 ##### Relay
 * [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
 * [Building The Facebook News Feed With Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
-* [React Native & Relay: Bringing Modern Web Techniques to Mobile (f8 2015)](https://www.youtube.com/watch?v=X6YbAKiLCLU)
 * [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47?)
 * [The Changelog #149: React.js, React Native, Flux, Relay, and GraphQL with Facebook](https://thechangelog.com/149/)
 
@@ -393,12 +393,14 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Flummox - An isomorphic Flux library with zero singletons](https://github.com/acdlite/flummox)
 * [Hoverboard - Lightweight data model and Flux store with actions and a state change listener](https://github.com/jesseskinner/hoverboard)
 
-##### Mobile
+##### React Native
 * [Use React Native](http://www.reactnative.com/)
-* [react-native - A framework for building native apps with React](https://github.com/facebook/react-native)
+* [React Native Components](http://react.parts)
+* [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
+
+##### Mobile
 * [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
 * [Reapp - A UI-kit with widgets and CLI to build mobile web apps](http://reapp.io)
-* [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
 
 ##### Relay and GraphQL
 * [react-relay - A framework for building data-driven React applications (officially by Facebook)](https://www.npmjs.com/package/react-relay)
@@ -692,7 +694,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [caplet - JavaScript models library](https://github.com/mojo-js/caplet.js)
 
 #### Data Managing
-* [immutable-js - Immutable Data Collections for Javascript](https://github.com/facebook/immutable-js)
+* [Immutable.js - Immutable Data Collections for Javascript](https://github.com/facebook/immutable-js)
 * [cortex - A javascript library for centrally managing data with React](https://github.com/mquan/cortex)
 * [avers - A modern client-side model abstraction library](https://github.com/wereHamster/avers)
 * [imvvm - Immutable Model-View-ViewModel for React](https://github.com/entrendipity/imvvm)
@@ -794,6 +796,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Pete Hunt: Secrets of the Virtual DOM - JSConf.au 2014](https://www.youtube.com/watch?v=a21b-KDHG-Q)
 * [Dave Smith: Angular + React = Speed - ng-conf 2015](https://www.youtube.com/watch?v=XQM0K6YG18s)
 * [Ilya Boyandin: Interactive Data Visualization with React: Taming the Complexity of Changing State - OpenVis 2015](https://www.youtube.com/watch?v=dcLrbiHIX5M)
+* [React Native & Relay: Bringing Modern Web Techniques to Mobile - f8 2015)](https://www.youtube.com/watch?v=X6YbAKiLCLU)
 
 #### Video from React.js Conf 2015
 * [Tom Occhino and Christopher Chedeau: Keynote](http://conf.reactjs.com/schedule.html#keynote)
