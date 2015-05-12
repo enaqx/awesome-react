@@ -35,7 +35,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Approach Explanation](#approach-explanation)
   - [React Internals](#react-internals)
 - [Tools](#tools)
-  - [Flux](#flux)
+  - [Flux](#flux-implementations)
   - [React Native](#react-native)
   - [Mobile](#mobile)
   - [Relay and GraphQL](#relay-and-graphql)
@@ -164,13 +164,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 ##### Writing Isomorphic Apps
 * [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)
 * [From AngularJS to React: The Isomorphic Way](http://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
-* [newforms - Isomorphic form-handling for React](https://github.com/insin/newforms)
-* [newforms-examples - Examples repository for newforms](https://github.com/insin/newforms-examples)
-* [isomorphic-blog-react - Blog isomorphically using React](https://github.com/jonykrause/isomorphic-blog-react)
-* [Swarm.js+React — real-time, offline-ready Holy Grail web apps](http://swarmjs.github.io/articles/todomvc/)
 * [Creating Isomorphic apps with React and Node.js](http://www.htmlxprs.com/post/20/creating-isomorphic-apps-with-react-and-nodejs)
-* [Serverside React Rendering: Isomorphic JavaScript with ReactJS + Node](https://reactjsnews.com/isomorphic-javascript-with-react-node/)
-* [Serverside React Rendering: Isomorphic JavaScript with ReactJS + Golang](https://github.com/olebedev/go-react-example)
+* [isomorphic500 - Isomorphic JS app built with React and Fluxible](https://github.com/gpbl/isomorphic500)
 
 ##### JSX
 * [JSX Specification](http://facebook.github.io/jsx/)
@@ -300,6 +295,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Server-side React with PHP – part 2](http://www.phpied.com/server-side-react-with-php-part-2/)
 * [Server-rendered React components in Rails](http://bensmithett.com/server-rendered-react-components-in-rails/)
 * [Server-rendered React + Flux in Rails](https://github.com/nambrot/rails-webpack-react-flux)
+* [Serverside React Rendering: Isomorphic JavaScript with ReactJS + Node](https://reactjsnews.com/isomorphic-javascript-with-react-node/)
+* [Go React Serverside Rendering Eample](https://github.com/olebedev/go-react-example)
 
 ##### Compiling React Tutorials
 * [Webpack Howto by Pete Hunt](https://github.com/petehunt/webpack-howto)
@@ -375,7 +372,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 ---
 ### Tools
 
-#### Flux
+#### Flux Implementations
 * [Flux official site](http://facebook.github.io/flux/)
 * [Flux Project](https://github.com/facebook/flux)
 * [flux-comparision](https://github.com/voronianski/flux-comparison)
