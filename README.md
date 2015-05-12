@@ -44,6 +44,8 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Libraries](#libraries)
   - [Integration](#integration)
   - [Routing](#routing)
+  - [Forms](#forms)
+  - [Autocomplete](#autocomplete)
   - [Unit Testing](#unit-testing)
   - [Graphics](#graphics)
   - [Model Libraries](#model-libraries)
@@ -161,9 +163,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ##### Writing Isomorphic Apps
 * [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)
-* [Isomorphic apps with Backbone.js and React](http://dev.alexishevia.com/2014/08/isomorphic-apps-with-backbonejs-and.html)
 * [From AngularJS to React: The Isomorphic Way](http://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
-* [Going Isomorphic with React](http://bensmithett.github.io/going-isomorphic-with-react/#/)
 * [newforms - Isomorphic form-handling for React](https://github.com/insin/newforms)
 * [newforms-examples - Examples repository for newforms](https://github.com/insin/newforms-examples)
 * [isomorphic-blog-react - Blog isomorphically using React](https://github.com/jonykrause/isomorphic-blog-react)
@@ -417,7 +417,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
 * [react-starter - Starter template for React with webpack](https://github.com/webpack/react-starter)
 * [react-hot-boilerplate - Live-editing boilerplate for your next ReactJS project](https://github.com/gaearon/react-hot-boilerplate)
-* [react-engine - A composite render engine for isomorphic express apps to render both plain react views and react-router views](https://github.com/paypal/react-engine)
+* [react-engine - A composite render engine for isomorphic express apps](https://github.com/paypal/react-engine)
 * [koa-react-full-example - Full example using Koa, React, Passport, Mongoose, Gulp, Mocha](https://github.com/dozoisch/koa-react-full-example)
 * [mullet - A React + Hapi Starter Kit](https://github.com/lynnaloo/mullet)
 * [React on Rails Starter Kit](https://github.com/elierotenberg/react-rails-starterkit)
