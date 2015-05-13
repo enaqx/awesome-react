@@ -297,6 +297,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Server-rendered React + Flux in Rails](https://github.com/nambrot/rails-webpack-react-flux)
 * [Serverside React Rendering: Isomorphic JavaScript with ReactJS + Node](https://reactjsnews.com/isomorphic-javascript-with-react-node/)
 * [Go React Serverside Rendering Eample](https://github.com/olebedev/go-react-example)
+* [Serverside rendering with React + Hapi](https://github.com/jedireza/hapi-react-views)
 
 ##### Compiling React Tutorials
 * [Webpack Howto by Pete Hunt](https://github.com/petehunt/webpack-howto)
@@ -831,6 +832,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [catshop - Shopping cart built on Bootstrap 3.1 using test/fake Bitcoins](https://github.com/coinbolt/catshop)
 * [react-isomorphic-video-game-search - An Isomorphic demo powered by React](http://react-isomorphic-video-game-search.warppi.pe/)
 * [Flux ImmutableJS TodoList](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
+* [Hapi+React+Flux user management system](https://github.com/jedireza/aqua)
 
 ---
 ### Examples
