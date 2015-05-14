@@ -35,7 +35,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Approach Explanation](#approach-explanation)
   - [React Internals](#react-internals)
 - [Tools](#tools)
-  - [Flux](#flux-implementations)
+  - [Flux Implementations](#flux-implementations)
   - [React Native](#react-native)
   - [Mobile](#mobile)
   - [Relay and GraphQL](#relay-and-graphql)
