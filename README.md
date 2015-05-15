@@ -3,16 +3,17 @@
 A collection of awesome React tools, resources, videos and shiny things.
 
 - [Resources](#resources)
-  - [General Resources](#general-resources)
+  - [React General Resources](#react-general-resources)
+  - [React Native General Resources](#react-native-general-resources)
   - [React Online Playground](#react-online-playground)
   - [React Community](#react-community)
   - [Tutorials](#tutorials)
-    - [General Tutorials](#general-tutorials)
+    - [React Tutorials](#react-tutorials)
+    - [React Native Tutorials](#react-native=tutorials)
     - [Writing React Components](#writing-react-components)
     - [Writing Isomorphic Apps](#writing-isomorphic-apps)
     - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
-    - [React Native Tutorials](#react-native=tutorials)
     - [Relay](#relay)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [Comprehensive Guide to Building Apps with React](#comprehensive-guide-to-building-apps-with-react)
@@ -70,16 +71,18 @@ A collection of awesome React tools, resources, videos and shiny things.
 ---
 ### Resources
 
-#### General Resources
+#### React General Resources
 * [React Official Site](http://facebook.github.io/react/)
-* [React Native Official Site](https://facebook.github.io/react-native/)
 * [React GitHub](https://github.com/facebook/react)
-* [React Native GitHub](https://github.com/facebook/react-native)
 * [React Wiki](https://github.com/facebook/react/wiki)
 * [React npm module](https://www.npmjs.org/package/react)
 * [React Tools npm module](https://www.npmjs.org/package/react-tools)
-* [React Native npm module](https://www.npmjs.com/package/react-native)
 * [React TodoMVC](http://todomvc.com/examples/react/)
+
+#### React Native General Resources
+* [React Native Official Site](https://facebook.github.io/react-native/)
+* [React Native GitHub](https://github.com/facebook/react-native)
+* [React Native npm module](https://www.npmjs.com/package/react-native)
 
 #### React Online Playground
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
@@ -106,7 +109,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Tutorials
 
-##### General Tutorials
+##### React Tutorials
 * [React Tutorial](http://facebook.github.io/react/docs/tutorial.html)
 * [React One Hour](https://github.com/petehunt/react-one-hour-email/)
 * [Medium React Tutorials](https://medium.com/react-tutorials)
@@ -145,6 +148,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Primer](https://github.com/mikechau/react-primer-draft)
 * [Mailbox in React](http://blog.tryolabs.com/2015/04/07/react-examples-mailbox/)
 * [React Mixins Explained By Example](http://simblestudios.com/blog/development/react-mixins-by-example.html)
+
+##### React Native Tutorials
+* [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
+* [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
 
 ##### Writing React Components
 * [A Sortable List Component in React utilizing the HTML5 Drag & Drop API](http://webcloud.se/sortable-list-component-react-js/)
@@ -200,10 +207,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Introduction to Facebook's Flux architecture](http://ryanclark.me/getting-started-with-flux/)
 * [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 * [Flux Cargo-Culting](https://medium.com/@cassiozen/flux-cargo-culting-3cae9ff27c0c)
-
-##### React Native Tutorials
-* [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
-* [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
 
 
 ##### Relay
@@ -373,6 +376,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 ---
 ### Tools
 
+##### React Native
+* [Use React Native](http://www.reactnative.com/)
+* [React Native Components](http://react.parts)
+* [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
+
 #### Flux Implementations
 * [Flux Official Site](http://facebook.github.io/flux/)
 * [Flux Comparision](https://github.com/voronianski/flux-comparison)
@@ -386,11 +394,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Fluxible](https://github.com/yahoo/fluxible)
 * [Dispatchr](https://github.com/yahoo/dispatchr)
 * [Fetchr](https://github.com/yahoo/fetchr)
-
-##### React Native
-* [Use React Native](http://www.reactnative.com/)
-* [React Native Components](http://react.parts)
-* [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
 
 ##### Mobile
 * [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
