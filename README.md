@@ -12,7 +12,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [Writing Isomorphic Apps](#writing-isomorphic-apps)
     - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
-    - [React Native Tutorials](#react-native=tutorials)
+    - [React Native Tutorials](#react-native-tutorials)
     - [Relay](#relay)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [Comprehensive Guide to Building Apps with React](#comprehensive-guide-to-building-apps-with-react)
