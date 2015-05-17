@@ -214,6 +214,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Building The Facebook News Feed With Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
 * [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47?)
 * [The Changelog #149: React.js, React Native, Flux, Relay, and GraphQL with Facebook](https://thechangelog.com/149/)
+* [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html) 
 
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
