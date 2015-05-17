@@ -11,10 +11,10 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [React Tutorials](#react-tutorials)
     - [React Native Tutorials](#react-native=tutorials)
     - [Writing React Components](#writing-react-components)
+    - [Relay and GraphQL Tutorials](#relay=and-graphql-tutorials)
     - [Writing Isomorphic Apps](#writing-isomorphic-apps)
     - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
-    - [Relay](#relay)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [Comprehensive Guide to Building Apps with React](#comprehensive-guide-to-building-apps-with-react)
     - [Scotch.io React tutorials series](#scotchio-react-tutorials-series)
@@ -168,6 +168,12 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Complex Drag and Drop Lists using React.js](https://reactjsnews.com/complex-drag-and-drop-lists-using-react/)
 * [The Future of Drag and Drop APIs](https://medium.com/@dan_abramov/the-future-of-drag-and-drop-apis-249dfea7a15f)
 
+##### Relay
+* [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
+* [Building The Facebook News Feed With Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
+* [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
+* [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47?)
+
 ##### Writing Isomorphic Apps
 * [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)
 * [From AngularJS to React: The Isomorphic Way](http://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
@@ -207,13 +213,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Introduction to Facebook's Flux architecture](http://ryanclark.me/getting-started-with-flux/)
 * [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 * [Flux Cargo-Culting](https://medium.com/@cassiozen/flux-cargo-culting-3cae9ff27c0c)
-
-
-##### Relay
-* [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
-* [Building The Facebook News Feed With Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
-* [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47?)
-* [The Changelog #149: React.js, React Native, Flux, Relay, and GraphQL with Facebook](https://thechangelog.com/149/)
 
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
@@ -400,12 +399,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Reapp - A UI-kit with widgets and CLI to build mobile web apps](http://reapp.io)
 
 ##### Relay and GraphQL
-* [react-relay - A framework for building data-driven React applications (officially by Facebook)](https://www.npmjs.com/package/react-relay)
-* [react-transmit - Relay-inspired library based on Promises](https://github.com/RickWong/react-transmit)
-* [graphqlite - An experimental implementation of Facebook's GraphQL](https://github.com/madjam002/graphqlite)
-* [graphqljs - GraphQL parser written in JavaScript](https://github.com/cobbweb/graphqljs)
-* [GraphNoQL - Facebook's GraphQL backend implemented with Node+Mongo](https://github.com/lutherism/GraphNoQL)
 * [GraphpostgresQL - GraphQL for Postgres](https://github.com/solidsnack/GraphpostgresQL)
+* [react-transmit - Relay-inspired library based on Promises](https://github.com/RickWong/react-transmit)
+* [graphqljs - GraphQL parser written in JavaScript](https://github.com/cobbweb/graphqljs)
+* [graphqlite - An experimental implementation of Facebook's GraphQL](https://github.com/madjam002/graphqlite)
+* [GraphNoQL - Facebook's GraphQL backend implemented with Node+Mongo](https://github.com/lutherism/GraphNoQL)
 * [graphql-ruby - Ruby implementation of Facebook's GraphQL](https://github.com/rmosolgo/graphql-ruby)
 
 #### Boilerplates
