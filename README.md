@@ -5,8 +5,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 - [Resources](#resources)
   - [React General Resources](#react-general-resources)
   - [React Native General Resources](#react-native-general-resources)
-  - [React Online Playground](#react-online-playground)
   - [React Community](#react-community)
+  - [React Native Community](#react-native-community)
+  - [React Online Playground](#react-online-playground)
   - [Tutorials](#tutorials)
     - [React Tutorials](#react-tutorials)
     - [React Native Tutorials](#react-native=tutorials)
@@ -84,6 +85,23 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Native GitHub](https://github.com/facebook/react-native)
 * [React Native npm module](https://www.npmjs.com/package/react-native)
 
+#### React Community
+* [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
+* [React GoogleGroup](https://groups.google.com/forum/#!forum/reactjs)
+* [React Twitter](https://twitter.com/reactjs)
+* [React #reactjs Twitter](https://twitter.com/search?q=%23reactjs)
+* [React SubReddit](http://www.reddit.com/r/reactjs/)
+* IRC network in `#reactjs` channel on freenode
+* [Reactiflux Slack Group](http://reactiflux.com)
+* [React.js Newsletter](http://reactjsnewsletter.com)
+* [ReactLoop.org](http://reactloop.org)
+
+#### React Native Community
+* [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
+* [React #reactnative Twitter](https://twitter.com/search?q=%23reactnative)
+* [React Native SubReddit](https://www.reddit.com/r/reactnative)
+* IRC network in `#reactnative` channel on freenode
+
 #### React Online Playground
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
 * [React JSFiddle Integration without JSX](https://jsfiddle.net/reactjs/5vjqabv3/)
@@ -91,20 +109,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React CodePen Integration without JSX](http://codepen.io/enaqx/pen/aAcdk)
 * [React 0.13 CodePen Integration with ES6 and JSX](http://codepen.io/bradleyboy/pen/OPBpGw)
 * [React 0.13 JSBin Integration with JSX](http://jsbin.com/basitofoqo/1/edit?html,js,output)
-
-#### React Community
-* [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
-* [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
-* [React GoogleGroup](https://groups.google.com/forum/#!forum/reactjs)
-* [React Twitter](https://twitter.com/reactjs)
-* [React #reactjs Twitter](https://twitter.com/search?q=%23reactjs)
-* [React #reactnative Twitter](https://twitter.com/search?q=%23reactnative)
-* [React SubReddit](http://www.reddit.com/r/reactjs/)
-* IRC network in `#reactjs` channel on freenode
-* IRC network in `#reactnative` channel on freenode
-* [Reactiflux Slack Group](http://reactiflux.com)
-* [React.js Newsletter](http://reactjsnewsletter.com)
-* [ReactLoop.org](http://reactloop.org)
 
 
 #### Tutorials
