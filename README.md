@@ -152,6 +152,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Primer](https://github.com/mikechau/react-primer-draft)
 * [Mailbox in React](http://blog.tryolabs.com/2015/04/07/react-examples-mailbox/)
 * [React Mixins Explained By Example](http://simblestudios.com/blog/development/react-mixins-by-example.html)
+* [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
 
 ##### React Native Tutorials
 * [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
