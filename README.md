@@ -49,6 +49,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Forms](#forms)
   - [Autocomplete](#autocomplete)
   - [Unit Testing](#unit-testing)
+  - [Documentation Tools](#documentation-tools)
   - [Graphics](#graphics)
   - [Model Libraries](#model-libraries)
   - [Data Managing](#data-managing)
@@ -114,7 +115,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Tutorials
 
 ##### React Tutorials
-* [React Tutorial](http://facebook.github.io/react/docs/tutorial.html)
 * [React One Hour](https://github.com/petehunt/react-one-hour-email/)
 * [Medium React Tutorials](https://medium.com/react-tutorials)
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
@@ -245,7 +245,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 ##### React Charts Tutorials
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
 * [D3 and React - the future of charting components?](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
-* [Choropleth mapping with React and d3](http://pleasetrythisathome.github.io/react%20d3%20visualization%20choropleth/2014/03/20/react-choropleth.html)
 
 ##### React and Backbone
 * [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
@@ -575,7 +574,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Express Coffee-React views - render coffee-react on the server](https://github.com/duereg/express-coffee-react-views)
 * [React Page Middleware](https://github.com/reactjs/react-page-middleware)
 * [ngReact - React Components in Angular](https://github.com/davidchang/ngReact)
-* [React Bower](https://github.com/reactjs/react-bower)
 * [React Python](https://github.com/reactjs/react-python)
 * [React PHP](https://github.com/reactjs/react-php-v8js)
 * [React Meteor](https://github.com/reactjs/react-meteor)
@@ -656,6 +654,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
 * [jasmine-react - Unit test your React.js applications with Jasmine](https://github.com/tommyh/jasmine-react)
 * [chai-react - Chai assertions for React](https://github.com/percyhanna/chai-react)
+
+#### Documentation Tools
+* [react-docgen - Extract information from React component files for documentation generation](https://github.com/reactjs/react-docgen)
 
 #### Graphics
 * [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
