@@ -12,7 +12,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [React Tutorials](#react-tutorials)
     - [React Native Tutorials](#react-native=tutorials)
     - [Writing React Components](#writing-react-components)
-    - [Relay and GraphQL Tutorials](#relay=and-graphql-tutorials)
+    - [Relay and GraphQL Tutorials](#relay-and-graphql-tutorials)
     - [Writing Isomorphic Apps](#writing-isomorphic-apps)
     - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
