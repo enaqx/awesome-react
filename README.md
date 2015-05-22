@@ -560,6 +560,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Touchstonejs - React.js powered UI framework for developing beautiful hybrid mobile apps.](http://touchstonejs.io/)
 * [StateTrooper - Centrally manage state for React applications with CSP](https://github.com/swipely/state-trooper)
 * [riotjs - A React- like, 3.5KB user interface library](https://github.com/muut/riotjs)
+* [Maple.js - Bringing the concept of web-components to React](https://github.com/Wildhoney/Maple.js)
 
 #### Integration
 * [ReactJS.NET](http://reactjs.net/)
