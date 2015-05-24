@@ -34,6 +34,7 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [Testing React Tutorials](#testing-react-tutorials)
     - [Debugging React](#debugging-react)
     - [Authentication and Authorization](#authentication-and-authorization)
+    - [File Uploads](#uploads)
   - [Approach Explanation](#approach-explanation)
   - [React Internals](#react-internals)
 - [Tools](#tools)
@@ -327,6 +328,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ##### Authentication and Authorization
 * [Role-based authorization](http://blog.littleblimp.com/post/109540707808/role-based-authorization-with-react-js)
+
+##### File Uploads
+* [Direct uploads to S3 with React, Rails, and Paperclip](http://blog.littleblimp.com/post/119230396893/direct-uploads-to-s3-with-react-rails-and)
 
 #### Approach Explanation
 * [React: Convincing the Boss](http://www.quora.com/Pete-Hunt/Posts/React-Convincing-the-Boss)
