@@ -89,7 +89,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### React Community
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
-* [React GoogleGroup](https://groups.google.com/forum/#!forum/reactjs)
+* [React Discussion Forum](https://discuss.reactjs.org/)
 * [React Twitter](https://twitter.com/reactjs)
 * [React #reactjs Twitter](https://twitter.com/search?q=%23reactjs)
 * [React SubReddit](http://www.reddit.com/r/reactjs/)
