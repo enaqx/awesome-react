@@ -776,6 +776,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Dave Smith: Angular + React = Speed - ng-conf 2015](https://www.youtube.com/watch?v=XQM0K6YG18s)
 * [Ilya Boyandin: Interactive Data Visualization with React: Taming the Complexity of Changing State - OpenVis 2015](https://www.youtube.com/watch?v=dcLrbiHIX5M)
 * [React Native & Relay: Bringing Modern Web Techniques to Mobile - f8 2015)](https://www.youtube.com/watch?v=X6YbAKiLCLU)
+* [Michael Chan: React.js on Rails](https://www.youtube.com/watch?v=kTSsZrub5iE)
 
 #### Video from React.js Conf 2015
 * [Tom Occhino and Christopher Chedeau: Keynote](http://conf.reactjs.com/schedule.html#keynote)
