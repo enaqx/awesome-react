@@ -97,6 +97,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Reactiflux Slack Group](http://reactiflux.com)
 * [React.js Newsletter](http://reactjsnewsletter.com)
 * [ReactLoop.org](http://reactloop.org)
+* [React Podcast](http://reactpodcast.com/)
 
 #### React Native Community
 * [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
