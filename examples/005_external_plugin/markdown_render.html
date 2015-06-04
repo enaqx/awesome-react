@@ -17,7 +17,7 @@ var MarkdownEditor = React.createClass({
 		return {value: ' Text attributes *italic*, **bold**, `monospace`.'};
 	},
 	handleChange: function() {
-		this.setState({value: this.refs.textarea.getDOMNode().value});
+		this.setState({value: React.findDOMNode(this.refs.textarea).value});
 	},
 	render: function() {
 		return (
