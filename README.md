@@ -538,6 +538,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react.animate - State animation plugin for react.js](https://github.com/pleasetrythisathome/react.animate)
 * [react-animate - React animation mixin](https://github.com/elierotenberg/react-animate)
 * [react-star-rating-input - React.js component for entering 0-5 stars](https://github.com/ikr/react-star-rating-input)
+* [react-star-rating - A simple star rating component built with React.](https://github.com/cameronjroe/react-star-rating)
 * [react-data-components - React components and mixins for manipulating data](https://github.com/carlosrocha/react-data-components)
 * [react-number-editor - Number editor (textfield) component for react](https://github.com/tleunen/react-number-editor)
 * [react-localstorage - Simple localstorage mixin for react](https://github.com/STRML/react-localstorage)
