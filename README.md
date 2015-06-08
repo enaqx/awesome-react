@@ -316,6 +316,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React JS and a browserify workflow, part1](http://christianalfoni.github.io/javascript/2014/08/15/react-js-workflow.html)
 * [React JS and a browserify workflow, part2](http://christianalfoni.github.io/javascript/2014/10/30/react-js-workflow-part2.html)
 * [Choosing the correct packaging tool for React JS](http://christianalfoni.github.io/javascript/2014/08/29/choosing-the-correct-packaging-tool-for-react-js.html)
+* [Asynchronous ReactJS Component loading with Webpack](http://blog.netgusto.com/asynchronous-reactjs-component-loading-with-webpack/)
 
 ##### Testing React Tutorials
 * [Testing Flux Applications](http://facebook.github.io/react/blog/2014/09/24/testing-flux-applications.html)
@@ -403,6 +404,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Fluxible](https://github.com/yahoo/fluxible)
 * [Dispatchr](https://github.com/yahoo/dispatchr)
 * [Fetchr](https://github.com/yahoo/fetchr)
+* [Geiger](https://github.com/netgusto/Geiger)
 
 ##### Mobile
 * [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
@@ -427,6 +429,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [mullet - A React + Hapi Starter Kit](https://github.com/lynnaloo/mullet)
 * [React on Rails Starter Kit](https://github.com/elierotenberg/react-rails-starterkit)
 * [Coffee React Quickstart](https://github.com/KyleAMathews/coffee-react-quickstart)
+* [Idiomatic React : Idiomatic React - Flux - REST app](https://github.com/netgusto/IdiomaticReact)
+* [Idiomatic Chat : Simple Facebook's Flux Chat Example App](https://github.com/netgusto/IdiomaticReact/tree/chat)
 
 #### Components
 * [React Components](http://react-components.com/)
