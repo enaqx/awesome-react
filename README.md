@@ -686,6 +686,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [morearty.js - Better state management for React in pure JavaScript](https://github.com/moreartyjs/moreartyjs)
 * [valuable - An immutable data store for React](https://github.com/josephsavona/valuable)
 * [react-resolver - Isomorphic library to recursively lazy-load data for React components](https://github.com/ericclemmons/react-resolver)
+* [freezer-js - Lightweight and reactive immutable data structure for React](https://github.com/arqex/freezer)
 
 #### Development Environment
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
