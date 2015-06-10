@@ -403,6 +403,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Fluxible](https://github.com/yahoo/fluxible)
 * [Dispatchr](https://github.com/yahoo/dispatchr)
 * [Fetchr](https://github.com/yahoo/fetchr)
+* [NuclearJS](https://github.com/optimizely/nuclear-js)
 
 ##### Mobile
 * [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
