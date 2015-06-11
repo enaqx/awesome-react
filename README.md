@@ -80,7 +80,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Wiki](https://github.com/facebook/react/wiki)
 * [React npm module](https://www.npmjs.org/package/react)
 * [React Tools npm module](https://www.npmjs.org/package/react-tools)
-* [React TodoMVC](http://todomvc.com/examples/react/)
+* [React JSX Online Compiler](https://facebook.github.io/react/jsx-compiler.html)
 
 #### React Native General Resources
 * [React Native Official Site](https://facebook.github.io/react-native/)
@@ -94,8 +94,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React #reactjs Twitter](https://twitter.com/search?q=%23reactjs)
 * [React SubReddit](http://www.reddit.com/r/reactjs/)
 * IRC network in `#reactjs` channel on freenode
-* [Reactiflux Slack Group](http://reactiflux.com)
-* [React.js Newsletter](http://reactjsnewsletter.com)
 * [ReactLoop.org](http://reactloop.org)
 * [React Podcast](http://reactpodcast.com/)
 
@@ -108,8 +106,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### React Online Playground
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
 * [React JSFiddle Integration without JSX](https://jsfiddle.net/reactjs/5vjqabv3/)
-* [React CodePen Integration with JSX](http://codepen.io/enaqx/pen/cuIxm)
-* [React CodePen Integration without JSX](http://codepen.io/enaqx/pen/aAcdk)
 * [React 0.13 CodePen Integration with ES6 and JSX](http://codepen.io/bradleyboy/pen/OPBpGw)
 * [React 0.13 JSBin Integration with JSX](http://jsbin.com/basitofoqo/1/edit?html,js,output)
 
@@ -117,36 +113,28 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Tutorials
 
 ##### React Tutorials
-* [React One Hour](https://github.com/petehunt/react-one-hour-email/)
 * [Medium React Tutorials](https://medium.com/react-tutorials)
-* [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [React beginner tutorial: implementing the board game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html)
 * [Trying Out ReactJS With the Marvel API](http://ryanlanciaux.github.io/blog/2014/05/26/trying-out-reactjs-with-the-marvel-api/)
 * [Yo in React](http://davidandsuzi.com/yo-in-react/)
 * [Creating Chrome Extensions with React](http://brandontilley.com/2014/02/24/creating-chrome-extensions-with-react.html)
 * [Using ReactJS and KendoUI Together](http://ifandelse.com/using-reactjs-and-kendoui-together/)
 * [Building dynamic forms with Facebook React](http://www.dustingetz.com/2014/02/18/react-dynamic-forms.html)
-* [Intro to React livecoding workshop](http://www.dustingetz.com/2014/03/16/react-into-workshop-notes.html)
-* [Tooltip mixin for React](https://caurea.org/2014/06/12/tooltip-mixin-for-react.html)
 * [React Tutorial: Two way data binding](http://voidcanvas.com/react-tutorial-two-way-data-binding/)
 * [React PhoneCat: Rewriting the AngularJS Tutorial App in React](http://jgebhardt.github.io/blog/react-phonecat/)
 * [Simplifying Code with React](http://www.kevindangoor.com/2014/05/simplifying-code-with-react/)
-* [The New React-based Brackets Project Tree](http://www.kevindangoor.com/2014/09/intro-to-the-new-brackets-project-tree/)
 * [A React.js case study follow-up](http://blog.krawaller.se/posts/a-react-js-case-study-follow-up/)
 * [Scroll Position with React](http://blog.vjeux.com/2013/javascript/scroll-position-with-react.html)
 * [Component Interop With React And Custom Elements](http://addyosmani.com/blog/component-interop-with-react-and-custom-elements/)
 * [Getting Started with React.js: Creating Material Design Components](http://www.syncano.com/getting-started-reactjs-tutorial/)
 * [Building a board game with React.js](http://jjt.io/2014/07/30/building-a-board-game-with-react-js/)
-* [ReactJS and Socket.IO Chat Application](http://danialk.github.io/blog/2013/06/16/reactjs-and-socket-dot-io-chat-application/)
 * [Using Firebase with ReactJS](https://www.firebase.com/blog/2014-05-01-using-firebase-with-react.html)
 * [5 Practical Examples For Learning The React Framework](http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/)
 * [Working with jQuery UI Dialog and ReactJS components](http://sterling.ghost.io/working-with-jqueryui-and-reactjs-components/)
 * [ReactJS for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 * [WebRTC chat with React.js](http://blog.mgechev.com/2014/09/03/webrtc-peer-to-peer-chat-with-react/)
-* [Introduction to Contexts in React.js](https://www.tildedave.com/2014/11/15/introduction-to-contexts-in-react-js.html)
 * [Learn React by building the Hacker News front page](https://github.com/mking/react-hn)
 * [Play Framework and Facebook's React library](http://matthiasnehlsen.com/blog/2014/01/05/play-framework-and-facebooks-react-library/)
-* [Build with React](http://buildwithreact.com/)
 * [Taking React to the next level: Mixins, Gulp, and Browserify](http://pomax.github.io/?#gh-weblog-1420592591221)
 * [Getting Started with React](http://ryanclark.me/getting-started-with-react/)
 * [React Tips and Best Practices](http://aeflash.com/2015-02/react-tips-and-best-practices.html)
