@@ -428,6 +428,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [mullet - A React + Hapi Starter Kit](https://github.com/lynnaloo/mullet)
 * [React on Rails Starter Kit](https://github.com/elierotenberg/react-rails-starterkit)
 * [Coffee React Quickstart](https://github.com/KyleAMathews/coffee-react-quickstart)
+* [React + Webpack + Flux (Alt) + Isomorphic + Express + MongoDB boilerplate](https://github.com/choonkending/react-webpack-node)
 
 #### Components
 * [React Components](http://react-components.com/)
