@@ -298,6 +298,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Server/Client With React, Part 3: Frontend Server](http://eflorenzano.com/blog/2014/04/11/react-part-3-frontend-server/)
 
 ##### Server Side rendering
+* [Super-basic example of how server rendering works](https://github.com/petehunt/react-server-rendering-example)
 * [Server Side Rendering for ReactJS](http://yanns.github.io/blog/2014/03/15/server-side-rendering-for-javascript-reactjs-framework/)
 * [React Server Rendering](https://github.com/mhart/react-server-example)
 * [JDK8 + Facebook React: Rendering single page apps on the server](http://augustl.com/blog/2014/jdk8_react_rendering_on_server/)
