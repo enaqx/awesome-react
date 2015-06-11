@@ -273,6 +273,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/)
 * [Om sweet Om](http://blog.getprismatic.com/om-sweet-om-high-functional-frontend-engineering-with-clojurescript-and-react/)
 * [The Case for React.js and ClojureScript](http://murilopereira.com/the-case-for-reactjs-and-clojurescript/)
+* [A Reagent Framework For Writing SPAs](https://github.com/Day8/re-frame)
 
 ##### React and CoffeeScript
 * [React & CoffeeScript](http://blog.vjeux.com/2013/javascript/react-coffeescript.html)
