@@ -94,12 +94,12 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React #reactjs Twitter](https://twitter.com/search?q=%23reactjs)
 * [React SubReddit](http://www.reddit.com/r/reactjs/)
 * IRC network in `#reactjs` channel on freenode
-* [ReactLoop.org](http://reactloop.org)
+* [React Loop](http://reactloop.org)
 * [React Podcast](http://reactpodcast.com/)
 
 #### React Native Community
 * [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
-* [React #reactnative Twitter](https://twitter.com/search?q=%23reactnative)
+* [React Native #reactnative Twitter](https://twitter.com/search?q=%23reactnative)
 * [React Native SubReddit](https://www.reddit.com/r/reactnative)
 * IRC network in `#reactnative` channel on freenode
 
