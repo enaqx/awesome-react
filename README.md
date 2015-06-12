@@ -78,9 +78,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Official Site](http://facebook.github.io/react/)
 * [React GitHub](https://github.com/facebook/react)
 * [React Wiki](https://github.com/facebook/react/wiki)
-* [React npm module](https://www.npmjs.org/package/react)
-* [React Tools npm module](https://www.npmjs.org/package/react-tools)
-* [React JSX Online Compiler](https://facebook.github.io/react/jsx-compiler.html)
+* [React NPM Module](https://www.npmjs.org/package/react)
+* [React Tools NPM Module](https://www.npmjs.org/package/react-tools)
 
 #### React Native General Resources
 * [React Native Official Site](https://facebook.github.io/react-native/)
@@ -88,26 +87,28 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Native npm module](https://www.npmjs.com/package/react-native)
 
 #### React Community
+* IRC network in `#reactjs` channel on freenode
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 * [React Discussion Forum](https://discuss.reactjs.org/)
 * [React Twitter](https://twitter.com/reactjs)
 * [React #reactjs Twitter](https://twitter.com/search?q=%23reactjs)
 * [React SubReddit](http://www.reddit.com/r/reactjs/)
-* IRC network in `#reactjs` channel on freenode
 * [React Loop](http://reactloop.org)
 * [React Podcast](http://reactpodcast.com/)
 
 #### React Native Community
+* IRC network in `#reactnative` channel on freenode
 * [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
 * [React Native #reactnative Twitter](https://twitter.com/search?q=%23reactnative)
 * [React Native SubReddit](https://www.reddit.com/r/reactnative)
-* IRC network in `#reactnative` channel on freenode
 
 #### React Online Playground
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
 * [React JSFiddle Integration without JSX](https://jsfiddle.net/reactjs/5vjqabv3/)
 * [React 0.13 CodePen Integration with ES6 and JSX](http://codepen.io/bradleyboy/pen/OPBpGw)
 * [React 0.13 JSBin Integration with JSX](http://jsbin.com/basitofoqo/1/edit?html,js,output)
+* [React JSX to JS Online Compiler](https://facebook.github.io/react/jsx-compiler.html)
+* [React HTML to JSX Online Compiler](https://facebook.github.io/react/html-jsx.html)
 
 
 #### Tutorials
@@ -655,7 +656,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
 * [jasmine-react - Unit test your React.js applications with Jasmine](https://github.com/tommyh/jasmine-react)
 * [chai-react - Chai assertions for React](https://github.com/percyhanna/chai-react)
-* [react-test-tree - Simple and concise React component testing](https://github.com/QubitProducts/react-test-tree)
 
 #### Documentation Tools
 * [react-docgen - Extract information from React component files for documentation generation](https://github.com/reactjs/react-docgen)
