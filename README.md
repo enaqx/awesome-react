@@ -11,9 +11,8 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Tutorials](#tutorials)
     - [React Tutorials](#react-tutorials)
     - [React Native Tutorials](#react-native-tutorials)
-    - [Writing React Components](#writing-react-components)
     - [Relay and GraphQL Tutorials](#relay-and-graphql-tutorials)
-    - [Writing Isomorphic Apps](#writing-isomorphic-apps)
+    - [Isomorphic Apps](#isomorphic-apps)
     - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
@@ -84,7 +83,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### React Native General Resources
 * [React Native Official Site](https://facebook.github.io/react-native/)
 * [React Native GitHub](https://github.com/facebook/react-native)
-* [React Native npm module](https://www.npmjs.com/package/react-native)
+* [React Native NPM module](https://www.npmjs.com/package/react-native)
 
 #### React Community
 * IRC network in `#reactjs` channel on freenode
@@ -115,23 +114,23 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ##### React Tutorials
 * [Medium React Tutorials](https://medium.com/react-tutorials)
-* [React beginner tutorial: implementing the board game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html)
-* [Trying Out ReactJS With the Marvel API](http://ryanlanciaux.github.io/blog/2014/05/26/trying-out-reactjs-with-the-marvel-api/)
+* [React beginner tutorial: Implementing the board game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html)\
 * [Yo in React](http://davidandsuzi.com/yo-in-react/)
+* [React PhoneCat: Rewriting the AngularJS Tutorial App in React](http://jgebhardt.github.io/blog/react-phonecat/)
+* [Building a board game with React.js](http://jjt.io/2014/07/30/building-a-board-game-with-react-js/)
+* [Trying Out ReactJS With the Marvel API](http://ryanlanciaux.github.io/blog/2014/05/26/trying-out-reactjs-with-the-marvel-api/)
 * [Creating Chrome Extensions with React](http://brandontilley.com/2014/02/24/creating-chrome-extensions-with-react.html)
+* [Working with jQuery UI Dialog and ReactJS components](http://sterling.ghost.io/working-with-jqueryui-and-reactjs-components/)
 * [Using ReactJS and KendoUI Together](http://ifandelse.com/using-reactjs-and-kendoui-together/)
 * [Building dynamic forms with Facebook React](http://www.dustingetz.com/2014/02/18/react-dynamic-forms.html)
 * [React Tutorial: Two way data binding](http://voidcanvas.com/react-tutorial-two-way-data-binding/)
-* [React PhoneCat: Rewriting the AngularJS Tutorial App in React](http://jgebhardt.github.io/blog/react-phonecat/)
 * [Simplifying Code with React](http://www.kevindangoor.com/2014/05/simplifying-code-with-react/)
 * [A React.js case study follow-up](http://blog.krawaller.se/posts/a-react-js-case-study-follow-up/)
 * [Scroll Position with React](http://blog.vjeux.com/2013/javascript/scroll-position-with-react.html)
 * [Component Interop With React And Custom Elements](http://addyosmani.com/blog/component-interop-with-react-and-custom-elements/)
 * [Getting Started with React.js: Creating Material Design Components](http://www.syncano.com/getting-started-reactjs-tutorial/)
-* [Building a board game with React.js](http://jjt.io/2014/07/30/building-a-board-game-with-react-js/)
 * [Using Firebase with ReactJS](https://www.firebase.com/blog/2014-05-01-using-firebase-with-react.html)
 * [5 Practical Examples For Learning The React Framework](http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/)
-* [Working with jQuery UI Dialog and ReactJS components](http://sterling.ghost.io/working-with-jqueryui-and-reactjs-components/)
 * [ReactJS for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 * [WebRTC chat with React.js](http://blog.mgechev.com/2014/09/03/webrtc-peer-to-peer-chat-with-react/)
 * [Learn React by building the Hacker News front page](https://github.com/mking/react-hn)
@@ -144,25 +143,17 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Mailbox in React](http://blog.tryolabs.com/2015/04/07/react-examples-mailbox/)
 * [React Mixins Explained By Example](http://simblestudios.com/blog/development/react-mixins-by-example.html)
 * [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
-
-##### React Native Tutorials
-* [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
-* [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
-
-##### Writing React Components
 * [A Sortable List Component in React utilizing the HTML5 Drag & Drop API](http://webcloud.se/sortable-list-component-react-js/)
-* [A Truly Reactive Sortable Component](http://webcloud.se/truly-reactive-sortable-component/)
-* [Dealing with asynchronous code in React components](https://caurea.org/2014/02/04/dealing-with-asynchronous-code-in-react-components.html)
-* [Component-based Web Apps with React](http://www.sitepoint.com/component-based-web-apps-react/)
-* [Reactive Table](http://www.phpied.com/reactive-table/)
-* [ReActiveTable bookmarklet](http://www.phpied.com/reactivetable-bookmarklet/)
 * [Set State in Callbacks in React](http://jaketrent.com/post/set-state-in-callbacks-in-react/)
 * [Send Props to Children in React](http://jaketrent.com/post/send-props-to-children-react/)
-* [Creating Modular View Components with React and Grunt](http://modernweb.com/2014/03/17/creating-modular-view-components-with-react-and-grunt/)
 * [React Components for Cat Videos](http://davidandsuzi.com/react-components-for-cat-videos/)
 * [ReactJS: Keep Simple. Everything can be a component!](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 * [Complex Drag and Drop Lists using React.js](https://reactjsnews.com/complex-drag-and-drop-lists-using-react/)
 * [The Future of Drag and Drop APIs](https://medium.com/@dan_abramov/the-future-of-drag-and-drop-apis-249dfea7a15f)
+
+##### React Native Tutorials
+* [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
+* [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
 
 ##### Relay
 * [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
@@ -170,7 +161,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
 * [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47?)
 
-##### Writing Isomorphic Apps
+##### Isomorphic Apps
 * [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)
 * [From AngularJS to React: The Isomorphic Way](http://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
 * [Creating Isomorphic apps with React and Node.js](http://www.htmlxprs.com/post/20/creating-isomorphic-apps-with-react-and-nodejs)
