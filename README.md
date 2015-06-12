@@ -647,6 +647,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
 * [jasmine-react - Unit test your React.js applications with Jasmine](https://github.com/tommyh/jasmine-react)
 * [chai-react - Chai assertions for React](https://github.com/percyhanna/chai-react)
+* [react-test-tree - Simple and concise React component testing](https://github.com/QubitProducts/react-test-tree)
 
 #### Documentation Tools
 * [react-docgen - Extract information from React component files for documentation generation](https://github.com/reactjs/react-docgen)
