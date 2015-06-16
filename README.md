@@ -807,6 +807,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React in 7 Minutes](https://egghead.io/lessons/react-react-in-7-minutes)
 * [jFlux - Going from MVC to FLUX](https://www.youtube.com/watch?v=plUN2L4Ak14)
 
+#### Books
+* [SurviveJS - Webpack and React](http://survivejs.com/)
 
 ---
 ### Demos
