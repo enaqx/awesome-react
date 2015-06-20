@@ -200,6 +200,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Introduction to Facebook's Flux architecture](http://ryanclark.me/getting-started-with-flux/)
 * [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 * [Flux Cargo-Culting](https://medium.com/@cassiozen/flux-cargo-culting-3cae9ff27c0c)
+* [The Case for Flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
+* [The Evolution of Flux Frameworks](http://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
 
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
@@ -386,6 +388,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Dispatchr](https://github.com/yahoo/dispatchr)
 * [Fetchr](https://github.com/yahoo/fetchr)
 * [NuclearJS](https://github.com/optimizely/nuclear-js)
+* [Redux](https://github.com/gaearon/redux)
 
 ##### Mobile
 * [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
@@ -833,6 +836,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-isomorphic-video-game-search - An Isomorphic demo powered by React](http://react-isomorphic-video-game-search.warppi.pe/)
 * [Flux ImmutableJS TodoList](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
 * [Hapi+React+Flux user management system](https://github.com/jedireza/aqua)
+* [Redux TodoMVC](https://github.com/gaearon/redux/tree/master/examples/todomvc)
 
 ---
 ### Examples
