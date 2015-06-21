@@ -686,6 +686,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [JSXHint - Wrapper around JSHint for linting JSX files](https://github.com/STRML/JSXHint)
 
 #### Generating
+* [generator-reactor - Yeoman generator for ReactJS](https://github.com/willmendesneto/generator-reactor)
 * [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
 * [generator-react-app - Yeoman generator to create React application](https://github.com/js-experiments/generator-react-app)
 * [generator-react-library - Yeoman generator for React components](https://github.com/petehunt/generator-react-library)
