@@ -665,6 +665,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Data Managing
 * [Immutable.js - Immutable Data Collections for Javascript](https://github.com/facebook/immutable-js)
+* [mobservable - Observable data structures for building reactive React apps](https://github.com/mweststrate/MOBservable)
 * [cortex - A javascript library for centrally managing data with React](https://github.com/mquan/cortex)
 * [avers - A modern client-side model abstraction library](https://github.com/wereHamster/avers)
 * [imvvm - Immutable Model-View-ViewModel for React](https://github.com/entrendipity/imvvm)
