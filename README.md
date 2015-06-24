@@ -642,6 +642,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-autocomplete by @eliseumds- Just tasting some ReactJS + RxJS](https://github.com/eliseumds/react-autocomplete)
 * [react-autocomplete by @prometheusresearch - Autocomplete widget based on React](https://github.com/prometheusresearch/react-autocomplete)
 * [react-select by @JedWatson - Like Selectize / Chosen / Select2 etc, work in progress](https://github.com/JedWatson/react-select)
+* [instatype by @gragland - Simple react autocomplete component](https://github.com/gragland/instatype)
 
 #### Unit Testing
 * [jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
