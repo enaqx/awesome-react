@@ -154,6 +154,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 ##### React Native Tutorials
 * [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 * [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
+* [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
 
 ##### Relay
 * [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
