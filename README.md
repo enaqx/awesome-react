@@ -678,6 +678,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [valuable - An immutable data store for React](https://github.com/josephsavona/valuable)
 * [react-resolver - Isomorphic library to recursively lazy-load data for React components](https://github.com/ericclemmons/react-resolver)
 * [freezer-js - Lightweight and reactive immutable data structure for React](https://github.com/arqex/freezer)
+* [mobservable - Observable data structures for building reactive React apps](https://github.com/mweststrate/MOBservable)
 
 #### Development Environment
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
