@@ -393,6 +393,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Fetchr](https://github.com/yahoo/fetchr)
 * [NuclearJS](https://github.com/optimizely/nuclear-js)
 * [Redux](https://github.com/gaearon/redux)
+* [WTFlux](https://github.com/staltz/wtf)
 
 ##### Mobile
 * [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
