@@ -66,6 +66,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Video from Confs](#video-from-confs)
   - [Video from React.js Conf 2015](#video-from-reactjs-conf-2015)
   - [Video Tutorials](#video-tutorials)
+- [Books](#books)
 - [Demos](#demos)
 - [Examples](#examples)
 - [Contribution](#contribution)
