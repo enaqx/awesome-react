@@ -114,7 +114,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ##### React Tutorials
 * [Medium React Tutorials](https://medium.com/react-tutorials)
-* [React beginner tutorial: Implementing the board game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html)\
+* [React beginner tutorial: Implementing the board game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html)
+* [React.js Koans: Practical exercises that will help you learn React.js from square one](https://github.com/arkency/reactjs_koans)
 * [Yo in React](http://davidandsuzi.com/yo-in-react/)
 * [React PhoneCat: Rewriting the AngularJS Tutorial App in React](http://jgebhardt.github.io/blog/react-phonecat/)
 * [Building a board game with React.js](http://jjt.io/2014/07/30/building-a-board-game-with-react-js/)
