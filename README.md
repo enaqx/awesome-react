@@ -159,7 +159,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
 * [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
 
-##### Relay
+##### Relay and GraphQL Tutorials
 * [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
 * [Building The Facebook News Feed With Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
 * [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
