@@ -662,6 +662,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Documentation Tools
 * [react-docgen - Extract information from React component files for documentation generation](https://github.com/reactjs/react-docgen)
+* [react-styleguide-generator - Easily generate a good-looking styleguide](https://github.com/pocotan001/react-styleguide-generator)
 
 #### Graphics
 * [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
