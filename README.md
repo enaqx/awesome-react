@@ -11,6 +11,7 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Tutorials](#tutorials)
     - [React Tutorials](#react-tutorials)
     - [React Native Tutorials](#react-native-tutorials)
+    - [React Native Gestures](#react-native-gestures)
     - [Relay and GraphQL Tutorials](#relay-and-graphql-tutorials)
     - [Isomorphic Apps](#isomorphic-apps)
     - [JSX](#jsx)
@@ -158,6 +159,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 * [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
 * [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
+* [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
+
+##### React Native Gestures
+* [Gesture detection in React Native – fixing unexpected panning](http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/)
 
 ##### Relay
 * [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
