@@ -415,7 +415,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [graphql-ruby - Ruby implementation of Facebook's GraphQL](https://github.com/rmosolgo/graphql-ruby)
 
 #### Boilerplates
-* [ReactJS / Flux Starter Kit - a skeleton for an isomorphic web application](https://github.com/kriasoft/react-starter-kit)
+* [React Starter Kit - a skeleton of an "isomorphic" web application](https://github.com/kriasoft/react-starter-kit)
 * [essential-react - A minimal skeleton for building testable React apps using ES6](https://github.com/pheuter/essential-react)
 * [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
 * [react-starter - Starter template for React with webpack](https://github.com/webpack/react-starter)
@@ -426,6 +426,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React on Rails Starter Kit](https://github.com/elierotenberg/react-rails-starterkit)
 * [Coffee React Quickstart](https://github.com/KyleAMathews/coffee-react-quickstart)
 * [React + Webpack + Flux (Alt) + Isomorphic + Express + MongoDB boilerplate](https://github.com/choonkending/react-webpack-node)
+* [Babel Starter Kit - a boilerplate for authoring React.js libraries with ES6+, Babel](https://github.com/kriasoft/babel-starter-kit)
 
 #### Components
 * [React Components](http://react-components.com/)
