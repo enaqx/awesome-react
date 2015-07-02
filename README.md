@@ -171,8 +171,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47?)
 
 ##### Isomorphic Apps
-* [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)
-* [From AngularJS to React: The Isomorphic Way](http://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
+* [isomorphic-tutorial - Tutorial app to demonstrate isomorphic JavaScript concepts](https://github.com/spikebrehm/isomorphic-tutorial)
 * [Creating Isomorphic apps with React and Node.js](http://www.htmlxprs.com/post/20/creating-isomorphic-apps-with-react-and-nodejs)
 * [isomorphic500 - Isomorphic JS app built with React and Fluxible](https://github.com/gpbl/isomorphic500)
 
@@ -407,6 +406,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Reapp - A UI-kit with widgets and CLI to build mobile web apps](http://reapp.io)
 
 ##### Relay and GraphQL
+* [graphql-js - A reference implementation of GraphQL for JavaScrip](https://github.com/graphql/graphql-js)
+* [GraphQL Specification](https://github.com/facebook/graphql)
 * [GraphpostgresQL - GraphQL for Postgres](https://github.com/solidsnack/GraphpostgresQL)
 * [react-transmit - Relay-inspired library based on Promises](https://github.com/RickWong/react-transmit)
 * [graphqljs - GraphQL parser written in JavaScript](https://github.com/cobbweb/graphqljs)
@@ -416,6 +417,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Boilerplates
 * [React Starter Kit - a skeleton of an "isomorphic" web application](https://github.com/kriasoft/react-starter-kit)
+* [react-isomorphic-starterkit - somorphic starterkit with server-side React rendering](https://github.com/RickWong/react-isomorphic-starterkit)
 * [essential-react - A minimal skeleton for building testable React apps using ES6](https://github.com/pheuter/essential-react)
 * [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
 * [react-starter - Starter template for React with webpack](https://github.com/webpack/react-starter)
