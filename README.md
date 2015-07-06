@@ -70,6 +70,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 - [Books](#books)
 - [Demos](#demos)
 - [Examples](#examples)
+- [Apps](#apps)
 - [Contribution](#contribution)
 
 ---
@@ -871,6 +872,12 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [External Plugin](https://github.com/enaqx/awesome-react/tree/master/examples/005_external_plugin)
 * [POST/GET with HTTP server](https://github.com/enaqx/awesome-react/tree/master/examples/006_with_http_server)
 * [Refs to send messages between components](https://github.com/enaqx/awesome-react/tree/master/examples/007_refs)
+
+---
+### Apps
+* [reddit/reddit-mobile](https://github.com/reddit/reddit-mobile)
+* [khan/perseus](https://github.com/khan/perseus)
+* [airbnb/airpal](https://github.com/airbnb/airpal/tree/master/src/main/resources/assets)
 
 ---
 ### Contribution
