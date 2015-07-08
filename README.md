@@ -834,6 +834,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Books
 * [SurviveJS - Webpack and React](http://survivejs.com/)
+* [react-webpack-cookbook - A cookbook for using Webpack with React JS](http://christianalfoni.github.io/react-webpack-cookbook)
 
 ---
 ### Demos
