@@ -155,6 +155,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [The Future of Drag and Drop APIs](https://medium.com/@dan_abramov/the-future-of-drag-and-drop-apis-249dfea7a15f)
 * [Coding with React like a Game Developer](https://medium.com/@PhilPlckthun/coding-with-react-like-a-game-developer-e39ffaed1643)
 * [http://www.toptal.com/react/navigating-the-react-ecosystem](http://www.toptal.com/react/navigating-the-react-ecosystem)
+* [React.js Introduction For People Who Know Just Enough jQuery To Get By] (http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 
 ##### React Native Tutorials
 * [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
