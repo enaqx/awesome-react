@@ -879,6 +879,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [reddit/reddit-mobile](https://github.com/reddit/reddit-mobile)
 * [khan/perseus](https://github.com/khan/perseus)
 * [airbnb/airpal](https://github.com/airbnb/airpal/tree/master/src/main/resources/assets)
+* [mozilla/payments-ui](https://github.com/mozilla/payments-ui)
 
 ---
 ### Contribution
