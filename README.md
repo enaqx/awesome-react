@@ -884,3 +884,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 ---
 ### Contribution
 Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
+
+---
+### License
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
