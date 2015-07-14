@@ -246,7 +246,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 ##### React and Backbone
 * [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
 * [Chicago Backbone Meetup: React + Backbone slides](https://speakerdeck.com/larsonjj/chicago-backbone-meetup-react-plus-backbone)
-* [Pimp my Backbone.View](https://blog.mayflower.de/3937-Backbone-React.html)
 
 ##### React and Angular
 * [NgReact - React Components in Angular](http://davidandsuzi.com/ngreact-react-components-in-angular/)
@@ -318,7 +317,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Testing Flux Applications](http://facebook.github.io/react/blog/2014/09/24/testing-flux-applications.html)
 * [Testing React Components](http://www.asbjornenge.com/wwc/testing_react_components.html)
 * [Testing React components with Huxley](https://caurea.org/2014/02/23/testing-react-components-with-huxley.html)
-* [Testing React.js](http://engineering.venmo.com/blog/2014/05/15/testing-react/)
 * [Unit Testing React.js With Jasmine and Karma](http://myshareoftech.com/2013/12/unit-testing-react-dot-js-with-jasmine-and-karma.html)
 * [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
 
@@ -351,7 +349,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
 * [Facebook React vs. Ember](http://instructure.github.io/blog/2013/12/17/facebook-react-vs-ember/)
 * [Moving From Backbone To React](https://usepropeller.com/blog/posts/from-backbone-to-react/)
-* [Pimp my Backbone.View (by replacing it with React)](http://blog.mayflower.de/3937-Backbone-React.html)
 * [From Backbone Views To React](http://leoasis.github.io/posts/2014/03/22/from_backbone_views_to_react/)
 * [React.js vs traditional MVC](http://www.code-experience.com/react-js-vs-traditional-mvc-backbone-ember-angular/)
 * [Why you might not need MVC with React.js](http://www.code-experience.com/why-you-might-not-need-mvc-with-reactjs/)
@@ -829,12 +826,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [ReactJS: Dealing with the Server](https://www.youtube.com/watch?v=lJUUjdsv0aw)
 * [Building UIs with ReactJS](http://www.youtube.com/watch?v=lAn7GVoGlKU)
 * [React.js Internals](https://www.youtube.com/watch?v=FAgSdSikSCc)
-* [Introduction to React JS](http://videos.bigbinary.com/react/introduction-to-react.html)
-* [React Lifecycle Methods, and creating a Clock-Tick using it](http://videos.bigbinary.com/react/clock-tick-using-react-life-cycle-method.html)
-* [React Life cycle methods - In Depth](http://videos.bigbinary.com/react/react-life-cycle-methods-in-depth.html)
-* [Using multiple components in React JS](http://videos.bigbinary.com/react/using-multiple-components-in-react.html)
 * [React in 7 Minutes](https://egghead.io/lessons/react-react-in-7-minutes)
 * [jFlux - Going from MVC to FLUX](https://www.youtube.com/watch?v=plUN2L4Ak14)
+* [Learn React in steps - BigBinary](http://bigbinary.com/videos/learn-reactjs-in-steps)
+* [Keep up with React - BigBinary](http://bigbinary.com/videos/keep-up-with-reactjs)
 
 #### Books
 * [SurviveJS - Webpack and React](http://survivejs.com/)
