@@ -115,6 +115,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 #### Tutorials
 
 ##### React Tutorials
+* [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 * [Medium React Tutorials](https://medium.com/react-tutorials)
 * [React beginner tutorial: Implementing the board game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html)
 * [React.js Koans: Practical exercises that will help you learn React.js from square one](https://github.com/arkency/reactjs_koans)
