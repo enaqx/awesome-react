@@ -12,7 +12,6 @@ A collection of awesome React tools, resources, videos and shiny things.
     - [React Tutorials](#react-tutorials)
     - [React Native Tutorials](#react-native-tutorials)
     - [React Native Gestures](#react-native-gestures)
-    - [Relay and GraphQL Tutorials](#relay-and-graphql-tutorials)
     - [Isomorphic Apps](#isomorphic-apps)
     - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
@@ -41,7 +40,6 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Flux Implementations](#flux-implementations)
   - [React Native](#react-native)
   - [Mobile](#mobile)
-  - [Relay and GraphQL](#relay-and-graphql)
   - [Boilerplates](#boilerplates)
   - [Components](#components)
   - [Libraries](#libraries)
@@ -63,6 +61,10 @@ A collection of awesome React tools, resources, videos and shiny things.
   - [Maps](#maps)
   - [Charts](#charts)
   - [Service Workers](#service-workers)
+- [GraphQL and Relay](#graphql-and-relay)
+  - [GraphQL Spec](#graphql-spec)
+  - [GraphQL Tutorials](#graphql-tutorials)
+  - [GraphQL Implementations](#graphql-implementation)
 - [Videos](#videos)
   - [Video from Confs](#video-from-confs)
   - [Video from React.js Conf 2015](#video-from-reactjs-conf-2015)
@@ -165,12 +167,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ##### React Native Gestures
 * [Gesture detection in React Native – fixing unexpected panning](http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/)
-
-##### Relay and GraphQL Tutorials
-* [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
-* [Building The Facebook News Feed With Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
-* [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
-* [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47?)
 
 ##### Isomorphic Apps
 * [isomorphic-tutorial - Tutorial app to demonstrate isomorphic JavaScript concepts](https://github.com/spikebrehm/isomorphic-tutorial)
@@ -407,15 +403,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
 * [Reapp - A UI-kit with widgets and CLI to build mobile web apps](http://reapp.io)
 
-##### Relay and GraphQL
-* [graphql-js - A reference implementation of GraphQL for JavaScrip](https://github.com/graphql/graphql-js)
-* [GraphQL Specification](https://github.com/facebook/graphql)
-* [GraphpostgresQL - GraphQL for Postgres](https://github.com/solidsnack/GraphpostgresQL)
-* [react-transmit - Relay-inspired library based on Promises](https://github.com/RickWong/react-transmit)
-* [graphqljs - GraphQL parser written in JavaScript](https://github.com/cobbweb/graphqljs)
-* [graphqlite - An experimental implementation of Facebook's GraphQL](https://github.com/madjam002/graphqlite)
-* [GraphNoQL - Facebook's GraphQL backend implemented with Node+Mongo](https://github.com/lutherism/GraphNoQL)
-* [graphql-ruby - Ruby implementation of Facebook's GraphQL](https://github.com/rmosolgo/graphql-ruby)
 
 #### Boilerplates
 * [React Starter Kit - a skeleton of an "isomorphic" web application](https://github.com/kriasoft/react-starter-kit)
@@ -760,6 +747,29 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Service Workers
  * [react-worker - Using Service Workers to render React components](https://github.com/MicheleBertoli/react-worker)
+
+---
+### GraphQL and Relay
+
+#### GraphQL Spec
+* [GraphQL Specification](http://facebook.github.io/graphql/)
+* [GraphQL Specification GitHub](https://github.com/facebook/graphql)
+
+#### GraphQL Tutorials
+* [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
+* [Building The Facebook News Feed With Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
+* [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
+* [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47?)
+
+##### GraphQL Implementations
+* [graphql-js - A reference implementation of GraphQL for JavaScript](https://github.com/graphql/graphql-js)
+* [GraphQL Specification](https://github.com/facebook/graphql)
+* [GraphpostgresQL - GraphQL for Postgres](https://github.com/solidsnack/GraphpostgresQL)
+* [react-transmit - Relay-inspired library based on Promises](https://github.com/RickWong/react-transmit)
+* [graphqljs - GraphQL parser written in JavaScript](https://github.com/cobbweb/graphqljs)
+* [graphqlite - An experimental implementation of Facebook's GraphQL](https://github.com/madjam002/graphqlite)
+* [GraphNoQL - Facebook's GraphQL backend implemented with Node+Mongo](https://github.com/lutherism/GraphNoQL)
+* [graphql-ruby - Ruby implementation of Facebook's GraphQL](https://github.com/rmosolgo/graphql-ruby)
 
 ---
 ### Videos
