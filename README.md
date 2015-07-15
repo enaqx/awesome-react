@@ -238,6 +238,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Inline](https://github.com/martinandert/react-inline)
 * [Interoperable CSS](http://glenmaddern.com/articles/interoperable-css)
 * [ReactCSS](https://github.com/casesandberg/reactcss)
+* [React Look](https://github.com/rofrischmann/react-look)
 
 ##### React Charts Tutorials
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
