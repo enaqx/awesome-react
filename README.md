@@ -760,6 +760,9 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Building The Facebook News Feed With Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
 * [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
 * [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47?)
+* [First Thoughts on GraphQL](http://hueypetersen.com/posts/2015/02/02/first-thoughts-on-graph-ql/)
+* [Modeling Queries in a GraphQL Like Way](http://hueypetersen.com/posts/2015/02/08/modeling-queries-graph-ql-like/)
+* [Thin and Graphy](http://hueypetersen.com/posts/2015/02/22/thin-and-graphy/)
 
 ##### GraphQL Implementations
 * [graphql-js - A reference implementation of GraphQL for JavaScript](https://github.com/graphql/graphql-js)
