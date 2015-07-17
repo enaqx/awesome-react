@@ -807,6 +807,15 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [React Native & Relay: Bringing Modern Web Techniques to Mobile - f8 2015)](https://www.youtube.com/watch?v=X6YbAKiLCLU)
 * [Flux: A Unidirectional Data Flow Architecture for React Apps - ACM Applicative 2015](https://www.youtube.com/watch?v=N3tF7jtbKZY)
 * [Michael Chan: React.js on Rails](https://www.youtube.com/watch?v=kTSsZrub5iE)
+* [Lee Byron - Exploring GraphQL - react-europe 2015](https://www.youtube.com/watch?v=WQLzZf34FJ8)
+* [Dan Abramov - Live React: Hot Reloading with Time Travel - react-europe 2015](https://www.youtube.com/watch?v=xsSnOQynTHs)
+* [Christopher Chedeau - Keynote - react-europe 2015](https://www.youtube.com/watch?v=PAA9O4E1IM4)
+* [Michael Chan - Inline Styles: themes, media queries, contexts, & when it's best to use CSS - react-europe 2015](https://www.youtube.com/watch?v=ERB1TJBn32c)
+* [Spencer Ahrens - React Native: Building Fluid User Experiences - react-europe 2015](https://www.youtube.com/watch?v=xDlfrcM6YBk)
+* [Elie Rotenberg - Flux over the Wire - react-europe 2015](https://www.youtube.com/watch?v=JSjhhUvB9DY)
+* [Joseph Savona - Relay: An Application Framework For React - react-europe 2015](https://www.youtube.com/watch?v=IrgHurBjQbg)
+* [Joshua Sierles - React Native playground lightning talk - react-europe 2015](https://www.youtube.com/watch?v=E8aAAXqrVG0)
+* [Ryan Florence - Don't Rewrite, React! - react-europe 2015](https://www.youtube.com/watch?v=BF58ZJ1ZQxY)
 
 #### Video from React.js Conf 2015
 * [Tom Occhino and Christopher Chedeau: Keynote](http://conf.reactjs.com/schedule.html#keynote)
