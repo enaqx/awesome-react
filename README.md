@@ -420,6 +420,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Babel Starter Kit - a boilerplate for authoring React.js libraries with ES6+, Babel](https://github.com/kriasoft/babel-starter-kit)
 
 #### Components
+* [Belle - Set of easy to style React Components with great UX](http://nikgraf.github.io/belle/)
 * [React Components](http://react-components.com/)
 * [React Component List](http://dvemac.github.io/react-component-list/)
 * [React.parts - A catalog of React components](http://react.parts/)
