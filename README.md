@@ -1,4 +1,4 @@
-## Awesome React
+f## Awesome React
 
 A collection of awesome React tools, resources, videos and shiny things.
 
@@ -746,7 +746,10 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-chartjs - Common react charting components using chart.js](https://github.com/jhudson8/react-chartjs)
 
 #### Service Workers
- * [react-worker - Using Service Workers to render React components](https://github.com/MicheleBertoli/react-worker)
+* [react-worker - Using Service Workers to render React components](https://github.com/MicheleBertoli/react-worker)
+
+#### Dashboards
+* [pyxley - Python helpers for building dashboards using Flask and React](https://github.com/stitchfix/pyxley)
 
 ---
 ### GraphQL and Relay
