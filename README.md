@@ -1,4 +1,4 @@
-f## Awesome React
+## Awesome React
 
 A collection of awesome React tools, resources, videos and shiny things.
 
