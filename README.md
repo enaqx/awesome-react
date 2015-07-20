@@ -157,7 +157,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [The Future of Drag and Drop APIs](https://medium.com/@dan_abramov/the-future-of-drag-and-drop-apis-249dfea7a15f)
 * [Coding with React like a Game Developer](https://medium.com/@PhilPlckthun/coding-with-react-like-a-game-developer-e39ffaed1643)
 * [http://www.toptal.com/react/navigating-the-react-ecosystem](http://www.toptal.com/react/navigating-the-react-ecosystem)
-* [React.js Introduction For People Who Know Just Enough jQuery To Get By] (http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+* [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 
 ##### React Native Tutorials
 * [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
@@ -322,7 +322,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 ##### Authentication and Authorization
 * [Role-based authorization](http://blog.littleblimp.com/post/109540707808/role-based-authorization-with-react-js)
-* [Adding authentication to your React Flux app] (https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/)
+* [Adding authentication to your React Flux app](https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/)
 ##### File Uploads
 * [Direct uploads to S3 with React, Rails, and Paperclip](http://blog.littleblimp.com/post/119230396893/direct-uploads-to-s3-with-react-rails-and)
 
@@ -420,7 +420,6 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Babel Starter Kit - a boilerplate for authoring React.js libraries with ES6+, Babel](https://github.com/kriasoft/babel-starter-kit)
 
 #### Components
-* [Belle - Set of easy to style React Components with great UX](http://nikgraf.github.io/belle/)
 * [React Components](http://react-components.com/)
 * [React Component List](http://dvemac.github.io/react-component-list/)
 * [React.parts - A catalog of React components](http://react.parts/)
@@ -550,6 +549,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [react-datagrid - A carefully crafted DataGrid for React](https://github.com/zippyui/react-datagrid)
 * [react-panels - A multipurpose tabbed panel with many features](https://github.com/Theadd/react-panels)
 * [autoresponsive-react - A Magical Layout Libary For React](http://xudafeng.github.io/autoresponsive-react)
+* [Belle - Set of easy to style React Components with great UX](http://nikgraf.github.io/belle/)
 
 #### Libraries
 * [tuxx - A feature complete framework built on the React view layer](http://www.tuxedojs.org)
@@ -753,7 +753,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [pyxley - Python helpers for building dashboards using Flask and React](https://github.com/stitchfix/pyxley)
 
 ---
-### GraphQL and Relay
+### GraphQL
 
 #### GraphQL Spec
 * [GraphQL Specification](http://facebook.github.io/graphql/)
@@ -767,6 +767,8 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [First Thoughts on GraphQL](http://hueypetersen.com/posts/2015/02/02/first-thoughts-on-graph-ql/)
 * [Modeling Queries in a GraphQL Like Way](http://hueypetersen.com/posts/2015/02/08/modeling-queries-graph-ql-like/)
 * [Thin and Graphy](http://hueypetersen.com/posts/2015/02/22/thin-and-graphy/)
+* [Mutations in Relay by Laney Kuenzel - Slides](https://speakerdeck.com/laneyk/mutations-in-relay)
+* [Mutations in Relay by Laney Kuenzel - Slides](https://gist.github.com/mfunkie/65e94f42fee3962b1703)
 
 ##### GraphQL Implementations
 * [graphql-js - A reference implementation of GraphQL for JavaScript](https://github.com/graphql/graphql-js)
