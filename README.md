@@ -406,6 +406,7 @@ A collection of awesome React tools, resources, videos and shiny things.
 
 #### Boilerplates
 * [React Starter Kit - a skeleton of an "isomorphic" web application](https://github.com/kriasoft/react-starter-kit)
+* [React Boilerplate for ES6 with Hot reloader using Webpack](https://github.com/vasanthk/react-es6-webpack-boilerplate)
 * [react-isomorphic-starterkit - somorphic starterkit with server-side React rendering](https://github.com/RickWong/react-isomorphic-starterkit)
 * [essential-react - A minimal skeleton for building testable React apps using ES6](https://github.com/pheuter/essential-react)
 * [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
