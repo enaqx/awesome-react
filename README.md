@@ -776,6 +776,7 @@ A collection of awesome things regarding React ecosystem.
 * [GraphpostgresQL - GraphQL for **PostgreSQL**](https://github.com/solidsnack/GraphpostgresQL)
 * [GraphNoQL - Facebook's GraphQL backend implemented with **Node+Mongo**](https://github.com/lutherism/GraphNoQL)
 * [graphql-ruby - **Ruby** implementation of Facebook's GraphQL](https://github.com/rmosolgo/graphql-ruby)
+* [graphql-java - GraphQL **Java** implementation](https://github.com/andimarek/graphql-java)
 
 ---
 ### Videos
