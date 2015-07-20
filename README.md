@@ -1,6 +1,6 @@
-f## Awesome React
+### Awesome React
 
-A collection of awesome React tools, resources, videos and shiny things.
+A collection of awesome things regarding React ecosystem.
 
 - [Resources](#resources)
   - [React General Resources](#react-general-resources)
@@ -771,14 +771,11 @@ A collection of awesome React tools, resources, videos and shiny things.
 * [Mutations in Relay by Laney Kuenzel - Slides](https://gist.github.com/mfunkie/65e94f42fee3962b1703)
 
 ##### GraphQL Implementations
-* [graphql-js - A reference implementation of GraphQL for JavaScript](https://github.com/graphql/graphql-js)
-* [GraphQL Specification](https://github.com/facebook/graphql)
-* [GraphpostgresQL - GraphQL for Postgres](https://github.com/solidsnack/GraphpostgresQL)
-* [react-transmit - Relay-inspired library based on Promises](https://github.com/RickWong/react-transmit)
-* [graphqljs - GraphQL parser written in JavaScript](https://github.com/cobbweb/graphqljs)
-* [graphqlite - An experimental implementation of Facebook's GraphQL](https://github.com/madjam002/graphqlite)
-* [GraphNoQL - Facebook's GraphQL backend implemented with Node+Mongo](https://github.com/lutherism/GraphNoQL)
-* [graphql-ruby - Ruby implementation of Facebook's GraphQL](https://github.com/rmosolgo/graphql-ruby)
+* [graphql-js - A reference implementation of GraphQL for **JavaScript**](https://github.com/graphql/graphql-js)
+* [react-transmit - Relay-inspired library based on **JavaScript Promises**](https://github.com/RickWong/react-transmit)
+* [GraphpostgresQL - GraphQL for **PostgreSQL**](https://github.com/solidsnack/GraphpostgresQL)
+* [GraphNoQL - Facebook's GraphQL backend implemented with **Node+Mongo**](https://github.com/lutherism/GraphNoQL)
+* [graphql-ruby - **Ruby** implementation of Facebook's GraphQL](https://github.com/rmosolgo/graphql-ruby)
 
 ---
 ### Videos
