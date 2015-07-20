@@ -398,6 +398,7 @@ A collection of awesome things regarding React ecosystem.
 * [NuclearJS](https://github.com/optimizely/nuclear-js)
 * [Redux](https://github.com/gaearon/redux)
 * [WTFlux](https://github.com/staltz/wtf)
+* [Fluxette](https://github.com/edge/fluxette)
 
 ##### Mobile
 * [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
