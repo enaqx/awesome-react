@@ -769,6 +769,7 @@ A collection of awesome things regarding React ecosystem.
 * [Thin and Graphy](http://hueypetersen.com/posts/2015/02/22/thin-and-graphy/)
 * [Mutations in Relay by Laney Kuenzel - Slides](https://speakerdeck.com/laneyk/mutations-in-relay)
 * [Mutations in Relay by Laney Kuenzel - Slides](https://gist.github.com/mfunkie/65e94f42fee3962b1703)
+* [GraphQL and g2sd](https://fistfulofbytes.com/graphql-and-g2sd)
 
 ##### GraphQL Implementations
 * [graphql-js - A reference implementation of GraphQL for **JavaScript**](https://github.com/graphql/graphql-js)
@@ -777,7 +778,7 @@ A collection of awesome things regarding React ecosystem.
 * [GraphNoQL - Facebook's GraphQL backend implemented with **Node+Mongo**](https://github.com/lutherism/GraphNoQL)
 * [graphql-ruby - **Ruby** implementation of Facebook's GraphQL](https://github.com/rmosolgo/graphql-ruby)
 * [graphql-java - GraphQL **Java** implementation](https://github.com/andimarek/graphql-java)
-* [sangria - Scala GraphQL client and server library](https://github.com/OlegIlyenko/sangria)
+* [sangria - **Scala** GraphQL client and server library](https://github.com/OlegIlyenko/sangria)
 
 ---
 ### Videos
