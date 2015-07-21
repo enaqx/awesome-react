@@ -770,6 +770,7 @@ A collection of awesome things regarding React ecosystem.
 * [Mutations in Relay by Laney Kuenzel - Slides](https://speakerdeck.com/laneyk/mutations-in-relay)
 * [Mutations in Relay by Laney Kuenzel - Slides](https://gist.github.com/mfunkie/65e94f42fee3962b1703)
 * [GraphQL and g2sd](https://fistfulofbytes.com/graphql-and-g2sd)
+* [GraphQL Overview - Getting Started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/)
 
 ##### GraphQL Implementations
 * [graphql-js - A reference implementation of GraphQL for **JavaScript**](https://github.com/graphql/graphql-js)
