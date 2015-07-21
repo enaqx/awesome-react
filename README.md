@@ -757,7 +757,7 @@ A collection of awesome things regarding React ecosystem.
 
 #### GraphQL Spec
 * [GraphQL Specification](http://facebook.github.io/graphql/)
-* [GraphQL Specification GitHub](https://github.com/facebook/graphql)
+* [GraphQL Specification Repository](https://github.com/facebook/graphql)
 
 #### GraphQL Tutorials
 * [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
@@ -777,6 +777,7 @@ A collection of awesome things regarding React ecosystem.
 * [GraphNoQL - Facebook's GraphQL backend implemented with **Node+Mongo**](https://github.com/lutherism/GraphNoQL)
 * [graphql-ruby - **Ruby** implementation of Facebook's GraphQL](https://github.com/rmosolgo/graphql-ruby)
 * [graphql-java - GraphQL **Java** implementation](https://github.com/andimarek/graphql-java)
+* [sangria - Scala GraphQL client and server library](https://github.com/OlegIlyenko/sangria)
 
 ---
 ### Videos
