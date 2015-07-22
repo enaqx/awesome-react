@@ -2,7 +2,7 @@
 
 A collection of awesome things regarding React ecosystem.
 
-- [Resources](#resources)
+- [React](#react)
   - [React General Resources](#react-general-resources)
   - [React Native General Resources](#react-native-general-resources)
   - [React Community](#react-community)
@@ -36,6 +36,7 @@ A collection of awesome things regarding React ecosystem.
     - [File Uploads](#uploads)
   - [Approach Explanation](#approach-explanation)
   - [React Internals](#react-internals)
+- [React Native](#react-native)
 - [Tools](#tools)
   - [Flux Implementations](#flux-implementations)
   - [React Native](#react-native)
@@ -76,7 +77,7 @@ A collection of awesome things regarding React ecosystem.
 - [Contribution](#contribution)
 
 ---
-### Resources
+### React
 
 #### React General Resources
 * [React Official Site](http://facebook.github.io/react/)
@@ -373,6 +374,9 @@ A collection of awesome things regarding React ecosystem.
 #### React Internals
 * [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
 * [An Optimal Decomposition Algorithm for Tree Edit Distance](http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf)
+
+---
+### React Native
 
 ---
 ### Tools
