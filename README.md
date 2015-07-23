@@ -1,16 +1,13 @@
-### Awesome React
+### **Awesome React**
 
 A collection of awesome things regarding React ecosystem.
 
 - [React](#react)
   - [React General Resources](#react-general-resources)
   - [React Community](#react-community)
-  - [React Native Community](#react-native-community)
   - [React Online Playground](#react-online-playground)
   - [Tutorials](#tutorials)
     - [React Tutorials](#react-tutorials)
-    - [React Native Tutorials](#react-native-tutorials)
-    - [React Native Gestures](#react-native-gestures)
     - [Isomorphic Apps](#isomorphic-apps)
     - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
@@ -37,6 +34,9 @@ A collection of awesome things regarding React ecosystem.
   - [React Internals](#react-internals)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
+  - [React Native Community](#react-native-community)
+  - [React Native Tutorials](#react-native-tutorials)
+  - [React Native Gestures](#react-native-gestures)
 - [Tools](#tools)
   - [Flux Implementations](#flux-implementations)
   - [React Native](#react-native)
@@ -83,24 +83,15 @@ A collection of awesome things regarding React ecosystem.
 #### React General Resources
 * [React Official Site](http://facebook.github.io/react/)
 * [React GitHub](https://github.com/facebook/react)
-* [React Wiki](https://github.com/facebook/react/wiki)
-* [React NPM Module](https://www.npmjs.org/package/react)
 
 #### React Community
-* IRC network in `#reactjs` channel on freenode
+* `#reactjs` channel on Freenode IRC Server
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 * [React Discussion Forum](https://discuss.reactjs.org/)
 * [React Twitter](https://twitter.com/reactjs)
-* [React #reactjs Twitter](https://twitter.com/search?q=%23reactjs)
 * [React SubReddit](http://www.reddit.com/r/reactjs/)
 * [React Loop](http://reactloop.org)
 * [React Podcast](http://reactpodcast.com/)
-
-#### React Native Community
-* IRC network in `#reactnative` channel on freenode
-* [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
-* [React Native #reactnative Twitter](https://twitter.com/search?q=%23reactnative)
-* [React Native SubReddit](https://www.reddit.com/r/reactnative)
 
 #### React Online Playground
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
@@ -155,15 +146,6 @@ A collection of awesome things regarding React ecosystem.
 * [Coding with React like a Game Developer](https://medium.com/@PhilPlckthun/coding-with-react-like-a-game-developer-e39ffaed1643)
 * [http://www.toptal.com/react/navigating-the-react-ecosystem](http://www.toptal.com/react/navigating-the-react-ecosystem)
 * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
-
-##### React Native Tutorials
-* [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
-* [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
-* [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
-* [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
-
-##### React Native Gestures
-* [Gesture detection in React Native – fixing unexpected panning](http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/)
 
 ##### Isomorphic Apps
 * [isomorphic-tutorial - Tutorial app to demonstrate isomorphic JavaScript concepts](https://github.com/spikebrehm/isomorphic-tutorial)
@@ -371,14 +353,30 @@ A collection of awesome things regarding React ecosystem.
 * [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
 * [An Optimal Decomposition Algorithm for Tree Edit Distance](http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf)
 
+
 ---
 ### React Native
->A Framework for building native apps usinf React
+>Framework for building native apps using React
 
 #### React Native General Resources
 * [React Native Official Site](https://facebook.github.io/react-native/)
 * [React Native GitHub](https://github.com/facebook/react-native)
-* [React Native NPM module](https://www.npmjs.com/package/react-native)
+
+#### React Native Community
+* `#reactnative` channel on Freenode IRC Channel
+* [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
+* [React Native #reactnative Twitter](https://twitter.com/search?q=%23reactnative)
+* [React Native SubReddit](https://www.reddit.com/r/reactnative)
+
+#### React Native Tutorials
+* [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
+* [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
+* [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
+* [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
+
+#### React Native Gestures
+* [Gesture detection in React Native – fixing unexpected panning](http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/)
+
 
 ---
 ### Tools
