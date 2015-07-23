@@ -4,7 +4,6 @@ A collection of awesome things regarding React ecosystem.
 
 - [React](#react)
   - [React General Resources](#react-general-resources)
-  - [React Native General Resources](#react-native-general-resources)
   - [React Community](#react-community)
   - [React Native Community](#react-native-community)
   - [React Online Playground](#react-online-playground)
@@ -37,6 +36,7 @@ A collection of awesome things regarding React ecosystem.
   - [Approach Explanation](#approach-explanation)
   - [React Internals](#react-internals)
 - [React Native](#react-native)
+  - [React Native General Resources](#react-native-general-resources)
 - [Tools](#tools)
   - [Flux Implementations](#flux-implementations)
   - [React Native](#react-native)
@@ -78,17 +78,13 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### React
+> JavaScript Library for building User Interfaces
 
 #### React General Resources
 * [React Official Site](http://facebook.github.io/react/)
 * [React GitHub](https://github.com/facebook/react)
 * [React Wiki](https://github.com/facebook/react/wiki)
 * [React NPM Module](https://www.npmjs.org/package/react)
-
-#### React Native General Resources
-* [React Native Official Site](https://facebook.github.io/react-native/)
-* [React Native GitHub](https://github.com/facebook/react-native)
-* [React Native NPM module](https://www.npmjs.com/package/react-native)
 
 #### React Community
 * IRC network in `#reactjs` channel on freenode
@@ -377,6 +373,12 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### React Native
+>A Framework for building native apps usinf React
+
+#### React Native General Resources
+* [React Native Official Site](https://facebook.github.io/react-native/)
+* [React Native GitHub](https://github.com/facebook/react-native)
+* [React Native NPM module](https://www.npmjs.com/package/react-native)
 
 ---
 ### Tools
