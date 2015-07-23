@@ -690,6 +690,8 @@ A collection of awesome things regarding React ecosystem.
 * [react-resolver - Isomorphic library to recursively lazy-load data for React components](https://github.com/ericclemmons/react-resolver)
 * [freezer-js - Lightweight and reactive immutable data structure for React](https://github.com/arqex/freezer)
 * [mobservable - Observable data structures for building reactive React apps](https://github.com/mweststrate/MOBservable)
+* [immstruct - mmutable data structures with history for top-to-bottom properties in component based libraries like React](https://github.com/omniscientjs/immstruct)
+* [seamless-immutable - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects](https://github.com/rtfeldman/seamless-immutable)
 
 #### Development Environment
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
