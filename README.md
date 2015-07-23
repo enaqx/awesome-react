@@ -6,8 +6,8 @@ A collection of awesome things regarding React ecosystem.
   - [React General Resources](#react-general-resources)
   - [React Community](#react-community)
   - [React Online Playground](#react-online-playground)
-  - [Tutorials](#tutorials)
-    - [React Tutorials](#react-tutorials)
+  - [React Tutorials](#react-tutorials)
+    - [React General Tutorials](#react-general-tutorials)
     - [Isomorphic Apps](#isomorphic-apps)
     - [JSX](#jsx)
     - [Flux Tutorials](#flux-tutorials)
@@ -32,6 +32,7 @@ A collection of awesome things regarding React ecosystem.
     - [File Uploads](#uploads)
   - [Approach Explanation](#approach-explanation)
   - [React Internals](#react-internals)
+- [Flux](#flux)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
   - [React Native Community](#react-native-community)
@@ -86,8 +87,8 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Community
 * `#reactjs` channel on Freenode IRC Server
-* [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 * [React Discussion Forum](https://discuss.reactjs.org/)
+* [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 * [React Twitter](https://twitter.com/reactjs)
 * [React SubReddit](http://www.reddit.com/r/reactjs/)
 * [React Loop](http://reactloop.org)
@@ -102,11 +103,10 @@ A collection of awesome things regarding React ecosystem.
 * [React HTML to JSX Online Compiler](https://facebook.github.io/react/html-jsx.html)
 
 
-#### Tutorials
+#### React Tutorials
 
-##### React Tutorials
-* [Medium React Tutorials](https://medium.com/react-tutorials)
-* [React beginner tutorial: Implementing the board game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html)
+##### React General Tutorials
+* [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [React.js Koans: Practical exercises that will help you learn React.js from square one](https://github.com/arkency/reactjs_koans)
 * [Yo in React](http://davidandsuzi.com/yo-in-react/)
 * [React PhoneCat: Rewriting the AngularJS Tutorial App in React](http://jgebhardt.github.io/blog/react-phonecat/)
@@ -919,17 +919,6 @@ A collection of awesome things regarding React ecosystem.
 * [Flux ImmutableJS TodoList](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
 * [Hapi+React+Flux user management system](https://github.com/jedireza/aqua)
 * [Redux TodoMVC](https://github.com/gaearon/redux/tree/master/examples/todomvc)
-
----
-### Examples
-* [React HTML Template](https://github.com/enaqx/awesome-react/tree/master/examples/000_react_html_template)
-* [React Helloworld](https://github.com/enaqx/awesome-react/tree/master/examples/001_helloworld)
-* [Props](https://github.com/enaqx/awesome-react/tree/master/examples/002_props)
-* [State](https://github.com/enaqx/awesome-react/tree/master/examples/003_state)
-* [Props and State](https://github.com/enaqx/awesome-react/tree/master/examples/004_props_and_state)
-* [External Plugin](https://github.com/enaqx/awesome-react/tree/master/examples/005_external_plugin)
-* [POST/GET with HTTP server](https://github.com/enaqx/awesome-react/tree/master/examples/006_with_http_server)
-* [Refs to send messages between components](https://github.com/enaqx/awesome-react/tree/master/examples/007_refs)
 
 ---
 ### Apps
