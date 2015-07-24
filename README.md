@@ -10,7 +10,6 @@ A collection of awesome things regarding React ecosystem.
     - [React General Tutorials](#react-general-tutorials)
     - [Isomorphic Apps](#isomorphic-apps)
     - [JSX](#jsx)
-    - [Flux Tutorials](#flux-tutorials)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [Comprehensive Guide to Building Apps with React](#comprehensive-guide-to-building-apps-with-react)
     - [Scotch.io React tutorials series](#scotchio-react-tutorials-series)
@@ -33,6 +32,7 @@ A collection of awesome things regarding React ecosystem.
   - [Approach Explanation](#approach-explanation)
   - [React Internals](#react-internals)
 - [Flux](#flux)
+  - [Flux Tutorials](#flux-tutorials)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
   - [React Native Community](#react-native-community)
@@ -161,33 +161,6 @@ A collection of awesome things regarding React ecosystem.
 * [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
 * [JSX support in eslint](https://github.com/eslint/eslint/issues/1291)
 * [Lint Like It’s 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48)
-
-##### Flux Tutorials
-* [Flux Application Architecture](http://facebook.github.io/flux/docs/overview.html)
-* [Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo](https://github.com/yahoo/flux-examples)
-* [Async requests with React.js and Flux](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
-* [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
-* [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
-* [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
-* [A sample app showcasing Flux with React Router](https://github.com/gaearon/flux-react-router-example)
-* [Yo in Flux](http://davidandsuzi.com/yo-in-flux/)
-* [React.js architecture - Flux VS Reflux](http://blog.krawaller.se/posts/react-js-architecture-flux-vs-reflux/)
-* [Avoiding Event Chains in Single Page Applications](http://www.code-experience.com/avoiding-event-chains-in-single-page-applications/)
-* [ReactJS and Flux](http://christianalfoni.github.io/javascript/2014/08/20/react-js-and-flux.html)
-* [Deconstructing ReactJS's Flux](http://spoike.ghost.io/deconstructing-reactjss-flux/)
-* [Flux Step By Step](http://blogs.atlassian.com/2014/08/flux-architecture-step-by-step/)
-* [Flux in practice](https://medium.com/@garychambers108/flux-in-practice-ec08daa9041a)
-* [Flux for Stupid People](http://blog.andrewray.me/flux-for-stupid-people/)
-* [What is the Flux Application Architecture?](https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e)
-* [React + Flux Backed by Rails API: Part 1](http://fancypixel.github.io/blog/2015/01/28/react-plus-flux-backed-by-rails-api/)
-* [React + Flux Backed by Rails API: Part 2](http://fancypixel.github.io/blog/2015/01/29/react-plus-flux-backed-by-rails-api-part-2/)
-* [React + Flux Backed by Rails API: Part 3](http://fancypixel.github.io/blog/2015/01/30/react-plus-flux-backed-by-rails-api-part-3/)
-* [Introduction to Facebook's Flux architecture](http://ryanclark.me/getting-started-with-flux/)
-* [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
-* [Flux Cargo-Culting](https://medium.com/@cassiozen/flux-cargo-culting-3cae9ff27c0c)
-* [The Case for Flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
-* [The Evolution of Flux Frameworks](http://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
-* [React with Flux by example - a simple Todo List dissected](http://reactkungfu.com/2015/07/react-with-flux-by-example-simple-todo-list-dissected/)
 
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
@@ -352,6 +325,36 @@ A collection of awesome things regarding React ecosystem.
 #### React Internals
 * [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
 * [An Optimal Decomposition Algorithm for Tree Edit Distance](http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf)
+
+---
+### Flux
+
+#### Flux Tutorials
+* [Flux Application Architecture](http://facebook.github.io/flux/docs/overview.html)
+* [Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo](https://github.com/yahoo/flux-examples)
+* [Async requests with React.js and Flux](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
+* [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
+* [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
+* [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
+* [A sample app showcasing Flux with React Router](https://github.com/gaearon/flux-react-router-example)
+* [Yo in Flux](http://davidandsuzi.com/yo-in-flux/)
+* [React.js architecture - Flux VS Reflux](http://blog.krawaller.se/posts/react-js-architecture-flux-vs-reflux/)
+* [Avoiding Event Chains in Single Page Applications](http://www.code-experience.com/avoiding-event-chains-in-single-page-applications/)
+* [ReactJS and Flux](http://christianalfoni.github.io/javascript/2014/08/20/react-js-and-flux.html)
+* [Deconstructing ReactJS's Flux](http://spoike.ghost.io/deconstructing-reactjss-flux/)
+* [Flux Step By Step](http://blogs.atlassian.com/2014/08/flux-architecture-step-by-step/)
+* [Flux in practice](https://medium.com/@garychambers108/flux-in-practice-ec08daa9041a)
+* [Flux for Stupid People](http://blog.andrewray.me/flux-for-stupid-people/)
+* [What is the Flux Application Architecture?](https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e)
+* [React + Flux Backed by Rails API: Part 1](http://fancypixel.github.io/blog/2015/01/28/react-plus-flux-backed-by-rails-api/)
+* [React + Flux Backed by Rails API: Part 2](http://fancypixel.github.io/blog/2015/01/29/react-plus-flux-backed-by-rails-api-part-2/)
+* [React + Flux Backed by Rails API: Part 3](http://fancypixel.github.io/blog/2015/01/30/react-plus-flux-backed-by-rails-api-part-3/)
+* [Introduction to Facebook's Flux architecture](http://ryanclark.me/getting-started-with-flux/)
+* [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
+* [Flux Cargo-Culting](https://medium.com/@cassiozen/flux-cargo-culting-3cae9ff27c0c)
+* [The Case for Flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
+* [The Evolution of Flux Frameworks](http://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
+* [React with Flux by example - a simple Todo List dissected](http://reactkungfu.com/2015/07/react-with-flux-by-example-simple-todo-list-dissected/)
 
 
 ---
@@ -693,6 +696,8 @@ A collection of awesome things regarding React ecosystem.
 * [baobab - JavaScript persistent and optionally immutable data tree with cursors](https://github.com/Yomguithereal/baobab)
 * [baobab-react - React integration for Baobab](https://github.com/Yomguithereal/baobab-react)
 * [datascript - Immutable database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
+* [immstruct - Immutable data structures with history for top-to-bottom properties in component based libraries like React](https://github.com/omniscientjs/immstruct)
+* [seamless-immutable - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects](https://github.com/rtfeldman/seamless-immutable)
 
 #### Development Environment
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
