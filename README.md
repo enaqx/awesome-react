@@ -84,6 +84,7 @@ A collection of awesome things regarding React ecosystem.
 #### React General Resources
 * [React Official Site](http://facebook.github.io/react/)
 * [React GitHub](https://github.com/facebook/react)
+* [Awesome Redux](https://github.com/xgrommx/awesome-redux)
 
 #### React Community
 * `#reactjs` channel on Freenode IRC Server
