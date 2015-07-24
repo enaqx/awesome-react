@@ -251,6 +251,7 @@ A collection of awesome things regarding React ecosystem.
 * [Serverside React Rendering: Isomorphic JavaScript with ReactJS + Node](https://reactjsnews.com/isomorphic-javascript-with-react-node/)
 * [Go React Serverside Rendering Eample](https://github.com/olebedev/go-react-example)
 * [Serverside rendering with React + Hapi](https://github.com/jedireza/hapi-react-views)
+* [Isomorphic React apps in PHP via dnode](http://ericescalante.com/2015/06/07/isomorphic/)
 
 ##### Compiling React Tutorials
 * [Webpack Howto by Pete Hunt](https://github.com/petehunt/webpack-howto)
