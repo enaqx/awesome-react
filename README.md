@@ -355,7 +355,7 @@ A collection of awesome things regarding React ecosystem.
 * [The Case for Flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
 * [The Evolution of Flux Frameworks](http://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
 * [React with Flux by example - a simple Todo List dissected](http://reactkungfu.com/2015/07/react-with-flux-by-example-simple-todo-list-dissected/)
-
+* [Awesome Redux](https://github.com/xgrommx/awesome-redux)
 
 ---
 ### React Native
