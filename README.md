@@ -146,7 +146,7 @@ A collection of awesome things regarding React ecosystem.
 * [Coding with React like a Game Developer](https://medium.com/@PhilPlckthun/coding-with-react-like-a-game-developer-e39ffaed1643)
 * [Navigating the React Ecosystem](http://www.toptal.com/react/navigating-the-react-ecosystem)
 * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
-* [How do I react? Basics + Building an app from scratch](https://github.com/foundersandcoders/begin_react_workshop)
+* [How do I react? Basics & Building an app from scratch](https://github.com/foundersandcoders/begin_react_workshop)
 
 ##### Isomorphic Apps
 * [isomorphic-tutorial - Tutorial app to demonstrate isomorphic JavaScript concepts](https://github.com/spikebrehm/isomorphic-tutorial)
