@@ -146,6 +146,7 @@ A collection of awesome things regarding React ecosystem.
 * [Coding with React like a Game Developer](https://medium.com/@PhilPlckthun/coding-with-react-like-a-game-developer-e39ffaed1643)
 * [Navigating the React Ecosystem](http://www.toptal.com/react/navigating-the-react-ecosystem)
 * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+* [How do I react? Basics + Building an app from scratch](https://github.com/foundersandcoders/begin_react_workshop)
 
 ##### Isomorphic Apps
 * [isomorphic-tutorial - Tutorial app to demonstrate isomorphic JavaScript concepts](https://github.com/spikebrehm/isomorphic-tutorial)
@@ -357,6 +358,7 @@ A collection of awesome things regarding React ecosystem.
 * [The Evolution of Flux Frameworks](http://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
 * [React with Flux by example - a simple Todo List dissected](http://reactkungfu.com/2015/07/react-with-flux-by-example-simple-todo-list-dissected/)
 * [Awesome Redux](https://github.com/xgrommx/awesome-redux)
+* [FOR FLUX SAKE! - a beginners tutorial](https://github.com/MIJOTHY/FOR_FLUX_SAKE)
 
 ---
 ### React Native
