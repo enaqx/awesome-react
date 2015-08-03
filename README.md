@@ -1,4 +1,4 @@
-### **Awesome React**
+### **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome things regarding React ecosystem.
 
@@ -101,7 +101,6 @@ A collection of awesome things regarding React ecosystem.
 * [React 0.13 JSBin Integration with JSX](http://jsbin.com/basitofoqo/1/edit?html,js,output)
 * [React JSX to JS Online Compiler](https://facebook.github.io/react/jsx-compiler.html)
 * [React HTML to JSX Online Compiler](https://facebook.github.io/react/html-jsx.html)
-
 
 #### React Tutorials
 
@@ -412,7 +411,6 @@ A collection of awesome things regarding React ecosystem.
 ##### Mobile
 * [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
 * [Reapp - A UI-kit with widgets and CLI to build mobile web apps](http://reapp.io)
-
 
 #### Boilerplates
 * [React Starter Kit - a skeleton of an "isomorphic" web application](https://github.com/kriasoft/react-starter-kit)
