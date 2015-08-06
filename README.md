@@ -428,6 +428,7 @@ A collection of awesome things regarding React ecosystem.
 * [Coffee React Quickstart](https://github.com/KyleAMathews/coffee-react-quickstart)
 * [React + Webpack + Flux (Alt) + Isomorphic + Express + MongoDB boilerplate](https://github.com/choonkending/react-webpack-node)
 * [Babel Starter Kit - a boilerplate for authoring React.js libraries with ES6+, Babel](https://github.com/kriasoft/babel-starter-kit)
+* [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - PostCSS, Redux, hot–reloading, react-router, ES6 and Mocha.
 
 #### Components
 * [React Components](http://react-components.com/)
