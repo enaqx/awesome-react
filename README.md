@@ -390,6 +390,7 @@ A collection of awesome things regarding React ecosystem.
 ##### React Native
 * [Use React Native](http://www.reactnative.com/)
 * [React Native Components](http://react.parts)
+* [Awesome React Native - Like this list, but focused on React Native](https://github.com/jondot/awesome-react-native)
 * [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
 
 #### Flux Implementations
