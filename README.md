@@ -90,7 +90,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Discussion Forum](https://discuss.reactjs.org/)
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 * [React Twitter](https://twitter.com/reactjs)
-* [React SubReddit](http://www.reddit.com/r/reactjs/)
+* [React Subreddit](http://www.reddit.com/r/reactjs/)
 * [React Loop](http://reactloop.org)
 * [React Podcast](http://reactpodcast.com/)
 
