@@ -188,6 +188,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Inline](https://github.com/martinandert/react-inline)
 * [Interoperable CSS](http://glenmaddern.com/articles/interoperable-css)
 * [ReactCSS](https://github.com/casesandberg/reactcss)
+* [React Easy Style](https://github.com/maxguzenski/react-easy-style)
 
 ##### React Charts Tutorials
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
@@ -481,7 +482,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-gcal-events-list - A Reusable component that pulls events from your google calendar](https://github.com/VinSpee/react-gcal-events-list)
 * [reactdi - Dependency injection for ReactJS components](https://github.com/hzdg/reactdi)
 * [qrcode.react - A <QRCode/> component for use with React](https://github.com/zpao/qrcode.react)
-* [react-qrcode - This is a React wrapper for qrcode.js](https://github.com/leesalminen/react-qrcode)
 * [react-swf - Shockwave Flash Player component for React](https://github.com/syranide/react-swf)
 * [react-unmount-listener-mixin - React mixin for listenable componentWillUnmount](https://github.com/syranide/react-unmount-listener-mixin)
 * [react-sortable - A sortable list component built \w React](https://github.com/danielstocks/react-sortable)
