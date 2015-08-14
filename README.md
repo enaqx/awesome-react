@@ -688,6 +688,7 @@ A collection of awesome things regarding React ecosystem.
 * [caplet - JavaScript models library](https://github.com/mojo-js/caplet.js)
 
 #### Data Managing
+* [Icedam - Just-in-time Immutability](https://github.com/winkler1/icedam)
 * [Immutable.js - Immutable Data Collections for Javascript](https://github.com/facebook/immutable-js)
 * [cortex - A javascript library for centrally managing data with React](https://github.com/mquan/cortex)
 * [avers - A modern client-side model abstraction library](https://github.com/wereHamster/avers)
