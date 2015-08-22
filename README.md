@@ -762,6 +762,7 @@ A collection of awesome things regarding React ecosystem.
 #### Charts
 * [react-d3 - Modular React charts made with d3.js](https://github.com/esbullington/react-d3)
 * [react-chartjs - Common react charting components using chart.js](https://github.com/jhudson8/react-chartjs)
+* [react-stockcharts - Highly customizable stock charts with ReactJS and d3](https://github.com/rrag/react-stockcharts)
 
 #### Service Workers
 * [react-worker - Using Service Workers to render React components](https://github.com/MicheleBertoli/react-worker)
