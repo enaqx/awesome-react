@@ -571,6 +571,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-cursor - Functional state management abstraction for use with Facebook React](https://github.com/dustingetz/react-cursor)
 * [Omniscient.js - Abstracting React components for fast top down render of immutable data](https://github.com/omniscientjs/omniscient)
 * [Touchstonejs - React.js powered UI framework for developing beautiful hybrid mobile apps.](http://touchstonejs.io/)
+* [Elemental - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
 * [StateTrooper - Centrally manage state for React applications with CSP](https://github.com/swipely/state-trooper)
 * [riotjs - A React- like, 3.5KB user interface library](https://github.com/muut/riotjs)
 * [Maple.js - Bringing the concept of web-components to React](https://github.com/Wildhoney/Maple.js)
