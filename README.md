@@ -912,6 +912,8 @@ A collection of awesome things regarding React ecosystem.
 #### Books
 * [SurviveJS - Webpack and React](http://survivejs.com/)
 * [react-webpack-cookbook - A cookbook for using Webpack with React JS](http://christianalfoni.github.io/react-webpack-cookbook)
+* [Descubre React (Spanish)](https://leanpub.com/descubre-react)
+* [React+d3.js - Build data visualizations with React and d3.js](https://leanpub.com/reactd3js)
 
 ---
 ### Demos
