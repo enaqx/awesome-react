@@ -910,6 +910,8 @@ A collection of awesome things regarding React ecosystem.
 * [Keep up with React - BigBinary](http://bigbinary.com/videos/keep-up-with-reactjs)
 
 #### Books
+* [React.js by example](http://reactkungfu.com/react-by-example/)
+* [Rails meets React](http://blog.arkency.com/rails-react/)
 * [SurviveJS - Webpack and React](http://survivejs.com/)
 * [react-webpack-cookbook - A cookbook for using Webpack with React JS](http://christianalfoni.github.io/react-webpack-cookbook)
 
