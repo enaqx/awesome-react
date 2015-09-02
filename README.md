@@ -1,4 +1,4 @@
-### **Awesome React**
+### **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome things regarding React ecosystem.
 
@@ -67,6 +67,7 @@ A collection of awesome things regarding React ecosystem.
   - [GraphQL Spec](#graphql-spec)
   - [GraphQL Tutorials](#graphql-tutorials)
   - [GraphQL Implementations](#graphql-implementations)
+  - [Relay](#relay)
 - [Videos](#videos)
   - [Video from Confs](#video-from-confs)
   - [Video from React.js Conf 2015](#video-from-reactjs-conf-2015)
@@ -90,7 +91,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Discussion Forum](https://discuss.reactjs.org/)
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 * [React Twitter](https://twitter.com/reactjs)
-* [React SubReddit](http://www.reddit.com/r/reactjs/)
+* [React Subreddit](http://www.reddit.com/r/reactjs/)
 * [React Loop](http://reactloop.org)
 * [React Podcast](http://reactpodcast.com/)
 
@@ -101,7 +102,6 @@ A collection of awesome things regarding React ecosystem.
 * [React 0.13 JSBin Integration with JSX](http://jsbin.com/basitofoqo/1/edit?html,js,output)
 * [React JSX to JS Online Compiler](https://facebook.github.io/react/jsx-compiler.html)
 * [React HTML to JSX Online Compiler](https://facebook.github.io/react/html-jsx.html)
-
 
 #### React Tutorials
 
@@ -188,6 +188,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Inline](https://github.com/martinandert/react-inline)
 * [Interoperable CSS](http://glenmaddern.com/articles/interoperable-css)
 * [ReactCSS](https://github.com/casesandberg/reactcss)
+* [React Easy Style](https://github.com/maxguzenski/react-easy-style)
 
 ##### React Charts Tutorials
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
@@ -324,6 +325,7 @@ A collection of awesome things regarding React ecosystem.
 * [From Backbone To React: Our Experience Scaling a Web Application](http://www.techsonian.net/2014/09/from-backbone-to-react-our-experience-scaling-a-web-application/)
 * [Rebuilding HipChat with React.js](https://developer.atlassian.com/blog/2015/02/rebuilding-hipchat-with-react/)
 * [Boiling React Down to a Few Lines of jQuery](http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/)
+* [Pros and Cons of using immutability with React.js](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)
 
 #### React Internals
 * [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
@@ -391,6 +393,7 @@ A collection of awesome things regarding React ecosystem.
 ##### React Native
 * [Use React Native](http://www.reactnative.com/)
 * [React Native Components](http://react.parts)
+* [Awesome React Native - Like this list, but focused on React Native](https://github.com/jondot/awesome-react-native)
 * [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
 
 #### Flux Implementations
@@ -413,7 +416,6 @@ A collection of awesome things regarding React ecosystem.
 ##### Mobile
 * [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
 * [Reapp - A UI-kit with widgets and CLI to build mobile web apps](http://reapp.io)
-
 
 #### Boilerplates
 * [React Starter Kit - a skeleton of an "isomorphic" web application](https://github.com/kriasoft/react-starter-kit)
@@ -481,7 +483,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-gcal-events-list - A Reusable component that pulls events from your google calendar](https://github.com/VinSpee/react-gcal-events-list)
 * [reactdi - Dependency injection for ReactJS components](https://github.com/hzdg/reactdi)
 * [qrcode.react - A <QRCode/> component for use with React](https://github.com/zpao/qrcode.react)
-* [react-qrcode - This is a React wrapper for qrcode.js](https://github.com/leesalminen/react-qrcode)
 * [react-swf - Shockwave Flash Player component for React](https://github.com/syranide/react-swf)
 * [react-unmount-listener-mixin - React mixin for listenable componentWillUnmount](https://github.com/syranide/react-unmount-listener-mixin)
 * [react-sortable - A sortable list component built \w React](https://github.com/danielstocks/react-sortable)
@@ -787,6 +788,8 @@ A collection of awesome things regarding React ecosystem.
 * [Mutations in Relay by Laney Kuenzel - Slides](https://gist.github.com/mfunkie/65e94f42fee3962b1703)
 * [GraphQL and g2sd](https://fistfulofbytes.com/graphql-and-g2sd)
 * [GraphQL Overview - Getting Started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/)
+* [Writing a Basic API with GraphQL](http://davidandsuzi.com/writing-a-basic-api-with-graphql/)
+* [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
 
 ##### GraphQL Implementations
 * [graphql-js - A reference implementation of GraphQL for **JavaScript**](https://github.com/graphql/graphql-js)
@@ -796,6 +799,10 @@ A collection of awesome things regarding React ecosystem.
 * [graphql-ruby - **Ruby** implementation of Facebook's GraphQL](https://github.com/rmosolgo/graphql-ruby)
 * [graphql-java - GraphQL **Java** implementation](https://github.com/andimarek/graphql-java)
 * [sangria - **Scala** GraphQL client and server library](https://github.com/OlegIlyenko/sangria)
+
+##### Relay
+* [Relay Offical Site](https://facebook.github.io/relay/)
+* [Relay GitHub](https://github.com/facebook/relay)
 
 ---
 ### Videos
