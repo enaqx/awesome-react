@@ -422,6 +422,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-isomorphic-starterkit - somorphic starterkit with server-side React rendering](https://github.com/RickWong/react-isomorphic-starterkit)
 * [essential-react - A minimal skeleton for building testable React apps using ES6](https://github.com/pheuter/essential-react)
 * [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
+* [aqua - A website and user system (Hapi/React/Flux)](https://github.com/jedireza/aqua)
 * [react-starter - Starter template for React with webpack](https://github.com/webpack/react-starter)
 * [react-hot-boilerplate - Live-editing boilerplate for your next ReactJS project](https://github.com/gaearon/react-hot-boilerplate)
 * [react-engine - A composite render engine for isomorphic express apps](https://github.com/paypal/react-engine)
