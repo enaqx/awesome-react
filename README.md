@@ -387,6 +387,7 @@ A collection of awesome things regarding React ecosystem.
 #### React Native General Resources
 * [React Native Official Site](https://facebook.github.io/react-native/)
 * [React Native GitHub](https://github.com/facebook/react-native)
+* [React Native Playground](https://rnplay.org/)
 
 #### React Native Community
 * `#reactnative` channel on Freenode IRC Channel
@@ -401,6 +402,7 @@ A collection of awesome things regarding React ecosystem.
 * [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
 * [Gesture detection in React Native – fixing unexpected panning](http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/)
 * [Diary of Building an iOS App with React Native](http://herman.asia/building-a-flashcard-app-with-react-native)
+* [Use The iOS Camera In Your React Native Mobile App](https://blog.nraboy.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/)
 
 #### React Native Development Tools
 * [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
