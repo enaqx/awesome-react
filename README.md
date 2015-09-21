@@ -400,6 +400,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
 * [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
 * [Gesture detection in React Native – fixing unexpected panning](http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/)
+* [Diary of Building an iOS App with React Native](http://herman.asia/building-a-flashcard-app-with-react-native)
 
 #### React Native Development Tools
 * [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
