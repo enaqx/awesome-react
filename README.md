@@ -32,15 +32,14 @@ A collection of awesome things regarding React ecosystem.
   - [Approach Explanation](#approach-explanation)
   - [React Internals](#react-internals)
 - [Flux](#flux)
+  - [Flux Implementations](#flux-implementations)
   - [Flux Tutorials](#flux-tutorials)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
   - [React Native Community](#react-native-community)
   - [React Native Tutorials](#react-native-tutorials)
-  - [React Native Gestures](#react-native-gestures)
+  - [React Native Development Tools](#react-native-development-tools)
 - [Tools](#tools)
-  - [Flux Implementations](#flux-implementations)
-  - [React Native](#react-native)
   - [Mobile](#mobile)
   - [Boilerplates](#boilerplates)
   - [Components](#components)
@@ -279,6 +278,7 @@ A collection of awesome things regarding React ecosystem.
 ##### Authentication and Authorization
 * [Role-based authorization](http://blog.littleblimp.com/post/109540707808/role-based-authorization-with-react-js)
 * [Adding authentication to your React Flux app](https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/)
+
 ##### File Uploads
 * [Direct uploads to S3 with React, Rails, and Paperclip](http://blog.littleblimp.com/post/119230396893/direct-uploads-to-s3-with-react-rails-and)
 
@@ -334,6 +334,23 @@ A collection of awesome things regarding React ecosystem.
 ---
 ### Flux
 
+#### Flux Implementations
+* [Flux Official Site](http://facebook.github.io/flux/)
+* [Flux Comparision](https://github.com/voronianski/flux-comparison)
+* [RefluxJS](https://github.com/spoike/refluxjs)
+* [Fluxxor](https://github.com/BinaryMuse/fluxxor)
+* [Flummox](https://github.com/acdlite/flummox)
+* [Marty](https://github.com/martyjs/marty)
+* [McFly](https://github.com/kenwheeler/mcfly)
+* [Alt](https://github.com/goatslacker/alt)
+* [DeLorean](https://github.com/deloreanjs/delorean)
+* [Fluxible](https://github.com/yahoo/fluxible)
+* [Dispatchr](https://github.com/yahoo/dispatchr)
+* [Fetchr](https://github.com/yahoo/fetchr)
+* [NuclearJS](https://github.com/optimizely/nuclear-js)
+* [Redux](https://github.com/gaearon/redux)
+* [WTFlux](https://github.com/staltz/wtf)
+
 #### Flux Tutorials
 * [Flux Application Architecture](http://facebook.github.io/flux/docs/overview.html)
 * [Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo](https://github.com/yahoo/flux-examples)
@@ -374,44 +391,21 @@ A collection of awesome things regarding React ecosystem.
 #### React Native Community
 * `#reactnative` channel on Freenode IRC Channel
 * [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
-* [React Native #reactnative Twitter](https://twitter.com/search?q=%23reactnative)
-* [React Native SubReddit](https://www.reddit.com/r/reactnative)
+* [React Native Subreddit](https://www.reddit.com/r/reactnative)
 
 #### React Native Tutorials
+* [Awesome React Native - Like this list, but focused on React Native](https://github.com/jondot/awesome-react-native)
+* [Use React Native](http://www.reactnative.com/)
 * [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
-* [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
 * [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
 * [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
-
-#### React Native Gestures
 * [Gesture detection in React Native – fixing unexpected panning](http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/)
 
+#### React Native Development Tools
+* [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
 
 ---
 ### Tools
-
-##### React Native
-* [Use React Native](http://www.reactnative.com/)
-* [React Native Components](http://react.parts)
-* [Awesome React Native - Like this list, but focused on React Native](https://github.com/jondot/awesome-react-native)
-* [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
-
-#### Flux Implementations
-* [Flux Official Site](http://facebook.github.io/flux/)
-* [Flux Comparision](https://github.com/voronianski/flux-comparison)
-* [RefluxJS](https://github.com/spoike/refluxjs)
-* [Fluxxor](https://github.com/BinaryMuse/fluxxor)
-* [Flummox](https://github.com/acdlite/flummox)
-* [Marty](https://github.com/martyjs/marty)
-* [McFly](https://github.com/kenwheeler/mcfly)
-* [Alt](https://github.com/goatslacker/alt)
-* [DeLorean](https://github.com/deloreanjs/delorean)
-* [Fluxible](https://github.com/yahoo/fluxible)
-* [Dispatchr](https://github.com/yahoo/dispatchr)
-* [Fetchr](https://github.com/yahoo/fetchr)
-* [NuclearJS](https://github.com/optimizely/nuclear-js)
-* [Redux](https://github.com/gaearon/redux)
-* [WTFlux](https://github.com/staltz/wtf)
 
 ##### Mobile
 * [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
