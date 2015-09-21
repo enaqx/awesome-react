@@ -407,10 +407,6 @@ A collection of awesome things regarding React ecosystem.
 ---
 ### Tools
 
-##### Mobile
-* [componentkit - A React-inspired view framework for iOS](https://github.com/facebook/componentkit)
-* [Reapp - A UI-kit with widgets and CLI to build mobile web apps](http://reapp.io)
-
 #### Boilerplates
 * [React Starter Kit - a skeleton of an "isomorphic" web application](https://github.com/kriasoft/react-starter-kit)
 * [react-isomorphic-starterkit - somorphic starterkit with server-side React rendering](https://github.com/RickWong/react-isomorphic-starterkit)
