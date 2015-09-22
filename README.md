@@ -611,6 +611,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-to-html-webpack-plugin - Compile React components to static HTML](https://github.com/markdalgleish/react-to-html-webpack-plugin)
 * [static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
 * [React Inline - Transform inline styles into static CSS code and class names](https://github.com/martinandert/react-inline)
+* [Antwar - Webpack and React based static site generator](https://github.com/antwarjs)
 
 ##### Platforms
  * [morpheus - The next generation web publishing platform built with reactjs](https://github.com/vesparny/morpheus)
