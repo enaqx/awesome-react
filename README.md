@@ -10,7 +10,6 @@ A collection of awesome things regarding React ecosystem.
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
     - [Isomorphic Apps](#isomorphic-apps)
-    - [JSX](#jsx)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [Comprehensive Guide to Building Apps with React](#comprehensive-guide-to-building-apps-with-react)
     - [Scotch.io React tutorials series](#scotchio-react-tutorials-series)
@@ -47,13 +46,16 @@ A collection of awesome things regarding React ecosystem.
     - [Generating](#generating)
     - [Compiling](#compiling)
     - [Platforms](#platforms)
-    - [JSX Alternatives](#jsx-alternatives)
     - [Template Engines](#template-engines)
     - [Maps](#maps)
     - [Charts](#charts)
     - [Service Workers](#service-workers)
   - [Approach Explanation](#approach-explanation)
   - [React Internals](#react-internals)
+- [JSX](#jsx)
+  - [JSX Resources](#jsx-resources)
+  - [JSX Tutorials](#jsx-tutorials)
+  - [JSX Alternatives](#jsx-alternatives)
 - [Flux](#flux)
   - [Flux Implementations](#flux-implementations)
   - [Flux Tutorials](#flux-tutorials)
@@ -157,16 +159,6 @@ A collection of awesome things regarding React ecosystem.
 * [isomorphic-tutorial - Tutorial app to demonstrate isomorphic JavaScript concepts](https://github.com/spikebrehm/isomorphic-tutorial)
 * [Creating Isomorphic apps with React and Node.js](http://www.htmlxprs.com/post/20/creating-isomorphic-apps-with-react-and-nodejs)
 * [isomorphic500 - Isomorphic JS app built with React and Fluxible](https://github.com/gpbl/isomorphic500)
-
-##### JSX
-* [JSX Specification](http://facebook.github.io/jsx/)
-* [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
-* [JSX extensions to Mozilla AST Format](https://github.com/facebook/jsx/blob/master/AST.md)
-* [Compiling JSX with Sweet.js using Readtables](http://jlongster.com/Compiling-JSX-with-Sweet.js-using-Readtables)
-* [JSX for the real DOM](http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html)
-* [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
-* [JSX support in eslint](https://github.com/eslint/eslint/issues/1291)
-* [Lint Like It’s 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48)
 
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
@@ -465,9 +457,6 @@ A collection of awesome things regarding React ecosystem.
 * [React Python](https://github.com/reactjs/react-python)
 * [React PHP](https://github.com/reactjs/react-php-v8js)
 * [React Meteor](https://github.com/reactjs/react-meteor)
-* [node-jsx - Transparently require() jsx from within node](https://github.com/petehunt/node-jsx)
-* [jsx-loader - JSX loader for Webpack](https://github.com/petehunt/jsx-loader)
-* [cjsx-loader - coffee-react-transform loader module for webpack](https://github.com/KyleAMathews/cjsx-loader)
 * [Coffee React](https://github.com/jsdf/coffee-react)
 * [react-coffee - Build React components using natural CoffeeScript syntax](https://github.com/elucidata/react-coffee)
 * [coffee-react-transform - Provides React JSX support for Coffeescript](https://github.com/jsdf/coffee-react-transform)
@@ -619,11 +608,6 @@ A collection of awesome things regarding React ecosystem.
 ##### Platforms
  * [morpheus - The next generation web publishing platform built with reactjs](https://github.com/vesparny/morpheus)
 
-##### JSX Alternatives
- * [r-dom - A simple React DOM wrapper](https://github.com/uber/r-dom)
- * [react-hyperscript - Hyperscript syntax for React.js markup](https://github.com/mlmorg/react-hyperscript)
- * [react-no-jsx - A pure JS DSL to be used instead of JSX](https://github.com/jussi-kalliokoski/react-no-jsx)
-
 ##### Template Engines
  * [react-templates - Lightweight templates for React](https://github.com/wix/react-templates)
 
@@ -691,6 +675,26 @@ A collection of awesome things regarding React ecosystem.
 #### React Internals
 * [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
 * [An Optimal Decomposition Algorithm for Tree Edit Distance](http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf)
+
+
+---
+### JSX
+
+#### JSX Resources
+* [JSX Spec](https://facebook.github.io/jsx/)
+* [JSX Spec GitHub](https://github.com/facebook/jsx)
+* [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
+
+##### JSX Tutorials
+* [Compiling JSX with Sweet.js using Readtables](http://jlongster.com/Compiling-JSX-with-Sweet.js-using-Readtables)
+* [JSX for the real DOM](http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html)
+* [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
+* [Lint Like It’s 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48)
+
+##### JSX Alternatives
+ * [r-dom - A simple React DOM wrapper](https://github.com/uber/r-dom)
+ * [react-hyperscript - Hyperscript syntax for React.js markup](https://github.com/mlmorg/react-hyperscript)
+ * [react-no-jsx - A pure JS DSL to be used instead of JSX](https://github.com/jussi-kalliokoski/react-no-jsx)
 
 
 ---
