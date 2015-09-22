@@ -40,6 +40,7 @@ A collection of awesome things regarding React ecosystem.
     - [Unit Testing](#unit-testing)
     - [Documentation Tools](#documentation-tools)
     - [Graphics](#graphics)
+    - [Terminal](#terminal)
     - [Model Libraries](#model-libraries)
     - [Data Managing](#data-managing)
     - [Development Environment](#development-environment)
@@ -76,6 +77,7 @@ A collection of awesome things regarding React ecosystem.
   - [Video from Confs](#video-from-confs)
   - [Video from React.js Conf 2015](#video-from-reactjs-conf-2015)
   - [Video from react-europe 2015](#video-from-react-europe-2015)
+  - [Video from ReactRally 2015](#video-from-reactrally-2015)
   - [Video Tutorials](#video-tutorials)
 - [Books](#books)
 - [Demos](#demos)
@@ -544,6 +546,9 @@ A collection of awesome things regarding React ecosystem.
 * [react-famous - Complex 3D animations UI at 60 FPS with Famo.us](https://github.com/pilwon/react-famous)
 * [react-kinetic - HTML5 Canvas via KineticJS using React](https://github.com/freiksenet/react-kinetic)
 
+##### Terminal
+* [react-blessed - React renderer for blessed terminal interface library](https://github.com/Yomguithereal/react-blessed)
+
 ##### Model Libraries
 * [mori - ClojureScript's persistent data structures and supporting API](https://github.com/swannodette/mori)
 * [swarm - JavaScript replicated model (M of MVC) library](https://github.com/gritzko/swarm)
@@ -690,6 +695,7 @@ A collection of awesome things regarding React ecosystem.
 * [JSX for the real DOM](http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html)
 * [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
 * [Lint Like It’s 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48)
+* [React’s JSX: The Other Side of the Coin](https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98)
 
 ##### JSX Alternatives
  * [r-dom - A simple React DOM wrapper](https://github.com/uber/r-dom)
@@ -914,6 +920,17 @@ A collection of awesome things regarding React ecosystem.
 * [Christopher Chedeau - Keynote](https://youtube.com/watch?v=PAA9O4E1IM4)
 * [Dan Abramov - Live React: Hot Reloading with Time Travel](https://youtube.com/watch?v=xsSnOQynTHs)
 * [Lee Byron - Exploring GraphQL](https://youtube.com/watch?v=WQLzZf34FJ8)
+
+#### Video from ReactRally 2015
+* [Jessica Kerr - Functional Principles In React](https://www.youtube.com/watch?v=1uRC3hmKQnM)
+* [Jem Young - Elegant React with ES6 (and a bit of ES7)](https://www.youtube.com/watch?v=GzChMXy-Es0)
+* [Julia Gao - Testable React Components](https://www.youtube.com/watch?v=q8srJrUnxL8)
+* [John K. Paul - Why is React "functional"?](https://www.youtube.com/watch?v=1-Btq9U2T24)
+* [Andrew Imm - Bringing Observable Data to React](https://www.youtube.com/watch?v=wC6BKH4JyO4)
+* [Lee Byron - Exploring GraphQL](https://www.youtube.com/watch?v=cr4QB3j8qFc)
+* [Nick Schrock - GraphQL Servers](https://www.youtube.com/watch?v=KOudxKJXsjc)
+* [Abhinav Rastogi - Syncing stores using socket streams](https://www.youtube.com/watch?v=mWjl0n7F2aE)
+* [Lin Clark - Making small modules actually work with webpack and npm](https://www.youtube.com/watch?v=p3Wi3xBQdAM)
 
 #### Video Tutorials
 * [learnreact.com — 3ish minute videos on React.js](http://learnreact.com/)
