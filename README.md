@@ -68,6 +68,8 @@ A collection of awesome things regarding React ecosystem.
   - [GraphQL Tutorials](#graphql-tutorials)
   - [GraphQL Implementations](#graphql-implementations)
   - [Relay](#relay)
+- [Flow](#flow)
+  - [Flow Resources](#flow-resources)
 - [Videos](#videos)
   - [Video from Confs](#video-from-confs)
   - [Video from React.js Conf 2015](#video-from-reactjs-conf-2015)
@@ -576,6 +578,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Development Environment
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
+* [Nuclide - An open IDE for web and native mobile development, built on top of Atom](http://nuclide.io/)
 * [sublime-react - Snippets for ReactJS](https://github.com/reactjs/sublime-react)
 * [babel-sublime - Syntax definitions for ES6 JavaScript with React JSX extensions](https://github.com/babel/babel-sublime)
 * [babel-sublime-snippets - Next generation JavaScript and React snippets for Sublime](https://github.com/babel/babel-sublime-snippets)
@@ -772,7 +775,8 @@ A collection of awesome things regarding React ecosystem.
 
 
 ---
-### GraphQL
+### GraphQL and Relay
+> Data-driven programming
 
 #### GraphQL Spec
 * [GraphQL Specification](http://facebook.github.io/graphql/)
@@ -808,6 +812,15 @@ A collection of awesome things regarding React ecosystem.
 
 
 ---
+### Flow
+> Static Type Checker for JavaScript
+
+#### Flow Resources
+* [Flow Official Site](http://flowtype.org/)
+* [Flow GitHub](https://github.com/facebook/flow)
+
+
+---
 ### Videos
 
 #### Video from Confs
@@ -833,6 +846,7 @@ A collection of awesome things regarding React ecosystem.
 * [Pete Hunt, Aaron Murray, and Contra Schof: Facebook React at the Famo.us Meetup 8/13/14](https://www.youtube.com/watch?v=1tWCnNgNZm4)
 * [Steven Luscher: Decomplexifying Code with React - Powered by JavaScript conf 2014](https://www.youtube.com/watch?v=rI0GQc__0SM)
 * [James Pearce: An Introduction to ReactJS - All Things Open 2014](https://www.youtube.com/watch?v=m2fuO2wl_3c)
+* [Avik Chaudhuri: JavaScript Testing and Static Type Systems at Scale - Scale 2014](https://www.youtube.com/watch?v=M8x0bc81smU)
 * [Jonathan Beebe: Real World React - Nodevember 2014](https://www.youtube.com/watch?v=uZgAq1CZ1N8)
 * [Pete Hunt: Secrets of the Virtual DOM - JSConf.au 2014](https://www.youtube.com/watch?v=a21b-KDHG-Q)
 * [Dave Smith: Angular + React = Speed - ng-conf 2015](https://www.youtube.com/watch?v=XQM0K6YG18s)
