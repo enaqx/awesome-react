@@ -29,7 +29,7 @@ A collection of awesome things regarding React ecosystem.
     - [Debugging React](#debugging-react)
     - [Authentication and Authorization](#authentication-and-authorization)
     - [File Uploads](#uploads)
-  - [Reat Tools](#react-tools)
+  - [React Tools](#react-tools)
     - [Boilerplates](#boilerplates)
     - [Components](#components)
     - [Libraries](#libraries)
