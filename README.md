@@ -66,6 +66,7 @@ A collection of awesome things regarding React ecosystem.
   - [React Native Community](#react-native-community)
   - [React Native Tutorials](#react-native-tutorials)
   - [React Native Development Tools](#react-native-development-tools)
+  - [React Native Sample Apps](#react-native-sample-apps)
 - [GraphQL and Relay](#graphql)
   - [GraphQL Spec](#graphql-spec)
   - [GraphQL Tutorials](#graphql-tutorials)
@@ -180,13 +181,16 @@ A collection of awesome things regarding React ecosystem.
 * [Creating A Simple Shopping Cart with React.js and Flux](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
 
 ##### React styling
-* [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
+* [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
 * [Radium](https://github.com/FormidableLabs/radium)
+* [jsxstyle](https://github.com/petehunt/jsxstyle)
 * [React Style](https://github.com/js-next/react-style)
 * [React Inline](https://github.com/martinandert/react-inline)
 * [Interoperable CSS](http://glenmaddern.com/articles/interoperable-css)
 * [ReactCSS](https://github.com/casesandberg/reactcss)
 * [React Easy Style](https://github.com/maxguzenski/react-easy-style)
+* [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
+* [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284)
 
 ##### React Charts Tutorials
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
@@ -521,6 +525,7 @@ A collection of awesome things regarding React ecosystem.
 * [plexus-form - A dynamic form component for react using JSON-Schema](https://github.com/AppliedMathematicsANU/plexus-form)
 * [tcomb-form - UI library for developing forms writing less code](https://gcanti.github.io/tcomb-form)
 * [formsy-react - A form input builder and validator for React JS](https://github.com/christianalfoni/formsy-react)
+* [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
 
 ##### Autocomplete
 * [react-autocomplete by @rackt - WAI-ARIA compliant React autocomplete](https://github.com/rackt/react-autocomplete)
@@ -763,7 +768,9 @@ A collection of awesome things regarding React ecosystem.
 #### React Native General Resources
 * [React Native Official Site](https://facebook.github.io/react-native/)
 * [React Native GitHub](https://github.com/facebook/react-native)
+* [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/)
 * [React Native Playground](https://rnplay.org/)
+* [React Native Examples](https://github.com/facebook/react-native/tree/master/Examples)
 
 #### React Native Community
 * `#reactnative` channel on Freenode IRC Channel
@@ -782,6 +789,10 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Native Development Tools
 * [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
+
+#### React Native Sample Apps
+* [HackerNews](https://github.com/iSimar/HackerNews-React-Native)
+* [Ziliun](https://github.com/sonnylazuardi/ziliun-react-native)
 
 
 ---
@@ -864,6 +875,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Native & Relay: Bringing Modern Web Techniques to Mobile - f8 2015)](https://www.youtube.com/watch?v=X6YbAKiLCLU)
 * [Flux: A Unidirectional Data Flow Architecture for React Apps - ACM Applicative 2015](https://www.youtube.com/watch?v=N3tF7jtbKZY)
 * [Michael Chan: React.js on Rails](https://www.youtube.com/watch?v=kTSsZrub5iE)
+* [What's new in React Native](https://www.youtube.com/watch?v=oWPoW0gIzvs)
 
 #### Video from React.js Conf 2015
 * [Tom Occhino and Christopher Chedeau: Keynote](http://conf.reactjs.com/schedule.html#keynote)
@@ -946,6 +958,7 @@ A collection of awesome things regarding React ecosystem.
 * [jFlux - Going from MVC to FLUX](https://www.youtube.com/watch?v=plUN2L4Ak14)
 * [Learn React in steps - BigBinary](http://bigbinary.com/videos/learn-reactjs-in-steps)
 * [Keep up with React - BigBinary](http://bigbinary.com/videos/keep-up-with-reactjs)
+* [React Native Intro](http://brentvatne.ca/react-native-intro-talk/)
 
 
 ---
@@ -984,7 +997,6 @@ A collection of awesome things regarding React ecosystem.
 ### Real Apps
 * [reddit/reddit-mobile](https://github.com/reddit/reddit-mobile)
 * [khan/perseus](https://github.com/khan/perseus)
-* [airbnb/airpal](https://github.com/airbnb/airpal/tree/master/src/main/resources/assets)
 * [mozilla/payments-ui](https://github.com/mozilla/payments-ui)
 
 
