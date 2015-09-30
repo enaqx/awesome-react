@@ -991,6 +991,7 @@ A collection of awesome things regarding React ecosystem.
 * [Flux ImmutableJS TodoList](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
 * [Hapi+React+Flux user management system](https://github.com/jedireza/aqua)
 * [Redux TodoMVC](https://github.com/gaearon/redux/tree/master/examples/todomvc)
+* [Fil: A playground for in-browser interpreters (Redux)](https://github.com/fatiherikli/fil)
 
 
 ---
