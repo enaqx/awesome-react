@@ -786,6 +786,8 @@ A collection of awesome things regarding React ecosystem.
 * [Gesture detection in React Native – fixing unexpected panning](http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/)
 * [Diary of Building an iOS App with React Native](http://herman.asia/building-a-flashcard-app-with-react-native)
 * [Use The iOS Camera In Your React Native Mobile App](https://blog.nraboy.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/)
+* [Super Simple Native Module Example](https://colinramsay.co.uk/2015/03/27/react-native-simple-native-module.html)
+* [NavigatorIOS Demo](https://colinramsay.co.uk/2015/04/11/react-native-navigatorios-demo.html)
 
 #### React Native Development Tools
 * [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
@@ -793,6 +795,12 @@ A collection of awesome things regarding React ecosystem.
 #### React Native Sample Apps
 * [HackerNews](https://github.com/iSimar/HackerNews-React-Native)
 * [Ziliun](https://github.com/sonnylazuardi/ziliun-react-native)
+
+#### React Native Components
+* [react-native-fbsdk - A wrapper around the iOS Facebook SDK](https://github.com/facebook/react-native-fbsdk)
+* [react-native-applinks - AppLinks support for React Native](https://github.com/facebook/react-native-applinks)
+* [react-native-side-menu - Simple customizable component to create side menu](https://github.com/Kureev/react-native-side-menu)
+* [react-native-mapbox-gl - A Mapbox GL react native module](https://github.com/mapbox/react-native-mapbox-gl)
 
 
 ---
@@ -876,6 +884,7 @@ A collection of awesome things regarding React ecosystem.
 * [Flux: A Unidirectional Data Flow Architecture for React Apps - ACM Applicative 2015](https://www.youtube.com/watch?v=N3tF7jtbKZY)
 * [Michael Chan: React.js on Rails](https://www.youtube.com/watch?v=kTSsZrub5iE)
 * [What's new in React Native](https://www.youtube.com/watch?v=oWPoW0gIzvs)
+* [Building and Deploying Relay with Facebook](https://www.youtube.com/watch?v=Pxdgu2XIAAg)
 
 #### Video from React.js Conf 2015
 * [Tom Occhino and Christopher Chedeau: Keynote](http://conf.reactjs.com/schedule.html#keynote)
