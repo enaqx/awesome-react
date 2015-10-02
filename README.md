@@ -805,11 +805,16 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### GraphQL and Relay
-> Data-driven programming
+> Data-driven React Applications
 
 #### GraphQL Spec
 * [GraphQL Specification](http://facebook.github.io/graphql/)
 * [GraphQL Specification Repository](https://github.com/facebook/graphql)
+
+##### Relay
+* [Relay Offical Site](https://facebook.github.io/relay/)
+* [Relay GitHub](https://github.com/facebook/relay)
+* [relay-starter-kit - Barebones starting point for a Relay application](https://github.com/relayjs/relay-starter-kit)
 
 #### GraphQL Tutorials
 * [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
@@ -834,10 +839,6 @@ A collection of awesome things regarding React ecosystem.
 * [graphql-ruby - **Ruby** implementation of Facebook's GraphQL](https://github.com/rmosolgo/graphql-ruby)
 * [graphql-java - GraphQL **Java** implementation](https://github.com/andimarek/graphql-java)
 * [sangria - **Scala** GraphQL client and server library](https://github.com/OlegIlyenko/sangria)
-
-##### Relay
-* [Relay Offical Site](https://facebook.github.io/relay/)
-* [Relay GitHub](https://github.com/facebook/relay)
 
 
 ---
@@ -885,6 +886,9 @@ A collection of awesome things regarding React ecosystem.
 * [Michael Chan: React.js on Rails](https://www.youtube.com/watch?v=kTSsZrub5iE)
 * [What's new in React Native](https://www.youtube.com/watch?v=oWPoW0gIzvs)
 * [Building and Deploying Relay with Facebook](https://www.youtube.com/watch?v=Pxdgu2XIAAg)
+* [Supercharge your React.js Development with Taylor Hakes](https://www.youtube.com/watch?v=93KPAF_HafE)
+* [Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock](https://www.youtube.com/watch?v=LQFQl8EsV3k)
+* [Laney Kuenzel: Mutations and Subscriptions in Relay - JSConf 2015](https://www.youtube.com/watch?v=mmke4w4gc6c)
 
 #### Video from React.js Conf 2015
 * [Tom Occhino and Christopher Chedeau: Keynote](http://conf.reactjs.com/schedule.html#keynote)
