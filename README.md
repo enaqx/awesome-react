@@ -268,7 +268,7 @@ A collection of awesome things regarding React ecosystem.
 * [Choosing the correct packaging tool for React JS](http://christianalfoni.github.io/javascript/2014/08/29/choosing-the-correct-packaging-tool-for-react-js.html)
 
 ##### Testing React Tutorials
-* [Testing Flux Applications](http://facebook.github.io/react/blog/2014/09/24/testing-flux-applications.html)
+* [Testing Flux Applications](https://facebook.github.io/flux/docs/testing-flux-applications.html)
 * [Testing React Components](http://www.asbjornenge.com/wwc/testing_react_components.html)
 * [Testing React components with Huxley](https://caurea.org/2014/02/23/testing-react-components-with-huxley.html)
 * [Unit Testing React.js With Jasmine and Karma](http://myshareoftech.com/2013/12/unit-testing-react-dot-js-with-jasmine-and-karma.html)
