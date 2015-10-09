@@ -27,7 +27,7 @@ A collection of awesome things regarding React ecosystem.
     - [Compiling React Tutorials](#compiling-react-tutorials)
     - [Testing React Tutorials](#testing-react-tutorials)
     - [Debugging React](#debugging-react)
-    - [Authentication and Authorization](#authentication-and-authorization)
+    - [Authentication](#authentication)
     - [File Uploads](#uploads)
   - [Reat Tools](#react-tools)
     - [Boilerplates](#boilerplates)
@@ -278,8 +278,7 @@ A collection of awesome things regarding React ecosystem.
 ##### Debugging React
 * [Trace Logging with React](http://www.garysieling.com/blog/trace-logging-react)
 
-##### Authentication and Authorization
-* [Role-based authorization](http://blog.littleblimp.com/post/109540707808/role-based-authorization-with-react-js)
+##### Authentication
 * [Adding authentication to your React Flux app](https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/)
 
 ##### File Uploads
@@ -825,7 +824,6 @@ A collection of awesome things regarding React ecosystem.
 * [Modeling Queries in a GraphQL Like Way](http://hueypetersen.com/posts/2015/02/08/modeling-queries-graph-ql-like/)
 * [Thin and Graphy](http://hueypetersen.com/posts/2015/02/22/thin-and-graphy/)
 * [Mutations in Relay by Laney Kuenzel - Slides](https://speakerdeck.com/laneyk/mutations-in-relay)
-* [Mutations in Relay by Laney Kuenzel - Slides](https://gist.github.com/mfunkie/65e94f42fee3962b1703)
 * [GraphQL and g2sd](https://fistfulofbytes.com/graphql-and-g2sd)
 * [GraphQL Overview - Getting Started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/)
 * [Writing a Basic API with GraphQL](http://davidandsuzi.com/writing-a-basic-api-with-graphql/)
@@ -972,6 +970,7 @@ A collection of awesome things regarding React ecosystem.
 * [Learn React in steps - BigBinary](http://bigbinary.com/videos/learn-reactjs-in-steps)
 * [Keep up with React - BigBinary](http://bigbinary.com/videos/keep-up-with-reactjs)
 * [React Native Intro](http://brentvatne.ca/react-native-intro-talk/)
+* [Building a Simple ToDo App With React Native and Firebase](https://www.youtube.com/watch?v=3ab0K6viEp0)
 
 
 ---
