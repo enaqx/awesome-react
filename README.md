@@ -25,7 +25,6 @@ A collection of awesome things regarding React ecosystem.
     - [Server-Client with React](#server-client-with-react)
     - [Server Side Rendering](#server-side-rendering)
     - [Compiling React Tutorials](#compiling-react-tutorials)
-    - [Testing React Tutorials](#testing-react-tutorials)
     - [Debugging React](#debugging-react)
     - [Authentication](#authentication)
     - [File Uploads](#uploads)
@@ -37,7 +36,6 @@ A collection of awesome things regarding React ecosystem.
     - [Routing](#routing)
     - [Forms](#forms)
     - [Autocomplete](#autocomplete)
-    - [Unit Testing](#unit-testing)
     - [Documentation Tools](#documentation-tools)
     - [Graphics](#graphics)
     - [Terminal](#terminal)
@@ -61,6 +59,9 @@ A collection of awesome things regarding React ecosystem.
   - [Flux Implementations](#flux-implementations)
   - [Flux Tutorials](#flux-tutorials)
   - [Redux Tutorials](#redux-tutorials)
+- [Jest](#jest)
+  - [Jest General Resources](#jest-general-resources)
+  - [Testing Tutorials](#testing-tutorials)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
   - [React Native Community](#react-native-community)
@@ -266,14 +267,6 @@ A collection of awesome things regarding React ecosystem.
 * [React JS and a browserify workflow, part1](http://christianalfoni.github.io/javascript/2014/08/15/react-js-workflow.html)
 * [React JS and a browserify workflow, part2](http://christianalfoni.github.io/javascript/2014/10/30/react-js-workflow-part2.html)
 * [Choosing the correct packaging tool for React JS](http://christianalfoni.github.io/javascript/2014/08/29/choosing-the-correct-packaging-tool-for-react-js.html)
-
-##### Testing React Tutorials
-* [Testing Flux Applications](http://facebook.github.io/react/blog/2014/09/24/testing-flux-applications.html)
-* [Testing React Components](http://www.asbjornenge.com/wwc/testing_react_components.html)
-* [Testing React components with Huxley](https://caurea.org/2014/02/23/testing-react-components-with-huxley.html)
-* [Unit Testing React.js With Jasmine and Karma](http://myshareoftech.com/2013/12/unit-testing-react-dot-js-with-jasmine-and-karma.html)
-* [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
-* [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
 
 ##### Debugging React
 * [Trace Logging with React](http://www.garysieling.com/blog/trace-logging-react)
@@ -534,12 +527,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-select by @JedWatson - Like Selectize / Chosen / Select2 etc, work in progress](https://github.com/JedWatson/react-select)
 * [instatype by @gragland - Simple react autocomplete component](https://github.com/gragland/instatype)
 
-##### Unit Testing
-* [jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
-* [jasmine-react - Unit test your React.js applications with Jasmine](https://github.com/tommyh/jasmine-react)
-* [chai-react - Chai assertions for React](https://github.com/percyhanna/chai-react)
-* [react-test-tree - Simple and concise React component testing](https://github.com/QubitProducts/react-test-tree)
-
 ##### Documentation Tools
 * [react-docgen - Extract information from React component files for documentation generation](https://github.com/reactjs/react-docgen)
 * [react-styleguide-generator - Easily generate a good-looking styleguide](https://github.com/pocotan001/react-styleguide-generator)
@@ -688,6 +675,7 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### JSX
+> XML-Like Syntax Extension to JavaScript
 
 #### JSX Resources
 * [JSX Spec](https://facebook.github.io/jsx/)
@@ -709,13 +697,14 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### Flux
+> Application Architecture for Building User Interfaces
 
 #### Flux Implementations
 * [Flux Official Site](http://facebook.github.io/flux/)
 * [Flux Comparision](https://github.com/voronianski/flux-comparison)
+* [Redux](https://github.com/gaearon/redux)
 * [RefluxJS](https://github.com/spoike/refluxjs)
 * [Fluxxor](https://github.com/BinaryMuse/fluxxor)
-* [Flummox](https://github.com/acdlite/flummox)
 * [Marty](https://github.com/martyjs/marty)
 * [McFly](https://github.com/kenwheeler/mcfly)
 * [Alt](https://github.com/goatslacker/alt)
@@ -724,7 +713,6 @@ A collection of awesome things regarding React ecosystem.
 * [Dispatchr](https://github.com/yahoo/dispatchr)
 * [Fetchr](https://github.com/yahoo/fetchr)
 * [NuclearJS](https://github.com/optimizely/nuclear-js)
-* [Redux](https://github.com/gaearon/redux)
 * [WTFlux](https://github.com/staltz/wtf)
 
 #### Flux Tutorials
@@ -761,8 +749,21 @@ A collection of awesome things regarding React ecosystem.
 
 
 ---
+### Jest
+> React Unit Testing
+
+#### Jest General Resources
+* [Jest Official Site](http://facebook.github.io/jest/)
+* [Jest GitHub](https://github.com/facebook/jest)
+
+##### Testing Tutorials
+* [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
+* [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
+
+
+---
 ### React Native
->Framework for building native apps using React
+> Framework for building native apps using React
 
 #### React Native General Resources
 * [React Native Official Site](https://facebook.github.io/react-native/)
