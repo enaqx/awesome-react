@@ -28,7 +28,7 @@ A collection of awesome things regarding React ecosystem.
     - [Debugging React](#debugging-react)
     - [Authentication](#authentication)
     - [File Uploads](#uploads)
-  - [Reat Tools](#react-tools)
+  - [React Tools](#react-tools)
     - [Boilerplates](#boilerplates)
     - [Components](#components)
     - [Libraries](#libraries)
@@ -56,6 +56,7 @@ A collection of awesome things regarding React ecosystem.
   - [JSX Tutorials](#jsx-tutorials)
   - [JSX Alternatives](#jsx-alternatives)
 - [Flux](#flux)
+  - [Flux General Resources](#flux-general-resources)
   - [Flux Implementations](#flux-implementations)
   - [Flux Tutorials](#flux-tutorials)
   - [Redux Tutorials](#redux-tutorials)
@@ -68,7 +69,7 @@ A collection of awesome things regarding React ecosystem.
   - [React Native Tutorials](#react-native-tutorials)
   - [React Native Development Tools](#react-native-development-tools)
   - [React Native Sample Apps](#react-native-sample-apps)
-- [GraphQL and Relay](#graphql)
+- [GraphQL and Relay](#graphql-and-relay)
   - [GraphQL Spec](#graphql-spec)
   - [GraphQL Tutorials](#graphql-tutorials)
   - [GraphQL Implementations](#graphql-implementations)
@@ -108,9 +109,8 @@ A collection of awesome things regarding React ecosystem.
 #### React Online Playground
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
 * [React JSFiddle Integration without JSX](https://jsfiddle.net/reactjs/5vjqabv3/)
-* [React 0.13 CodePen Integration with ES6 and JSX](http://codepen.io/bradleyboy/pen/OPBpGw)
-* [React 0.13 JSBin Integration with JSX](http://jsbin.com/basitofoqo/1/edit?html,js,output)
-* [React JSX to JS Online Compiler](https://facebook.github.io/react/jsx-compiler.html)
+* [React CodePen Integration with ES6 and JSX](http://codepen.io/bradleyboy/pen/OPBpGw)
+* [React JSBin Integration with JSX](http://jsbin.com/basitofoqo/1/edit?html,js,output)
 * [React HTML to JSX Online Compiler](https://facebook.github.io/react/html-jsx.html)
 
 #### React Tutorials
@@ -679,7 +679,7 @@ A collection of awesome things regarding React ecosystem.
 
 #### JSX Resources
 * [JSX Spec](https://facebook.github.io/jsx/)
-* [JSX Spec GitHub](https://github.com/facebook/jsx)
+* [JSX Spec on GitHub](https://github.com/facebook/jsx)
 * [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
 
 ##### JSX Tutorials
@@ -699,8 +699,11 @@ A collection of awesome things regarding React ecosystem.
 ### Flux
 > Application Architecture for Building User Interfaces
 
-#### Flux Implementations
+#### Flux General Resources
 * [Flux Official Site](http://facebook.github.io/flux/)
+* [Flux GitHub](https://github.com/facebook/flux)
+
+#### Flux Implementations
 * [Flux Comparision](https://github.com/voronianski/flux-comparison)
 * [Redux](https://github.com/gaearon/redux)
 * [RefluxJS](https://github.com/spoike/refluxjs)
@@ -811,7 +814,7 @@ A collection of awesome things regarding React ecosystem.
 * [GraphQL Specification](http://facebook.github.io/graphql/)
 * [GraphQL Specification Repository](https://github.com/facebook/graphql)
 
-##### Relay
+#### Relay
 * [Relay Offical Site](https://facebook.github.io/relay/)
 * [Relay GitHub](https://github.com/facebook/relay)
 * [relay-starter-kit - Barebones starting point for a Relay application](https://github.com/relayjs/relay-starter-kit)
@@ -830,7 +833,7 @@ A collection of awesome things regarding React ecosystem.
 * [Writing a Basic API with GraphQL](http://davidandsuzi.com/writing-a-basic-api-with-graphql/)
 * [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
 
-##### GraphQL Implementations
+#### GraphQL Implementations
 * [graphql-js - A reference implementation of GraphQL for **JavaScript**](https://github.com/graphql/graphql-js)
 * [react-transmit - Relay-inspired library based on **JavaScript Promises**](https://github.com/RickWong/react-transmit)
 * [GraphpostgresQL - GraphQL for **PostgreSQL**](https://github.com/solidsnack/GraphpostgresQL)
