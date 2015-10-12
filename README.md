@@ -116,6 +116,7 @@ A collection of awesome things regarding React ecosystem.
 #### React Tutorials
 
 ##### React General Tutorials
+* [Building Applications with React and Flux on Pluralsight](http://www.pluralsight.com/courses/react-flux-building-applications)
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [React.js Koans: Practical exercises that will help you learn React.js from square one](https://github.com/arkency/reactjs_koans)
 * [Yo in React](http://davidandsuzi.com/yo-in-react/)
