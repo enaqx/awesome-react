@@ -28,7 +28,7 @@ A collection of awesome things regarding React ecosystem.
     - [Debugging React](#debugging-react)
     - [Authentication](#authentication)
     - [File Uploads](#uploads)
-  - [Reat Tools](#react-tools)
+  - [React Tools](#react-tools)
     - [Boilerplates](#boilerplates)
     - [Components](#components)
     - [Libraries](#libraries)
