@@ -454,6 +454,7 @@ A collection of awesome things regarding React ecosystem.
 * [ngReact - React Components in Angular](https://github.com/davidchang/ngReact)
 * [React Python](https://github.com/reactjs/react-python)
 * [React PHP](https://github.com/reactjs/react-php-v8js)
+* [React Laravel](https://github.com/talyssonoc/react-laravel)
 * [React Meteor](https://github.com/reactjs/react-meteor)
 * [Coffee React](https://github.com/jsdf/coffee-react)
 * [react-coffee - Build React components using natural CoffeeScript syntax](https://github.com/elucidata/react-coffee)
