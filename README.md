@@ -116,6 +116,7 @@ A collection of awesome things regarding React ecosystem.
 #### React Tutorials
 
 ##### React General Tutorials
+* [Building A Simple React Application Using The Flux Pattern: A Step-By-Step Guide](http://tonyspiro.com/building-a-simple-react-application-using-the-flux-pattern/)
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [React.js Koans: Practical exercises that will help you learn React.js from square one](https://github.com/arkency/reactjs_koans)
 * [Yo in React](http://davidandsuzi.com/yo-in-react/)
