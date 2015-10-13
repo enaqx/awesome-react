@@ -424,6 +424,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-panels - A multipurpose tabbed panel with many features](https://github.com/Theadd/react-panels)
 * [autoresponsive-react - A Magical Layout Libary For React](http://xudafeng.github.io/autoresponsive-react)
 * [Belle - Set of easy to style React Components with great UX](http://nikgraf.github.io/belle/)
+* [react-keypress - Keypress.js React integration](https://github.com/zzarcon/react-keypress)
 
 ##### Libraries
 * [tuxx - A feature complete framework built on the React view layer](http://www.tuxedojs.org)
