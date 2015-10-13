@@ -278,6 +278,9 @@ A collection of awesome things regarding React ecosystem.
 ##### File Uploads
 * [Direct uploads to S3 with React, Rails, and Paperclip](http://blog.littleblimp.com/post/119230396893/direct-uploads-to-s3-with-react-rails-and)
 
+##### API Integration
+* [react-flux-cosmicjs Data-driven react application connected to the Cosmic JS API](https://github.com/tonyspiro/react-flux-cosmicjs)
+
 #### React Tools
 
 ##### Boilerplates
@@ -521,6 +524,7 @@ A collection of awesome things regarding React ecosystem.
 * [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
 
 ##### Autocomplete
+* [react-typeahead-search by @tonyspiro](https://github.com/tonyspiro/react-typeahead-search)
 * [react-autocomplete by @rackt - WAI-ARIA compliant React autocomplete](https://github.com/rackt/react-autocomplete)
 * [react-autosuggest by @moroshko - WAI-ARIA compliant React autosuggest component](https://github.com/moroshko/react-autosuggest)
 * [react-autocomplete by @eliseumds- Just tasting some ReactJS + RxJS](https://github.com/eliseumds/react-autocomplete)
