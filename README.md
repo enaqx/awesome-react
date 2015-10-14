@@ -22,12 +22,14 @@ A collection of awesome things regarding React ecosystem.
     - [React and CoffeeScript](#react-and-coffeescript)
     - [React and Haskell](#react-and-haskell)
     - [React and SocketIO](#react-and-socketio)
+    - [React and Falcor](#react-and-falcor)
     - [Server-Client with React](#server-client-with-react)
     - [Server Side Rendering](#server-side-rendering)
     - [Compiling React Tutorials](#compiling-react-tutorials)
     - [Debugging React](#debugging-react)
     - [Authentication](#authentication)
     - [File Uploads](#uploads)
+    
   - [React Tools](#react-tools)
     - [Boilerplates](#boilerplates)
     - [Components](#components)
@@ -239,6 +241,9 @@ A collection of awesome things regarding React ecosystem.
 * [Socket.IO integration example](https://gist.github.com/zpao/5686416)
 * [Socket.IO integration example inside of a single React component](https://gist.github.com/petehunt/5687230)
 * [Socket.IO integration employing separation of concerns](https://gist.github.com/petehunt/5687276)
+
+##### React and Falcor
+* [The Future of Web Development - React, Falcor, and ES6](http://engineering.widen.com/blog/future-of-the-web-react-falcor/)
 
 ##### Server-Client with React
 * [Server/Client With React, Part 1: Getting Started](http://eflorenzano.com/blog/2014/04/09/react-part-1-getting-started/)
