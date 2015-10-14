@@ -158,6 +158,7 @@ A collection of awesome things regarding React ecosystem.
 * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 * [How do I react? Basics & Building an app from scratch](https://github.com/foundersandcoders/begin_react_workshop)
 * [React Chinese Documents](http://reactjs.cn/)
+* [React & Flux by: Christian Lilley](https://www.youtube.com/watch?v=mK4_a7u2cgI) a step-by-step beginner level workshop
 
 ##### Isomorphic Apps
 * [isomorphic-tutorial - Tutorial app to demonstrate isomorphic JavaScript concepts](https://github.com/spikebrehm/isomorphic-tutorial)
