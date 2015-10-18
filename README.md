@@ -330,6 +330,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-treeview - Easy, light, flexible tree view made with React](https://github.com/chenglou/react-treeview)
 * [react-tree-menu - A stateless tree menu component built with the Flux architecture in mind](https://github.com/MandarinConLaBarba/react-tree-menu) 
 * [react-tween-state - React animation tween state](https://github.com/chenglou/react-tween-state)
+* [react-stripe-checkout - Easily load Stripe Checkout as a React component](https://github.com/azmenak/react-stripe-checkout)
 * [react-swipe - Brad Birdsall's swipe.js, as a React component](https://github.com/jed/react-swipe)
 * [react-smart-time-ago - Show relative "time ago" dates](https://github.com/KyleAMathews/react-smart-time-ago)
 * [react-autoupdate-time - Renders a <time> element that autoupdates](https://github.com/KyleAMathews/react-autoupdate-time)
