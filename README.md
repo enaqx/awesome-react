@@ -309,7 +309,6 @@ A collection of awesome things regarding React ecosystem.
 * [React.parts - A catalog of React components](http://react.parts/)
 * [Khan Academy React Components](http://khan.github.io/react-components/)
 * [VistarMedia Components](http://cmpnt.vistarmedia.com/)
-* [Reactjsx Components List](http://www.reactjsx.com/)
 * [React Topcoat UI components](https://github.com/kjda/react-topui)
 * [react-material - Material design components written with React.js and React Style](https://github.com/SanderSpies/react-material)
 * [material-ui - A CSS Framework and a Set of React Components for Material Design](https://github.com/callemall/material-ui)
@@ -699,6 +698,7 @@ A collection of awesome things regarding React ecosystem.
 * [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
 * [Lint Like It’s 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48)
 * [React’s JSX: The Other Side of the Coin](https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98)
+* [JSX in TypeScript](https://github.com/Microsoft/TypeScript/wiki/JSX)
 
 ##### JSX Alternatives
  * [r-dom - A simple React DOM wrapper](https://github.com/uber/r-dom)
