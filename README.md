@@ -507,14 +507,9 @@ A collection of awesome things regarding React ecosystem.
 * [react-packery-mixin - Standalone mixin for Packery (Metafizzy)](https://github.com/eiriklv/react-packery-mixin)
 
 ##### Routing
-* [react-router by @rackt - A complete routing solution for React.js](https://github.com/rackt/react-router)
-* [react-router-component by @andreypopp - Declarative router component for React](https://github.com/STRML/react-router-component)
-* [react-router by @jaredly - An integrated router for react](https://github.com/jaredly/react-router)
-* [rrouter - Declarative routing layer for React applications](https://github.com/andreypopp/rrouter)
-* [react-mini-router - A minimal URL router for React.js](https://github.com/larrymyers/react-mini-router)
-* [monorouter - An isomorphic JS router](https://github.com/matthewwithanm/monorouter)
+* [react-router - A complete routing solution for React.js](https://github.com/rackt/react-router)
+* [react-router-component - Declarative router component for React](https://github.com/STRML/react-router-component)
 * [routr - A component that provides router related functionalities from Yahoo](https://github.com/yahoo/routr)
-* [route-reactor - Framework-agnostic client-side router](https://github.com/josephsavona/route-reactor)
 
 ##### Forms
 * [React Forms](http://facebook.github.io/react/docs/forms.html)
