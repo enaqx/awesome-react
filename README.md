@@ -1029,6 +1029,7 @@ A collection of awesome things regarding React ecosystem.
 ### Books
 * [SurviveJS - Webpack and React](http://survivejs.com/)
 * [react-webpack-cookbook - A cookbook for using Webpack with React JS](http://christianalfoni.github.io/react-webpack-cookbook)
+* [Developing a React Edge - The JavaScript Library for User Interfaces](http://shop.oreilly.com/product/9781939902122.do)
 
 ---
 ### Demos
