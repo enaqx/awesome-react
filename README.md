@@ -527,11 +527,8 @@ A collection of awesome things regarding React ecosystem.
 * [plexus-form - A dynamic form component for react using JSON-Schema](https://github.com/AppliedMathematicsANU/plexus-form)
 * [tcomb-form - UI library for developing forms writing less code](https://gcanti.github.io/tcomb-form)
 * [formsy-react - A form input builder and validator for React JS](https://github.com/christianalfoni/formsy-react)
-<<<<<<< HEAD
 * [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
-=======
 * * [Winterfell - Generate complex, validated and extendable JSON-based forms in React](https://github.com/andrewhathaway/Winterfell)
->>>>>>> d338b016a34375df149e74b22a3fef24ed5c9bdd
 
 ##### Autocomplete
 * [react-autocomplete by @rackt - WAI-ARIA compliant React autocomplete](https://github.com/rackt/react-autocomplete)
