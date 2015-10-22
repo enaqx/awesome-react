@@ -815,6 +815,7 @@ A collection of awesome things regarding React ecosystem.
 #### React Native Sample Apps
 * [HackerNews](https://github.com/iSimar/HackerNews-React-Native)
 * [Ziliun](https://github.com/sonnylazuardi/ziliun-react-native)
+* [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative)
 
 #### React Native Components
 * [react-native-fbsdk - A wrapper around the iOS Facebook SDK](https://github.com/facebook/react-native-fbsdk)
