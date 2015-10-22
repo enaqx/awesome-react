@@ -49,7 +49,7 @@ A collection of awesome things regarding React ecosystem.
     - [Maps](#maps)
     - [Charts](#charts)
     - [Service Workers](#service-workers)
-    - [Dashboard](#dashboards)
+    - [Dashboards](#dashboards)
   - [Approach Explanation](#approach-explanation)
   - [React Internals](#react-internals)
 - [JSX](#jsx)
