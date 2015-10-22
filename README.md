@@ -49,6 +49,8 @@ A collection of awesome things regarding React ecosystem.
     - [Maps](#maps)
     - [Charts](#charts)
     - [Service Workers](#service-workers)
+    - [Authentication and Authorization](#authentication-and-authorization)
+    - [File Uploads](#file-uploads)
   - [Approach Explanation](#approach-explanation)
   - [React Internals](#react-internals)
 - [JSX](#jsx)
