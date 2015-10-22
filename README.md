@@ -433,6 +433,12 @@ A collection of awesome things regarding React ecosystem.
 * [react-panels - A multipurpose tabbed panel with many features](https://github.com/Theadd/react-panels)
 * [autoresponsive-react - A Magical Layout Libary For React](http://xudafeng.github.io/autoresponsive-react)
 * [Belle - Set of easy to style React Components with great UX](http://nikgraf.github.io/belle/)
+* [react-input-color - React input color component with hsv color picker](https://github.com/wangzuo/react-input-color)
+* [react-medium-editor - React wrapper for medium-editor](https://github.com/wangzuo/react-medium-editor)
+* [react-progress-label - Progress label component](https://github.com/wangzuo/react-progress-label)
+* [react-input-slider - React input slider component](https://github.com/wangzuo/react-input-slider)
+* [react-ui-tree - React tree component with drag and drop support](https://github.com/pqx/react-ui-tree)
+* [react-frame - React components within an iframe for isolated css styling](https://github.com/pqx/react-frame)
 
 ##### Libraries
 * [tuxx - A feature complete framework built on the React view layer](http://www.tuxedojs.org)
