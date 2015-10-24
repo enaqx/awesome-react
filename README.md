@@ -440,6 +440,8 @@ A collection of awesome things regarding React ecosystem.
 * [react-input-slider - React input slider component](https://github.com/wangzuo/react-input-slider)
 * [react-ui-tree - React tree component with drag and drop support](https://github.com/pqx/react-ui-tree)
 * [react-frame - React components within an iframe for isolated css styling](https://github.com/pqx/react-frame)
+* [react-persian-datepicker - A Persian date-picker](https://github.com/mohebifar/react-persian-datepicker)
+* [react-persian - A set of react components for Persian localization](https://github.com/mohebifar/react-persian)
 
 ##### Libraries
 * [tuxx - A feature complete framework built on the React view layer](http://www.tuxedojs.org)
