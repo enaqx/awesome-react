@@ -303,6 +303,7 @@ A collection of awesome things regarding React ecosystem.
 * [Coffee React Quickstart](https://github.com/KyleAMathews/coffee-react-quickstart)
 * [React + Webpack + Flux (Alt) + Isomorphic + Express + MongoDB boilerplate](https://github.com/choonkending/react-webpack-node)
 * [Babel Starter Kit - a boilerplate for authoring React.js libraries with ES6+, Babel](https://github.com/kriasoft/babel-starter-kit)
+* [hjs-webpack - Helpers/presets for setting up webpack with hotloading react and ES6(2015) using Babel](https://github.com/HenrikJoreteg/hjs-webpack)
 
 ##### Components
 * [React Components](http://react-components.com/)
