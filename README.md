@@ -808,6 +808,7 @@ A collection of awesome things regarding React ecosystem.
 * [Super Simple Native Module Example](https://colinramsay.co.uk/2015/03/27/react-native-simple-native-module.html)
 * [NavigatorIOS Demo](https://colinramsay.co.uk/2015/04/11/react-native-navigatorios-demo.html)
 * [Digital Smart Mirror lab with React Native](http://atticuswhite.com/blog/react-native-smart-mirror-lab/)
+* [Creating a Dictionary App Using React Native for Android](http://code.tutsplus.com/tutorials/creating-a-dictionary-app-using-react-native-for-android--cms-24969)
 
 #### React Native Development Tools
 * [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
