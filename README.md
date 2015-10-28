@@ -61,8 +61,9 @@ A collection of awesome things regarding React ecosystem.
   - [Flux Tutorials](#flux-tutorials)
   - [Redux Tutorials](#redux-tutorials)
   - [NuclearJS Tutorials](#nuclearjs-tutorials)
-- [Jest](#jest)
+- [Testing](#testing)
   - [Jest General Resources](#jest-general-resources)
+  - [Testing Utilities](#testing-utilities)
   - [Testing Tutorials](#testing-tutorials)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
@@ -773,12 +774,15 @@ A collection of awesome things regarding React ecosystem.
 
 
 ---
-### Jest
+### Testing
 > React Unit Testing
 
 #### Jest General Resources
 * [Jest Official Site](http://facebook.github.io/jest/)
 * [Jest GitHub](https://github.com/facebook/jest)
+
+#### Testing Utilities
+* [react-component-tester](https://github.com/craigbilner/react-component-tester)
 
 ##### Testing Tutorials
 * [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
