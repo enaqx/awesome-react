@@ -1023,6 +1023,7 @@ A collection of awesome things regarding React ecosystem.
 * [Keep up with React - BigBinary](http://bigbinary.com/videos/keep-up-with-reactjs)
 * [React Native Intro](http://brentvatne.ca/react-native-intro-talk/)
 * [Building a Simple ToDo App With React Native and Firebase](https://www.youtube.com/watch?v=3ab0K6viEp0)
+* [Thinking in React] (http://tagtree.tv/thinking-in-react)
 
 
 ---
