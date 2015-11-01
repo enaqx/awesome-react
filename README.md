@@ -440,8 +440,9 @@ A collection of awesome things regarding React ecosystem.
 * [react-input-slider - React input slider component](https://github.com/wangzuo/react-input-slider)
 * [react-ui-tree - React tree component with drag and drop support](https://github.com/pqx/react-ui-tree)
 * [react-frame - React components within an iframe for isolated css styling](https://github.com/pqx/react-frame)
+* [react-inline-grid - Predictable flexbox based grid for React using Redux and Immutable-js](https://github.com/broucz/react-inline-grid)
 
-##### Libraries
+#### Libraries
 * [tuxx - A feature complete framework built on the React view layer](http://www.tuxedojs.org)
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
 * [tcomb-react -  Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
