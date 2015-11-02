@@ -107,8 +107,8 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Community
 * `#reactjs` channel on Freenode IRC Server
+* [Reactiflux](http://www.reactiflux.com/)
 * [React Discussion Forum](https://discuss.reactjs.org/)
-* [React Slack](http://www.reactiflux.com/)
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 * [React Twitter](https://twitter.com/reactjs)
 * [React Subreddit](http://www.reddit.com/r/reactjs/)
