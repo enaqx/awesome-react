@@ -28,6 +28,7 @@ A collection of awesome things regarding React ecosystem.
     - [Debugging React](#debugging-react)
     - [Authentication](#authentication)
     - [File Uploads](#file-uploads)
+    - [React Internals](#react-internals)
   - [React Tools](#react-tools)
     - [Boilerplates](#boilerplates)
     - [Components](#components)
@@ -50,8 +51,6 @@ A collection of awesome things regarding React ecosystem.
     - [Charts](#charts)
     - [Service Workers](#service-workers)
     - [Dashboards](#dashboards)
-  - [Approach Explanation](#approach-explanation)
-  - [React Internals](#react-internals)
 - [JSX](#jsx)
   - [JSX Resources](#jsx-resources)
   - [JSX Tutorials](#jsx-tutorials)
@@ -168,6 +167,11 @@ A collection of awesome things regarding React ecosystem.
 * [How do I react? Basics & Building an app from scratch](https://github.com/foundersandcoders/begin_react_workshop)
 * [React Chinese Documents](http://reactjs.cn/)
 * [React JS Tutorial and Guide to the Gotchas](https://zapier.com/engineering/react-js-tutorial-guide-gotchas/)
+* [BirdWatch: AngularJS vs. ReactJS](http://matthiasnehlsen.com/blog/2014/03/31/birdwatch-with-reactjs/)
+* [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
+* [Pros and Cons of using immutability with React.js](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)
+* [Boiling React Down to a Few Lines of jQuery](http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/)
+* [Easier UI Reasoning with Unidirectional Dataflow and Immutable Data - Using React.js and Omniscient.js](http://open.bekk.no/easier-reasoning-with-unidirectional-dataflow-and-immutable-data)
 
 ##### Isomorphic Apps
 * [isomorphic-tutorial - Tutorial app to demonstrate isomorphic JavaScript concepts](https://github.com/spikebrehm/isomorphic-tutorial)
@@ -287,6 +291,10 @@ A collection of awesome things regarding React ecosystem.
 
 ##### File Uploads
 * [Direct uploads to S3 with React, Rails, and Paperclip](http://blog.littleblimp.com/post/119230396893/direct-uploads-to-s3-with-react-rails-and)
+
+##### React Internals
+* [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
+* [An Optimal Decomposition Algorithm for Tree Edit Distance](http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf)
 
 #### React Tools
 
@@ -639,55 +647,6 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Dashboards
 * [pyxley - Python helpers for building dashboards using Flask and React](https://github.com/stitchfix/pyxley)
-
-#### Approach Explanation
-* [React: Convincing the Boss](http://www.quora.com/Pete-Hunt/Posts/React-Convincing-the-Boss)
-* [Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)
-* [Remarkable React](http://www.phpied.com/remarkable-react/)
-* [Using React to speed up the Khan Academy question editor](http://benalpert.com/2013/06/09/using-react-to-speed-up-khan-academy.html)
-* [Getting your team to adopt new technology](http://bjk5.com/post/53742233351/getting-your-team-to-adopt-new-technology)
-* [Arguing for ReactJS](https://medium.com/@joaomilho/arguing-for-reactjs-7b80aafc6493)
-* [React Tutorial rewritten in plain javascript](http://ricardo.cc/2013/06/07/react-tutorial-rewritten-in-plain-javascript.html)
-* [BirdWatch: AngularJS vs. ReactJS](http://matthiasnehlsen.com/blog/2014/03/31/birdwatch-with-reactjs/)
-* [Scala.js and ReactJS](http://matthiasnehlsen.com/blog/2014/01/24/scala-dot-js-and-reactjs/)
-* [Pros and Cons of Facebook's React vs. Web Components](http://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer)
-* [React.js plays nicely with other tools and other thoughts](http://jeremydmiller.com/2014/08/06/react-js-plays-nicely-with-other-tools-and-other-thoughts/)
-* [First Reactions](http://joelburget.com/react/)
-* [Backbone to React](http://joelburget.com/backbone-to-react/)
-* [Moving Atom to React](http://blog.atom.io/2014/07/02/moving-atom-to-react.html)
-* [Why we use React.js in our Rails projects](http://blog.arkency.com/2014/07/why-we-use-react-js-in-our-rails-projects/)
-* [ReactJS-Rethinking-Web-UI](https://github.com/ifandelse/ReactJS-Rethinking-Web-UI)
-* [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
-* [Facebook React vs. Ember](http://instructure.github.io/blog/2013/12/17/facebook-react-vs-ember/)
-* [Moving From Backbone To React](https://usepropeller.com/blog/posts/from-backbone-to-react/)
-* [From Backbone Views To React](http://leoasis.github.io/posts/2014/03/22/from_backbone_views_to_react/)
-* [React.js vs traditional MVC](http://www.code-experience.com/react-js-vs-traditional-mvc-backbone-ember-angular/)
-* [Why you might not need MVC with React.js](http://www.code-experience.com/why-you-might-not-need-mvc-with-reactjs/)
-* [React: Finally, a great server/client web stack](http://eflorenzano.com/blog/2014/01/23/react-finally-server-client/)
-* [React: Referencing Dynamic Children](http://www.mattzabriskie.com/blog/react-referencing-dynamic-children)
-* [React.js and How Does It Fit In With Everything Else?](http://www.funnyant.com/reactjs-what-is-it/)
-* [JavaScript’s History and How it Led To ReactJS](http://thenewstack.io/javascripts-history-and-how-it-led-to-reactjs/)
-* [Saving Time and Staying Sane? Pros and Cons of React.js](http://kentwilliam.com/articles/saving-time-staying-sane-pros-cons-of-react-js)
-* [Opinionated Rundown of JS Frameworks](http://blog.andyet.com/2014/08/13/opinionated-rundown-of-js-frameworks)
-* [Facebook's React vs AngularJS: A Closer Look](http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look)
-* [Why We May Ditch AngularJS For React](http://wiredcraft.com/posts/2014/08/20/why-we-may-ditch-angularjs-for-react.html)
-* [AngularJS vs React](http://noelwelsh.com/programming/2014/08/17/angularjs-vs-react/)
-* [Why is React's js size so big given its small API?](http://stackoverflow.com/questions/19807946/why-is-reacts-js-size-so-big-given-its-small-api/)
-* [React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)
-* [Two-Way Data Binding](http://n12v.com/2-way-data-binding/?hn)
-* [React vs. Ember](https://docs.google.com/presentation/d/1afMLTCpRxhJpurQ97VBHCZkLbR1TEsRnd3yyxuSQ5YY/preview?sle=true)
-* [How I Learned to Stop Worrying and Love React](http://www.nixtu.info/2014/07/how-i-learned-to-stop-worrying-and-love.html)
-* [10 reasons to use React in your next project](http://www.htmlxprs.com/post/17/10-reasons-to-use-react-in-your-next-project)
-* [AngularJS vs ReactJS for large web applications](http://blog.liip.ch/archive/2014/09/16/angularjs-vs-reactjs-for-large-web-applications.html)
-* [Easier UI Reasoning with Unidirectional Dataflow and Immutable Data - Using React.js and Omniscient.js](http://open.bekk.no/easier-reasoning-with-unidirectional-dataflow-and-immutable-data)
-* [From Backbone To React: Our Experience Scaling a Web Application](http://www.techsonian.net/2014/09/from-backbone-to-react-our-experience-scaling-a-web-application/)
-* [Rebuilding HipChat with React.js](https://developer.atlassian.com/blog/2015/02/rebuilding-hipchat-with-react/)
-* [Boiling React Down to a Few Lines of jQuery](http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/)
-* [Pros and Cons of using immutability with React.js](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)
-
-#### React Internals
-* [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
-* [An Optimal Decomposition Algorithm for Tree Edit Distance](http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf)
 
 
 ---
