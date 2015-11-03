@@ -126,7 +126,6 @@ A collection of awesome things regarding React ecosystem.
 ##### React General Tutorials
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [React.js Koans: Practical exercises that will help you learn React.js from square one](https://github.com/arkency/reactjs_koans)
-* [Yo in React](http://davidandsuzi.com/yo-in-react/)
 * [React PhoneCat: Rewriting the AngularJS Tutorial App in React](http://jgebhardt.github.io/blog/react-phonecat/)
 * [Building a board game with React.js](http://jjt.io/2014/07/30/building-a-board-game-with-react-js/)
 * [Trying Out ReactJS With the Marvel API](http://ryanlanciaux.github.io/blog/2014/05/26/trying-out-reactjs-with-the-marvel-api/)
@@ -165,7 +164,6 @@ A collection of awesome things regarding React ecosystem.
 * [Navigating the React Ecosystem](http://www.toptal.com/react/navigating-the-react-ecosystem)
 * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 * [How do I react? Basics & Building an app from scratch](https://github.com/foundersandcoders/begin_react_workshop)
-* [React Chinese Documents](http://reactjs.cn/)
 * [React JS Tutorial and Guide to the Gotchas](https://zapier.com/engineering/react-js-tutorial-guide-gotchas/)
 * [BirdWatch: AngularJS vs. ReactJS](http://matthiasnehlsen.com/blog/2014/03/31/birdwatch-with-reactjs/)
 * [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
@@ -984,6 +982,7 @@ A collection of awesome things regarding React ecosystem.
 * [Keep up with React - BigBinary](http://bigbinary.com/videos/keep-up-with-reactjs)
 * [React Native Intro](http://brentvatne.ca/react-native-intro-talk/)
 * [Building a Simple ToDo App With React Native and Firebase](https://www.youtube.com/watch?v=3ab0K6viEp0)
+* [React & Flux by: Christian Lilley](https://www.youtube.com/watch?v=mK4_a7u2cgI)
 
 
 ---
