@@ -898,6 +898,7 @@ A collection of awesome things regarding React ecosystem.
 * [Supercharge your React.js Development with Taylor Hakes](https://www.youtube.com/watch?v=93KPAF_HafE)
 * [Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock](https://www.youtube.com/watch?v=LQFQl8EsV3k)
 * [Laney Kuenzel: Mutations and Subscriptions in Relay - JSConf 2015](https://www.youtube.com/watch?v=mmke4w4gc6c)
+* [Pete Hunt: Immediate Mode UIs with React - SFJS Meetup 2015](https://www.youtube.com/watch?v=Y4q34vpFO2M)
 
 #### Video from React.js Conf 2015
 * [Tom Occhino and Christopher Chedeau: Keynote](http://conf.reactjs.com/schedule.html#keynote)
