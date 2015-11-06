@@ -558,6 +558,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-canvas - High performance <canvas> rendering for React components](https://github.com/Flipboard/react-canvas)
 * [react-famous - Complex 3D animations UI at 60 FPS with Famo.us](https://github.com/pilwon/react-famous)
 * [react-kinetic - HTML5 Canvas via KineticJS using React](https://github.com/freiksenet/react-kinetic)
+* [react-svg-morph - morph your svg components one into another](https://github.com/gorangajic/react-svg-morph)
 
 ##### Terminal
 * [react-blessed - React renderer for blessed terminal interface library](https://github.com/Yomguithereal/react-blessed)
