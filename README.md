@@ -463,6 +463,7 @@ A collection of awesome things regarding React ecosystem.
 * [riotjs - A React- like, 3.5KB user interface library](https://github.com/muut/riotjs)
 * [Maple.js - Bringing the concept of web-components to React](https://github.com/Wildhoney/Maple.js)
 * [react-i13n - A performant, scalable and pluggable approach to instrumenting your React application](https://github.com/yahoo/react-i13n)
+* [react-icons - svg react icons of popular icon packs](https://github.com/gorangajic/react-icons)
 
 ##### Integration
 * [ReactJS.NET](http://reactjs.net/)
