@@ -790,6 +790,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-native-applinks - AppLinks support for React Native](https://github.com/facebook/react-native-applinks)
 * [react-native-side-menu - Simple customizable component to create side menu](https://github.com/Kureev/react-native-side-menu)
 * [react-native-mapbox-gl - A Mapbox GL react native module](https://github.com/mapbox/react-native-mapbox-gl)
+* [react-native-android-speech - A Native Module for Text To Speech Engine for Android ](https://github.com/mihirsoni/react-native-android-speech)
 
 
 ---
