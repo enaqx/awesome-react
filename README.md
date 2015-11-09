@@ -310,6 +310,8 @@ A collection of awesome things regarding React ecosystem.
 * [Coffee React Quickstart](https://github.com/KyleAMathews/coffee-react-quickstart)
 * [React + Webpack + Flux (Alt) + Isomorphic + Express + MongoDB boilerplate](https://github.com/choonkending/react-webpack-node)
 * [Babel Starter Kit - a boilerplate for authoring React.js libraries with ES6+, Babel](https://github.com/kriasoft/babel-starter-kit)
+* [React Redux Starter Kit - Yet another React and Redux based web application starter kit](https://github.com/cloudmu/react-redux-starter-kit)
+
 
 ##### Components
 * [React Components](http://react-components.com/)
@@ -1028,6 +1030,8 @@ A collection of awesome things regarding React ecosystem.
 * [Flux ImmutableJS TodoList](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
 * [Hapi+React+Flux user management system](https://github.com/jedireza/aqua)
 * [Redux TodoMVC](https://github.com/gaearon/redux/tree/master/examples/todomvc)
+* [React Redux Starter Kit - View top Github users/repos with async data fetching/caching/pagination](https://github.com/cloudmu/react-redux-starter-kit)
+
 
 
 ---
