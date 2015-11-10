@@ -449,6 +449,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-frame - React components within an iframe for isolated css styling](https://github.com/pqx/react-frame)
 * [react-inline-grid - Predictable flexbox based grid for React using Redux and Immutable-js](https://github.com/broucz/react-inline-grid)
 * [rodal - A React modal with animations](http://rodal.cn)
+* [react-scrollbar - Simple ScrollArea component built for React](https://github.com/souhe/reactScrollbar)
 
 #### Libraries
 * [tuxx - A feature complete framework built on the React view layer](http://www.tuxedojs.org)
