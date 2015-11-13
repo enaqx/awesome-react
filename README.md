@@ -729,7 +729,6 @@ A collection of awesome things regarding React ecosystem.
 #### Redux Tutorials
 * [Redux Tutorial](https://github.com/happypoulp/redux-tutorial)
 
-
 ---
 ### Jest
 > React Unit Testing
@@ -1029,7 +1028,7 @@ A collection of awesome things regarding React ecosystem.
 * [Flux ImmutableJS TodoList](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
 * [Hapi+React+Flux user management system](https://github.com/jedireza/aqua)
 * [Redux TodoMVC](https://github.com/gaearon/redux/tree/master/examples/todomvc)
-
+* [Redux example using 500px API (with ES6)](https://github.com/yildizberkay/redux-example)
 
 ---
 ### Real Apps
