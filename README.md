@@ -60,6 +60,7 @@ A collection of awesome things regarding React ecosystem.
   - [Flux Implementations](#flux-implementations)
   - [Flux Tutorials](#flux-tutorials)
   - [Redux Tutorials](#redux-tutorials)
+  - [NuclearJS Tutorials](#nuclearjs-tutorials)
 - [Jest](#jest)
   - [Jest General Resources](#jest-general-resources)
   - [Testing Tutorials](#testing-tutorials)
@@ -729,6 +730,10 @@ A collection of awesome things regarding React ecosystem.
 
 #### Redux Tutorials
 * [Redux Tutorial](https://github.com/happypoulp/redux-tutorial)
+
+#### NuclearJS Tutorials
+* [Front End Apps With Nuclearjs](http://tilomitra.com/front-end-apps-with-nuclearjs/)
+* [Simple Counter App with React and Nuclear JS](https://github.com/haochuan/random-notes/blob/master/react/couter-app-with-react-nuclear.md)
 
 
 ---
