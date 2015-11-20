@@ -452,6 +452,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-inline-grid - Predictable flexbox based grid for React using Redux and Immutable-js](https://github.com/broucz/react-inline-grid)
 * [rodal - A React modal with animations](http://rodal.cn)
 * [react-scrollbar - Simple ScrollArea component built for React](https://github.com/souhe/reactScrollbar)
+* [react-experiments - Implement A/B tests with randomized parameterizations of your components](https://github.com/HubSpot/react-experiments)
 
 #### Libraries
 * [tuxx - A feature complete framework built on the React view layer](http://www.tuxedojs.org)
@@ -466,7 +467,6 @@ A collection of awesome things regarding React ecosystem.
 * [riotjs - A React- like, 3.5KB user interface library](https://github.com/muut/riotjs)
 * [Maple.js - Bringing the concept of web-components to React](https://github.com/Wildhoney/Maple.js)
 * [react-i13n - A performant, scalable and pluggable approach to instrumenting your React application](https://github.com/yahoo/react-i13n)
-* [react-experiments - Implement A/B tests with randomized parameterizations of your components](https://github.com/HubSpot/react-experiments)
 
 ##### Integration
 * [ReactJS.NET](http://reactjs.net/)
