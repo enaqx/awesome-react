@@ -70,6 +70,7 @@ A collection of awesome things regarding React ecosystem.
   - [React Native Tutorials](#react-native-tutorials)
   - [React Native Development Tools](#react-native-development-tools)
   - [React Native Sample Apps](#react-native-sample-apps)
+  - [React Native Starter](#react-native-boiler)
 - [GraphQL](#graphql)
   - [GraphQL Spec](#graphql-spec)
   - [GraphQL Tutorials](#graphql-tutorials)
@@ -798,6 +799,9 @@ A collection of awesome things regarding React ecosystem.
 * [HackerNews](https://github.com/iSimar/HackerNews-React-Native)
 * [Ziliun](https://github.com/sonnylazuardi/ziliun-react-native)
 
+#### React Native Boilerplate
+*
+[Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage)](https://github.com/bartonhammond/snowflake)
 #### React Native Components
 * [react-native-fbsdk - A wrapper around the iOS Facebook SDK](https://github.com/facebook/react-native-fbsdk)
 * [react-native-applinks - AppLinks support for React Native](https://github.com/facebook/react-native-applinks)
