@@ -455,6 +455,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-experiments - Implement A/B tests with randomized parameterizations of your components](https://github.com/HubSpot/react-experiments)
 * [react-slide-deck - For swipe, tabs, carousel, one page scroll. With animation hooks. tweening, tween callbacks](https://github.com/jl-/react-slide-deck)
 * [react-resizable-box - Resizable component for React](https://github.com/bokuweb/react-resizable-box)
+* [react-ios-switch - React switch component](https://github.com/clariussystems/react-ios-switch)
 
 
 #### Libraries
