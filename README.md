@@ -443,6 +443,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-hotkeys - Declarative hotkey and focus area management for React](https://github.com/Chrisui/react-hotkeys)
 * [react-datagrid - A carefully crafted DataGrid for React](https://github.com/zippyui/react-datagrid)
 * [react-panels - A multipurpose tabbed panel with many features](https://github.com/Theadd/react-panels)
+* [react-magic-move - A utility that creates the effect of moving DOM nodes, based upon portals] (https://github.com/ryanflorence/react-magic-move)
 * [autoresponsive-react - A Magical Layout Libary For React](http://xudafeng.github.io/autoresponsive-react)
 * [Belle - Set of easy to style React Components with great UX](http://nikgraf.github.io/belle/)
 * [react-input-color - React input color component with hsv color picker](https://github.com/wangzuo/react-input-color)
