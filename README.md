@@ -314,6 +314,7 @@ A collection of awesome things regarding React ecosystem.
 * [Babel Starter Kit - a boilerplate for authoring React.js libraries with ES6+, Babel](https://github.com/kriasoft/babel-starter-kit)
 * [Minimal Node React stack starter kit - Node/Express (hbs), React + React Router + Redux, Webpack, Babel, Gulp and unit tests with Karma ](https://github.com/weblancaster/node-react-stack-kit)
 * [A React / Webpack Starter for Beginners](https://github.com/eanplatter/react-starter)
+* [A large SPA react / redux set up boilerplate](https://github.com/chen844033231/react-workflow)
 
 ##### Components
 * [React Components](http://react-components.com/)
