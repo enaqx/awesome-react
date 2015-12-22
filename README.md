@@ -288,6 +288,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Authentication
 * [Adding authentication to your React Flux app](https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/)
+* [Build a React Application with User Authentication](https://stormpath.com/blog/build-a-react-app-with-user-authentication/)
 
 ##### File Uploads
 * [Direct uploads to S3 with React, Rails, and Paperclip](http://blog.littleblimp.com/post/119230396893/direct-uploads-to-s3-with-react-rails-and)
