@@ -316,6 +316,7 @@ A collection of awesome things regarding React ecosystem.
 * [Minimal Node React stack starter kit - Node/Express (hbs), React + React Router + Redux, Webpack, Babel, Gulp and unit tests with Karma ](https://github.com/weblancaster/node-react-stack-kit)
 * [A React / Webpack Starter for Beginners](https://github.com/eanplatter/react-starter)
 * [A large SPA react / redux set up boilerplate](https://github.com/chen844033231/react-workflow)
+* [React Starterify - Minimal starter kit with ES2015 + Browserify + Gulp + Tests](https://github.com/Granze/react-starterify)
 
 ##### Components
 * [React Components](http://react-components.com/)
