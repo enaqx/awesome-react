@@ -748,6 +748,7 @@ A collection of awesome things regarding React ecosystem.
 
 #### Redux Tutorials
 * [Redux Tutorial](https://github.com/happypoulp/redux-tutorial)
+* [Free Egghead.io Redux lessons from its creator - Dan Abramov](https://egghead.io/series/getting-started-with-redux)
 
 #### NuclearJS Tutorials
 * [Front End Apps With Nuclearjs](http://tilomitra.com/front-end-apps-with-nuclearjs/)
