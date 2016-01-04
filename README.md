@@ -319,6 +319,7 @@ A collection of awesome things regarding React ecosystem.
 * [A large SPA react / redux set up boilerplate](https://github.com/chen844033231/react-workflow)
 * [React Starterify - Minimal starter kit with ES2015 + Browserify + Gulp + Tests](https://github.com/Granze/react-starterify)
 * [Isomorphic React TypeScript Starter](https://github.com/toddlucas/react-tsx-starter)
+* [React + React native + NW - Mobile, desktop and website Apps with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
 
 ##### Components
 * [React Components](http://react-components.com/)
