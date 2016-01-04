@@ -306,6 +306,7 @@ A collection of awesome things regarding React ecosystem.
 * [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
 * [react-starter - Starter template for React with webpack](https://github.com/webpack/react-starter)
 * [react-hot-boilerplate - Live-editing boilerplate for your next ReactJS project](https://github.com/gaearon/react-hot-boilerplate)
+* [react-redux-universal-hot-example - Universal rendering boilerplate with redux, style loaders, mocha and many more](https://github.com/erikras/react-redux-universal-hot-example)
 * [react-engine - A composite render engine for isomorphic express apps](https://github.com/paypal/react-engine)
 * [koa-react-full-example - Full example using Koa, React, Passport, Mongoose, Gulp, Mocha](https://github.com/dozoisch/koa-react-full-example)
 * [mullet - A React + Hapi Starter Kit](https://github.com/lynnaloo/mullet)
