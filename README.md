@@ -343,6 +343,7 @@ A collection of awesome things regarding React ecosystem.
 * [markdown-react - React Render for Standard Markdown](https://github.com/vjeux/markdown-react)
 * [react-component-gallery — React component for creating an evenly spaced components]( https://github.com/KyleAMathews/react-component-gallery)
 * [react-markdown-textarea - Component to create textareas for entering Markdown](https://github.com/KyleAMathews/react-markdown-textarea)
+* [react-markdown-area - Github flavored markdown editor with live preview](https://github.com/MattMcFarland/react-markdown-area)
 * [react-textarea-autosize - Textarea component for React which grows with content](https://github.com/andreypopp/react-textarea-autosize)
 * [react-spinner - Zero configuration loading spinner](https://github.com/chenglou/react-spinner)
 * [react-treeview - Easy, light, flexible tree view made with React](https://github.com/chenglou/react-treeview)
