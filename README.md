@@ -175,7 +175,6 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Isomorphic Apps
 * [isomorphic-tutorial - Tutorial app to demonstrate isomorphic JavaScript concepts](https://github.com/spikebrehm/isomorphic-tutorial)
-* [Creating Isomorphic apps with React and Node.js](http://www.htmlxprs.com/post/20/creating-isomorphic-apps-with-react-and-nodejs)
 * [isomorphic500 - Isomorphic JS app built with React and Fluxible](https://github.com/gpbl/isomorphic500)
 * [Building Isomorphic Webapps on the JVM with React.js and Spring Boot](http://winterbe.com/posts/2015/02/16/isomorphic-react-webapps-on-the-jvm/)
 
@@ -234,7 +233,6 @@ A collection of awesome things regarding React ecosystem.
 
 ##### React and ClojureScript
 * [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/)
-* [Om sweet Om](http://blog.getprismatic.com/om-sweet-om-high-functional-frontend-engineering-with-clojurescript-and-react/)
 * [The Case for React.js and ClojureScript](http://murilopereira.com/the-case-for-reactjs-and-clojurescript/)
 * [A Reagent Framework For Writing SPAs](https://github.com/Day8/re-frame)
 
