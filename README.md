@@ -885,6 +885,7 @@ A collection of awesome things regarding React ecosystem.
 #### Relay Boilerplates
 * [relay-starter-kit - Barebones starting point for a Relay application](https://github.com/relayjs/relay-starter-kit)
 * [relay-skeleton - React, Relay, GraphQL project skeleton](https://github.com/fortruce/relay-skeleton)
+* [Isomorphic Material Relay Starter Kit - Boilerplate and examples](https://github.com/codefoundries/isomorphic-material-relay-starter-kit)
 
 #### Relay Tools
 * [graphql-relay-js - A library to help construct a graphql-js server supporting react-relay](https://github.com/graphql/graphql-relay-js)
