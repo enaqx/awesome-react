@@ -113,7 +113,6 @@ A collection of awesome things regarding React ecosystem.
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 * [React Twitter](https://twitter.com/reactjs)
 * [React Subreddit](https://www.reddit.com/r/reactjs/)
-* [React Loop](http://rss.reactloop.org)
 * [React Podcast](http://reactpodcast.com/)
 
 #### React Online Playground
@@ -318,7 +317,6 @@ A collection of awesome things regarding React ecosystem.
 * [React Starterify - Minimal starter kit with ES2015 + Browserify + Gulp + Tests](https://github.com/Granze/react-starterify)
 * [Isomorphic React TypeScript Starter](https://github.com/toddlucas/react-tsx-starter)
 * [React + React native + NW - Mobile, desktop and website Apps with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
-* [react-boilerplate - :fire: Quick setup for performance orientated, offline-first React.js applications featuring Redux, hot-reloading, PostCSS, react-router, and more!](https://github.com/benoitvallon/react-native-nw-react-calculator)
 
 ##### Components
 * [React Components](http://react-components.com/)
@@ -640,7 +638,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-tags-brunch - Adds React.js tag interpolation to brunch build tool](https://github.com/elucidata/react-tags-brunch)
 * [react-hot-loader - Webpack loader that enables live-editing React components](https://github.com/gaearon/react-hot-loader)
 * [mimosa-react - A JSX compiler for Mimosa build tool](https://github.com/dbashford/mimosa-react)
-* [HTML2React - Convert plain HTML into Coffeescript calls of React.DOM](http://html2react.alhur.es/)
 * [JSXZ - Precompile your JSX HTML components from static HTML using CSS selectors](https://github.com/awetzel/jsxz)
 * [react-to-html-webpack-plugin - Compile React components to static HTML](https://github.com/markdalgleish/react-to-html-webpack-plugin)
 * [static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
