@@ -176,6 +176,7 @@ A collection of awesome things regarding React ecosystem.
 * [isomorphic-tutorial - Tutorial app to demonstrate isomorphic JavaScript concepts](https://github.com/spikebrehm/isomorphic-tutorial)
 * [isomorphic500 - Isomorphic JS app built with React and Fluxible](https://github.com/gpbl/isomorphic500)
 * [Building Isomorphic Webapps on the JVM with React.js and Spring Boot](http://winterbe.com/posts/2015/02/16/isomorphic-react-webapps-on-the-jvm/)
+* [Isomorphic Material Relay Starter Kit - Boilerplate and examples](https://github.com/codefoundries/isomorphic-material-relay-starter-kit)
 
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
@@ -885,6 +886,7 @@ A collection of awesome things regarding React ecosystem.
 #### Relay Boilerplates
 * [relay-starter-kit - Barebones starting point for a Relay application](https://github.com/relayjs/relay-starter-kit)
 * [relay-skeleton - React, Relay, GraphQL project skeleton](https://github.com/fortruce/relay-skeleton)
+* [Isomorphic Material Relay Starter Kit - Boilerplate and examples](https://github.com/codefoundries/isomorphic-material-relay-starter-kit)
 
 #### Relay Tools
 * [graphql-relay-js - A library to help construct a graphql-js server supporting react-relay](https://github.com/graphql/graphql-relay-js)
