@@ -299,10 +299,9 @@ A collection of awesome things regarding React ecosystem.
 ##### File Uploads
 * [Direct uploads to S3 with React, Rails, and Paperclip](http://blog.littleblimp.com/post/119230396893/direct-uploads-to-s3-with-react-rails-and)
 
-<<<<<<< HEAD
 ##### API Integration
 * [react-flux-cosmicjs Data-driven react application connected to the Cosmic JS API](https://github.com/tonyspiro/react-flux-cosmicjs)
-=======
+
 ##### React Internals
 * [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
 * [An Optimal Decomposition Algorithm for Tree Edit Distance](http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf)
