@@ -305,7 +305,6 @@ A collection of awesome things regarding React ecosystem.
 ##### React Internals
 * [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
 * [An Optimal Decomposition Algorithm for Tree Edit Distance](http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf)
->>>>>>> b9f122e
 
 #### React Tools
 
