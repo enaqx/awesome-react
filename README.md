@@ -211,6 +211,9 @@ A collection of awesome things regarding React ecosystem.
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
 * [D3 and React - the future of charting components?](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
 
+##### React and Meteor
+* [React for Meteor developers](http://blog.differential.com/react-for-meteor-developers/)
+
 ##### React and Backbone
 * [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
 * [Chicago Backbone Meetup: React + Backbone slides](https://speakerdeck.com/larsonjj/chicago-backbone-meetup-react-plus-backbone)
