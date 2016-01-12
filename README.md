@@ -664,6 +664,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-d3 - Modular React charts made with d3.js](https://github.com/esbullington/react-d3)
 * [react-chartjs - Common react charting components using chart.js](https://github.com/jhudson8/react-chartjs)
 * [react-stockcharts - Highly customizable stock charts with ReactJS and d3](https://github.com/rrag/react-stockcharts)
+* [VictoryJS - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
 
 ##### Service Workers
 * [react-worker - Using Service Workers to render React components](https://github.com/MicheleBertoli/react-worker)
@@ -768,7 +769,7 @@ A collection of awesome things regarding React ecosystem.
 ##### Testing Tutorials
 * [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
 * [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
-
+* [Testing React Components with Teaspoon & Unexpected](http://dchambers.github.io/articles/testing-react-components-with-teaspoon-and-unexpected/)
 
 ---
 ### React Native
