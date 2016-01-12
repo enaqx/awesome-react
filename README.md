@@ -114,6 +114,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Twitter](https://twitter.com/reactjs)
 * [React Subreddit](https://www.reddit.com/r/reactjs/)
 * [React Podcast](http://reactpodcast.com/)
+* [Reactiflux Slack Team](http://www.reactiflux.com/)
 
 #### React Online Playground
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
