@@ -128,6 +128,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### React General Tutorials
 * [Building Applications with React and Flux on Pluralsight](http://www.pluralsight.com/courses/react-flux-building-applications)
+* [Building A Simple React Application Using The Flux Pattern: A Step-By-Step Guide](http://tonyspiro.com/building-a-simple-react-application-using-the-flux-pattern/)
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [React.js Koans: Practical exercises that will help you learn React.js from square one](https://github.com/arkency/reactjs_koans)
 * [React PhoneCat: Rewriting the AngularJS Tutorial App in React](http://jgebhardt.github.io/blog/react-phonecat/)
@@ -298,9 +299,13 @@ A collection of awesome things regarding React ecosystem.
 ##### File Uploads
 * [Direct uploads to S3 with React, Rails, and Paperclip](http://blog.littleblimp.com/post/119230396893/direct-uploads-to-s3-with-react-rails-and)
 
+##### API Integration
+* [react-flux-cosmicjs Data-driven react application connected to the Cosmic JS API](https://github.com/tonyspiro/react-flux-cosmicjs)
+
 ##### React Internals
 * [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
 * [An Optimal Decomposition Algorithm for Tree Edit Distance](http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf)
+>>>>>>> b9f122e
 
 #### React Tools
 
@@ -580,6 +585,7 @@ A collection of awesome things regarding React ecosystem.
 * [Winterfell - Generate complex, validated and extendable JSON-based forms in React](https://github.com/andrewhathaway/Winterfell)
 
 ##### Autocomplete
+* [react-typeahead-search by @tonyspiro](https://github.com/tonyspiro/react-typeahead-search)
 * [react-autocomplete by @rackt - WAI-ARIA compliant React autocomplete](https://github.com/rackt/react-autocomplete)
 * [react-autosuggest by @moroshko - WAI-ARIA compliant React autosuggest component](https://github.com/moroshko/react-autosuggest)
 * [react-autocomplete by @eliseumds- Just tasting some ReactJS + RxJS](https://github.com/eliseumds/react-autocomplete)
