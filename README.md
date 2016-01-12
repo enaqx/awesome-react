@@ -304,6 +304,7 @@ A collection of awesome things regarding React ecosystem.
 #### React Tools
 
 ##### Boilerplates
+* [React Slingshot - React + Redux with Babel, hot reloading, testing, linting and working example app](https://github.com/coryhouse/react-slingshot)  
 * [React Starter Kit - a skeleton of an "isomorphic" web application](https://github.com/kriasoft/react-starter-kit)
 * [react-isomorphic-starterkit - somorphic starterkit with server-side React rendering](https://github.com/RickWong/react-isomorphic-starterkit)
 * [essential-react - A minimal skeleton for building testable React apps using ES6](https://github.com/pheuter/essential-react)
