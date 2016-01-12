@@ -332,6 +332,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
 * [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
 * [react-grid - Data grid for React](https://github.com/prometheusresearch/react-grid)
+* [React-iCheck - iCheck components built with React. Highly customizable checkboxes and radio buttons](https://github.com/luqin/react-icheck)
 * [react-absolute-grid - An absolutely positioned, animated, filterable, sortable, drag and droppable, ES6 grid for React](https://github.com/jrowny/react-absolute-grid)
 * [react-async - Async rendering for React components](https://github.com/andreypopp/react-async)
 * [react-async-input - Inputs that behave properly with async set{State,Props} calls](https://github.com/grncdr/react-async-input)
