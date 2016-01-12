@@ -480,6 +480,7 @@ A collection of awesome things regarding React ecosystem.
 * [searchkit](https://github.com/searchkit/searchkit) - Components to build user interfaces for elasticsearch
 * [grommet - The most advanced UX framework for enterprise applications](https://github.com/grommet/grommet)
 * [react-resizable-and-movable - Resizable and movable component for React](https://github.com/bokuweb/react-resizable-and-movable)
+* [react-sidebar - An app like sidebar for React including touch support](https://balloob.github.io/react-sidebar/example)
 * [react-motion - An spring-based animation library, similar to Rebound.js](https://github.com/chenglou/react-motion)
 * [sweetalert-react - Using sweetalert in React](https://github.com/chentsulin/sweetalert-react)
 
