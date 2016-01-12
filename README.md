@@ -484,6 +484,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-sidebar - An app like sidebar for React including touch support](https://balloob.github.io/react-sidebar/example)
 * [react-motion - An spring-based animation library, similar to Rebound.js](https://github.com/chenglou/react-motion)
 * [sweetalert-react - Using sweetalert in React](https://github.com/chentsulin/sweetalert-react)
+* [React Joyride - Create walkthroughs, tours and tooltips for your apps](http://gilbarbara.github.io/react-joyride/)
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
