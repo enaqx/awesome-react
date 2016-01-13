@@ -248,6 +248,9 @@ A collection of awesome things regarding React ecosystem.
 * [React & CoffeeScript](http://blog.vjeux.com/2013/javascript/react-coffeescript.html)
 * [React patterns - Mostly reasonable patterns for writing React in CoffeeScript](https://github.com/planningcenter/react-patterns)
 
+##### React and Datatables
+* [React and Datatables](https://github.com/wyvernnot/react-datatables-example)
+
 ##### React and Haskell
 * [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/index.html)
 * [stackage-view, built with Yesod and GHCJS+React](https://github.com/fpco/stackage-view)
@@ -260,6 +263,9 @@ A collection of awesome things regarding React ecosystem.
 * [Socket.IO integration example](https://gist.github.com/zpao/5686416)
 * [Socket.IO integration example inside of a single React component](https://gist.github.com/petehunt/5687230)
 * [Socket.IO integration employing separation of concerns](https://gist.github.com/petehunt/5687276)
+
+##### React and Zeroclipboard
+* [React and Zeroclipboard](https://github.com/wyvernnot/react-zeroclipboard-example)
 
 ##### Server-Client with React
 * [Server/Client With React, Part 1: Getting Started](http://eflorenzano.com/blog/2014/04/09/react-part-1-getting-started/)
