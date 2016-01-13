@@ -183,6 +183,7 @@ A collection of awesome things regarding React ecosystem.
 * [isomorphic-tutorial - Tutorial app to demonstrate isomorphic JavaScript concepts](https://github.com/spikebrehm/isomorphic-tutorial)
 * [isomorphic500 - Isomorphic JS app built with React and Fluxible](https://github.com/gpbl/isomorphic500)
 * [Building Isomorphic Webapps on the JVM with React.js and Spring Boot](http://winterbe.com/posts/2015/02/16/isomorphic-react-webapps-on-the-jvm/)
+* [Server-Side Rendering with Redux and React-Router](https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app)
 
 ##### Building robust web apps with React
 * [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
@@ -338,6 +339,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Starterify - Minimal starter kit with ES2015 + Browserify + Gulp + Tests](https://github.com/Granze/react-starterify)
 * [Isomorphic React TypeScript Starter](https://github.com/toddlucas/react-tsx-starter)
 * [React + React native + NW - Mobile, desktop and website Apps with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
+* [A clean, extensible react + redux boilerplate with universal/isomorphic rendering, testing and more](https://github.com/mz026/universal-redux-template)
 
 ##### Components
 * [React Components](http://react-components.com/)
