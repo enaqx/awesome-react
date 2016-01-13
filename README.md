@@ -157,7 +157,6 @@ A collection of awesome things regarding React ecosystem.
 * [React Tips and Best Practices](http://aeflash.com/2015-02/react-tips-and-best-practices.html)
 * [Building a Stateless Rails API with React and Twitter OAuth](http://fredguest.com/2015/03/06/building-a-stateless-rails-api-with-react-and-twitter-oauth/)
 * [React Primer](https://github.com/mikechau/react-primer-draft)
-* [Mailbox in React](http://blog.tryolabs.com/2015/04/07/react-examples-mailbox/)
 * [React Mixins Explained By Example](http://simblestudios.com/blog/development/react-mixins-by-example.html)
 * [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
 * [A Sortable List Component in React utilizing the HTML5 Drag & Drop API](http://webcloud.se/sortable-list-component-react-js/)
