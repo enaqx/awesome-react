@@ -1074,6 +1074,7 @@ A collection of awesome things regarding React ecosystem.
 * [SurviveJS - Webpack and React](http://survivejs.com/)
 * [react-webpack-cookbook - A cookbook for using Webpack with React JS](http://christianalfoni.github.io/react-webpack-cookbook)
 * [Conquering React Native](http://www.conqueringreactnative.com/) - A hands-on course on building apps with React Native.
+* [React: Up & Running](http://shop.oreilly.com/product/0636920042266.do) - This book teaches you how to build components, the building blocks of your apps, as well as how to organize the components into large-scale apps.
 
 ---
 ### Demos
