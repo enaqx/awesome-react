@@ -1066,6 +1066,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Native Intro](http://brentvatne.ca/react-native-intro-talk/)
 * [Building a Simple ToDo App With React Native and Firebase](https://www.youtube.com/watch?v=3ab0K6viEp0)
 * [React & Flux by: Christian Lilley](https://www.youtube.com/watch?v=mK4_a7u2cgI)
+* [React for beginners](https://reactforbeginners.com/)
 
 
 ---
