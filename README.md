@@ -802,6 +802,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-component-tester](https://github.com/craigbilner/react-component-tester)
 
 ##### Testing Tutorials
+* [React Testing Cookbook - video lessons](https://egghead.io/series/react-testing-cookbook)
 * [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
 * [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
 * [Testing React Components with Teaspoon & Unexpected](http://dchambers.github.io/articles/testing-react-components-with-teaspoon-and-unexpected/)
@@ -1068,6 +1069,7 @@ A collection of awesome things regarding React ecosystem.
 * [Building a Simple ToDo App With React Native and Firebase](https://www.youtube.com/watch?v=3ab0K6viEp0)
 * [React & Flux by: Christian Lilley](https://www.youtube.com/watch?v=mK4_a7u2cgI)
 * [React for beginners](https://reactforbeginners.com/)
+* [React Testing Cookbook - video lessons](https://egghead.io/series/react-testing-cookbook)
 
 
 ---
