@@ -340,6 +340,7 @@ A collection of awesome things regarding React ecosystem.
 * [Isomorphic React TypeScript Starter](https://github.com/toddlucas/react-tsx-starter)
 * [React + React native + NW - Mobile, desktop and website Apps with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
 * [A clean, extensible react + redux boilerplate with universal/isomorphic rendering, testing and more](https://github.com/mz026/universal-redux-template)
+* [A-Frame + React Boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
 
 ##### Components
 * [React Components](http://react-components.com/)
@@ -575,6 +576,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-masonry-mixin - Standalone mixin for Masonry (@desandro)](https://github.com/eiriklv/react-masonry-mixin)
 * [react-packery-mixin - Standalone mixin for Packery (Metafizzy)](https://github.com/eiriklv/react-packery-mixin)
 * [react-dropzone - Simple HTML5 drag-drop zone with React.js.](https://github.com/paramaggarwal/react-dropzone)
+* [aframe-react - A-Frame VR + React](https://github.com/ngokevin/aframe)
 
 ##### Routing
 * [react-router - A complete routing solution for React.js](https://github.com/rackt/react-router)
