@@ -499,6 +499,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-motion - An spring-based animation library, similar to Rebound.js](https://github.com/chenglou/react-motion)
 * [sweetalert-react - Using sweetalert in React](https://github.com/chentsulin/sweetalert-react)
 * [React Joyride - Create walkthroughs, tours and tooltips for your apps](http://gilbarbara.github.io/react-joyride/)
+* [react-file-reader-input - Complete control over styling + abstraction from file reading](https://github.com/ngokevin/react-file-reader-input)
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
