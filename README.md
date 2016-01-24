@@ -499,6 +499,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-motion - An spring-based animation library, similar to Rebound.js](https://github.com/chenglou/react-motion)
 * [sweetalert-react - Using sweetalert in React](https://github.com/chentsulin/sweetalert-react)
 * [React Joyride - Create walkthroughs, tours and tooltips for your apps](http://gilbarbara.github.io/react-joyride/)
+* [react-file-reader-input - Complete control over styling + abstraction from file reading](https://github.com/ngokevin/react-file-reader-input)
 
 #### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
@@ -1087,7 +1088,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-pokemon - A React component for displaying Pokémon](https://github.com/passy/react-pokemon)
 * [React + Backbone TodoMVC](http://todomvc.com/examples/react-backbone/)
 * [react-rxjs-todomvc - TodoMVC implementation with React and RxJS](https://github.com/fdecampredon/react-rxjs-todomvc)
-* [react-mvc - A sample chat application written with React and pure MVC](https://github.com/ustun/react-mvc) 
+* [react-mvc - A sample chat application written with React and pure MVC](https://github.com/ustun/react-mvc)
 * [react-observe-todomvc - TodoMVC implementation built on top of React and Object.observe](https://github.com/fdecampredon/react-observe-todomvc)
 * [react-lights-out - Simple demo of the React framework's power and flexibility](https://github.com/chenglou/react-lights-out)
 * [todomvc-swarm - React TodoMVC implementation using Swarm for real-time collaboration](https://github.com/gritzko/todomvc-swarm)
