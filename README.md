@@ -119,6 +119,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Podcast](http://reactpodcast.com/)
 
 #### React Online Playground
+* [React browser prototyping for components](http://react.run)
 * [React Development Environment in the Cloud and Free Hosting with closeheat](http://closeheat.com/?react)
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
 * [React JSFiddle Integration without JSX](https://jsfiddle.net/reactjs/5vjqabv3/)
