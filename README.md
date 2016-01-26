@@ -30,6 +30,7 @@ A collection of awesome things regarding React ecosystem.
     - [File Uploads](#file-uploads)
     - [React Internals](#react-internals)
   - [React Tools](#react-tools)
+    - [Fundamental Components](#fundamental-components)
     - [Boilerplates](#boilerplates)
     - [Components](#components)
     - [Libraries](#libraries)
@@ -104,6 +105,7 @@ A collection of awesome things regarding React ecosystem.
 #### React General Resources
 * [React Official Site](http://facebook.github.io/react/)
 * [React GitHub](https://github.com/facebook/react)
+* [React Community GitHub](https://github.com/reactjs)
 
 #### React Community
 * `#reactjs` channel on Freenode IRC Server
