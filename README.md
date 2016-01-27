@@ -34,7 +34,6 @@ A collection of awesome things regarding React ecosystem.
     - [Components](#components)
     - [Libraries](#libraries)
     - [Integration](#integration)
-    - [Routing](#routing)
     - [Forms](#forms)
     - [Autocomplete](#autocomplete)
     - [Documentation Tools](#documentation-tools)
@@ -268,6 +267,9 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Tools
 
+##### Fundamental Components
+* [react-router - A complete routing solution for React.js](https://github.com/rackt/react-router)
+
 ##### Boilerplates
 * [React Starter Kit - a skeleton of an "isomorphic" web application](https://github.com/kriasoft/react-starter-kit)
 * [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example)
@@ -280,6 +282,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-engine - A composite render engine for isomorphic express apps](https://github.com/paypal/react-engine)
 * [react-webpack-node - Boilerplate for an universal/isomorphic React + Redux/alt Flux](https://github.com/choonkending/react-webpack-node)
 * [react-native-nw-react-calculator - Mobile, desktop and website Apps with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
+
 
 ##### Components
 * [React Components](http://react-components.com/)
@@ -519,12 +522,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-packery-mixin - Standalone mixin for Packery (Metafizzy)](https://github.com/eiriklv/react-packery-mixin)
 * [react-dropzone - Simple HTML5 drag-drop zone with React.js.](https://github.com/paramaggarwal/react-dropzone)
 * [aframe-react - A-Frame VR + React](https://github.com/ngokevin/aframe)
-
-##### Routing
-* [react-router - A complete routing solution for React.js](https://github.com/rackt/react-router)
-* [react-router-component - Declarative router component for React](https://github.com/STRML/react-router-component)
-* [routr - A component that provides router related functionalities from Yahoo](https://github.com/yahoo/routr)
-* [react-router-reverse - Route reversal and helpers for react-router-reverse](https://github.com/ngokevin/react-router-reverse)
 
 ##### Forms
 * [React Forms](http://facebook.github.io/react/docs/forms.html)
