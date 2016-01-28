@@ -342,6 +342,7 @@ A collection of awesome things regarding React ecosystem.
 * [React + React native + NW - Mobile, desktop and website Apps with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
 * [A clean, extensible react + redux boilerplate with universal/isomorphic rendering, testing and more](https://github.com/mz026/universal-redux-template)
 * [A-Frame + React Boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
+* [A react+redux ES6 boilerplate with hot reloading and a ready to use express server ](https://github.com/sytac/react-redux-scaffold) 
 
 ##### Components
 * [React Components](http://react-components.com/)
