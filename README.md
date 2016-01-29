@@ -1121,6 +1121,7 @@ A collection of awesome things regarding React ecosystem.
 * [khan/perseus](https://github.com/khan/perseus)
 * [mozilla/payments-ui](https://github.com/mozilla/payments-ui)
 * [webbylab/itsquiz-wal](https://github.com/webbylab/itsquiz-wall)
+* [getsentry/sentry](https://github.com/getsentry/sentry/) - see `src/sentry/static/sentry/app/`
 
 
 ---
