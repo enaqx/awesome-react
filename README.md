@@ -860,6 +860,7 @@ A collection of awesome things regarding React ecosystem.
 #### Relay Tutorials
 * [Relay Tutorial](https://facebook.github.io/relay/docs/tutorial.html)
 * [Relay for Visual Learners](http://sgwilym.github.io/relay-visual-learners/)
+* [Getting Started with Relay](https://auth0.com/blog/2015/10/06/getting-started-with-relay/)
 * [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9)
 
 #### Relay Tools
