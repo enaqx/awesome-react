@@ -857,9 +857,7 @@ A collection of awesome things regarding React ecosystem.
 * [Relay GitHub](https://github.com/facebook/relay)
 
 #### Relay Tutorials
-* [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
-* [Building The Facebook News Feed With Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
-* [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
+* [Relay Tutorial](https://facebook.github.io/relay/docs/tutorial.html)
 * [Relay for Visual Learners](http://sgwilym.github.io/relay-visual-learners/)
 * [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9)
 
@@ -867,6 +865,7 @@ A collection of awesome things regarding React ecosystem.
 * [graphql-relay-js - A library to help construct a graphql-js server supporting react-relay](https://github.com/graphql/graphql-relay-js)
 * [react-router-relay - Relay integration for React Router](https://github.com/relay-tools/react-router-relay)
 * [relay-local-schema - Use Relay without a GraphQL server](https://github.com/relay-tools/relay-local-schema)
+* [relay-codemod -  Codemod scripts based for oh jsodeshift to update Relay APIs](https://github.com/facebook/jscodeshift)
 
 ---
 ### Flow
