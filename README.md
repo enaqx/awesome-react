@@ -830,6 +830,7 @@ A collection of awesome things regarding React ecosystem.
 * `#reactnative` channel on Freenode IRC Channel
 * [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
 * [React Native Subreddit](https://www.reddit.com/r/reactnative)
+* [React Native Radio](https://devchat.tv/react-native-radio/)
 
 #### React Native Tutorials
 * [Awesome React Native - Like this list, but focused on React Native](https://github.com/jondot/awesome-react-native)
