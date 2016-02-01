@@ -1087,6 +1087,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-webpack-cookbook - A cookbook for using Webpack with React JS](http://christianalfoni.github.io/react-webpack-cookbook)
 * [Conquering React Native](http://www.conqueringreactnative.com/) - A hands-on course on building apps with React Native.
 * [React: Up & Running](http://shop.oreilly.com/product/0636920042266.do) - This book teaches you how to build components, the building blocks of your apps, as well as how to organize the components into large-scale apps.
+* [Thinking In React](https://www.thinkinginreact.xyz): Learn React, Flux, Webpack, Redux and more. This book walks you through solving real world problems in a _React way_. Covers concepts like immutability, reducers, declarative views, and flux architectures through real world UI projects.
 
 ---
 ### Demos
