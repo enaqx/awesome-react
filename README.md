@@ -74,6 +74,7 @@ A collection of awesome things regarding React ecosystem.
   - [React Native Development Tools](#react-native-development-tools)
   - [React Native Sample Apps](#react-native-sample-apps)
   - [React Native Starter](#react-native-starter)
+  - [React Native Awesome Components](#react-native-awesome-components)
 - [GraphQL](#graphql)
   - [GraphQL Spec](#graphql-spec)
   - [GraphQL Tutorials](#graphql-tutorials)
@@ -342,7 +343,7 @@ A collection of awesome things regarding React ecosystem.
 * [React + React native + NW - Mobile, desktop and website Apps with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
 * [A clean, extensible react + redux boilerplate with universal/isomorphic rendering, testing and more](https://github.com/mz026/universal-redux-template)
 * [A-Frame + React Boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
-* [A react+redux ES6 boilerplate with hot reloading and a ready to use express server ](https://github.com/sytac/react-redux-scaffold) 
+* [A react+redux ES6 boilerplate with hot reloading and a ready to use express server ](https://github.com/sytac/react-redux-scaffold)
 
 ##### Components
 * [React Components](http://react-components.com/)
@@ -864,12 +865,12 @@ A collection of awesome things regarding React ecosystem.
 #### React Native Starter
 * [Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage)](https://github.com/bartonhammond/snowflake)
 
-#### React Native Components
+#### React Native Awesome Components
 * [react-native-fbsdk - A wrapper around the iOS Facebook SDK](https://github.com/facebook/react-native-fbsdk)
-* [react-native-applinks - AppLinks support for React Native](https://github.com/facebook/react-native-applinks)
 * [react-native-side-menu - Simple customizable component to create side menu](https://github.com/Kureev/react-native-side-menu)
 * [react-native-mapbox-gl - A Mapbox GL react native module](https://github.com/mapbox/react-native-mapbox-gl)
-* [react-native-android-speech - A Native Module for Text To Speech Engine for Android ](https://github.com/mihirsoni/react-native-android-speech)
+* [react-native-icons - Quick and easy icons in React Native](https://github.com/corymsmith/react-native-icons)
+* [react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar](https://github.com/oblador/react-native-vector-icons)
 
 
 ---
