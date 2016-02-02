@@ -120,13 +120,12 @@ A collection of awesome things regarding React ecosystem.
 * [React Podcast](http://reactpodcast.com/)
 
 #### React Online Playground
-* [React browser prototyping for components](http://react.run)
-* [React Development Environment in the Cloud and Free Hosting with closeheat](http://closeheat.com/?react)
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
 * [React JSFiddle Integration without JSX](https://jsfiddle.net/reactjs/5vjqabv3/)
 * [React CodePen Integration with ES6 and JSX](http://codepen.io/bradleyboy/pen/OPBpGw)
 * [React JSBin Integration with JSX](http://jsbin.com/basitofoqo/1/edit?html,js,output)
 * [React HTML to JSX Online Compiler](https://facebook.github.io/react/html-jsx.html)
+* [React browser prototyping for components](http://react.run)
 
 #### React Tutorials
 
