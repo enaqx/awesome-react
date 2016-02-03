@@ -23,7 +23,6 @@ A collection of awesome things regarding React ecosystem.
     - [React and Datatables](#react-and-datatables)
     - [React and Haskell](#react-and-haskell)
     - [React and SocketIO](#react-and-socketio)
-    - [React and Zeroclipboard](#react-and-zeroclipboard)
     - [Server-Client with React](#server-client-with-react)
     - [Server Side Rendering](#server-side-rendering)
     - [Compiling React Tutorials](#compiling-react-tutorials)
@@ -130,15 +129,10 @@ A collection of awesome things regarding React ecosystem.
 #### React Tutorials
 
 ##### React General Tutorials
-* [The ReactJS Bible](https://www.stanleycyang.com/tutorials/the-reactjs-bible)
-* [Building Applications with React and Flux on Pluralsight](http://www.pluralsight.com/courses/react-flux-building-applications)
-* [Building A Simple React Application Using The Flux Pattern: A Step-By-Step Guide](http://tonyspiro.com/building-a-simple-react-application-using-the-flux-pattern/)
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+* [The ReactJS Bible](https://www.stanleycyang.com/tutorials/the-reactjs-bible)
 * [React.js Koans: Practical exercises that will help you learn React.js from square one](https://github.com/arkency/reactjs_koans)
-* [React PhoneCat: Rewriting the AngularJS Tutorial App in React](http://jgebhardt.github.io/blog/react-phonecat/)
-* [Building a board game with React.js](http://jjt.io/2014/07/30/building-a-board-game-with-react-js/)
-* [Trying Out ReactJS With the Marvel API](http://ryanlanciaux.github.io/blog/2014/05/26/trying-out-reactjs-with-the-marvel-api/)
-* [Creating Chrome Extensions with React](http://brandontilley.com/2014/02/24/creating-chrome-extensions-with-react.html)
+* [A gentle introduction to React Motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459)
 * [Working with jQuery UI Dialog and ReactJS components](http://sterling.ghost.io/working-with-jqueryui-and-reactjs-components/)
 * [Using ReactJS and KendoUI Together](http://ifandelse.com/using-reactjs-and-kendoui-together/)
 * [Building dynamic forms with Facebook React](http://www.dustingetz.com/2014/02/18/react-dynamic-forms.html)
@@ -267,9 +261,6 @@ A collection of awesome things regarding React ecosystem.
 * [Socket.IO integration example](https://gist.github.com/zpao/5686416)
 * [Socket.IO integration example inside of a single React component](https://gist.github.com/petehunt/5687230)
 * [Socket.IO integration employing separation of concerns](https://gist.github.com/petehunt/5687276)
-
-##### React and Zeroclipboard
-* [React and Zeroclipboard](https://github.com/wyvernnot/react-zeroclipboard-example)
 
 ##### Server-Client with React
 * [Server/Client With React, Part 1: Getting Started](http://eflorenzano.com/blog/2014/04/09/react-part-1-getting-started/)
