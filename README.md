@@ -84,8 +84,6 @@ A collection of awesome things regarding React ecosystem.
   - [Relay General Resources](#relay-general-resources)
   - [Relay Tutorials](#relay-tutorials)
   - [Relay Tools](#relay-tools)
-  - [Relay Boilerplates](#relay-boilerplates)
-  - [Relay App Samples](#relay-app-samples)
 - [Flow](#flow)
   - [Flow Resources](#flow-resources)
 - [Videos](#videos)
@@ -892,19 +890,10 @@ A collection of awesome things regarding React ecosystem.
 * [Relay for Visual Learners](http://sgwilym.github.io/relay-visual-learners/)
 * [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9)
 
-#### Relay Boilerplates
-* [relay-starter-kit - Barebones starting point for a Relay application](https://github.com/relayjs/relay-starter-kit)
-* [relay-skeleton - React, Relay, GraphQL project skeleton](https://github.com/fortruce/relay-skeleton)
-* [Isomorphic Material Relay Starter Kit - Boilerplate and examples](https://github.com/codefoundries/isomorphic-material-relay-starter-kit)
-
 #### Relay Tools
 * [graphql-relay-js - A library to help construct a graphql-js server supporting react-relay](https://github.com/graphql/graphql-relay-js)
 * [react-router-relay - Relay integration for React Router](https://github.com/relay-tools/react-router-relay)
 * [relay-local-schema - Use Relay without a GraphQL server](https://github.com/relay-tools/relay-local-schema)
-
-#### Relay App Samples
-* [relay-todomvc - Relay TodoMVC with routing](https://github.com/taion/relay-todomvc)
-* [relay-chat - Сhat example showing Relay with routing and pagination](https://github.com/transedward/relay-chat)
 
 ---
 ### Flow
