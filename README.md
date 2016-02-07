@@ -304,6 +304,7 @@ A collection of awesome things regarding React ecosystem.
 * [A clean, extensible react + redux boilerplate with universal/isomorphic rendering, testing and more](https://github.com/mz026/universal-redux-template)
 * [A-Frame + React Boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
 * [A react+redux ES6 boilerplate with hot reloading and a ready to use express server ](https://github.com/sytac/react-redux-scaffold)
+* [Reduxible - The Fast and Easy way to make a React + Redux apps](https://github.com/Pitzcarraldo/reduxible)
 
 ##### Components
 * [React Components](http://react-components.com/)
