@@ -703,12 +703,9 @@ A collection of awesome things regarding React ecosystem.
 * [Marty](https://github.com/martyjs/marty)
 * [McFly](https://github.com/kenwheeler/mcfly)
 * [Alt](https://github.com/goatslacker/alt)
-* [DeLorean](https://github.com/deloreanjs/delorean)
 * [Fluxible](https://github.com/yahoo/fluxible)
-* [Dispatchr](https://github.com/yahoo/dispatchr)
-* [Fetchr](https://github.com/yahoo/fetchr)
 * [NuclearJS](https://github.com/optimizely/nuclear-js)
-* [WTFlux](https://github.com/staltz/wtf)
+* [Flummox](https://github.com/acdlite/flummox)
 
 #### Flux Tutorials
 * [Flux Application Architecture](http://facebook.github.io/flux/docs/overview.html)
@@ -730,7 +727,6 @@ A collection of awesome things regarding React ecosystem.
 * [React + Flux Backed by Rails API: Part 1](http://fancypixel.github.io/blog/2015/01/28/react-plus-flux-backed-by-rails-api/)
 * [React + Flux Backed by Rails API: Part 2](http://fancypixel.github.io/blog/2015/01/29/react-plus-flux-backed-by-rails-api-part-2/)
 * [React + Flux Backed by Rails API: Part 3](http://fancypixel.github.io/blog/2015/01/30/react-plus-flux-backed-by-rails-api-part-3/)
-* [Introduction to Facebook's Flux architecture](http://ryanclark.me/getting-started-with-flux/)
 * [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 * [Flux Cargo-Culting](https://medium.com/@cassiozen/flux-cargo-culting-3cae9ff27c0c)
 * [The Case for Flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
