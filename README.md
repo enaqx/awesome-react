@@ -685,7 +685,7 @@ A collection of awesome things regarding React ecosystem.
  * [r-dom - A simple React DOM wrapper](https://github.com/uber/r-dom)
  * [react-hyperscript - Hyperscript syntax for React.js markup](https://github.com/mlmorg/react-hyperscript)
  * [react-no-jsx - A pure JS DSL to be used instead of JSX](https://github.com/jussi-kalliokoski/react-no-jsx)
-
+ * [react-obj - build React Components with javascript objects insted of JSX](https://github.com/dustinsanders/react-obj)
 
 ---
 ### Flux
