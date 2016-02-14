@@ -1037,16 +1037,13 @@ A collection of awesome things regarding React ecosystem.
 * [Flux ImmutableJS TodoList](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
 * [Hapi+React+Flux user management system](https://github.com/jedireza/aqua)
 * [Redux TodoMVC](https://github.com/gaearon/redux/tree/master/examples/todomvc)
-<<<<<<< HEAD
 * [react-babel-webpack - CRUD demo app featuring React, React Router, Flux, Webpack, Bootstrap](https://github.com/arcseldon/react-babel-webpack-starter-app.git)
 
 
 ---
 ### Example Apps
 * [isomorphic500 - Isomorphic JS app built with React and Fluxible](https://github.com/gpbl/isomorphic500)
-=======
 * [Fil: A playground for in-browser interpreters (Redux)](https://github.com/fatiherikli/fil)
->>>>>>> 0a6b6eb02d9f2225893955ee475fda4efae45a9d
 
 
 ---
@@ -1055,7 +1052,7 @@ A collection of awesome things regarding React ecosystem.
 * [khan/perseus](https://github.com/khan/perseus)
 * [mozilla/payments-ui](https://github.com/mozilla/payments-ui)
 * [webbylab/itsquiz-wal](https://github.com/webbylab/itsquiz-wall)
-* [getsentry/sentry](https://github.com/getsentry/sentry/) - see `src/sentry/static/sentry/app/`
+* [getsentry/sentry](https://github.com/getsentry/sentry/)
 
 
 ---
