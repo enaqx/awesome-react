@@ -294,6 +294,7 @@ A collection of awesome things regarding React ecosystem.
 * [A-Frame + React Boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
 * [A react+redux ES6 boilerplate with hot reloading and a ready to use express server ](https://github.com/sytac/react-redux-scaffold)
 * [Reduxible - The Fast and Easy way to make a React + Redux apps](https://github.com/Pitzcarraldo/reduxible)
+* [Redecorate - Reducing immutable nested properties in Redux applications](https://github.com/Wildhoney/Redecorate)
 
 ##### Components
 * [React Components](http://react-components.com/)
@@ -469,6 +470,7 @@ A collection of awesome things regarding React ecosystem.
 * [riotjs - A React- like, 3.5KB user interface library](https://github.com/muut/riotjs)
 * [Maple.js - Bringing the concept of web-components to React](https://github.com/Wildhoney/Maple.js)
 * [react-i13n - A performant, scalable and pluggable approach to instrumenting your React application](https://github.com/yahoo/react-i13n)
+* [react-icons - svg react icons of popular icon packs](https://github.com/gorangajic/react-icons)
 * [react-icons - svg react icons of popular icon packs](https://github.com/gorangajic/react-icons)
 
 ##### Integration
