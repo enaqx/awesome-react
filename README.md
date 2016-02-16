@@ -30,7 +30,8 @@ A collection of awesome things regarding React ecosystem.
     - [File Uploads](#file-uploads)
     - [React Internals](#react-internals)
   - [React Tools](#react-tools)
-    - [Fundamental Components](#fundamental-components)
+    - [Fundamental React Tools](#fundamental-react-tools)
+    - [React Projects](#react-projects)
     - [Boilerplates](#boilerplates)
     - [Components](#components)
     - [Libraries](#libraries)
@@ -39,18 +40,12 @@ A collection of awesome things regarding React ecosystem.
     - [Autocomplete](#autocomplete)
     - [Documentation Tools](#documentation-tools)
     - [Graphics](#graphics)
-    - [Terminal](#terminal)
     - [Model Libraries](#model-libraries)
     - [Data Managing](#data-managing)
-    - [Development Environment](#development-environment)
-    - [Generating](#generating)
-    - [Compiling](#compiling)
-    - [Platforms](#platforms)
+    - [Development Experience](#development-experience)
     - [Template Engines](#template-engines)
     - [Maps](#maps)
     - [Charts](#charts)
-    - [Service Workers](#service-workers)
-    - [Dashboards](#dashboards)
 - [JSX](#jsx)
   - [JSX Resources](#jsx-resources)
   - [JSX Tutorials](#jsx-tutorials)
@@ -107,13 +102,13 @@ A collection of awesome things regarding React ecosystem.
 * [React Community GitHub](https://github.com/reactjs)
 
 #### React Community
-* `#reactjs` channel on Freenode IRC Server
 * [Reactiflux](http://www.reactiflux.com/)
 * [React Discussion Forum](https://discuss.reactjs.org/)
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 * [React Twitter](https://twitter.com/reactjs)
 * [React Subreddit](https://www.reddit.com/r/reactjs/)
 * [React Podcast](http://reactpodcast.com/)
+* `#reactjs` channel on Freenode IRC Server
 
 #### React Online Playground
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
@@ -268,14 +263,22 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Tools
 
-##### Fundamental Components
+##### Fundamental React Tools
+* [babel - JavaScript compiler](https://babeljs.io/)
 * [react-router - A complete routing solution for React.js](https://github.com/rackt/react-router)
+* [redux - Predictable state container for JavaScript apps](https://github.com/reactjs/redux)
+
+##### React Projects
+* [structor - User interface builder for React](https://github.com/ipselon/structor)
+* [gatsby - Transform plain text into dynamic blogs and websites using React.js](https://github.com/gatsbyjs/gatsby)
+* [react-blessed - A react renderer for blessed terminal interface library](https://github.com/Yomguithereal/react-blessed)
 
 ##### Boilerplates
 * [React Starter Kit - a skeleton of an "isomorphic" web application](https://github.com/kriasoft/react-starter-kit)
 * [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example)
 * [React Slingshot - React + Redux with Babel, hot reloading, testing, linting and working example app](https://github.com/coryhouse/react-slingshot)
 * [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
+* [react-transform-boilerplate - Webpack boilerplate with hot reloading React components](https://github.com/gaearon/react-transform-boilerplate)
 * [essential-react - A minimal skeleton for building testable React apps using ES6](https://github.com/pheuter/essential-react)
 * [react-isomorphic-starterkit - somorphic starterkit with server-side React rendering](https://github.com/RickWong/react-isomorphic-starterkit)
 * [react-starter - Starter template for React with webpack](https://github.com/webpack/react-starter)
@@ -447,7 +450,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-sortable-pane - Resizable and sortable pane component for React](https://github.com/bokuweb/react-sortable-pane)
 * [react-DnR - Dragable and Resizable window build with React.js](https://github.com/yongxu/react-DnR)
 
-#### Libraries
+##### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
 * [tcomb-react -  Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
 * [react-responsive - Media queries in react for responsive design](https://github.com/wearefractal/react-responsive)
@@ -557,9 +560,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-kinetic - HTML5 Canvas via KineticJS using React](https://github.com/freiksenet/react-kinetic)
 * [react-svg-morph - morph your svg components one into another](https://github.com/gorangajic/react-svg-morph)
 
-##### Terminal
-* [react-blessed - React renderer for blessed terminal interface library](https://github.com/Yomguithereal/react-blessed)
-
 ##### Model Libraries
 * [mori - ClojureScript's persistent data structures and supporting API](https://github.com/swannodette/mori)
 * [swarm - JavaScript replicated model (M of MVC) library](https://github.com/gritzko/swarm)
@@ -581,48 +581,21 @@ A collection of awesome things regarding React ecosystem.
 * [immstruct - Immutable data structures with history for top-to-bottom properties in component based libraries like React](https://github.com/omniscientjs/immstruct)
 * [seamless-immutable - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects](https://github.com/rtfeldman/seamless-immutable)
 
-##### Development Environment
+##### Development Experience
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
+* [react-transform-hmr - A React Transform that enables hot reloading React](https://github.com/gaearon/react-transform-hmr)
 * [Nuclide - An open IDE for web and native mobile development, built on top of Atom](http://nuclide.io/)
-* [sublime-react - Snippets for ReactJS](https://github.com/reactjs/sublime-react)
 * [babel-sublime - Syntax definitions for ES6 JavaScript with React JSX extensions](https://github.com/babel/babel-sublime)
 * [babel-sublime-snippets - Next generation JavaScript and React snippets for Sublime](https://github.com/babel/babel-sublime-snippets)
-* [Atom React](https://atom.io/packages/react)
+* [atom-react - Atom React.js support](https://atom.io/packages/react)
 * [vim-jsx - Vim JSX Syntax](https://github.com/mxw/vim-jsx)
 * [vim-react-snippets - Vim version of the snippets from sublime-react](https://github.com/justinj/vim-react-snippets)
-* [vim-babel - Wrapper around babel.js (ES2015, React, ...)](https://github.com/jbgutierrez/vim-babel)
-* [js2-mode - JavaScript editing mode for GNU Emacs](https://github.com/mooz/js2-mode)
+* [vim-babel - Wrapper around babel.js for vim](https://github.com/jbgutierrez/vim-babel)
 * [web-mode.el - An autonomous emacs major-mode for editing web templates](http://web-mode.org/)
-* [JSXHint - Wrapper around JSHint for linting JSX files](https://github.com/STRML/JSXHint)
-* [react-ui-builder - Tool which can be used to create working prototype using any set of React components](https://github.com/ipselon/react-ui-builder)
-
-##### Generating
+* [eslint-plugin-react - React specific linting rules for ESLint](https://github.com/yannickcr/eslint-plugin-react)
 * [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
-* [generator-react-app - Yeoman generator to create React application](https://github.com/js-experiments/generator-react-app)
-* [generator-react-library - Yeoman generator for React components](https://github.com/petehunt/generator-react-library)
 * [generator-react-gulp-browserify - Yeoman generator for React](https://github.com/randylien/generator-react-gulp-browserify)
-
-##### Compiling
-* [reactify - Browserify transform for JSX](https://github.com/andreypopp/reactify)
-* [Grunt React](https://github.com/ericclemmons/grunt-react)
-* [Gulp React](https://github.com/sindresorhus/gulp-react)
-* [broccoli-react - Broccoli preprocessor for React JSX](https://github.com/eddhannay/broccoli-react)
-* [require-jsx - A require.js plugin that allows you to use JSX files as require.js dependencies](https://github.com/seiffert/require-jsx)
-* [react-requirejs-example - React tutorial working together with require.js](https://github.com/samspot/react-requirejs-example)
-* [jsx-requirejs-plugin - A RequireJS plugin for loading and compiling](https://github.com/philix/jsx-requirejs-plugin)
-* [react-brunch - Adds React.js support to brunch build tool](https://github.com/darthapo/react-brunch)
-* [react-tags-brunch - Adds React.js tag interpolation to brunch build tool](https://github.com/elucidata/react-tags-brunch)
-* [react-hot-loader - Webpack loader that enables live-editing React components](https://github.com/gaearon/react-hot-loader)
-* [mimosa-react - A JSX compiler for Mimosa build tool](https://github.com/dbashford/mimosa-react)
-* [JSXZ - Precompile your JSX HTML components from static HTML using CSS selectors](https://github.com/awetzel/jsxz)
-* [react-to-html-webpack-plugin - Compile React components to static HTML](https://github.com/markdalgleish/react-to-html-webpack-plugin)
 * [static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
-* [React Inline - Transform inline styles into static CSS code and class names](https://github.com/martinandert/react-inline)
-* [Antwar - Webpack and React based static site generator](https://github.com/antwarjs)
-* [gatsby - Transform plain text into dynamic blogs and websites using React.js](https://github.com/gatsbyjs/gatsby)
-
-##### Platforms
- * [morpheus - The next generation web publishing platform built with reactjs](https://github.com/vesparny/morpheus)
 
 ##### Template Engines
  * [react-templates - Lightweight templates for React](https://github.com/wix/react-templates)
@@ -641,12 +614,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-chartjs - Common react charting components using chart.js](https://github.com/jhudson8/react-chartjs)
 * [react-stockcharts - Highly customizable stock charts with ReactJS and d3](https://github.com/rrag/react-stockcharts)
 * [VictoryJS - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
-
-##### Service Workers
-* [react-worker - Using Service Workers to render React components](https://github.com/MicheleBertoli/react-worker)
-
-##### Dashboards
-* [pyxley - Python helpers for building dashboards using Flask and React](https://github.com/stitchfix/pyxley)
 
 
 ---
