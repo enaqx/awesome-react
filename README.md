@@ -30,6 +30,7 @@ A collection of awesome things regarding React ecosystem.
     - [File Uploads](#file-uploads)
     - [React Internals](#react-internals)
   - [React Tools](#react-tools)
+      [Atellier](#react-online-playground)
     - [Fundamental Components](#fundamental-components)
     - [Boilerplates](#boilerplates)
     - [Components](#components)
@@ -116,6 +117,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Podcast](http://reactpodcast.com/)
 
 #### React Online Playground
+* [React Atellier](https://github.com/scup/atellier)
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
 * [React JSFiddle Integration without JSX](https://jsfiddle.net/reactjs/5vjqabv3/)
 * [React CodePen Integration with ES6 and JSX](http://codepen.io/bradleyboy/pen/OPBpGw)
