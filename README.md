@@ -435,7 +435,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-listview-sticky-header - Turn listview with section headers that stick to the top](https://github.com/cht8687/react-listview-sticky-header)
 * [react-expandable-listview - Create listview with expandable section headers](https://github.com/cht8687/react-expandable-listview)
 * [react-keydown - Lightweight keydown wrapper for React components](https://github.com/glortho/react-keydown)
-* [searchkit](https://github.com/searchkit/searchkit) - Components to build user interfaces for elasticsearch
+* [searchkit  - Components to build user interfaces for elasticsearch](https://github.com/searchkit/searchkit)
 * [grommet - The most advanced UX framework for enterprise applications](https://github.com/grommet/grommet)
 * [react-resizable-and-movable - Resizable and movable component for React](https://github.com/bokuweb/react-resizable-and-movable)
 * [react-sidebar - An app like sidebar for React including touch support](https://balloob.github.io/react-sidebar/example)
@@ -863,7 +863,7 @@ A collection of awesome things regarding React ecosystem.
 * [graphql-relay-js - A library to help construct a graphql-js server supporting react-relay](https://github.com/graphql/graphql-relay-js)
 * [react-router-relay - Relay integration for React Router](https://github.com/relay-tools/react-router-relay)
 * [relay-local-schema - Use Relay without a GraphQL server](https://github.com/relay-tools/relay-local-schema)
-* [relay-codemod -  Codemod scripts based for oh jsodeshift to update Relay APIs](https://github.com/facebook/jscodeshift)
+* [relay-codemod -  Codemod scripts based for on jsodeshift to update Relay APIs](https://github.com/facebook/jscodeshift)
 
 ---
 ### Flow
