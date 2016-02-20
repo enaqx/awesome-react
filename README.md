@@ -704,6 +704,7 @@ A collection of awesome things regarding React ecosystem.
 * [Jest GitHub](https://github.com/facebook/jest)
 
 #### Testing Utilities
+* [enzyme - JavaScript Testing utilities for React](https://github.com/airbnb/enzyme)
 * [react-component-tester](https://github.com/craigbilner/react-component-tester)
 
 ##### Testing Tutorials
