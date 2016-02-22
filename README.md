@@ -42,7 +42,7 @@ A collection of awesome things regarding React ecosystem.
     - [Graphics](#graphics)
     - [Model Libraries](#model-libraries)
     - [Data Managing](#data-managing)
-    - [Development Experience](#development-experience)
+    - [React Developer Experience](#react-developer-experience)
     - [Template Engines](#template-engines)
     - [Maps](#maps)
     - [Charts](#charts)
@@ -63,9 +63,9 @@ A collection of awesome things regarding React ecosystem.
   - [React Native General Resources](#react-native-general-resources)
   - [React Native Community](#react-native-community)
   - [React Native Tutorials](#react-native-tutorials)
-  - [React Native Development Tools](#react-native-development-tools)
+  - [React Native Developer Experience](#react-native-developer-experience)
   - [React Native Sample Apps](#react-native-sample-apps)
-  - [React Native Starter](#react-native-starter)
+  - [React Native Boilerplates](#react-native-boilerplates)
   - [React Native Awesome Components](#react-native-awesome-components)
 - [GraphQL](#graphql)
   - [GraphQL Spec](#graphql-spec)
@@ -583,7 +583,7 @@ A collection of awesome things regarding React ecosystem.
 * [immstruct - Immutable data structures with history for top-to-bottom properties in component based libraries like React](https://github.com/omniscientjs/immstruct)
 * [seamless-immutable - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects](https://github.com/rtfeldman/seamless-immutable)
 
-##### Development Experience
+##### React Development Experience
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
 * [react-transform-hmr - A React Transform that enables hot reloading React](https://github.com/gaearon/react-transform-hmr)
 * [Nuclide - An open IDE for web and native mobile development, built on top of Atom](http://nuclide.io/)
@@ -725,37 +725,25 @@ A collection of awesome things regarding React ecosystem.
 * [React Native GitHub](https://github.com/facebook/react-native)
 * [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/)
 * [React Native Playground](https://rnplay.org/)
-* [React Native Examples](https://github.com/facebook/react-native/tree/master/Examples)
+* [React Native Awesome List](https://github.com/jondot/awesome-react-native)
 
 #### React Native Community
-* `#reactnative` channel on Freenode IRC Channel
 * [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
 * [React Native Subreddit](https://www.reddit.com/r/reactnative)
 * [React Native Radio](https://devchat.tv/react-native-radio/)
 
 #### React Native Tutorials
-* [Awesome React Native - Like this list, but focused on React Native](https://github.com/jondot/awesome-react-native)
-* [Use React Native](http://www.reactnative.com/)
-* [Handcrafting an iOS Application in React Native with love](https://www.stanleycyang.com/tutorials/handcrafting-an-ios-application-in-react-native-with-love)
+* [React Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 * [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
-* [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
 * [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
+* [Handcrafting an iOS Application in React Native with love](https://www.stanleycyang.com/tutorials/handcrafting-an-ios-application-in-react-native-with-love)
+* [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
 * [Gesture detection in React Native – fixing unexpected panning](http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/)
-* [Diary of Building an iOS App with React Native](http://herman.asia/building-a-flashcard-app-with-react-native)
 * [Use The iOS Camera In Your React Native Mobile App](https://blog.nraboy.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/)
-* [Super Simple Native Module Example](https://colinramsay.co.uk/2015/03/27/react-native-simple-native-module.html)
-* [NavigatorIOS Demo](https://colinramsay.co.uk/2015/04/11/react-native-navigatorios-demo.html)
 * [Digital Smart Mirror lab with React Native](http://atticuswhite.com/blog/react-native-smart-mirror-lab/)
-* [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
-* [React Native Youtube Animated Video Slide](http://browniefed.com/blog/2015/08/31/react-native-youtube-animated-video-slide/)
-* [React-Native Animated with React-Art - Firework Tap To Shoot](http://browniefed.com/blog/2015/08/29/react-native-animated-with-react-art-firework-show/)
-* [React-native press and hold button actions](http://browniefed.com/blog/2015/08/22/react-native-press-and-hold-button-actions/)
-* [React-native Animated API with PanResponder](http://browniefed.com/blog/2015/08/15/react-native-animated-api-with-panresponder/)
-* [React-native Animated ScrollView Row Swipe Actions](http://browniefed.com/blog/2015/08/01/react-native-animated-listview-row-swipe/)
-* [React-native Animated API Basic Example](http://browniefed.com/blog/2015/07/26/react-native-animated-api-basic-example/)
-* [React Native and Socket.io](http://browniefed.com/blog/2015/05/16/react-native-and-socket-dot-io/)
+* [JavaScript Without Grammar blog](http://browniefed.com/blog/archives/)
 
-#### React Native Development Tools
+#### React Native Development Experience
 * [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
 * [react-native-code-push - React Native plugin for the CodePush service](https://github.com/Microsoft/react-native-code-push)
 
@@ -764,7 +752,7 @@ A collection of awesome things regarding React ecosystem.
 * [Ziliun](https://github.com/sonnylazuardi/ziliun-react-native)
 * [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative)
 
-#### React Native Starter
+#### React Native Boilerplates
 * [Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage)](https://github.com/bartonhammond/snowflake)
 
 #### React Native Awesome Components
@@ -773,6 +761,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-native-mapbox-gl - A Mapbox GL react native module](https://github.com/mapbox/react-native-mapbox-gl)
 * [react-native-icons - Quick and easy icons in React Native](https://github.com/corymsmith/react-native-icons)
 * [react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar](https://github.com/oblador/react-native-vector-icons)
+* [react-native-google-signin - Google Signin for React Native](https://github.com/apptailor/react-native-google-signin)
 
 
 ---
