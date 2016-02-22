@@ -283,6 +283,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-engine - A composite render engine for isomorphic express apps](https://github.com/paypal/react-engine)
 * [react-webpack-node - Boilerplate for an universal/isomorphic React + Redux/alt Flux](https://github.com/choonkending/react-webpack-node)
 * [react-native-nw-react-calculator - Mobile, desktop and website Apps with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
+* [React Production Starter - React boilerplate with isomorphic rendering + Redux + React Router + Redial + code-splitting](https://github.com/jaredpalmer/react-production-starter)
 
 
 ##### Components
