@@ -854,7 +854,6 @@ A collection of awesome things regarding React ecosystem.
 * [Bill Fisher and Jing Chen: React and Flux - NewCircle Training 2014](https://www.youtube.com/watch?v=i__969noyAM)
 * [Vagmi Mudumbai: Building single page apps with React.JS - JSFoo 2014](https://www.youtube.com/watch?v=-v9MehRHsNE)
 * [Ben Anderson: Reactive, Component-based UIs with React - E4E Developer Conf 2014](https://www.youtube.com/watch?v=uwnjDXtJufs)
-* [Adam Solove: ReactJS - Web Platform DC 2014](https://vimeo.com/92687646)
 * [Sebastian Markbage: Minimal API Surface Area - JSConf EU 2014](https://www.youtube.com/watch?v=4anAwXYqLG8)
 * [Pete Hunt, Aaron Murray, and Contra Schof: Facebook React at the Famo.us Meetup 8/13/14](https://www.youtube.com/watch?v=1tWCnNgNZm4)
 * [Steven Luscher: Decomplexifying Code with React - Powered by JavaScript conf 2014](https://www.youtube.com/watch?v=rI0GQc__0SM)
