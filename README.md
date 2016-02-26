@@ -297,6 +297,8 @@ A collection of awesome things regarding React ecosystem.
 * [material-ui - A CSS Framework and a Set of React Components for Material Design](https://github.com/callemall/material-ui)
 * [react-google-login-component](https://github.com/kennetpostigo/react-google-login-component)
 * [react-facebook-login-component](https://github.com/kennetpostigo/react-facebook-login-component)
+* [react-component - A Collection of React UI Components](http://react-component.github.io/badgeboard/)
+* [Ant Design - An enterprise-class UI design language and React-based implementation](https://github.com/ant-design/ant-design)
 * [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 * [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
 * [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
