@@ -171,6 +171,7 @@ A collection of awesome things regarding React ecosystem.
 * [D3 and React - the future of charting components?](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
 
 ##### React and Meteor
+* [Meteor with React Tutorial](https://www.meteor.com/tutorials/react/creating-an-app)
 * [React for Meteor developers](http://blog.differential.com/react-for-meteor-developers/)
 
 ##### React and Backbone
