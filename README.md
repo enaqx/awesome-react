@@ -124,6 +124,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### React General Tutorials
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+* [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 * [ReactJS: Keep Simple. Everything can be a component!](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 * [React.js Koans: Practical exercises that will help you learn React.js from square one](https://github.com/arkency/reactjs_koans)
 * [The ReactJS Bible](https://www.stanleycyang.com/tutorials/the-reactjs-bible)
