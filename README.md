@@ -583,7 +583,7 @@ A collection of awesome things regarding React ecosystem.
 * [immstruct - Immutable data structures with history for top-to-bottom properties in component based libraries like React](https://github.com/omniscientjs/immstruct)
 * [seamless-immutable - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects](https://github.com/rtfeldman/seamless-immutable)
 
-##### React Development Experience
+##### React Developer Experience
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
 * [react-transform-hmr - A React Transform that enables hot reloading React](https://github.com/gaearon/react-transform-hmr)
 * [Nuclide - An open IDE for web and native mobile development, built on top of Atom](http://nuclide.io/)
@@ -743,7 +743,7 @@ A collection of awesome things regarding React ecosystem.
 * [Digital Smart Mirror lab with React Native](http://atticuswhite.com/blog/react-native-smart-mirror-lab/)
 * [JavaScript Without Grammar blog](http://browniefed.com/blog/archives/)
 
-#### React Native Development Experience
+#### React Native Developer Experience
 * [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
 * [react-native-code-push - React Native plugin for the CodePush service](https://github.com/Microsoft/react-native-code-push)
 
