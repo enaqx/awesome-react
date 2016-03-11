@@ -288,7 +288,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-engine - A composite render engine for isomorphic express apps](https://github.com/paypal/react-engine)
 * [react-webpack-node - Boilerplate for an universal/isomorphic React + Redux/alt Flux](https://github.com/choonkending/react-webpack-node)
 * [react-native-nw-react-calculator - Mobile, desktop and website Apps with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
-
+* [Isomorphic Material Relay Starter Kit - Isomorphic React, Relay, GraphQL, Node.js starter kit with examples. Uses Material-UI, Webpack, hot reload, Helmet, JWT, Facebook Data Loader, Cassandra](https://github.com/codefoundries/isomorphic-material-relay-starter-kit)
 
 ##### Components
 * [React Components](http://react-components.com/)
