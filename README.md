@@ -469,6 +469,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Integration
 * [ReactJS.NET](http://reactjs.net/)
+* [React ASP.NET Boilerplate](https://github.com/pauldotknopf/react-aspnet-boilerplate)
 * [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap/)
 * [React Bootstrap Components Playground](http://gcanti.github.io/resources/tcomb-react-bootstrap/playground/playground.html)
 * [React Rails](https://github.com/reactjs/react-rails)
