@@ -46,6 +46,14 @@ A collection of awesome things regarding React ecosystem.
     - [Template Engines](#template-engines)
     - [Maps](#maps)
     - [Charts](#charts)
+- [React Native](#react-native)
+  - [React Native General Resources](#react-native-general-resources)
+  - [React Native Community](#react-native-community)
+  - [React Native Tutorials](#react-native-tutorials)
+  - [React Native Developer Experience](#react-native-developer-experience)
+  - [React Native Sample Apps](#react-native-sample-apps)
+  - [React Native Boilerplates](#react-native-boilerplates)
+  - [React Native Awesome Components](#react-native-awesome-components)
 - [JSX](#jsx)
   - [JSX Resources](#jsx-resources)
   - [JSX Tutorials](#jsx-tutorials)
@@ -59,14 +67,6 @@ A collection of awesome things regarding React ecosystem.
   - [Jest General Resources](#jest-general-resources)
   - [Testing Utilities](#testing-utilities)
   - [Testing Tutorials](#testing-tutorials)
-- [React Native](#react-native)
-  - [React Native General Resources](#react-native-general-resources)
-  - [React Native Community](#react-native-community)
-  - [React Native Tutorials](#react-native-tutorials)
-  - [React Native Developer Experience](#react-native-developer-experience)
-  - [React Native Sample Apps](#react-native-sample-apps)
-  - [React Native Boilerplates](#react-native-boilerplates)
-  - [React Native Awesome Components](#react-native-awesome-components)
 - [GraphQL](#graphql)
   - [GraphQL Spec](#graphql-spec)
   - [GraphQL Tutorials](#graphql-tutorials)
@@ -619,6 +619,54 @@ A collection of awesome things regarding React ecosystem.
 
 
 ---
+### React Native
+> Framework for building native apps using React
+
+#### React Native General Resources
+* [React Native Official Site](https://facebook.github.io/react-native/)
+* [React Native GitHub](https://github.com/facebook/react-native)
+* [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/)
+* [React Native Playground](https://rnplay.org/)
+* [React Native Awesome List](https://github.com/jondot/awesome-react-native)
+
+#### React Native Community
+* [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
+* [React Native Subreddit](https://www.reddit.com/r/reactnative)
+* [React Native Radio](https://devchat.tv/react-native-radio/)
+
+#### React Native Tutorials
+* [React Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
+* [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
+* [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
+* [Handcrafting an iOS Application in React Native with love](https://www.stanleycyang.com/tutorials/handcrafting-an-ios-application-in-react-native-with-love)
+* [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
+* [Gesture detection in React Native – fixing unexpected panning](http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/)
+* [Use The iOS Camera In Your React Native Mobile App](https://blog.nraboy.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/)
+* [Digital Smart Mirror lab with React Native](http://atticuswhite.com/blog/react-native-smart-mirror-lab/)
+* [JavaScript Without Grammar blog](http://browniefed.com/blog/archives/)
+
+#### React Native Development Experience
+* [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
+* [react-native-code-push - React Native plugin for the CodePush service](https://github.com/Microsoft/react-native-code-push)
+
+#### React Native Sample Apps
+* [HackerNews](https://github.com/iSimar/HackerNews-React-Native)
+* [Ziliun](https://github.com/sonnylazuardi/ziliun-react-native)
+* [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative)
+
+#### React Native Boilerplates
+* [Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage)](https://github.com/bartonhammond/snowflake)
+
+#### React Native Awesome Components
+* [react-native-fbsdk - A wrapper around the iOS Facebook SDK](https://github.com/facebook/react-native-fbsdk)
+* [react-native-side-menu - Simple customizable component to create side menu](https://github.com/Kureev/react-native-side-menu)
+* [react-native-mapbox-gl - A Mapbox GL react native module](https://github.com/mapbox/react-native-mapbox-gl)
+* [react-native-icons - Quick and easy icons in React Native](https://github.com/corymsmith/react-native-icons)
+* [react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar](https://github.com/oblador/react-native-vector-icons)
+* [react-native-google-signin - Google Signin for React Native](https://github.com/apptailor/react-native-google-signin)
+
+
+---
 ### JSX
 > XML-Like Syntax Extension to JavaScript
 
@@ -716,52 +764,7 @@ A collection of awesome things regarding React ecosystem.
 * [Testing React Components with Teaspoon & Unexpected](http://dchambers.github.io/articles/testing-react-components-with-teaspoon-and-unexpected/)
 
 
----
-### React Native
-> Framework for building native apps using React
 
-#### React Native General Resources
-* [React Native Official Site](https://facebook.github.io/react-native/)
-* [React Native GitHub](https://github.com/facebook/react-native)
-* [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/)
-* [React Native Playground](https://rnplay.org/)
-* [React Native Awesome List](https://github.com/jondot/awesome-react-native)
-
-#### React Native Community
-* [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
-* [React Native Subreddit](https://www.reddit.com/r/reactnative)
-* [React Native Radio](https://devchat.tv/react-native-radio/)
-
-#### React Native Tutorials
-* [React Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
-* [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
-* [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
-* [Handcrafting an iOS Application in React Native with love](https://www.stanleycyang.com/tutorials/handcrafting-an-ios-application-in-react-native-with-love)
-* [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
-* [Gesture detection in React Native – fixing unexpected panning](http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/)
-* [Use The iOS Camera In Your React Native Mobile App](https://blog.nraboy.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/)
-* [Digital Smart Mirror lab with React Native](http://atticuswhite.com/blog/react-native-smart-mirror-lab/)
-* [JavaScript Without Grammar blog](http://browniefed.com/blog/archives/)
-
-#### React Native Development Experience
-* [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
-* [react-native-code-push - React Native plugin for the CodePush service](https://github.com/Microsoft/react-native-code-push)
-
-#### React Native Sample Apps
-* [HackerNews](https://github.com/iSimar/HackerNews-React-Native)
-* [Ziliun](https://github.com/sonnylazuardi/ziliun-react-native)
-* [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative)
-
-#### React Native Boilerplates
-* [Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage)](https://github.com/bartonhammond/snowflake)
-
-#### React Native Awesome Components
-* [react-native-fbsdk - A wrapper around the iOS Facebook SDK](https://github.com/facebook/react-native-fbsdk)
-* [react-native-side-menu - Simple customizable component to create side menu](https://github.com/Kureev/react-native-side-menu)
-* [react-native-mapbox-gl - A Mapbox GL react native module](https://github.com/mapbox/react-native-mapbox-gl)
-* [react-native-icons - Quick and easy icons in React Native](https://github.com/corymsmith/react-native-icons)
-* [react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar](https://github.com/oblador/react-native-vector-icons)
-* [react-native-google-signin - Google Signin for React Native](https://github.com/apptailor/react-native-google-signin)
 
 
 ---
