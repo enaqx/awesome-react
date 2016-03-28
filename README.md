@@ -232,7 +232,6 @@ A collection of awesome things regarding React ecosystem.
 * [Server-side React with PHP – part 2](http://www.phpied.com/server-side-react-with-php-part-2/)
 * [Server-rendered React components in Rails](http://bensmithett.com/server-rendered-react-components-in-rails/)
 * [Server-rendered React + Flux in Rails](https://github.com/nambrot/rails-webpack-react-flux)
-* [Serverside React Rendering: Isomorphic JavaScript with ReactJS + Node](https://reactjsnews.com/isomorphic-javascript-with-react-node/)
 * [Golang Isomorphic Hot Reloadable/React/Flummox/Css-Module Starter Kit](https://github.com/olebedev/go-starter-kit)
 * [Serverside rendering with React + Hapi](https://github.com/jedireza/hapi-react-views)
 * [Isomorphic React apps in PHP via dnode](http://ericescalante.com/2015/06/07/isomorphic/)
