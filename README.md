@@ -275,6 +275,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-blessed - A react renderer for blessed terminal interface library](https://github.com/Yomguithereal/react-blessed)
 
 ##### Boilerplates
+* [mern.io - Simple full-stack boilerplate to get started with building isomorphic/universal apps](https://github.com/hashnode/mern-starter) :metal: :fire:
 * [React Starter Kit - a skeleton of an "isomorphic" web application](https://github.com/kriasoft/react-starter-kit)
 * [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example)
 * [React Slingshot - React + Redux with Babel, hot reloading, testing, linting and working example app](https://github.com/coryhouse/react-slingshot)
