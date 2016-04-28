@@ -596,6 +596,7 @@ A collection of awesome things regarding React ecosystem.
 * [eslint-plugin-react - React specific linting rules for ESLint](https://github.com/yannickcr/eslint-plugin-react)
 * [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
 * [generator-react-gulp-browserify - Yeoman generator for React](https://github.com/randylien/generator-react-gulp-browserify)
+* [generator-reactapp - Yeoman generator for react app with redux, webpack, gulp and restful.js etc.](https://github.com/Jackong/generator-reactapp)
 * [static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
 
 ##### Template Engines
