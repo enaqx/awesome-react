@@ -110,7 +110,6 @@ A collection of awesome things regarding React ecosystem.
 * [React Discussion Forum](https://discuss.reactjs.org/)
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 * [React Twitter](https://twitter.com/reactjs)
-* [React Subreddit](https://www.reddit.com/r/reactjs/)
 * [React Podcast](http://reactpodcast.com/)
 * `#reactjs` channel on Freenode IRC Server
 
@@ -622,10 +621,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/)
 * [React Native Playground](https://rnplay.org/)
 * [React Native Awesome List](https://github.com/jondot/awesome-react-native)
-
-#### React Native Community
 * [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
-* [React Native Subreddit](https://www.reddit.com/r/reactnative)
 * [React Native Radio](https://devchat.tv/react-native-radio/)
 
 #### React Native Tutorials
