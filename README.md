@@ -30,7 +30,6 @@ A collection of awesome things regarding React ecosystem.
     - [File Uploads](#file-uploads)
     - [React Internals](#react-internals)
   - [React Tools](#react-tools)
-    - [Fundamental React Tools](#fundamental-react-tools)
     - [React Projects](#react-projects)
     - [Boilerplates](#boilerplates)
     - [Components](#components)
@@ -129,7 +128,6 @@ A collection of awesome things regarding React ecosystem.
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [ReactJS: Keep Simple. Everything can be a component!](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 * [React.js Koans: Practical exercises that will help you learn React.js from square one](https://github.com/arkency/reactjs_koans)
-* [The ReactJS Bible](https://www.stanleycyang.com/tutorials/the-reactjs-bible)
 * [React Primer](https://github.com/mikechau/react-primer-draft)
 * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 * [Boiling React Down to a Few Lines of jQuery](http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/)
@@ -266,11 +264,6 @@ A collection of awesome things regarding React ecosystem.
 * [An Optimal Decomposition Algorithm for Tree Edit Distance](http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf)
 
 #### React Tools
-
-##### Fundamental React Tools
-* [babel - JavaScript compiler](https://babeljs.io/)
-* [react-router - A complete routing solution for React.js](https://github.com/rackt/react-router)
-* [redux - Predictable state container for JavaScript apps](https://github.com/reactjs/redux)
 
 ##### React Projects
 * [structor - User interface builder for React](https://github.com/ipselon/structor)
@@ -639,7 +632,6 @@ A collection of awesome things regarding React ecosystem.
 * [React Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 * [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 * [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
-* [Handcrafting an iOS Application in React Native with love](https://www.stanleycyang.com/tutorials/handcrafting-an-ios-application-in-react-native-with-love)
 * [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
 * [Gesture detection in React Native – fixing unexpected panning](http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/)
 * [Use The iOS Camera In Your React Native Mobile App](https://blog.nraboy.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/)
