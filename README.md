@@ -62,6 +62,9 @@ A collection of awesome things regarding React ecosystem.
   - [Flux General Resources](#flux-general-resources)
   - [Flux Implementations](#flux-implementations)
   - [Flux Tutorials](#flux-tutorials)
+- [Redux](#redux)
+  - [Redux General Resources](#redux-general-resources)
+  - [Redux Tools](#redux-tools)
   - [Redux Tutorials](#redux-tutorials)
 - [Testing](#testing)
   - [Jest General Resources](#jest-general-resources)
@@ -429,7 +432,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-input-slider - React input slider component](https://github.com/wangzuo/react-input-slider)
 * [react-ui-tree - React tree component with drag and drop support](https://github.com/pqx/react-ui-tree)
 * [react-frame - React components within an iframe for isolated css styling](https://github.com/pqx/react-frame)
-* [react-inline-grid - Predictable flexbox based grid for React using Redux and Immutable-js](https://github.com/broucz/react-inline-grid)
 * [rodal - A React modal with animations](http://rodal.cn)
 * [react-scrollbar - Simple ScrollArea component built for React](https://github.com/souhe/reactScrollbar)
 * [react-experiments - Implement A/B tests with randomized parameterizations of your components](https://github.com/HubSpot/react-experiments)
@@ -698,7 +700,6 @@ A collection of awesome things regarding React ecosystem.
 
 #### Flux Implementations
 * [Flux Comparision](https://github.com/voronianski/flux-comparison)
-* [Redux](https://github.com/gaearon/redux)
 * [RefluxJS](https://github.com/spoike/refluxjs)
 * [Fluxxor](https://github.com/BinaryMuse/fluxxor)
 * [Marty](https://github.com/martyjs/marty)
@@ -733,16 +734,29 @@ A collection of awesome things regarding React ecosystem.
 * [The Case for Flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
 * [The Evolution of Flux Frameworks](http://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
 * [React with Flux by example - a simple Todo List dissected](http://reactkungfu.com/2015/07/react-with-flux-by-example-simple-todo-list-dissected/)
-* [Awesome Redux](https://github.com/xgrommx/awesome-redux)
 * [FOR FLUX SAKE! - a beginners tutorial](https://github.com/MIJOTHY/FOR_FLUX_SAKE)
 * [Simple Counter App with React and Nuclear JS](https://github.com/haochuan/random-notes/blob/master/react/couter-app-with-react-nuclear.md)
 
-#### Redux Tutorials
-* [Redux Tutorial](https://github.com/happypoulp/redux-tutorial)
-* [Free Egghead.io Redux lessons from its creator - Dan Abramov](https://egghead.io/series/getting-started-with-redux)
-* [Mastering React Redux Basics](https://www.stanleycyang.com/tutorials/mastering-react-redux)
-* [Server-Side Rendering with Redux and React-Router](https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app)
 
+---
+### Redux
+> Predictable State Container for JavaScript Apps
+
+#### Redux General Resources
+* [Redux GitHub](https://github.com/reactjs/redux)
+* [Redux Official Site](http://redux.js.org/)
+* [Awesome Redux List](https://github.com/xgrommx/awesome-redux)
+
+#### Redux Tools
+* [react-redux - Official React bindings for Redux](https://github.com/reactjs/react-redux)
+* [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
+* [react-router-redux - Bindings to keep react-router and redux in sync](https://github.com/reactjs/react-router-redux)
+* [redux-form - A Higher Order Component using react-redux to keep form state](https://github.com/erikras/redux-form)
+
+#### Redux Tutorials
+* [Free Egghead.io Redux lessons from its creator - Dan Abramov](https://egghead.io/series/getting-started-with-redux)
+* [Redux Tutorial](https://github.com/happypoulp/redux-tutorial)
+* [Server-Side Rendering with Redux and React-Router](https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app)
 
 ---
 ### Testing
@@ -880,6 +894,7 @@ A collection of awesome things regarding React ecosystem.
 #### [ReactEurope Conf 2015 Day 2 Playlist](https://www.youtube.com/playlist?list=PLCC436JpVnK3HvUSAHpt-LRJkIK8pQG6R)
 #### [ReactRally Conf 2015 Playlist](https://www.youtube.com/playlist?list=PLUD4kD-wL_zZhHy-G8hPNZTvx_M35loXQ)
 #### [React.js Conf 2016 Playlist](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
+#### [React Amsterdam 2016 Playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU)
 
 #### Video Tutorials
 * [learnreact.com — 3ish minute videos on React.js](http://learnreact.com/)
