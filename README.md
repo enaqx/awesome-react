@@ -66,7 +66,6 @@ A collection of awesome things regarding React ecosystem.
   - [Redux Tools](#redux-tools)
   - [Redux Tutorials](#redux-tutorials)
 - [Testing](#testing)
-  - [Jest General Resources](#jest-general-resources)
   - [Testing Utilities](#testing-utilities)
   - [Testing Tutorials](#testing-tutorials)
 - [GraphQL](#graphql)
@@ -746,26 +745,18 @@ A collection of awesome things regarding React ecosystem.
 * [Redux Tutorial](https://github.com/happypoulp/redux-tutorial)
 * [Server-Side Rendering with Redux and React-Router](https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app)
 
+
 ---
 ### Testing
-> React Unit Testing
-
-#### Jest General Resources
-* [Jest Official Site](http://facebook.github.io/jest/)
-* [Jest GitHub](https://github.com/facebook/jest)
+> React Testing
 
 #### Testing Utilities
+* [Jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
 * [enzyme - JavaScript Testing utilities for React](https://github.com/airbnb/enzyme)
-* [react-component-tester](https://github.com/craigbilner/react-component-tester)
 
 ##### Testing Tutorials
-* [React Testing Cookbook - video lessons](https://egghead.io/series/react-testing-cookbook)
-* [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
 * [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
-* [Testing React Components with Teaspoon & Unexpected](http://dchambers.github.io/articles/testing-react-components-with-teaspoon-and-unexpected/)
-
-
-
+* [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
 
 
 ---
@@ -808,6 +799,7 @@ A collection of awesome things regarding React ecosystem.
 * [sql-to-graphql - Generate a GraphQL API based on your SQL database structure](https://github.com/vaffel/sql-to-graphql)
 * [graphql-sequelize - GraphQL & Relay for MySQL & Postgres via Sequelize](https://github.com/mickhansen/graphql-sequelize)
 
+
 ---
 ### Relay
 > Data-Driven React Applications
@@ -827,6 +819,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-router-relay - Relay integration for React Router](https://github.com/relay-tools/react-router-relay)
 * [relay-local-schema - Use Relay without a GraphQL server](https://github.com/relay-tools/relay-local-schema)
 * [relay-codemod -  Codemod scripts based for on jsodeshift to update Relay APIs](https://github.com/facebook/jscodeshift)
+
 
 ---
 ### Flow
@@ -909,6 +902,7 @@ A collection of awesome things regarding React ecosystem.
 ### Books
 * [SurviveJS - Webpack and React](http://survivejs.com/)
 * [react-webpack-cookbook - A cookbook for using Webpack with React JS](http://christianalfoni.github.io/react-webpack-cookbook)
+
 
 ---
 ### Demos
