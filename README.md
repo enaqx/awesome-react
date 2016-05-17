@@ -275,12 +275,11 @@ A collection of awesome things regarding React ecosystem.
 * [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
 * [react-transform-boilerplate - Webpack boilerplate with hot reloading React components](https://github.com/gaearon/react-transform-boilerplate)
 * [essential-react - A minimal skeleton for building testable React apps using ES6](https://github.com/pheuter/essential-react)
-* [react-isomorphic-starterkit - somorphic starterkit with server-side React rendering](https://github.com/RickWong/react-isomorphic-starterkit)
-* [react-starter - Starter template for React with webpack](https://github.com/webpack/react-starter)
 * [react-hot-boilerplate - Live-editing boilerplate for your next ReactJS project](https://github.com/gaearon/react-hot-boilerplate)
 * [react-engine - A composite render engine for isomorphic express apps](https://github.com/paypal/react-engine)
 * [react-webpack-node - Boilerplate for an universal/isomorphic React + Redux/alt Flux](https://github.com/choonkending/react-webpack-node)
 * [react-native-nw-react-calculator - Mobile, desktop and website Apps with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
+* [react-cordova-boilerplate - TodoMVC example for React to build a Cordova application](https://github.com/unimonkiez/react-cordova-boilerplate)
 
 
 ##### Components
