@@ -14,6 +14,7 @@ A collection of awesome things regarding React ecosystem.
     - [Scotch.io React tutorials series](#scotchio-react-tutorials-series)
     - [React styling](#react-styling)
     - [React Charts Tutorials](#react-charts-tutorials)
+    - [React and Meteor](#react-and-meteor)
     - [React and Backbone](#react-and-backbone)
     - [React and Angular](#react-and-angular)
     - [React and Bootstrap](#react-and-bootstrap)
