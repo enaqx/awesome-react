@@ -556,7 +556,7 @@ A collection of awesome things regarding React ecosystem.
 * [valuable - An immutable data store for React](https://github.com/josephsavona/valuable)
 * [react-resolver - Isomorphic library to recursively lazy-load data for React components](https://github.com/ericclemmons/react-resolver)
 * [freezer-js - Lightweight and reactive immutable data structure for React](https://github.com/arqex/freezer)
-* [mobservable - Observable data structures for building reactive React apps](https://github.com/mweststrate/MOBservable)
+* [MobX - Simple, scalable state management](https://mobxjs.github.io/mobx)
 * [baobab - JavaScript persistent and optionally immutable data tree with cursors](https://github.com/Yomguithereal/baobab)
 * [baobab-react - React integration for Baobab](https://github.com/Yomguithereal/baobab-react)
 * [datascript - Immutable database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
