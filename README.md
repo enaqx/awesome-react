@@ -902,6 +902,7 @@ A collection of awesome things regarding React ecosystem.
 * [React & Flux by: Christian Lilley](https://www.youtube.com/watch?v=mK4_a7u2cgI)
 * [React for beginners](https://reactforbeginners.com/)
 * [React Testing Cookbook - video lessons](https://egghead.io/series/react-testing-cookbook)
+* [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
 
 
 ---
