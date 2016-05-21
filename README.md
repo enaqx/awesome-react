@@ -288,6 +288,8 @@ A collection of awesome things regarding React ecosystem.
 * [React Topcoat UI components](https://github.com/kjda/react-topui)
 * [react-material - Material design components written with React.js and React Style](https://github.com/SanderSpies/react-material)
 * [material-ui - A CSS Framework and a Set of React Components for Material Design](https://github.com/callemall/material-ui)
+* [react-google-login-component](https://github.com/kennetpostigo/react-google-login-component)
+* [react-facebook-login-component](https://github.com/kennetpostigo/react-facebook-login-component)
 * [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 * [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
 * [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
