@@ -485,6 +485,7 @@ A collection of awesome things regarding React ecosystem.
 * [msx - React's JSX Transformer, tweaked to output calls to Mithril](https://github.com/insin/msx)
 * [Backbone React Component](https://github.com/magalhas/backbone-react-component)
 * [react-backbone - Backbone-aware mixins for react](https://github.com/jhudson8/react-backbone)
+* [NestedReact - transparent integration with Backbone Views and NestedTypes models](https://github.com/Volicon/NestedReact/)
 * [backbone-reaction - React, Backbone and then some](https://github.com/jhudson8/backbone-reaction)
 * [react.backbone - Plugin for React to make Backbone migration easier](https://github.com/usepropeller/react.backbone)
 * [reactbone - React extensions for Backbone](https://github.com/andrejewski/reactbone)
@@ -521,6 +522,7 @@ A collection of awesome things regarding React ecosystem.
 ##### Forms
 * [React Forms](http://facebook.github.io/react/docs/forms.html)
 * [react-forms - Forms library for React](https://github.com/prometheusresearch/react-forms)
+* [valuelink - full-featured two-way data binding with extended React links](https://github.com/Volicon/valuelink)
 * [wingspan-forms - A dynamic form library for Facebook React](https://github.com/wingspan/wingspan-forms)
 * [newforms - Isomorphic form-handling for React](https://github.com/insin/newforms)
 * [formjs - A form generator for Reactjs](https://github.com/zackify/formjs)
@@ -553,6 +555,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Model Libraries
 * [mori - ClojureScript's persistent data structures and supporting API](https://github.com/swannodette/mori)
+* [NestedTypes - fast mutable models with "pure render" support](https://github.com/Volicon/NestedTypes)
 * [swarm - JavaScript replicated model (M of MVC) library](https://github.com/gritzko/swarm)
 * [caplet - JavaScript models library](https://github.com/mojo-js/caplet.js)
 
@@ -911,6 +914,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-hn - A React & react-router-powered implementation of Hacker News](https://github.com/insin/react-hn)
 * [react-pokemon - A React component for displaying Pokémon](https://github.com/passy/react-pokemon)
 * [React + Backbone TodoMVC](http://todomvc.com/examples/react-backbone/)
+* [React + NestedTypes TodoMVC](https://github.com/gaperton/todomvc-nestedreact)
 * [react-rxjs-todomvc - TodoMVC implementation with React and RxJS](https://github.com/fdecampredon/react-rxjs-todomvc)
 * [react-mvc - A sample chat application written with React and pure MVC](https://github.com/ustun/react-mvc)
 * [react-observe-todomvc - TodoMVC implementation built on top of React and Object.observe](https://github.com/fdecampredon/react-observe-todomvc)
