@@ -447,6 +447,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-sortable-pane - Resizable and sortable pane component for React](https://github.com/bokuweb/react-sortable-pane)
 * [react-DnR - Dragable and Resizable window build with React.js](https://github.com/yongxu/react-DnR)
 * [react-browser-detection - React component to detect browser](https://github.com/mbasso/react-browser-detection)
+* [react-text-mask - Text and `<input/>` masking component](https://github.com/msafi/text-mask)
 
 ##### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
