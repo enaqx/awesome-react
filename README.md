@@ -657,6 +657,7 @@ A collection of awesome things regarding React ecosystem.
 * [web-mode.el - An autonomous emacs major-mode for editing web templates](http://web-mode.org/)
 * [JSXHint - Wrapper around JSHint for linting JSX files](https://github.com/STRML/JSXHint)
 * [react-ui-builder - Tool which can be used to create working prototype using any set of React components](https://github.com/ipselon/react-ui-builder)
+* [redux-devtools - A live-editing time travel environment for Redux](https://github.com/gaearon/redux-devtools)
 
 ##### Generating
 * [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
