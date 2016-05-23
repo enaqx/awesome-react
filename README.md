@@ -448,6 +448,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-DnR - Dragable and Resizable window build with React.js](https://github.com/yongxu/react-DnR)
 * [react-browser-detection - React component to detect browser](https://github.com/mbasso/react-browser-detection)
 * [react-text-mask - Text and `<input/>` masking component](https://github.com/msafi/text-mask)
+* [rebass - Configurable React Stateless Functional UI Components](https://github.com/jxnblk/rebass)
 
 ##### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
