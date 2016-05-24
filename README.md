@@ -810,6 +810,7 @@ A collection of awesome things regarding React ecosystem.
 * [graphene - GraphQL in **Python** made simple](http://graphene-python.org/)
 * [graphqllib - GraphQL implementation for **Python**](https://github.com/dittos/graphqllib)
 * [graphql-dotnet - GraphQL for **.NET**](https://github.com/graphql-dotnet/graphql-dotnet)
+* [graphql-go - GraphQL for Go/Golang](https://github.com/graphql-go/graphql)
 
 #### Server Integration
 * [express-graphql - Create a GraphQL HTTP server with **Express**](https://github.com/graphql/express-graphql)
