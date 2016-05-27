@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-redirect --white-list gaearon/flux-react-router-example,JedWatson/react-select,martinandert/react-inline,series/react-testing-cookbook,rnplay.org,blog.vjeux,thinkinginreact
+  - awesome_bot README.md --allow-redirect --white-list gaearon/flux-react-router-example,JedWatson/react-select,martinandert/react-inline,series/react-testing-cookbook,rnplay.org,blog.vjeux,thinkinginreact,reddit
