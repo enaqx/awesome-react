@@ -126,6 +126,7 @@ A collection of awesome things regarding React ecosystem.
 ##### React General Tutorials
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
+* [React tutorial - Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/) Find at least 3 hours for this epic tutorial.
 * [ReactJS: Keep Simple. Everything can be a component!](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 * [React.js Koans: Practical exercises that will help you learn React.js from square one](https://github.com/arkency/reactjs_koans)
 * [React Primer](https://github.com/mikechau/react-primer-draft)
@@ -288,6 +289,7 @@ A collection of awesome things regarding React ecosystem.
 * [vortigern - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.](https://github.com/barbar/vortigern)
 * [Universal Redux Template - A clean, extensible react + redux boilerplate with universal rendering, testing and more] (https://github.com/mz026/universal-redux-template)
 * [UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra](https://github.com/codefoundries/UniversalRelayBoilerplate)
+* [React Star kit - React/Native + Redux + Webpack (w/ hot reload) + Express + Sequelize + Material-UI](https://github.com/ronmamo/star)
 
 ##### Components
 * [React Components](http://react-components.com/)
@@ -310,6 +312,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-absolute-grid - An absolutely positioned, animated, filterable, sortable, drag and droppable, ES6 grid for React](https://github.com/jrowny/react-absolute-grid)
 * [react-async - Async rendering for React components](https://github.com/andreypopp/react-async)
 * [react-async-input - Inputs that behave properly with async set{State,Props} calls](https://github.com/grncdr/react-async-input)
+* [react-countup - A React component wrapper around CountUp.js](https://github.com/glennreyes/react-countup)
 * [react-mediaswitch - Choose your DOM based on media queries](https://github.com/matthewwithanm/react-mediaswitch)
 * [react-frame-component - Render your React app to an iFrame](https://github.com/ryanseddon/react-frame-component)
 * [react-gravatar - React component for rendering a gravatar profile image](https://github.com/KyleAMathews/react-gravatar)
@@ -417,6 +420,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-emoji - An emoji mixin for React](https://github.com/banyan/react-emoji)
 * [react-portal - A transportation of (not just) modals and lightboxes to document.body](https://github.com/tajo/react-portal)
 * [react-hotkeys - Declarative hotkey and focus area management for React](https://github.com/Chrisui/react-hotkeys)
+* [react-data-grid - Data grid for React:Excel-like grid component built with React, with editors, keyboard navigation, copy & paste ](https://github.com/adazzle/react-data-grid)
 * [react-datagrid - A carefully crafted DataGrid for React](https://github.com/zippyui/react-datagrid)
 * [react-panels - A multipurpose tabbed panel with many features](https://github.com/Theadd/react-panels)
 * [autoresponsive-react - A Magical Layout Libary For React](http://xudafeng.github.io/autoresponsive-react)
@@ -604,6 +608,7 @@ A collection of awesome things regarding React ecosystem.
 * [generator-reactapp - Yeoman generator for react app with redux, webpack, gulp and restful.js etc.](https://github.com/Jackong/generator-reactapp)
 * [static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
 * [React Storybook - Build React components isolately inside a sandbox environment.](https://github.com/kadirahq/react-storybook)
+* [generator-sui-react - A yeoman generator for Schibsted User Interface (SUI) ReactJS components](https://github.com/SUI-Components/generator-sui-react)
 
 ##### Template Engines
  * [react-templates - Lightweight templates for React](https://github.com/wix/react-templates)
@@ -813,6 +818,7 @@ A collection of awesome things regarding React ecosystem.
 * [graphene - GraphQL in **Python** made simple](http://graphene-python.org/)
 * [graphqllib - GraphQL implementation for **Python**](https://github.com/dittos/graphqllib)
 * [graphql-dotnet - GraphQL for **.NET**](https://github.com/graphql-dotnet/graphql-dotnet)
+* [graphql-go - GraphQL for Go/Golang](https://github.com/graphql-go/graphql)
 
 #### Server Integration
 * [express-graphql - Create a GraphQL HTTP server with **Express**](https://github.com/graphql/express-graphql)
@@ -929,6 +935,7 @@ A collection of awesome things regarding React ecosystem.
 * [SurviveJS - Webpack and React](http://survivejs.com/)
 * [react-webpack-cookbook - A cookbook for using Webpack with React JS](http://christianalfoni.github.io/react-webpack-cookbook)
 * [React+d3.js - Build data visualizations with React and d3.js](https://leanpub.com/reactd3js)
+* [Pro React Book] (http://www.pro-react.com/)
 
 
 ---
@@ -975,6 +982,7 @@ A collection of awesome things regarding React ecosystem.
 * [getsentry/sentry](https://github.com/getsentry/sentry/)
 * [remember](https://github.com/paulhoughton/remember/)
 * [tube-tracker](https://github.com/i-like-robots/react-tube-tracker)
+* [bloomery](https://github.com/ufukomer/bloomery)
 * [ParsePlatform/parse-dashboard](https://github.com/ParsePlatform/
 
 ---
