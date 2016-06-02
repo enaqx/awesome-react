@@ -757,13 +757,17 @@ A collection of awesome things regarding React ecosystem.
 * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
 * [react-router-redux - Bindings to keep react-router and redux in sync](https://github.com/reactjs/react-router-redux)
 * [redux-form - A Higher Order Component using react-redux to keep form state](https://github.com/erikras/redux-form)
+* [redux-thunk - Thunk middleware for redux](https://github.com/gaearon/redux-thunk)
+* [redux-logger - Logger middleware for redux](https://github.com/theaqua/redux-logger)
 
 #### Redux Tutorials
-* [Free Egghead.io Redux lessons from its creator - Dan Abramov](https://egghead.io/series/getting-started-with-redux)
+* [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+* [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
 * [Redux Tutorial](https://github.com/happypoulp/redux-tutorial)
 * [Server-Side Rendering with Redux and React-Router](https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app)
 * [Deep Introduction to Redux](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
 * [Unit Testing Redux Apps](https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking)
+
 
 ---
 ### Testing
