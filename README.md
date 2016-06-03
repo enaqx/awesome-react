@@ -10,6 +10,8 @@ A collection of awesome things regarding React ecosystem.
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
     - [Scotch.io React tutorials series](#scotchio-react-tutorials-series)
+	- [Egghead.io React tutorials series](#eggheadio-react-tutorials-series)
+	- [Thinkster.io React tutorials series](#thinksterio-react-tutorials-series)
     - [React styling](#react-styling)
     - [React Charts Tutorials](#react-charts-tutorials)
     - [React and Meteor](#react-and-meteor)
@@ -138,6 +140,21 @@ A collection of awesome things regarding React ecosystem.
 * [Getting To Know Flux, the React.js Architecture](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
 * [Creating A Simple Shopping Cart with React.js and Flux](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
 * [Make a Mobile App with ReactJS in 30 Minutes](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes)
+
+##### Egghead.io React tutorials series
+* [Build Your First React.js App](https://egghead.io/series/build-your-first-react-js-application)
+* [React Fundamentals](https://egghead.io/series/react-fundamentals)
+
+##### Thinkster.io React tutorials series
+* [Getting Started with React](https://thinkster.io/getting-started-with-react)
+* [Changing state via user input](https://thinkster.io/react-change-state-from-input)
+* [Programmatically rendering child components](https://thinkster.io/programmatically-rendering-child-components)
+* [Rendering Variables in JSX React components](https://thinkster.io/rendering-variables-in-react)
+* [What exactly is React?](https://thinkster.io/what-exactly-is-react)
+* [Utilizing props to create reusable components](https://thinkster.io/create-reusable-components-with-props)
+* [Understanding "state" in React components](https://thinkster.io/understanding-react-state)
+* [Creating a simple React component](https://thinkster.io/create-a-react-component)
+* [Iterating & Rendering with Loops in React components](https://thinkster.io/iterating-and-rendering-loops-in-react)
 
 ##### React styling
 * [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
