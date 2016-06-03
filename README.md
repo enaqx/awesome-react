@@ -743,11 +743,14 @@ A collection of awesome things regarding React ecosystem.
 * [redux-form - A Higher Order Component using react-redux to keep form state](https://github.com/erikras/redux-form)
 * [redux-thunk - Thunk middleware for redux](https://github.com/gaearon/redux-thunk)
 * [redux-logger - Logger middleware for redux](https://github.com/theaqua/redux-logger)
+* [reselect - Selector library for Redux](https://github.com/reactjs/reselect)
 
 #### Redux Tutorials
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 * [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
 * [Redux Tutorial](https://github.com/happypoulp/redux-tutorial)
+* [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial: Part 1](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/)
+* [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial: Part 2](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/)
 * [Server-Side Rendering with Redux and React-Router](https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app)
 * [Deep Introduction to Redux](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
 * [Unit Testing Redux Apps](https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking)
@@ -946,7 +949,8 @@ A collection of awesome things regarding React ecosystem.
 ---
 ### Example Apps
 * [isomorphic500 - Isomorphic JS app built with React and Fluxible](https://github.com/gpbl/isomorphic500)
-* [Fil: A playground for in-browser interpreters (Redux)](https://github.com/fatiherikli/fil)
+* [fil -  A playground for in-browser interpreters (Redux)](https://github.com/fatiherikli/fil)
+* [sound-redux - A Soundcloud client built with React / Redux](https://github.com/andrewngu/sound-redux)
 
 
 ---
@@ -955,11 +959,6 @@ A collection of awesome things regarding React ecosystem.
 * [khan/perseus](https://github.com/khan/perseus)
 * [mozilla/payments-ui](https://github.com/mozilla/payments-ui)
 * [webbylab/itsquiz-wall](https://github.com/webbylab/itsquiz-wall)
-* [getsentry/sentry](https://github.com/getsentry/sentry/)
-* [remember](https://github.com/paulhoughton/remember/)
-* [tube-tracker](https://github.com/i-like-robots/react-tube-tracker)
-* [bloomery](https://github.com/ufukomer/bloomery)
-* [ParsePlatform/parse-dashboard](https://github.com/ParsePlatform/
 
 ---
 ### Contribution
