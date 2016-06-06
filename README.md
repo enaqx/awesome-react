@@ -188,7 +188,7 @@ A collection of awesome things regarding React ecosystem.
 * [Bootstrap forms using React.js](http://clozeit.wordpress.com/2014/01/13/bootstrap-forms-using-react-js/)
 
 ##### React and ClojureScript
-* [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/)
+* [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs)
 * [The Case for React.js and ClojureScript](http://murilopereira.com/the-case-for-reactjs-and-clojurescript/)
 * [A Reagent Framework For Writing SPAs](https://github.com/Day8/re-frame)
 
