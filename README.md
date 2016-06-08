@@ -641,7 +641,6 @@ A collection of awesome things regarding React ecosystem.
 * [React Native Radio](https://devchat.tv/react-native-radio/)
 
 #### React Native Tutorials
-* [React Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 * [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 * [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
 * [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
