@@ -773,7 +773,7 @@ A collection of awesome things regarding React ecosystem.
 * [Deep Introduction to Redux](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
 * [Unit Testing Redux Apps](https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking)
 * [A simplified approach to calling APIs with redux](http://www.sohamkamani.com/blog/2016/06/05/redux-apis/)
-
+* [React Redux based blood donor demo application] (https://github.com/smanne/reduxnor)
 
 ---
 ### Testing
