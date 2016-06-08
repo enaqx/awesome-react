@@ -267,7 +267,9 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Boilerplates
 * [Modern React ES6 Boilerplate - Thorough React starter kit using Webpack with Hot Module Reloading (HMR), Mocha, Chai for testing and example app using Redux](https://github.com/nicksp/redux-webpack-es6-boilerplate)
-* [React Starter Kit - a skeleton of an "isomorphic" web application](https://github.com/kriasoft/react-starter-kit)
+* [React Starter Kit — "isomorphic" web app boilerplate (Node.js, GraphQL, React, Babel, Webpack, CSS Modules, HMR)](https://github.com/kriasoft/react-starter-kit)
+* [ASP.NET Core Starter Kit (C#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, C#](https://github.com/kriasoft/aspnet-starter-kit)
+* [ASP.NET Core Starter Kit (F#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, F#](https://github.com/kriasoft/fsharp-starter-kit)
 * [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example)
 * [React Slingshot - React + Redux with Babel, hot reloading, testing, linting and working example app](https://github.com/coryhouse/react-slingshot)
 * [Redux universal boilerplate - boilerplate for react universal application building on flux architecture based on redux implementation.](https://github.com/ufocoder/redux-universal-boilerplate)
