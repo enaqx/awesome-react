@@ -457,6 +457,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-text-mask - Text and `<input/>` masking component](https://github.com/msafi/text-mask)
 * [rebass - Configurable React Stateless Functional UI Components](https://github.com/jxnblk/rebass)
 * [echarts-for-react - baidu Echarts(v3.0) components for React](https://github.com/hustcc/echarts-for-react)
+* [react-pagespeed-score - A React component for display a dial-type chart of PageSpeed Insights](https://github.com/cauealves/react-pagespeed-score)
 
 ##### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
@@ -975,7 +976,7 @@ A collection of awesome things regarding React ecosystem.
 * [isomorphic500 - Isomorphic JS app built with React and Fluxible](https://github.com/gpbl/isomorphic500)
 * [fil -  A playground for in-browser interpreters (Redux)](https://github.com/fatiherikli/fil)
 * [sound-redux - A Soundcloud client built with React / Redux](https://github.com/andrewngu/sound-redux)
-
+* [react-pomodoro - A Pomodoro timer for developers](https://github.com/afonsopacifer/react-pomodoro)
 
 ---
 ### Real Apps
