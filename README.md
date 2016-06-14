@@ -305,7 +305,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-facebook-login-component](https://github.com/kennetpostigo/react-facebook-login-component)
 * [react-component - A Collection of React UI Components](http://react-component.github.io/badgeboard/)
 * [Ant Design - An enterprise-class UI design language and React-based implementation](https://github.com/ant-design/ant-design)
-* [UXCore - A React UI Component Set living for enterprise backend application](https://github.com/uxcore/uxcore) 
+* [UXCore - A React UI Component Set living for enterprise backend application](https://github.com/uxcore/uxcore)
 * [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 * [react-aim - Determine the cursor aim for triggering mouse events](https://github.com/gabrielbull/react-aim)
 * [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
@@ -918,6 +918,8 @@ A collection of awesome things regarding React ecosystem.
 #### [ReactRally Conf 2015 Playlist](https://www.youtube.com/playlist?list=PLUD4kD-wL_zZhHy-G8hPNZTvx_M35loXQ)
 #### [React.js Conf 2016 Playlist](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
 #### [React Amsterdam 2016 Playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU)
+#### [ReactEurope Conf 2016 Day 1 Playlist](https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa)
+#### [ReactEurope Conf 2016 Day 2 Playlist](https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof)
 
 #### Video Tutorials
 * [learnreact.com — 3ish minute videos on React.js](http://learnreact.com/)
