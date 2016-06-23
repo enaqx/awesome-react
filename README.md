@@ -2,7 +2,7 @@
 
 
 A collection of awesome things regarding React ecosystem.
-R
+
 - [React](#react)
   - [React General Resources](#react-general-resources)
   - [React Community](#react-community)
