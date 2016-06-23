@@ -10,8 +10,9 @@ A collection of awesome things regarding React ecosystem.
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
     - [Scotch.io React tutorials series](#scotchio-react-tutorials-series)
-	- [Egghead.io React tutorials series](#eggheadio-react-tutorials-series)
-	- [Thinkster.io React tutorials series](#thinksterio-react-tutorials-series)
+    - [Egghead.io React tutorials series](#eggheadio-react-tutorials-series)
+    - [Thinkster.io React tutorials series](#thinksterio-react-tutorials-series)
+    - [LearnCode.academy React tutorials series](#learncodeacademy-react-tutorials-series)
     - [React styling](#react-styling)
     - [React Charts Tutorials](#react-charts-tutorials)
     - [React and Meteor](#react-and-meteor)
@@ -155,6 +156,9 @@ A collection of awesome things regarding React ecosystem.
 * [Understanding "state" in React components](https://thinkster.io/understanding-react-state)
 * [Creating a simple React component](https://thinkster.io/create-a-react-component)
 * [Iterating & Rendering with Loops in React components](https://thinkster.io/iterating-and-rendering-loops-in-react)
+
+##### LearnCode.academy React tutorials series
+* [React Rapid Course](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=1)
 
 ##### React styling
 * [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
@@ -757,6 +761,7 @@ A collection of awesome things regarding React ecosystem.
 * [React with Flux by example - a simple Todo List dissected](http://reactkungfu.com/2015/07/react-with-flux-by-example-simple-todo-list-dissected/)
 * [FOR FLUX SAKE! - a beginners tutorial](https://github.com/MIJOTHY/FOR_FLUX_SAKE)
 * [Simple Counter App with React and Nuclear JS](https://github.com/haochuan/random-notes/blob/master/react/couter-app-with-react-nuclear.md)
+* [LearnCode.academy Flux Tutorial Series](https://www.youtube.com/watch?v=PvjNglsyOHs&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=9)
 
 
 ---
@@ -788,6 +793,7 @@ A collection of awesome things regarding React ecosystem.
 * [Unit Testing Redux Apps](https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking)
 * [A simplified approach to calling APIs with redux](http://www.sohamkamani.com/blog/2016/06/05/redux-apis/)
 * [React Redux based blood donor demo application] (https://github.com/smanne/reduxnor)
+* [LearnCode.academy Redux Tutorials Series](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=15)
 
 ---
 ### Testing
