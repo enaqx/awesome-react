@@ -271,6 +271,8 @@ A collection of awesome things regarding React ecosystem.
 * [MJML - The only framework that makes responsive-email easy. Based on React](https://mjml.io)
 
 ##### Boilerplates
+* [React Isomorphic Starter Kit - An isomorphic React boilerplate with all necessary tools are set up to start up quickly your React project: Webpack (SASS/CSS loader, JSX/JS loader, File loader...), React Router, React Hot Loader and ESLint](https://github.com/ayoubdev/reactjs-isomorphic-starterkit) - Become more productive and Enable shared javascript that runs on both client and server (client + server side rendering))
+* [React Typescript Isomorphic Starter Kit - An isomorphic React boilerplate with with all necessary tools to start up your React project with Typescript including Webpack, React Router, React Hot Loader and ESLint](https://github.com/ayoubdev/reactjs-typescript-isomorphic-starterkit)
 * [React CDK (Component Development Kit)](https://github.com/kadirahq/react-cdk) - ES6, Webpack, Testing, Linting, StoryBook (including publish to github pages)
 * [Modern React ES6 Boilerplate - Thorough React starter kit using Webpack with Hot Module Reloading (HMR), Mocha, Chai for testing and example app using Redux](https://github.com/nicksp/redux-webpack-es6-boilerplate)
 * [React Starter Kit — "isomorphic" web app boilerplate (Node.js, GraphQL, React, Babel, Webpack, CSS Modules, HMR)](https://github.com/kriasoft/react-starter-kit)
