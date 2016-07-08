@@ -744,6 +744,14 @@ A collection of awesome things regarding React ecosystem.
 * [redux-thunk - Thunk middleware for redux](https://github.com/gaearon/redux-thunk)
 * [redux-logger - Logger middleware for redux](https://github.com/theaqua/redux-logger)
 * [reselect - Selector library for Redux](https://github.com/reactjs/reselect)
+* [normalizr - Normalizes nested JSON according to a schema](https://github.com/paularmstrong/normalizr)
+* [redux-saga - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga)
+* [redux-observable - RxJS middleware for Redux](https://github.com/redux-observable/redux-observable)
+* [redux-analytics - Analytics middleware for Redux](https://github.com/markdalgleish/redux-analytics)
+* [redux-undo - Higher order reducer to add undo/redo functionality to redux state containers](https://github.com/omnidan/redux-undo)
+* [redux-search - Redux bindings for client-side search](https://github.com/treasure-data/redux-search)
+* [redux-mock-store - A mock store for your testing your redux async action creators and middleware](https://github.com/arnaudbenard/redux-mock-store)
+* [redux-immutable - Create an equivalent function of Redux combineReducers that works with Immutable.js state](https://github.com/gajus/redux-immutable)
 
 #### Redux Tutorials
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
@@ -754,6 +762,8 @@ A collection of awesome things regarding React ecosystem.
 * [Server-Side Rendering with Redux and React-Router](https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app)
 * [Deep Introduction to Redux](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
 * [Unit Testing Redux Apps](https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking)
+* [Secure Your React and Redux App with JWT Authentication](https://auth0.com/blog/2016/01/04/secure-your-react-and-redux-app-with-jwt-authentication/)
+* [Build an Image Gallery Using React, Redux and redux-saga](http://joelhooks.com/blog/2016/03/20/build-an-image-gallery-using-redux-saga)
 
 
 ---
