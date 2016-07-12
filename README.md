@@ -299,6 +299,7 @@ A collection of awesome things regarding React ecosystem.
 * [UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra](https://github.com/codefoundries/UniversalRelayBoilerplate)
 * [React Star kit - React/Native + Redux + Webpack (w/ hot reload) + Express + Sequelize + Material-UI](https://github.com/ronmamo/star)
 * [Firebase 3.0 Starter using React Redux](https://github.com/douglascorrea/react-hot-redux-firebase-starter)
+* [React/Apollo starter kit with server side rendering](https://github.com/saikat/react-apollo-starter-kit)
 
 ##### Components
 * [React Components](http://react-components.com/)
