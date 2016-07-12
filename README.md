@@ -474,6 +474,9 @@ A collection of awesome things regarding React ecosystem.
 * [react-livestamp - A simple and html date countdown component for React](https://github.com/markafoni/react-livestamp)
 * [react-offcanvas - Off-canvas menus for React](https://github.com/vutran/react-offcanvas)
 
+##### Containers
+* [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
+
 ##### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
 * [react-toolbox - A set of React components implementing Google's Material Design specification](http://www.react-toolbox.com)
