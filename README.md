@@ -303,7 +303,6 @@ A collection of awesome things regarding React ecosystem.
 * [React/Apollo starter kit with server side rendering](https://github.com/saikat/react-apollo-starter-kit)
 * [React + Redux + Semantic UI](https://github.com/Romathonat/RRSUI-boilerplate)
 ##### Components
-* [React Components](http://react-components.com/)
 * [React Component List](http://dvemac.github.io/react-component-list/)
 * [React.parts - A catalog of React components](http://react.parts/)
 * [iReact: Fantastic React Components and Libraries!](http://ireact.cn/)
