@@ -632,6 +632,7 @@ A collection of awesome things regarding React ecosystem.
 * [static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
 * [React Storybook - Build React components isolately inside a sandbox environment.](https://github.com/kadirahq/react-storybook)
 * [generator-sui-react - A yeoman generator for Schibsted User Interface (SUI) ReactJS components](https://github.com/SUI-Components/generator-sui-react)
+* [Racket - A yeoman generator for creating a universal react/redux web application](https://github.com/mohebifar/racket)
 
 ##### Template Engines
  * [react-templates - Lightweight templates for React](https://github.com/wix/react-templates)
