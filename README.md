@@ -136,7 +136,7 @@ A collection of awesome things regarding React ecosystem.
 * [The Future of Drag and Drop APIs](https://medium.com/@dan_abramov/the-future-of-drag-and-drop-apis-249dfea7a15f)
 * [A gentle introduction to React Motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459)
 * [How to include markdown files into React](http://vulgairedev.fr/blog/article/markdown-pages-react)
-* 
+ 
 ##### Scotch.io React tutorials series
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 * [Build A Real-Time Twitter Stream with Node and React.js](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
@@ -302,6 +302,7 @@ A collection of awesome things regarding React ecosystem.
 * [Firebase 3.0 Starter using React Redux](https://github.com/douglascorrea/react-hot-redux-firebase-starter)
 * [React/Apollo starter kit with server side rendering](https://github.com/saikat/react-apollo-starter-kit)
 * [React + Redux + Semantic UI](https://github.com/Romathonat/RRSUI-boilerplate)
+
 ##### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
 * [React.parts - A catalog of React components](http://react.parts/)
