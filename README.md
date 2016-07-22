@@ -263,6 +263,7 @@ A collection of awesome things regarding React ecosystem.
 ##### React Internals
 * [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
 * [An Optimal Decomposition Algorithm for Tree Edit Distance](http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf)
+* [Intro to custom renderers (canvas sample)](http://goshakkk.name/react-custom-renderers/)
 
 #### React Tools
 
@@ -302,6 +303,7 @@ A collection of awesome things regarding React ecosystem.
 * [Firebase 3.0 Starter using React Redux](https://github.com/douglascorrea/react-hot-redux-firebase-starter)
 * [React/Apollo starter kit with server side rendering](https://github.com/saikat/react-apollo-starter-kit)
 * [React + Redux + Semantic UI](https://github.com/Romathonat/RRSUI-boilerplate)
+* [no-bullshit-react-webpack-starter — barebones boilerplate with only Babel & SASS set up](http://github.com/goshakkk/no-bs-react-webpack-starter)
 
 ##### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
