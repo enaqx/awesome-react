@@ -9,8 +9,6 @@ A collection of awesome things regarding React ecosystem.
   - [React Online Playground](#react-online-playground)
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
-    - [Egghead.io React tutorials series](#eggheadio-react-tutorials-series)
-    - [Thinkster.io React tutorials series](#thinksterio-react-tutorials-series)
     - [LearnCode.academy React tutorials series](#learncodeacademy-react-tutorials-series)
     - [React styling](#react-styling)
     - [React Charts Tutorials](#react-charts-tutorials)
@@ -119,27 +117,13 @@ A collection of awesome things regarding React ecosystem.
 ##### React General Tutorials
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
-* [React tutorial - Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
+* [React Primer](https://github.com/mikechau/react-primer-draft)
 * [ReactJS: Keep Simple. Everything can be a component!](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 * [React.js Koans: Practical exercises that will help you learn React.js from square one](https://github.com/arkency/reactjs_koans)
-* [React Primer](https://github.com/mikechau/react-primer-draft)
 * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+* [Thinkster React topics](https://thinkster.io/topics/react)
+* [React tutorial - Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
 * [Learn React by building the Hacker News front page](https://github.com/mking/react-hn)
-
-##### Egghead.io React tutorials series
-* [Build Your First React.js App](https://egghead.io/series/build-your-first-react-js-application)
-* [React Fundamentals](https://egghead.io/series/react-fundamentals)
-
-##### Thinkster.io React tutorials series
-* [Getting Started with React](https://thinkster.io/getting-started-with-react)
-* [Changing state via user input](https://thinkster.io/react-change-state-from-input)
-* [Programmatically rendering child components](https://thinkster.io/programmatically-rendering-child-components)
-* [Rendering Variables in JSX React components](https://thinkster.io/rendering-variables-in-react)
-* [What exactly is React?](https://thinkster.io/what-exactly-is-react)
-* [Utilizing props to create reusable components](https://thinkster.io/create-reusable-components-with-props)
-* [Understanding "state" in React components](https://thinkster.io/understanding-react-state)
-* [Creating a simple React component](https://thinkster.io/create-a-react-component)
-* [Iterating & Rendering with Loops in React components](https://thinkster.io/iterating-and-rendering-loops-in-react)
 
 ##### LearnCode.academy React tutorials series
 * [React Rapid Course](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=1)
