@@ -26,8 +26,8 @@ A collection of awesome things regarding React ecosystem.
     - [Authentication](#authentication)
     - [File Uploads](#file-uploads)
   - [React Tools](#react-tools)
-    - [React Projects](#react-projects)
     - [Boilerplates](#boilerplates)
+    - [React Projects](#react-projects)
     - [Components](#components)
     - [Libraries](#libraries)
     - [Integration](#integration)
@@ -226,43 +226,26 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Tools
 
-##### React Projects
-* [structor - User interface builder for React](https://github.com/ipselon/structor)
-* [gatsby - Transform plain text into dynamic blogs and websites using React.js](https://github.com/gatsbyjs/gatsby)
-* [react-blessed - A react renderer for blessed terminal interface library](https://github.com/Yomguithereal/react-blessed)
-* [MJML - The only framework that makes responsive-email easy. Based on React](https://mjml.io)
-
 ##### Boilerplates
-* [React Isomorphic Starter Kit - An isomorphic React boilerplate with all necessary tools are set up to start up quickly your React project: Webpack (SASS/CSS loader, JSX/JS loader, File loader...), React Router, React Hot Loader and ESLint](https://github.com/ayoubdev/reactjs-isomorphic-starterkit) - Become more productive and Enable shared javascript that runs on both client and server (client + server side rendering))
-* [React Typescript Isomorphic Starter Kit - An isomorphic React boilerplate with with all necessary tools to start up your React project with Typescript including Webpack, React Router, React Hot Loader and ESLint](https://github.com/ayoubdev/reactjs-typescript-isomorphic-starterkit)
-* [React CDK (Component Development Kit)](https://github.com/kadirahq/react-cdk) - ES6, Webpack, Testing, Linting, StoryBook (including publish to github pages)
-* [Modern React ES6 Boilerplate - Thorough React starter kit using Webpack with Hot Module Reloading (HMR), Mocha, Chai for testing and example app using Redux](https://github.com/nicksp/redux-webpack-es6-boilerplate)
-* [React Starter Kit — "isomorphic" web app boilerplate (Node.js, GraphQL, React, Babel, Webpack, CSS Modules, HMR)](https://github.com/kriasoft/react-starter-kit)
+* [Create React App](https://github.com/facebookincubator/create-react-app)
+* [React Starter Kit — isomorphic web app boilerplate (Node.js, GraphQL, React, Babel, Webpack, CSS Modules, HMR)](https://github.com/kriasoft/react-starter-kit)
 * [ASP.NET Core Starter Kit (C#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, C#](https://github.com/kriasoft/aspnet-starter-kit)
 * [ASP.NET Core Starter Kit (F#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, F#](https://github.com/kriasoft/fsharp-starter-kit)
 * [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example)
 * [React Slingshot - React + Redux with Babel, hot reloading, testing, linting and working example app](https://github.com/coryhouse/react-slingshot)
-* [Redux universal boilerplate - boilerplate for react universal application building on flux architecture based on redux implementation.](https://github.com/ufocoder/redux-universal-boilerplate)
 * [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
-* [react-transform-boilerplate - Webpack boilerplate with hot reloading React components](https://github.com/gaearon/react-transform-boilerplate)
-* [essential-react - A minimal skeleton for building testable React apps using ES6](https://github.com/pheuter/essential-react)
 * [frontend-boilerplate - webpack-react-redux-babel-autoprefixer-hmr-postcss-css-modules-rucksack-boilerplate](https://github.com/tj/frontend-boilerplate)
-* [react-hot-boilerplate - Live-editing boilerplate for your next ReactJS project](https://github.com/gaearon/react-hot-boilerplate)
 * [react-engine - A composite render engine for isomorphic express apps](https://github.com/paypal/react-engine)
 * [react-webpack-node - Boilerplate for an universal/isomorphic React + Redux/alt Flux](https://github.com/choonkending/react-webpack-node)
 * [react-native-nw-react-calculator - Mobile, desktop and website Apps with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
 * [StarHackIt - An ES6/ES7 full-stack starter kit with authentication and authorization code](https://github.com/FredericHeem/starhackit)
-* [npm-react-boilerplate - Minimal dev environment to build React modules](https://github.com/mbasso/npm-react-boilerplate)
 * [react-cordova-boilerplate - TodoMVC example for React to build a Cordova application](https://github.com/unimonkiez/react-cordova-boilerplate)
-* [react-tsx-starter - Isomorphic React TypeScript Starter](https://github.com/toddlucas/react-tsx-starter)
-* [vortigern - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.](https://github.com/barbar/vortigern)
-* [Universal Redux Template - A clean, extensible react + redux boilerplate with universal rendering, testing and more] (https://github.com/mz026/universal-redux-template)
 * [UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra](https://github.com/codefoundries/UniversalRelayBoilerplate)
-* [React Star kit - React/Native + Redux + Webpack (w/ hot reload) + Express + Sequelize + Material-UI](https://github.com/ronmamo/star)
-* [Firebase 3.0 Starter using React Redux](https://github.com/douglascorrea/react-hot-redux-firebase-starter)
-* [React/Apollo starter kit with server side rendering](https://github.com/saikat/react-apollo-starter-kit)
-* [React + Redux + Semantic UI](https://github.com/Romathonat/RRSUI-boilerplate)
-* [no-bullshit-react-webpack-starter — barebones boilerplate with only Babel & SASS set up](http://github.com/goshakkk/no-bs-react-webpack-starter)
+
+##### React Projects
+* [gatsby - Transform plain text into dynamic blogs and websites using React.js](https://github.com/gatsbyjs/gatsby)
+* [react-blessed - A react renderer for blessed terminal interface library](https://github.com/Yomguithereal/react-blessed)
+* [MJML - The only framework that makes responsive-email easy. Based on React](https://mjml.io)
 
 ##### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
