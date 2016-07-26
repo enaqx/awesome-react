@@ -559,7 +559,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-autosuggest by @moroshko - WAI-ARIA compliant React autosuggest component](https://github.com/moroshko/react-autosuggest)
 * [react-autocomplete by @eliseumds- Just tasting some ReactJS + RxJS](https://github.com/eliseumds/react-autocomplete)
 * [react-autocomplete by @prometheusresearch - Autocomplete widget based on React](https://github.com/prometheusresearch/react-autocomplete)
-* [react-select by @JedWatson - Like Selectize / Chosen / Select2 etc, work in progress](https://github.com/JedWatson/react-select)
 * [instatype by @gragland - Simple react autocomplete component](https://github.com/gragland/instatype)
 
 ##### Documentation Tools
@@ -722,7 +721,6 @@ A collection of awesome things regarding React ecosystem.
 * [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
 * [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
 * [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
-* [A sample app showcasing Flux with React Router](https://github.com/gaearon/flux-react-router-example)
 * [Yo in Flux](http://davidandsuzi.com/yo-in-flux/)
 * [React.js architecture - Flux VS Reflux](http://blog.krawaller.se/posts/react-js-architecture-flux-vs-reflux/)
 * [Avoiding Event Chains in Single Page Applications](http://www.code-experience.com/avoiding-event-chains-in-single-page-applications/)
@@ -971,7 +969,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-todos - Backbone's example TODO app with React JS for views](https://github.com/ssorallen/react-todos)
 * [github-issues-viewer - A gitub issues viewer build in react + backbone](https://github.com/jaredly/github-issues-viewer)
 * [wolfenstein3D-react - Wolfenstein with the rendering layer written in React](https://github.com/petehunt/wolfenstein3D-react)
-* [flux-react-router-example - Sample Flux app with routing and pagination using Github API](https://github.com/gaearon/flux-react-router-example)
 * [catshop - Shopping cart built on Bootstrap 3.1 using test/fake Bitcoins](https://github.com/coinbolt/catshop)
 * [Flux ImmutableJS TodoList](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
 * [Hapi+React+Flux user management system](https://github.com/jedireza/aqua)
