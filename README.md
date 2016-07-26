@@ -56,8 +56,6 @@ A collection of awesome things regarding React ecosystem.
   - [React Native Awesome Components](#react-native-awesome-components)
 - [JSX](#jsx)
   - [JSX Resources](#jsx-resources)
-  - [JSX Tutorials](#jsx-tutorials)
-  - [JSX Alternatives](#jsx-alternatives)
 - [Flux](#flux)
   - [Flux General Resources](#flux-general-resources)
   - [Flux Implementations](#flux-implementations)
@@ -136,7 +134,7 @@ A collection of awesome things regarding React ecosystem.
 * [The Future of Drag and Drop APIs](https://medium.com/@dan_abramov/the-future-of-drag-and-drop-apis-249dfea7a15f)
 * [A gentle introduction to React Motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459)
 * [How to include markdown files into React](http://vulgairedev.fr/blog/article/markdown-pages-react)
- 
+
 ##### Scotch.io React tutorials series
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 * [Build A Real-Time Twitter Stream with Node and React.js](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
@@ -714,22 +712,8 @@ A collection of awesome things regarding React ecosystem.
 
 #### JSX Resources
 * [JSX Spec](https://facebook.github.io/jsx/)
-* [JSX Spec on GitHub](https://github.com/facebook/jsx)
 * [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
-
-##### JSX Tutorials
-* [Compiling JSX with Sweet.js using Readtables](http://jlongster.com/Compiling-JSX-with-Sweet.js-using-Readtables)
-* [JSX for the real DOM](http://blog.vjeux.com/2013/javascript/jsx-for-the-real-dom.html)
-* [JSX: E4X The Good Parts](http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html)
-* [Lint Like It’s 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48)
-* [React’s JSX: The Other Side of the Coin](https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98)
 * [JSX in TypeScript](https://github.com/Microsoft/TypeScript/wiki/JSX)
-
-##### JSX Alternatives
- * [r-dom - A simple React DOM wrapper](https://github.com/uber/r-dom)
- * [react-hyperscript - Hyperscript syntax for React.js markup](https://github.com/mlmorg/react-hyperscript)
- * [react-no-jsx - A pure JS DSL to be used instead of JSX](https://github.com/jussi-kalliokoski/react-no-jsx)
- * [react-obj - build React Components with javascript objects insted of JSX](https://github.com/dustinsanders/react-obj)
 
 ---
 ### Flux
