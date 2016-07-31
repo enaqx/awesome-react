@@ -27,6 +27,7 @@ A collection of awesome things regarding React ecosystem.
     - [File Uploads](#file-uploads)
   - [React Tools](#react-tools)
     - [Boilerplates](#boilerplates)
+    - [Routing](#routing)
     - [React Projects](#react-projects)
     - [Components](#components)
     - [Libraries](#libraries)
@@ -243,6 +244,9 @@ A collection of awesome things regarding React ecosystem.
 * [StarHackIt - An ES6/ES7 full-stack starter kit with authentication and authorization code](https://github.com/FredericHeem/starhackit)
 * [react-cordova-boilerplate - TodoMVC example for React to build a Cordova application](https://github.com/unimonkiez/react-cordova-boilerplate)
 * [UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra](https://github.com/codefoundries/UniversalRelayBoilerplate)
+
+##### Routing
+* [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
 
 ##### React Projects
 * [gatsby - Transform plain text into dynamic blogs and websites using React.js](https://github.com/gatsbyjs/gatsby)
@@ -720,7 +724,7 @@ A collection of awesome things regarding React ecosystem.
 #### Redux Tools
 * [react-redux - Official React bindings for Redux](https://github.com/reactjs/react-redux)
 * [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/gaearon/redux-devtools)
-* [react-router-redux - Bindings to keep react-router and redux in sync](https://github.com/reactjs/react-router-redux)
+  * [react-router-redux - Bindings to keep react-router and redux in sync](https://github.com/reactjs/react-router-redux)
 * [redux-form - A Higher Order Component using react-redux to keep form state](https://github.com/erikras/redux-form)
 * [redux-thunk - Thunk middleware for redux](https://github.com/gaearon/redux-thunk)
 * [redux-logger - Logger middleware for redux](https://github.com/theaqua/redux-logger)
