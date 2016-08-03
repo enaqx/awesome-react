@@ -683,6 +683,8 @@ A collection of awesome things regarding React ecosystem.
 * [Fluxible](https://github.com/yahoo/fluxible)
 * [NuclearJS](https://github.com/optimizely/nuclear-js)
 * [Flummox](https://github.com/acdlite/flummox)
+* [Coflux](https://github.com/blainekasten/coflux)
+* [MobX](https://github.com/mobxjs/mobx)
 
 #### Flux Tutorials
 * [Flux Application Architecture](http://facebook.github.io/flux/docs/overview.html)
@@ -952,7 +954,7 @@ A collection of awesome things regarding React ecosystem.
 ### Example Apps
 * [isomorphic500 - Isomorphic JS app built with React and Fluxible](https://github.com/gpbl/isomorphic500)
 * [fil -  A playground for in-browser interpreters (Redux)](https://github.com/fatiherikli/fil)
-* [sound-redux - A Soundcloud client built with React / Redux](https://github.com/andrewngu/sound-redux)
+* [sound-redux - A Soundbutt client built with React / Redux](https://github.com/andrewngu/sound-redux)
 * [react-pomodoro - A Pomodoro timer for developers](https://github.com/afonsopacifer/react-pomodoro)
 * [Do - Notes management application built with React and Redux](https://github.com/1ven/do)
 
