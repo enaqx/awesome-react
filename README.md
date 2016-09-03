@@ -568,6 +568,7 @@ A collection of awesome things regarding React ecosystem.
 * [immstruct - Immutable data structures with history for top-to-bottom properties in component based libraries like React](https://github.com/omniscientjs/immstruct)
 * [seamless-immutable - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects](https://github.com/rtfeldman/seamless-immutable)
 * [tydel - Typed Models and Collections, with React bindings](http://tydel.js.org)
+* [extendable-immutable - Extend any Immutable.js data structure](https://github.com/philpl/extendable-immutable)
 
 ##### React Development Experience
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
