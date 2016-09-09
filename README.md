@@ -937,7 +937,6 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### Books
-* [React Speed Coding - React ES6, Redux, Webpack, Enzyme, Flexbox, Firebase](https://reactspeed.com)
 * [SurviveJS - Webpack and React](http://survivejs.com/)
 
 
