@@ -259,7 +259,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
-* [React.parts - A catalog of React components](http://react.parts/)
+* [JS.coach - A catalog of React components](https://js.coach/)
 * [iReact: Fantastic React Components and Libraries!](http://ireact.cn/)
 * [Khan Academy React Components](http://khan.github.io/react-components/)
 * [VistarMedia Components](http://cmpnt.vistarmedia.com/)
