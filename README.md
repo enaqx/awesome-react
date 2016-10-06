@@ -941,6 +941,7 @@ A collection of awesome things regarding React ecosystem.
 ---
 ### Books
 * [SurviveJS - Webpack and React](http://survivejs.com/)
+* [Fullstack React: The Complete Guide to ReactJS and Friends](https://www.fullstackreact.com/)
 
 
 ---
