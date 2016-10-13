@@ -867,6 +867,7 @@ A collection of awesome things regarding React ecosystem.
 * [Apollo Official Site](http://www.apollostack.com/)
 * [Apollo GitHub](https://github.com/apollostack)
 * [Apollo Blog](https://medium.com/apollo-stack)
+* [Apollo Slack](https://apollostack.slack.com/)
 
 
 ---
