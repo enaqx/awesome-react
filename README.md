@@ -747,6 +747,7 @@ A collection of awesome things regarding React ecosystem.
 * [redux-search - Redux bindings for client-side search](https://github.com/treasure-data/redux-search)
 * [redux-mock-store - A mock store for your testing your redux async action creators and middleware](https://github.com/arnaudbenard/redux-mock-store)
 * [redux-immutable - Create an equivalent function of Redux combineReducers that works with Immutable.js state](https://github.com/gajus/redux-immutable)
+* [redux-action-watch - Subscribe/listen for action, dispatched to redux](https://github.com/mrdivyansh/redux-action-watch)
 
 #### Redux Tutorials
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
