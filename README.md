@@ -800,6 +800,7 @@ A collection of awesome things regarding React ecosystem.
 > Query Language
 
 #### GraphQL Spec
+* [GraphQL Official Site](http://graphql.org/)
 * [GraphQL Specification](http://facebook.github.io/graphql/)
 * [GraphQL Specification Repository](https://github.com/facebook/graphql)
 
