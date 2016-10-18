@@ -305,6 +305,8 @@ A collection of awesome things regarding React ecosystem.
 * [react-crouton - A message component for reactjs](https://github.com/xeodou/react-crouton)
 * [react-ago-component - Renders the approximate time ago in words from a specific past date](https://github.com/martinandert/react-ago-component)
 * [react-translate-component - Provides multi-lingual/localized text content](https://github.com/martinandert/react-translate-component)
+* [react-multilingual - multilingual feature on strings | text and css style](https://github.com/hasangilak/react-multilingual)
+
 * [react-lorem-component - Renders lorem ipsum placeholder text](https://github.com/martinandert/react-lorem-component)
 * [react-interpolate-component - Renders elements into a format string](https://github.com/martinandert/react-interpolate-component)
 * [react-proxy-loader - Hot Module Replacement and Code Splitting](https://github.com/webpack/react-proxy-loader)
