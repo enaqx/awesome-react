@@ -530,6 +530,8 @@ A collection of awesome things regarding React ecosystem.
 * [formsy-react - A form input builder and validator for React JS](https://github.com/christianalfoni/formsy-react)
 * [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
 * [Winterfell - Generate complex, validated and extendable JSON-based forms in React](https://github.com/andrewhathaway/Winterfell)
+* [Redux-Autoform - Create Redux-Forms dynamically out of metadata](https://github.com/redux-autoform/redux-autoform)
+
 
 ##### Autocomplete
 * [react-typeahead-search by @tonyspiro](https://github.com/tonyspiro/react-typeahead-search)
