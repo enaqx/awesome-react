@@ -114,7 +114,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Core meeting notes](https://github.com/reactjs/core-notes)
 
 #### React Online Playground
-* [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
+* [React JSFiddle Integration with JSX](https://jsfiddle.net/quadroid/a5hd28s6/)
 * [React JSFiddle Integration without JSX](https://jsfiddle.net/reactjs/5vjqabv3/)
 * [Babel REPL](https://babeljs.io/repl/)
 * [React HTML to JSX Online Compiler](https://facebook.github.io/react/html-jsx.html)
