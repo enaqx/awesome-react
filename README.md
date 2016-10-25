@@ -252,6 +252,7 @@ A collection of awesome things regarding React ecosystem.
 * [StarHackIt - An ES6/ES7 full-stack starter kit with authentication and authorization code](https://github.com/FredericHeem/starhackit)
 * [react-cordova-boilerplate - TodoMVC example for React to build a Cordova application](https://github.com/unimonkiez/react-cordova-boilerplate)
 * [UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra](https://github.com/codefoundries/UniversalRelayBoilerplate)
+* [react-router-intl-routing - React Router 4 and React-Intl translated routes glued together with Mobx](https://github.com/jamiehill/react-router-intl-routing)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
