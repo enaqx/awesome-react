@@ -433,6 +433,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-pagespeed-score - A React component for display a dial-type chart of PageSpeed Insights](https://github.com/cauealves/react-pagespeed-score)
 * [react-livestamp - A simple and html date countdown component for React](https://github.com/markafoni/react-livestamp)
 * [react-offcanvas - Off-canvas menus for React](https://github.com/vutran/react-offcanvas)
+* [react-upload-file - Modern, structure-only, ui-customizable React Multipart Upload component](https://github.com/wubocong/react-upload-file)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
@@ -497,8 +498,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-jade - Compile Jade to React JavaScript](https://github.com/ForbesLindesay/react-jade)
 * [jade-react - Compile Jade templates to React.DOM expressions](https://github.com/duncanbeevers/jade-react)
 * [gulp-jade-react - Compile Jade templates into React de-sugared JSX with Gulp](https://github.com/duncanbeevers/gulp-jade-react)
-* [react-semantic-ui - React components for Semantic UI](https://github.com/jhudson8/react-semantic-ui)
-* [semantic-react - React wrappers for Semantic UI](https://github.com/DveMac/semantic-react)
+* [Semantic-UI-React - The official Semantic-UI-React integration](https://github.com/Semantic-Org/Semantic-UI-React)
 * [sbt-reactjs - React SBT Plugin using npm](https://github.com/ddispaltro/sbt-reactjs)
 * [scalajs-react - A guilty affair between Scala.js and Facebook's React](https://github.com/japgolly/scalajs-react)
 * [rpm-xtags-rivets-finch-react - RPM project: x-tags, rivets.js, finch.js, and React](https://github.com/ruahman/rpm-xtags-rivets-finch-react)
