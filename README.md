@@ -433,6 +433,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-pagespeed-score - A React component for display a dial-type chart of PageSpeed Insights](https://github.com/cauealves/react-pagespeed-score)
 * [react-livestamp - A simple and html date countdown component for React](https://github.com/markafoni/react-livestamp)
 * [react-offcanvas - Off-canvas menus for React](https://github.com/vutran/react-offcanvas)
+* [react-laser-beam - A loading progress for react to improve your site interactive and experience](https://github.com/chikara-chen/react-laser-beam)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
