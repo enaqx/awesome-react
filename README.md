@@ -432,6 +432,7 @@ A collection of awesome things regarding React ecosystem.
 * [echarts-for-react - baidu Echarts(v3.0) components for React](https://github.com/hustcc/echarts-for-react)
 * [react-pagespeed-score - A React component for display a dial-type chart of PageSpeed Insights](https://github.com/cauealves/react-pagespeed-score)
 * [react-livestamp - A simple and html date countdown component for React](https://github.com/markafoni/react-livestamp)
+* [react-laser-beam - A loading progress for react to improve your site interactive and experience](https://github.com/chikara-chen/react-laser-beam)
 * [react-offcanvas - Off-canvas menus for React](https://github.com/vutran/react-offcanvas)
 
 ##### Containers
