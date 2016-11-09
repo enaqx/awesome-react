@@ -82,6 +82,7 @@ A collection of awesome things regarding React ecosystem.
 - [Flow](#flow)
   - [Flow Resources](#flow-resources)
 - [Videos](#videos)
+  - [Screencasts](#screencasts)
   - [Video from Confs](#video-from-confs)
   - [React.js Conf 2015 Playlist](#reactjs-conf-2015-playlist)
   - [ReactEurope Conf 2015 Day 1 Playlist](#reacteurope-conf-2015-day-1-playlist)
@@ -930,8 +931,11 @@ A collection of awesome things regarding React ecosystem.
 #### [ReactEurope Conf 2016 Day 2 Playlist](https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof)
 #### [ReactRally Conf 2016 Playlist](https://www.youtube.com/playlist?list=PLUD4kD-wL_zYSfU3tIYsb4WqfFQzO_EjQ)
 
-#### Video Tutorials
+#### Screencasts
+* [ReactCasts — Weekly, short React screencasts containing tips, tricks and tutorials.](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ/feed)
 * [learnreact.com — 3ish minute videos on React.js](http://learnreact.com/)
+
+#### Video Tutorials
 * [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
 * [Learn ReactJS (make a Pokedex!) - part 2](https://www.youtube.com/watch?v=lNqnZ58YGE0)
 * [React.js Components  - part 1](http://www.youtube.com/watch?v=rFvZydtmsxM)
@@ -955,6 +959,7 @@ A collection of awesome things regarding React ecosystem.
 ---
 ### Books
 * [SurviveJS - Webpack and React](http://survivejs.com/)
+* [Pro React](http://pro-react.com/)
 
 
 ---
