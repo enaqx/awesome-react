@@ -73,6 +73,7 @@ A collection of awesome things regarding React ecosystem.
   - [GraphQL Implementations](#graphql-implementations)
   - [Server Integration](#server-integration)
   - [Database Integration](#database-integration)
+  - [GraphQL auto generating CMS](https://github.com/sarkistlt/graphql-auto-generating-cms)
 - [Relay](#relay)
   - [Relay General Resources](#relay-general-resources)
   - [Relay Tutorials](#relay-tutorials)
