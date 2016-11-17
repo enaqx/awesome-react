@@ -141,6 +141,7 @@ A collection of awesome things regarding React ecosystem.
 * [Radium](https://github.com/FormidableLabs/radium)
 * [jsxstyle](https://github.com/petehunt/jsxstyle)
 * [ReactCSS](https://github.com/casesandberg/reactcss)
+* [Aphrodite](https://github.com/Khan/aphrodite)
 
 ##### React Charts Tutorials
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
