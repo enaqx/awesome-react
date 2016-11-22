@@ -512,6 +512,7 @@ A collection of awesome things regarding React ecosystem.
 * [reactfire - ReactJS mixin for easy Firebase integration](https://github.com/firebase/reactfire)
 * [react-clickdrag-mixin - ClickDrag mixin for React component](https://github.com/tleunen/react-clickdrag-mixin)
 * [Rewrite the Admin UI of KeystoneJS in React](https://github.com/keystonejs/keystone/issues/503)
+* [masonreact - React component to play with the great library Masonry from desandro](https://github.com/xeonys/masonreact)
 * [react-masonry-mixin - Standalone mixin for Masonry (@desandro)](https://github.com/eiriklv/react-masonry-mixin)
 * [react-packery-mixin - Standalone mixin for Packery (Metafizzy)](https://github.com/eiriklv/react-packery-mixin)
 * [react-dropzone - Simple HTML5 drag-drop zone with React.js.](https://github.com/paramaggarwal/react-dropzone)
@@ -530,6 +531,7 @@ A collection of awesome things regarding React ecosystem.
 * [formsy-react - A form input builder and validator for React JS](https://github.com/christianalfoni/formsy-react)
 * [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
 * [Winterfell - Generate complex, validated and extendable JSON-based forms in React](https://github.com/andrewhathaway/Winterfell)
+* [react-enhanced-form - The best react form component, on earth 🌍](https://github.com/xeonys/react-enhanced-form)
 
 ##### Autocomplete
 * [react-typeahead-search by @tonyspiro](https://github.com/tonyspiro/react-typeahead-search)
