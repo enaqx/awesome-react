@@ -69,6 +69,7 @@ A collection of awesome things regarding React ecosystem.
   - [Testing Tutorials](#testing-tutorials)
 - [GraphQL](#graphql)
   - [GraphQL Spec](#graphql-spec)
+  - [GraphQL Tools](#graphql-tools)
   - [GraphQL Tutorials](#graphql-tutorials)
   - [GraphQL Implementations](#graphql-implementations)
   - [Server Integration](#server-integration)
@@ -803,6 +804,10 @@ A collection of awesome things regarding React ecosystem.
 * [GraphQL Official Site](http://graphql.org/)
 * [GraphQL Specification](http://facebook.github.io/graphql/)
 * [GraphQL Specification Repository](https://github.com/facebook/graphql)
+
+#### GraphQL Tools
+* [GraphQL CMS](https://github.com/sarkistlt/graphql-auto-generating-cms)
+* [Mongoose schema To GraphQL](https://github.com/sarkistlt/mongoose-schema-to-graphql)
 
 #### GraphQL Tutorials
 * [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
