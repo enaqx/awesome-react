@@ -955,7 +955,7 @@ A collection of awesome things regarding React ecosystem.
 ---
 ### Books
 * [SurviveJS - Webpack and React](http://survivejs.com/)
-
+* [Developing a React.js Edge](https://bleedingedgepress.com/developing-a-react-edge-2nd-edition/)
 
 ---
 ### Demos
