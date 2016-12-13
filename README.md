@@ -611,7 +611,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-chartjs - Common react charting components using chart.js](https://github.com/jhudson8/react-chartjs)
 * [react-stockcharts - Highly customizable stock charts with ReactJS and d3](https://github.com/rrag/react-stockcharts)
 * [VictoryJS - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
-
+* [react-sigmajs - lightweight powerful library for drawing network graphs made with SigmaJS](https://github.com/dunnock/react-sigma)
 
 ---
 ### React Native
