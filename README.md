@@ -143,6 +143,8 @@ A collection of awesome things regarding React ecosystem.
 * [ReactCSS](https://github.com/casesandberg/reactcss)
 * [Aphrodite](https://github.com/Khan/aphrodite)
 * [Glamor](https://github.com/threepointone/glamor)
+* [Styletron](https://github.com/rtsao/styletron)
+* [TypeStyle](https://github.com/typestyle/typestyle)
 
 ##### React Charts Tutorials
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
