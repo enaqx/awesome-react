@@ -361,6 +361,8 @@ A collection of awesome things regarding React ecosystem.
 * [react-tabs - React tabs component](https://github.com/mzabriskie/react-tabs)
 * [react-simpletabs - Just a simple tabs component](https://github.com/pedronauck/react-simpletabs)
 * [react-draggable - React draggable component](https://github.com/mzabriskie/react-draggable)
+* [react-resizable - A tiny Resizable component based on react-draggable](https://github.com/strml/react-resizable)
+* [react-grid-layout - A Masonry-style responsive grid layout](https://github.com/strml/react-grid-layout)
 * [react-dnd - Flexible HTML5 drag-and-drop mixin for React with full DOM control](https://github.com/gaearon/react-dnd)
 * [react-sticky - <Sticky /> component for React-based apps](https://github.com/captivationsoftware/react-sticky)
 * [js-object-to-table - JavaScript objects drawing themselves into a table using React](https://github.com/enaqx/js-object-to-table)
