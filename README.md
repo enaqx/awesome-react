@@ -253,6 +253,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-cordova-boilerplate - TodoMVC example for React to build a Cordova application](https://github.com/unimonkiez/react-cordova-boilerplate)
 * [UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra](https://github.com/codefoundries/UniversalRelayBoilerplate)
 * [react-boilerplate - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](http://reactboilerplate.com)
+* [Next.js - A minimalistic framework for server-rendered React applications](https://zeit.co/blog/next)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
@@ -296,7 +297,8 @@ A collection of awesome things regarding React ecosystem.
 * [react-textarea-autosize - Textarea component for React which grows with content](https://github.com/andreypopp/react-textarea-autosize)
 * [react-spinner - Zero configuration loading spinner](https://github.com/chenglou/react-spinner)
 * [react-treeview - Easy, light, flexible tree view made with React](https://github.com/chenglou/react-treeview)
-* [react-tree-menu - A stateless tree menu component built with the Flux architecture in mind](https://github.com/MandarinConLaBarba/react-tree-menu) 
+* [react-tree-menu - A stateless tree menu component built with the Flux architecture in mind](https://github.com/MandarinConLaBarba/react-tree-menu)
+
 * [react-tween-state - React animation tween state](https://github.com/chenglou/react-tween-state)
 * [react-stripe-checkout - Easily load Stripe Checkout as a React component](https://github.com/azmenak/react-stripe-checkout)
 * [react-swipe - Brad Birdsall's swipe.js, as a React component](https://github.com/jed/react-swipe)
