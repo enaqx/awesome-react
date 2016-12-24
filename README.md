@@ -268,6 +268,15 @@ A collection of awesome things regarding React ecosystem.
 * [react-blessed - A react renderer for blessed terminal interface library](https://github.com/Yomguithereal/react-blessed)
 * [MJML - The only framework that makes responsive-email easy. Based on React](https://mjml.io)
 
+##### Complete Web UI Toolkits
+* [Salesforce Lightning Design System for React (unofficial)](https://github.com/mashmatrix/react-lightning-design-system)
+* [Microsoft Office UI fabric (official)](https://github.com/OfficeDev/office-ui-fabric-react)
+* [Palantir Blueprint JS (official)](https://github.com/palantir/blueprint)
+* [Redhat Patternfly (unofficial)](https://runkit.com/npm/patternfly-react)
+* [Google Material Design material-ui.com (unofficial)](http://www.material-ui.com/#/)
+* [Google Material Design react-toolbox (unofficial)](http://react-toolbox.com/)
+* [Ant Design - An enterprise-class UI design language and React-based implementation](https://github.com/ant-design/ant-design)
+
 ##### Components
 * [React Component List](http://dvemac.github.io/react-component-list/)
 * [JS.coach - A catalog of React components](https://js.coach/)
@@ -280,7 +289,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-google-login-component](https://github.com/kennetpostigo/react-google-login-component)
 * [react-facebook-login-component](https://github.com/kennetpostigo/react-facebook-login-component)
 * [react-component - A Collection of React UI Components](http://react-component.github.io/badgeboard/)
-* [Ant Design - An enterprise-class UI design language and React-based implementation](https://github.com/ant-design/ant-design)
 * [UXCore - A React UI Component Set living for enterprise backend application](https://github.com/uxcore/uxcore)
 * [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 * [react-aim - Determine the cursor aim for triggering mouse events](https://github.com/gabrielbull/react-aim)
