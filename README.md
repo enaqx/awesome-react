@@ -981,7 +981,9 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### Podcasts
-* [React Podcast - Dan Abramov - 12/15/15](http://reactpodcast.com/2015/12/7-rapid-fire-1-with-special-guest-dan-abramov/)
+
+* [The Web Platform: Learning React.js - Aimee Knight - 2016-05-03](http://thewebplatformpodcast.com/86-learning-reactjs)
+* [React Podcast: Rapid Fire - Dan Abramov - 2015-12-15](http://reactpodcast.com/2015/12/7-rapid-fire-1-with-special-guest-dan-abramov/)
 
 
 ---
