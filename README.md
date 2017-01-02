@@ -91,6 +91,7 @@ A collection of awesome things regarding React ecosystem.
   - [React.js Conf 2016 Playlist](#reactjs-conf-2016-playlist)
   - [ReactRally Conf 2016 Playlist](#reactrally-conf-2016-playlist)
   - [Video Tutorials](#video-tutorials)
+- [Podcasts](#podcasts)
 - [Books](#books)
 - [Demos](#demos)
 - [Example Apps](#example-apps)
@@ -976,6 +977,11 @@ A collection of awesome things regarding React ecosystem.
 * [React for beginners](https://reactforbeginners.com/)
 * [React Testing Cookbook - video lessons](https://egghead.io/series/react-testing-cookbook)
 * [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
+
+
+---
+### Podcasts
+* [React Podcast - Dan Abramov - 12/15/15](http://reactpodcast.com/2015/12/7-rapid-fire-1-with-special-guest-dan-abramov/)
 
 
 ---
