@@ -810,6 +810,7 @@ A collection of awesome things regarding React ecosystem.
 #### Testing Utilities
 * [Jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
 * [enzyme - JavaScript Testing utilities for React](https://github.com/airbnb/enzyme)
+* [chai-immutable - Chai assertions for Facebook's Immutable library for JavaScript collections](https://github.com/astorije/chai-immutable)
 
 ##### Testing Tutorials
 * [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
