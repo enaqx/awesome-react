@@ -445,6 +445,10 @@ A collection of awesome things regarding React ecosystem.
 * [react-offcanvas - Off-canvas menus for React](https://github.com/vutran/react-offcanvas)
 * [react-svg-pan-zoom - Adds pan and zoom features to the SVG images](http://chrvadala.github.io/react-svg-pan-zoom/)
 * [react-virtualized - React components for efficiently rendering large lists and tabular data ](https://github.com/bvaughn/react-virtualized)
+* [react-duoshuo - A DuoShuo component for React](https://github.com/xlsdg/react-duoshuo)
+* [react-geetest - A Geetest component for React](https://github.com/xlsdg/react-geetest)
+* [react-simplemde-v1 - React component wrap for SimpleMDE Markdown Editor(v1.x)](https://github.com/xlsdg/react-simplemde-v1)
+* [react-echarts-v3 - React component wrap for ECharts.js(v3.x)](https://github.com/xlsdg/react-echarts-v3)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
