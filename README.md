@@ -192,7 +192,6 @@ A collection of awesome things regarding React ecosystem.
 * [React and Datatables](https://github.com/wyvernnot/react-datatables-example)
 
 ##### React and Haskell
-* [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/index.html)
 * [stackage-view, built with Yesod and GHCJS+React](https://github.com/fpco/stackage-view)
 * [TodoMVC example with Shade (Haste+React)](https://github.com/takeoutweight/shade-todomvc)
 * [react-haskell, to be used with Haste](https://hackage.haskell.org/package/react-haskell) ([blog post](http://joelburget.com/react-haskell/))
