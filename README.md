@@ -155,6 +155,7 @@ A collection of awesome things regarding React ecosystem.
 * [Meteor official Guide](http://guide.meteor.com/react.html)
 * [Meteor with React Tutorial](https://www.meteor.com/tutorials/react/creating-an-app)
 * [React for Meteor developers](http://blog.differential.com/react-for-meteor-developers/)
+* [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
 
 ##### React and Angular
 * [NgReact - React Components in Angular](http://davidandsuzi.com/ngreact-react-components-in-angular/)
