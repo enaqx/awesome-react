@@ -466,6 +466,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-i13n - A performant, scalable and pluggable approach to instrumenting your React application](https://github.com/yahoo/react-i13n)
 * [react-icons - svg react icons of popular icon packs](https://github.com/gorangajic/react-icons)
 * [Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc...](https://github.com/Wildhoney/Keo)
+* [Blueprint - A React-based UI toolkit for the web](https://github.com/palantir/blueprint)
 
 ##### Integration
 * [ReactJS.NET](http://reactjs.net/)
