@@ -349,6 +349,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-table-sorter-demo - A React.js Table Sorter Component](https://github.com/bgerm/react-table-sorter-demo)
 * [react-table-component - React Table Component for creating a very basic html table](https://gist.github.com/ChaseWest/1935d08b156ae04b85d2)
 * [react-input-placeholder - Input is a small wrapper around React.DOM.input](https://github.com/enigma-io/react-input-placeholder)
+* [react-infinite-scroll-component - An Infinite Scroll component that works, also has `Pull Down to Refresh` feature](https://github.com/ankeetmaini/react-infinite-scroll-component) 
 * [react-infinite-scroll - An infinite scroll component for React](https://github.com/guillaumervls/react-infinite-scroll)
 * [react-ellipsis - Ellipsis component for React](https://github.com/guillaumervls/react-ellipsis)
 * [react-pillbox - Pillbox component for React](https://github.com/redbadger/react-pillbox)
