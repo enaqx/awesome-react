@@ -1011,7 +1011,6 @@ A collection of awesome things regarding React ecosystem.
 * [Hapi+React+Flux user management system](https://github.com/jedireza/aqua)
 * [Redux TodoMVC](https://github.com/gaearon/redux/tree/master/examples/todomvc)
 * [react-babel-webpack - CRUD demo app featuring React, React Router, Flux, Webpack, Bootstrap](https://github.com/arcseldon/react-babel-webpack-starter-app.git)
-* [Made with React - Collection of websites and applications using ReactJS](http://madewithreact.com/)
 
 
 ---
