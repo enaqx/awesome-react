@@ -635,6 +635,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-stockcharts - Highly customizable stock charts with ReactJS and d3](https://github.com/rrag/react-stockcharts)
 * [VictoryJS - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
 * [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
+* [AnyChart-React - Intuitive and easy-to-use React plugin for creating beautiful interactive charts with AnyChart JavaScript charting library](https://github.com/AnyChart/AnyChart-React)
 
 
 ---
