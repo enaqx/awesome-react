@@ -96,6 +96,7 @@ A collection of awesome things regarding React ecosystem.
 - [Example Apps](#example-apps)
 - [Real Apps](#real-apps)
 - [Contribution](#contribution)
+- [React Resume](http://vpdeva.github.io)
 
 
 ---
