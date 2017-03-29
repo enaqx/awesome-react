@@ -446,6 +446,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-offcanvas - Off-canvas menus for React](https://github.com/vutran/react-offcanvas)
 * [react-svg-pan-zoom - Adds pan and zoom features to the SVG images](http://chrvadala.github.io/react-svg-pan-zoom/)
 * [react-virtualized - React components for efficiently rendering large lists and tabular data ](https://github.com/bvaughn/react-virtualized)
+* [react-file-input-previews-base64 - Easy to use, ready to go and customizable wrapper around file input, with option for image previews and returning file as base64 string](https://github.com/SiDevesh/react-file-input-previews-base64)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
