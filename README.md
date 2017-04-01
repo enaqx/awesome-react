@@ -90,6 +90,7 @@ A collection of awesome things regarding React ecosystem.
   - [ReactRally Conf 2015 Playlist](#reactrally-conf-2015-playlist)
   - [React.js Conf 2016 Playlist](#reactjs-conf-2016-playlist)
   - [ReactRally Conf 2016 Playlist](#reactrally-conf-2016-playlist)
+  - [React.js Conf 2017 Playlist](#reactjs-conf-2017-playlist)
   - [Video Tutorials](#video-tutorials)
 - [Books](#books)
 - [Demos](#demos)
@@ -958,6 +959,7 @@ A collection of awesome things regarding React ecosystem.
 #### [ReactEurope Conf 2016 Day 1 Playlist](https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa)
 #### [ReactEurope Conf 2016 Day 2 Playlist](https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof)
 #### [ReactRally Conf 2016 Playlist](https://www.youtube.com/playlist?list=PLUD4kD-wL_zYSfU3tIYsb4WqfFQzO_EjQ)
+#### [React.js Conf 2017 Playlist](https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0)
 
 #### Video Tutorials
 * [learnreact.com — 3ish minute videos on React.js](http://learnreact.com/)
