@@ -534,6 +534,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-three - React bindings to create and control a 3D scene using three.js](https://github.com/Izzimach/react-three)
 * [react-three-renderer - Render into a three.js canvas using React](https://github.com/toxicFork/react-three-renderer)
 * [react-threejs - Simplest bindings between React & Three.js](https://github.com/fritx/react-threejs)
+* [react-drag-resize - Resizable component for React](https://github.com/Fritz-Lium/react-drag-resize)
 
 ##### Forms
 * [React Forms](http://facebook.github.io/react/docs/forms.html)
