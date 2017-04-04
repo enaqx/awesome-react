@@ -562,6 +562,7 @@ A collection of awesome things regarding React ecosystem.
 * [instatype by @gragland - Simple react autocomplete component](https://github.com/gragland/instatype)
 
 ##### Documentation Tools
+* [react-showroom - markdown documentation and live examples. Use preconfigured template for quick start](https://github.com/OpusCapitaBES/js-react-showroom-client)
 * [react-docgen - Extract information from React component files for documentation generation](https://github.com/reactjs/react-docgen)
 * [react-styleguide-generator - Easily generate a good-looking styleguide](https://github.com/pocotan001/react-styleguide-generator)
 
