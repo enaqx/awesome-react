@@ -596,7 +596,7 @@ A collection of awesome things regarding React ecosystem.
 * [tydel - Typed Models and Collections, with React bindings](http://tydel.js.org)
 * [extendable-immutable - Extend any Immutable.js data structure](https://github.com/philpl/extendable-immutable)
 
-##### React Development Experience
+##### React Developer Experience
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
 * [react-transform-hmr - A React Transform that enables hot reloading React](https://github.com/gaearon/react-transform-hmr)
 * [Nuclide - An open IDE for web and native mobile development, built on top of Atom](http://nuclide.io/)
@@ -612,6 +612,7 @@ A collection of awesome things regarding React ecosystem.
 * [generator-react-gulp-browserify - Yeoman generator for React](https://github.com/randylien/generator-react-gulp-browserify)
 * [generator-reactapp - Yeoman generator for react app with redux, webpack, gulp and restful.js etc.](https://github.com/Jackong/generator-reactapp)
 * [static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
+* [react-cosmos - DX tool for designing reusable React components](https://github.com/react-cosmos/react-cosmos)
 * [React Storybook - UI Component Dev Environment for React](https://github.com/kadirahq/react-storybook)
 * [generator-sui-react - A yeoman generator for Schibsted User Interface (SUI) ReactJS components](https://github.com/SUI-Components/generator-sui-react)
 * [Racket - A yeoman generator for creating a universal react/redux web application](https://github.com/mohebifar/racket)
