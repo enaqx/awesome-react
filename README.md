@@ -448,7 +448,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-virtualized - React components for efficiently rendering large lists and tabular data ](https://github.com/bvaughn/react-virtualized)
 * [Retilt - Tilt effect for your components](https://github.com/f-hmns/Tilt)
 
-
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
 
