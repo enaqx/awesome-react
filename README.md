@@ -523,6 +523,7 @@ A collection of awesome things regarding React ecosystem.
 * [turbo-react - Combine Turbolinks and React to apply DOM diffs](https://github.com/ssorallen/turbo-react)
 * [react-bacon - A little module for using React with Bacon.js](https://github.com/jamesmacaulay/react-bacon)
 * [msx - React's JSX Transformer, tweaked to output calls to Mithril](https://github.com/insin/msx)
+* [React.withBackbone - React 16 ready backbone binding](https://github.com/beanworks/React.withBackbone)
 * [Backbone React Component](https://github.com/magalhas/backbone-react-component)
 * [react-backbone - Backbone-aware mixins for react](https://github.com/jhudson8/react-backbone)
 * [NestedReact - transparent integration with Backbone Views and NestedTypes models](https://github.com/Volicon/NestedReact/)
