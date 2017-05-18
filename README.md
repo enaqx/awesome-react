@@ -147,6 +147,7 @@ A collection of awesome things regarding React ecosystem.
 * [Styletron](https://github.com/rtsao/styletron)
 * [TypeStyle](https://github.com/typestyle/typestyle)
 * [styled-components](https://github.com/styled-components/styled-components)
+* [gloss](https://github.com/motion/gloss)
 
 ##### React Charts Tutorials
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
