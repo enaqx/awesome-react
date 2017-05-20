@@ -215,6 +215,7 @@ A collection of awesome things regarding React ecosystem.
 * [Golang Isomorphic Hot Reloadable/React/Flummox/Css-Module Starter Kit](https://github.com/olebedev/go-starter-kit)
 * [Serverside rendering with React + Hapi](https://github.com/jedireza/hapi-react-views)
 * [Isomorphic React apps in PHP via dnode](http://ericescalante.com/2015/06/07/isomorphic/)
+* [Server Side Redering, Universal JS, Hot Module Reloading and Code Splitting with React and Redux](https://github.com/Alex-ray/v2-universal-js-hmr-ssr-react-redux)
 
 ##### Compiling React Tutorials
 * [Webpack Howto by Pete Hunt](https://github.com/petehunt/webpack-howto)
