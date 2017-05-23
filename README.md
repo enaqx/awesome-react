@@ -681,6 +681,7 @@ A collection of awesome things regarding React ecosystem.
 * [Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage)](https://github.com/bartonhammond/snowflake)
 
 #### React Native Awesome Components
+* [react-native-social-share - Use the iOS and Android native Twitter and Facebook share popup with React Native](https://github.com/doefler/react-native-social-share)
 * [react-native-fbsdk - A wrapper around the iOS Facebook SDK](https://github.com/facebook/react-native-fbsdk)
 * [react-native-side-menu - Simple customizable component to create side menu](https://github.com/Kureev/react-native-side-menu)
 * [react-native-mapbox-gl - A Mapbox GL react native module](https://github.com/mapbox/react-native-mapbox-gl)
