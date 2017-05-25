@@ -662,7 +662,7 @@ A collection of awesome things regarding React ecosystem.
 * [The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 2)](https://www.smashingmagazine.com/2016/04/how-to-build-your-first-ios-app-with-javascript/)
 * [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
+* [Test driving react native applications](http://www.multunus.com/blog/2016/07/Test-driving-React-Native-applications/)
 
 #### React Native Development Experience
 * [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
