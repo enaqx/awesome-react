@@ -1009,6 +1009,7 @@ A collection of awesome things regarding React ecosystem.
 * [wolfenstein3D-react - Wolfenstein with the rendering layer written in React](https://github.com/petehunt/wolfenstein3D-react)
 * [Flux ImmutableJS TodoList](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
 * [Hapi+React+Flux user management system](https://github.com/jedireza/aqua)
+* [react+react-router+redux todoLists](https://github.com/Chanran/reactTodoLists)
 * [Redux TodoMVC](https://github.com/gaearon/redux/tree/master/examples/todomvc)
 * [react-babel-webpack - CRUD demo app featuring React, React Router, Flux, Webpack, Bootstrap](https://github.com/arcseldon/react-babel-webpack-starter-app.git)
 
