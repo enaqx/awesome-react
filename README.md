@@ -285,6 +285,7 @@ A collection of awesome things regarding React ecosystem.
 * [UXCore - A React UI Component Set living for enterprise backend application](https://github.com/uxcore/uxcore)
 * [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 * [react-aim - Determine the cursor aim for triggering mouse events](https://github.com/gabrielbull/react-aim)
+* [react-uwp - React Components that Implement Microsoft's UWP Design & Fluent Design.](https://github.com/myxvisual/react-uwp)
 * [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
 * [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
 * [react-grid - Data grid for React](https://github.com/prometheusresearch/react-grid)
