@@ -232,7 +232,6 @@ A collection of awesome things regarding React ecosystem.
 ##### Authentication
 * [Adding authentication to your React Flux app](https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/)
 * [Build a React Application with User Authentication](https://stormpath.com/blog/build-a-react-app-with-user-authentication/)
-* [Add Facebook Authentication Button To Your React Application](https://github.com/iliran11/facebook-login-redux-react/)
 
 ##### File Uploads
 * [Direct uploads to S3 with React, Rails, and Paperclip](http://blog.littleblimp.com/post/119230396893/direct-uploads-to-s3-with-react-rails-and)
@@ -447,6 +446,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-offcanvas - Off-canvas menus for React](https://github.com/vutran/react-offcanvas)
 * [react-svg-pan-zoom - Adds pan and zoom features to the SVG images](http://chrvadala.github.io/react-svg-pan-zoom/)
 * [react-virtualized - React components for efficiently rendering large lists and tabular data ](https://github.com/bvaughn/react-virtualized)
+* [Add Facebook Authentication Button To Your React Application](https://github.com/iliran11/facebook-login-redux-react/)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
