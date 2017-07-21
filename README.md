@@ -765,6 +765,7 @@ A collection of awesome things regarding React ecosystem.
 * [reselect - Selector library for Redux](https://github.com/reactjs/reselect)
 * [normalizr - Normalizes nested JSON according to a schema](https://github.com/paularmstrong/normalizr)
 * [redux-saga - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga)
+* [actionware - Redux with less boilerplate + busy/error status for every action](https://github.com/wellguimaraes/actionware)
 * [redux-observable - RxJS middleware for Redux](https://github.com/redux-observable/redux-observable)
 * [redux-analytics - Analytics middleware for Redux](https://github.com/markdalgleish/redux-analytics)
 * [redux-undo - Higher order reducer to add undo/redo functionality to redux state containers](https://github.com/omnidan/redux-undo)
