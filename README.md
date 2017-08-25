@@ -1020,6 +1020,7 @@ A collection of awesome things regarding React ecosystem.
 * [sound-redux - A Soundcloud client built with React / Redux](https://github.com/andrewngu/sound-redux)
 * [react-pomodoro - A Pomodoro timer for developers](https://github.com/afonsopacifer/react-pomodoro)
 * [Do - Notes management application built with React and Redux](https://github.com/1ven/do)
+* [React Redux Gists - Single page app built with React, Redux, Redux Thunk, React Router v4, apisauce, styled-components](https://github.com/1ven/do)
 
 ---
 ### Real Apps
