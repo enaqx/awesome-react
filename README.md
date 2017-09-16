@@ -294,6 +294,7 @@ A collection of awesome things regarding React ecosystem.
 * [MJML - The only framework that makes responsive-email easy. Based on React](https://mjml.io)
 
 ##### Components
+* [React Responsive Tables](https://github.com/adam-hanna/react-responsive-tables)
 * [React Component List](http://dvemac.github.io/react-component-list/)
 * [JS.coach - A catalog of React components](https://js.coach/)
 * [iReact: Fantastic React Components and Libraries!](http://ireact.cn/)
