@@ -64,6 +64,7 @@ A collection of awesome things regarding React ecosystem.
   - [MobX General Resources](#mobx-general-resources)
   - [MobX Tools](#mobx-tools)
   - [MobX Tutorials](#mobx-tutorials)
+- [Reactate](#reactate)
 - [Testing](#testing)
   - [Testing Utilities](#testing-utilities)
   - [Testing Tutorials](#testing-tutorials)
@@ -806,6 +807,14 @@ A collection of awesome things regarding React ecosystem.
 * [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
 * [Refactor from Redux to MobX in real world SoundCloud Client in React](http://www.robinwieruch.de/mobx-react)
 
+---
+
+---
+### Reactate
+> Reactate is a magical unbelievably simple React state container
+
+#### Reactate General Resources
+* [Reactate GitHub](https://github.com/challenger532/reactate)
 ---
 ### Testing
 > React Testing
