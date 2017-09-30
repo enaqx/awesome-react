@@ -135,6 +135,7 @@ A collection of awesome things regarding React ecosystem.
 * [React tutorial - Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
 * [Learn React by building the Hacker News front page](https://github.com/mking/react-hn)
 * [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
+* [React cheatsheet](https://devhints.io/react)
 
 ##### React styling
 * [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
