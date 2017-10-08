@@ -984,6 +984,11 @@ A collection of awesome things regarding React ecosystem.
 ### Books
 * [SurviveJS - Webpack and React](http://survivejs.com/)
 * [Fullstack React: The Complete Guide to ReactJS and Friends](https://www.fullstackreact.com/)
+* [Isomorphic Development with JavaScript](https://www.manning.com/books/isomorphic-development-with-javascript)
+* [React in Action](https://www.manning.com/books/react-in-action)
+* [React Quickly](https://www.manning.com/books/react-quickly)
+
+
 
 
 ---
