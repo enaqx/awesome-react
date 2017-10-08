@@ -260,6 +260,8 @@ A collection of awesome things regarding React ecosystem.
 * [UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra](https://github.com/codefoundries/UniversalRelayBoilerplate)
 * [react-boilerplate - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](http://reactboilerplate.com)
 * [Next.js - A minimalistic framework for server-rendered React applications](https://zeit.co/blog/next)
+* [Create React NPM Component - CLI tool for creating a component for distribution on
+  NPM](https://github.com/deltaskelta/create-react-npm-component)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
