@@ -722,6 +722,7 @@ A collection of awesome things regarding React ecosystem.
 #### Flux General Resources
 * [Flux Official Site](http://facebook.github.io/flux/)
 * [Flux GitHub](https://github.com/facebook/flux)
+* [Awesome Flux](https://github.com/yanmagale/awesome-flux/)
 
 #### Flux Implementations
 * [Flux Comparision](https://github.com/voronianski/flux-comparison)
