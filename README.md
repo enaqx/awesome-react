@@ -611,6 +611,7 @@ A collection of awesome things regarding React ecosystem.
 * [seamless-immutable - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects](https://github.com/rtfeldman/seamless-immutable)
 * [tydel - Typed Models and Collections, with React bindings](http://tydel.js.org)
 * [extendable-immutable - Extend any Immutable.js data structure](https://github.com/philpl/extendable-immutable)
+* [statty - A tiny and unobtrusive state management library for React and Preact apps](https://github.com/vesparny/statty)
 
 ##### React Development Experience
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
