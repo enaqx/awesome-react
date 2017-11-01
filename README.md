@@ -1008,6 +1008,8 @@ A collection of awesome things regarding React ecosystem.
 ### Books
 * [SurviveJS - Webpack and React](http://survivejs.com/)
 * [Fullstack React: The Complete Guide to ReactJS and Friends](https://www.fullstackreact.com/)
+* [The Road to learn React](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_LEARN_REACT)
+* [Taming the State in React](https://roadtoreact.com/course-details?courseId=TAMING_THE_STATE)
 * [React: Up & Running: Building Web Applications](https://www.amazon.com/React-Running-Building-Web-Applications/dp/1491931825)
 
 
