@@ -83,7 +83,7 @@ A collection of awesome things regarding React ecosystem.
 - [Flow](#flow)
   - [Flow Resources](#flow-resources)
 - [Videos](#videos)
-  - [Video from Confs](#video-from-confs)
+  - [Video from Confs](#video-from-confs)`
   - [React.js Conf 2015 Playlist](#reactjs-conf-2015-playlist)
   - [ReactEurope Conf 2015 Day 1 Playlist](#reacteurope-conf-2015-day-1-playlist)
   - [ReactEurope Conf 2015 Day 2 Playlist](#reacteurope-conf-2015-day-2-playlist)
@@ -472,6 +472,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-icons - svg react icons of popular icon packs](https://github.com/gorangajic/react-icons)
 * [Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc...](https://github.com/Wildhoney/Keo)
 * [Blueprint - A React-based UI toolkit for the web](https://github.com/palantir/blueprint)
+* [AtlasKit -  Atlassian's React UI library](https://atlaskit.atlassian.com/)
 
 ##### Integration
 * [ReactJS.NET](http://reactjs.net/)
