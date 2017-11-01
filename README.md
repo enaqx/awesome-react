@@ -135,8 +135,6 @@ A collection of awesome things regarding React ecosystem.
 * [React tutorial - Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
 * [Learn React by building the Hacker News front page](https://github.com/mking/react-hn)
 * [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
-* [The Evolution of React](https://blog.pusher.com/the-evolution-of-react)
-
 
 ##### React styling
 * [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
@@ -241,6 +239,8 @@ A collection of awesome things regarding React ecosystem.
 ##### API Integration
 * [react-flux-cosmicjs Data-driven react application connected to the Cosmic JS API](https://github.com/tonyspiro/react-flux-cosmicjs)
 
+##### History of React
+* [The Evolution of React](https://blog.pusher.com/the-evolution-of-react)
 
 #### React Tools
 
