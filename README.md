@@ -150,6 +150,7 @@ A collection of awesome things regarding React ecosystem.
 * [Styletron](https://github.com/rtsao/styletron)
 * [TypeStyle](https://github.com/typestyle/typestyle)
 * [styled-components](https://github.com/styled-components/styled-components)
+* [gloss](https://github.com/motion/gloss)
 * [JSS](https://github.com/cssinjs/jss)
 
 ##### React Charts Tutorials
