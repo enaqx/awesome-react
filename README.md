@@ -732,7 +732,7 @@ A collection of awesome things regarding React ecosystem.
 * [NuclearJS](https://github.com/optimizely/nuclear-js)
 * [Flummox](https://github.com/acdlite/flummox)
 * [Coflux](https://github.com/blainekasten/coflux)
-* [MobX](https://github.com/mobxjs/mobx)
+* [MobX](#mobx)
 
 #### Flux Tutorials
 * [Flux Application Architecture](http://facebook.github.io/flux/docs/overview.html)
