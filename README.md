@@ -1038,6 +1038,7 @@ A collection of awesome things regarding React ecosystem.
 * [mozilla/payments-ui](https://github.com/mozilla/payments-ui)
 * [webbylab/itsquiz-wall](https://github.com/webbylab/itsquiz-wall)
 * [brainfock/brainfock](https://github.com/brainfock/brainfock)
+* [Sqlectron - SQL client](https://sqlectron.github.io/)
 
 ---
 ### Contribution
