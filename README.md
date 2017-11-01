@@ -115,6 +115,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Twitter](https://twitter.com/reactjs)
 * [React Core meeting notes](https://github.com/reactjs/core-notes)
 * [Made with React - Collection of websites and applications using ReactJS](http://madewithreact.com/)
+* [The React newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe)
 
 #### React Online Playground
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
