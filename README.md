@@ -555,7 +555,6 @@ A collection of awesome things regarding React ecosystem.
 * [Redux-Autoform - Create Redux-Forms dynamically out of metadata](https://github.com/redux-autoform/redux-autoform)
 * [uniforms - Bunch of React components and helpers to easily generate and validate forms](https://github.com/vazco/uniforms)
 
-
 ##### Autocomplete
 * [react-typeahead-search by @tonyspiro](https://github.com/tonyspiro/react-typeahead-search)
 * [react-autocomplete by @rackt - WAI-ARIA compliant React autocomplete](https://github.com/rackt/react-autocomplete)
