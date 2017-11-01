@@ -376,6 +376,7 @@ A collection of awesome things regarding React ecosystem.
 * [olay-react - Olay implemented as a React component](https://github.com/orgsync/olay-react)
 * [reactable - Fast, flexible, and simple data tables in React](https://github.com/glittershark/reactable)
 * [react-tabs - React tabs component](https://github.com/mzabriskie/react-tabs)
+* [react-draggable-tabs - Atom-fashioned draggable tabs](https://github.com/ZaninAndrea/react-draggable-tabs)
 * [react-simpletabs - Just a simple tabs component](https://github.com/pedronauck/react-simpletabs)
 * [react-draggable - React draggable component](https://github.com/mzabriskie/react-draggable)
 * [react-resizable - A tiny Resizable component based on react-draggable](https://github.com/strml/react-resizable)
