@@ -392,6 +392,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-component-width-mixin - React mixin which sets width](https://github.com/KyleAMathews/react-component-width-mixin)
 * [react-micro-bar-chart - React component for micro bar-charts rendered with D3](https://github.com/KyleAMathews/react-micro-bar-chart)
 * [react-horizontal-bar-chart - Simple horizontal bar chart component, using D3 scales only](https://github.com/laem/react-horizontal-bar-chart)
+* [react-boxplot - Simple SVG box plots in React](https://github.com/bodylabs/react-boxplot)
 * [react-infinity - A UITableView Inspired list and grid display](https://github.com/nmn/react-infinity)
 * [react-timeago - A simple time-ago component for React](https://github.com/nmn/react-timeago)
 * [react-spinkit - A collection of loading indicators animated with CSS for React](https://github.com/KyleAMathews/react-spinkit)
