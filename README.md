@@ -273,6 +273,7 @@ A collection of awesome things regarding React ecosystem.
 * [UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra](https://github.com/codefoundries/UniversalRelayBoilerplate)
 * [react-boilerplate - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](http://reactboilerplate.com)
 * [Next.js - A minimalistic framework for server-rendered React applications](https://zeit.co/blog/next)
+* [react-express-stripe - A minimal boilerplate to accept payments in a React App](https://github.com/rwieruch/react-express-stripe)
 * [React-PWA - BoilerPlate with PWA and support for Code-Splitting, SSR, SEO, Page and API caching, Image optimization and much more.](https://github.com/Atyantik/react-pwa)
 * [ARc - A progressive React starter kit based on Atomic Design](https://arc.js.org)
 * [react-webpack-starter - A simple boiler plate for creating react applications bundled by webpack (using ES6, Babel, SASS and webpack development server)](https://github.com/temilaj/react-webpack-starter)
@@ -840,7 +841,8 @@ A collection of awesome things regarding React ecosystem.
 #### MobX Tutorials
 * [Ten minute introduction to MobX and React](https://mobxjs.github.io/mobx/getting-started.html)
 * [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
-* [Refactor from Redux to MobX in real world SoundCloud Client in React](http://www.robinwieruch.de/mobx-react)
+* [Refactor your application from Redux to MobX](http://www.robinwieruch.de/mobx-react)
+* [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
 
 ---
 ### Testing
@@ -1022,6 +1024,7 @@ A collection of awesome things regarding React ecosystem.
 ### Books
 * [SurviveJS - Webpack and React](http://survivejs.com/)
 * [Fullstack React: The Complete Guide to ReactJS and Friends](https://www.fullstackreact.com/)
+* [The Road to learn React](https://www.robinwieruch.de/the-road-to-learn-react/)
 * [Isomorphic Development with JavaScript](https://www.manning.com/books/isomorphic-development-with-javascript)
 * [React in Action](https://www.manning.com/books/react-in-action)
 * [React Quickly](https://www.manning.com/books/react-quickly)
@@ -1063,6 +1066,8 @@ A collection of awesome things regarding React ecosystem.
 * [sound-redux - A Soundcloud client built with React / Redux](https://github.com/andrewngu/sound-redux)
 * [react-pomodoro - A Pomodoro timer for developers](https://github.com/afonsopacifer/react-pomodoro)
 * [Do - Notes management application built with React and Redux](https://github.com/1ven/do)
+* [soundcloud-react-redux - A SoundCloud Client built with React / Redux](https://github.com/rwieruch/favesound-redux)
+* [soundcloud-react-mobx - A SoundCloud Client built with React / MobX](https://github.com/rwieruch/favesound-mobx)
 * [A Reimplementation of Winamp 2.9 with React and Redux](https://github.com/captbaritone/winamp2-js)
 * [ComingOrNot - Event Planner built with react, react-router, redux, graphQL & serverless](https://github.com/lakshmantgld/comingOrNot#reactjs-redux-serverless-graphql-event-planner)
 
