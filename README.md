@@ -586,6 +586,7 @@ A collection of awesome things regarding React ecosystem.
 * [Redux-Autoform - Create Redux-Forms dynamically out of metadata](https://github.com/redux-autoform/redux-autoform)
 * [uniforms - Bunch of React components and helpers to easily generate and validate forms](https://github.com/vazco/uniforms)
 * [formik - Forms in React, without tears](https://github.com/jaredpalmer/formik)
+* [NeoForm – Modular HOCs for form state management and validation](https://github.com/zero-plus-x/neoform) 
 
 ##### Autocomplete
 * [react-typeahead-search by @tonyspiro](https://github.com/tonyspiro/react-typeahead-search)
