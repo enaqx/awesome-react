@@ -272,6 +272,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-boilerplate - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](http://reactboilerplate.com)
 * [Next.js - A minimalistic framework for server-rendered React applications](https://zeit.co/blog/next)
 * [ARc - A progressive React starter kit based on Atomic Design](https://arc.js.org)
+* [react-webpack-starter - A simple boiler plate for creating react applications bundled by webpack (using ES6, Babel, SASS and webpack development server)](https://github.com/temilaj/react-webpack-starter)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
