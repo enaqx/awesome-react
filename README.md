@@ -556,7 +556,6 @@ A collection of awesome things regarding React ecosystem.
 * [React.hiccup - A complete replacement for JSX written in sweet.js](https://github.com/lantiga/react.hiccup)
 * [react-play - Rendering React components in the Play Framework with JDK8's Nashorn](https://github.com/ssorallen/react-play)
 * [rx-react - Utilitiels to works with React in a RxJS](https://github.com/fdecampredon/rx-react)
-* [react-typescript - Wrapper to make react play nicely with typescript](https://github.com/fdecampredon/react-typescript)
 * [react-with-di - A hacked prototype of React.js with DI](https://github.com/vojtajina/react-with-di)
 * [reactfire - ReactJS mixin for easy Firebase integration](https://github.com/firebase/reactfire)
 * [firedux - Firebase + Redux for ReactJS](https://github.com/adjohnson916/firedux)
