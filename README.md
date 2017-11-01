@@ -92,6 +92,7 @@ A collection of awesome things regarding React ecosystem.
   - [React.js Conf 2016 Playlist](#reactjs-conf-2016-playlist)
   - [ReactRally Conf 2016 Playlist](#reactrally-conf-2016-playlist)
   - [Video Tutorials](#video-tutorials)
+- [Podcasts](#podcasts)
 - [Books](#books)
 - [Demos](#demos)
 - [Example Apps](#example-apps)
@@ -1001,6 +1002,8 @@ A collection of awesome things regarding React ecosystem.
 * [React for beginners](https://reactforbeginners.com/)
 * [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
 
+#### Podcasts
+* [React Podcast](http://reactpodcast.com/)
 
 ---
 ### Books
