@@ -261,6 +261,7 @@ A collection of awesome things regarding React ecosystem.
 * [UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra](https://github.com/codefoundries/UniversalRelayBoilerplate)
 * [react-boilerplate - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](http://reactboilerplate.com)
 * [Next.js - A minimalistic framework for server-rendered React applications](https://zeit.co/blog/next)
+* [ARc - A progressive React starter kit based on Atomic Design](https://arc.js.org)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
