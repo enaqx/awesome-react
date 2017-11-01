@@ -139,6 +139,12 @@ A collection of awesome things regarding React ecosystem.
 * [DIY guide to build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 * [React cheatsheet](https://devhints.io/react)
 
+##### React best practices
+
+* [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
+* [Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
+* [React.js Best Practices](https://github.com/ximet/awesome-best-practices/blob/master/frontend/react/bestPracticeReact.md)
+
 ##### React styling
 * [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
 * [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
@@ -953,8 +959,6 @@ A collection of awesome things regarding React ecosystem.
 ### Videos
 
 #### Video from Confs
-* [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
-* [Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
 * [Tom Occhino and Jordan Walke: JS Apps at Facebook - JSConfUS 2013](https://www.youtube.com/watch?v=GW0rj4sNH2w)
 * [Pete Hunt: High performance functional programming with React and Meteor -- Devshop 11](https://www.youtube.com/watch?v=qqVbr_LaCIo)
 * [Stoyan Stefanov: Introduction to React - LAWebSpeed meetup](https://www.youtube.com/watch?v=SMMRJif5QW0)
