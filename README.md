@@ -244,6 +244,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Boilerplates
 * [Create React App](https://github.com/facebookincubator/create-react-app)
+* [React Boilerplate - Minimalistic boilerplate with React, Redux, Flowtype, Babel and Webpack2](https://github.com/nordsoftware/react-boilerplate)
 * [React App SDK - CLI tools and templates for authoring React apps with a single dev dependency and zero configurations](https://github.com/kriasoft/react-app)
 * [React Starter Kit — isomorphic web app boilerplate (Node.js, GraphQL, React, Babel, Webpack, CSS Modules, HMR)](https://github.com/kriasoft/react-starter-kit)
 * [ASP.NET Core Starter Kit (C#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, C#](https://github.com/kriasoft/aspnet-starter-kit)
