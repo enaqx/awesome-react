@@ -700,6 +700,7 @@ A collection of awesome things regarding React ecosystem.
 * [NBAreact](https://github.com/jbkuczma/NBAreact)
 
 #### React Native Boilerplates
+* [Create React Native App - Create a React Native app on any OS with no build config, with or without Expo](https://github.com/react-community/create-react-native-app)
 * [Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage)](https://github.com/bartonhammond/snowflake)
 * [Ignite - The hottest CLI for React Native, boilerplates, plugins, generators, and more!](https://github.com/infinitered/ignite)
 
