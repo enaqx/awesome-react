@@ -247,6 +247,8 @@ A collection of awesome things regarding React ecosystem.
 ##### API Integration
 * [react-flux-cosmicjs Data-driven react application connected to the Cosmic JS API](https://github.com/tonyspiro/react-flux-cosmicjs)
 
+##### History of React
+* [The Evolution of React](https://blog.pusher.com/the-evolution-of-react)
 
 #### React Tools
 
