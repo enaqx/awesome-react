@@ -106,7 +106,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Official Site](http://facebook.github.io/react/)
 * [React GitHub](https://github.com/facebook/react)
 * [React Community GitHub](https://github.com/reactjs)
-* [React FAQ] (https://github.com/timarney/react-faq)
+* [React FAQ] (https://reactfaq.site/)
 
 #### React Community
 * [Reactiflux](http://www.reactiflux.com/)
@@ -445,7 +445,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-pagespeed-score - A React component for display a dial-type chart of PageSpeed Insights](https://github.com/cauealves/react-pagespeed-score)
 * [react-livestamp - A simple and html date countdown component for React](https://github.com/markafoni/react-livestamp)
 * [react-offcanvas - Off-canvas menus for React](https://github.com/vutran/react-offcanvas)
-* Higher-order Components (https://gist.github.com/sebmarkbage/ef0bf1f338a7182b6775)
 * [react-svg-pan-zoom - Adds pan and zoom features to the SVG images](http://chrvadala.github.io/react-svg-pan-zoom/)
 * [react-virtualized - React components for efficiently rendering large lists and tabular data ](https://github.com/bvaughn/react-virtualized)
 
