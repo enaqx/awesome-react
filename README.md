@@ -284,6 +284,7 @@ A collection of awesome things regarding React ecosystem.
 * [React-PWA - BoilerPlate with PWA and support for Code-Splitting, SSR, SEO, Page and API caching, Image optimization and much more.](https://github.com/Atyantik/react-pwa)
 * [ARc - A progressive React starter kit based on Atomic Design](https://arc.js.org)
 * [react-webpack-starter - A simple boiler plate for creating react applications bundled by webpack (using ES6, Babel, SASS and webpack development server)](https://github.com/temilaj/react-webpack-starter)
+* [Happyreaction - React/Spring/Java maven archetype for bootstraping a new project quickly](https://github.com/ignl/happyreaction)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
@@ -816,7 +817,6 @@ A collection of awesome things regarding React ecosystem.
 * [redux-mock-store - A mock store for your testing your redux async action creators and middleware](https://github.com/arnaudbenard/redux-mock-store)
 * [redux-immutable - Create an equivalent function of Redux combineReducers that works with Immutable.js state](https://github.com/gajus/redux-immutable)
 * [redux-react-i18n - An i18n solution for redux/react](https://github.com/derzunov/redux-react-i18n)
-* [react-localize-redux - Localization library for React/Redux](https://github.com/ryandrewjohnson/react-localize-redux)
 
 #### Redux Tutorials
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
