@@ -1078,6 +1078,7 @@ A collection of awesome things regarding React ecosystem.
 * [soundcloud-react-mobx - A SoundCloud Client built with React / MobX](https://github.com/rwieruch/favesound-mobx)
 * [A Reimplementation of Winamp 2.9 with React and Redux](https://github.com/captbaritone/winamp2-js)
 * [ComingOrNot - Event Planner built with react, react-router, redux, graphQL & serverless](https://github.com/lakshmantgld/comingOrNot#reactjs-redux-serverless-graphql-event-planner)
+* [React Redux Gists - Single page app built with React, Redux, Redux Thunk, React Router v4, apisauce, styled-components](https://github.com/1ven/do)
 
 ---
 ### Real Apps
