@@ -559,7 +559,7 @@ A collection of awesome things regarding React ecosystem.
 * [rx-react - Utilitiels to works with React in a RxJS](https://github.com/fdecampredon/rx-react)
 * [react-with-di - A hacked prototype of React.js with DI](https://github.com/vojtajina/react-with-di)
 * [reactfire - ReactJS mixin for easy Firebase integration](https://github.com/firebase/reactfire)
-* [firedux - Firebase + Redux for ReactJS](https://github.com/adjohnson916/firedux)
+* [firedux - Firebase + Redux for ReactJS](https://github.com/AndersDJohnson/firedux)
 * [react-clickdrag-mixin - ClickDrag mixin for React component](https://github.com/tleunen/react-clickdrag-mixin)
 * [Rewrite the Admin UI of KeystoneJS in React](https://github.com/keystonejs/keystone/issues/503)
 * [react-masonry-mixin - Standalone mixin for Masonry (@desandro)](https://github.com/eiriklv/react-masonry-mixin)
