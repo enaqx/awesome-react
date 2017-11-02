@@ -107,6 +107,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Official Site](http://facebook.github.io/react/)
 * [React GitHub](https://github.com/facebook/react)
 * [React Community GitHub](https://github.com/reactjs)
+* [React FAQ](https://reactfaq.site/)
 
 #### React Community
 * [Reactiflux](http://www.reactiflux.com/)
