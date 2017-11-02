@@ -477,6 +477,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-offcanvas - Off-canvas menus for React](https://github.com/vutran/react-offcanvas)
 * [react-svg-pan-zoom - Adds pan and zoom features to the SVG images](http://chrvadala.github.io/react-svg-pan-zoom/)
 * [react-virtualized - React components for efficiently rendering large lists and tabular data ](https://github.com/bvaughn/react-virtualized)
+* [react-data-menu - Smart data-driven menu rendered in an overlay, never clipped by other components or screen edges](https://github.com/dkozar/react-data-menu)
 * [omnibar - Extensible search component for React.](https://github.com/vutran/omnibar)
 * [react-virtualized-sticky-tree - Render virtualized tree structures with support for position: sticky ](https://github.com/marchaos/react-virtualized-sticky-tree)
 * [react-flexbox-svg - Flexbox for SVG in React, using css-layout](https://github.com/paulmelnikow/react-flexbox-svg)
