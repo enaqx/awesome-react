@@ -485,6 +485,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-instantsearch - Search Interface building blocks for Algolia](https://github.com/algolia/react-instantsearch)
 * [react-d3-tree - Create interactive D3 tree graphs](https://github.com/bkrem/react-d3-tree)
 * [react-redux-modal-flex - Accessible modal dialog component for React, easy to install and use with Redux.](https://github.com/tronghiep92/react-redux-modal-flex)
+* [react-switch - A draggable, customizable and accessible toggle-switch component.](https://github.com/yogaboll/react-switch)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
