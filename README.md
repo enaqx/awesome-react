@@ -640,7 +640,7 @@ A collection of awesome things regarding React ecosystem.
 * [extendable-immutable - Extend any Immutable.js data structure](https://github.com/philpl/extendable-immutable)
 * [statty - A tiny and unobtrusive state management library for React and Preact apps](https://github.com/vesparny/statty)
 
-##### React Development Experience
+##### React Developer Experience
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
 * [react-transform-hmr - A React Transform that enables hot reloading React](https://github.com/gaearon/react-transform-hmr)
 * [Nuclide - An open IDE for web and native mobile development, built on top of Atom](http://nuclide.io/)
@@ -709,7 +709,7 @@ A collection of awesome things regarding React ecosystem.
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
 
-#### React Native Development Experience
+#### React Native Developer Experience
 * [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
 * [react-native-code-push - React Native plugin for the CodePush service](https://github.com/Microsoft/react-native-code-push)
 * [Preview your React Native apps in your Github Pull Request](http://tech.m6web.fr/preview-android-ios-react-native-on-github-pull-request/)
