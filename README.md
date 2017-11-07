@@ -286,6 +286,7 @@ A collection of awesome things regarding React ecosystem.
 * [ARc - A progressive React starter kit based on Atomic Design](https://arc.js.org)
 * [react-webpack-starter - A simple boiler plate for creating react applications bundled by webpack (using ES6, Babel, SASS and webpack development server)](https://github.com/temilaj/react-webpack-starter)
 * [Happyreaction - React/Spring/Java maven archetype for bootstraping a new project quickly](https://github.com/ignl/happyreaction)
+* [Create React NPM Component - CLI tool for creating a component for distribution on NPM](https://github.com/deltaskelta/create-react-npm-component)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
@@ -478,6 +479,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-svg-pan-zoom - Adds pan and zoom features to the SVG images](http://chrvadala.github.io/react-svg-pan-zoom/)
 * [react-virtualized - React components for efficiently rendering large lists and tabular data ](https://github.com/bvaughn/react-virtualized)
 * [react-colorizer - A library for generation of harmonious color themes for React](https://github.com/opensource-cards/react-colorizer)
+* [react-skeletor - Display a skeleton preview of your application's content before the data get loaded](https://github.com/trainline/react-skeletor)
 * [react-data-menu - Smart data-driven menu rendered in an overlay, never clipped by other components or screen edges](https://github.com/dkozar/react-data-menu)
 * [omnibar - Extensible search component for React.](https://github.com/vutran/omnibar)
 * [react-virtualized-sticky-tree - Render virtualized tree structures with support for position: sticky ](https://github.com/marchaos/react-virtualized-sticky-tree)
@@ -485,6 +487,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-instantsearch - Search Interface building blocks for Algolia](https://github.com/algolia/react-instantsearch)
 * [react-d3-tree - Create interactive D3 tree graphs](https://github.com/bkrem/react-d3-tree)
 * [react-redux-modal-flex - Accessible modal dialog component for React, easy to install and use with Redux.](https://github.com/tronghiep92/react-redux-modal-flex)
+* [react-switch - A draggable, customizable and accessible toggle-switch component.](https://github.com/yogaboll/react-switch)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
@@ -639,7 +642,7 @@ A collection of awesome things regarding React ecosystem.
 * [extendable-immutable - Extend any Immutable.js data structure](https://github.com/philpl/extendable-immutable)
 * [statty - A tiny and unobtrusive state management library for React and Preact apps](https://github.com/vesparny/statty)
 
-##### React Development Experience
+##### React Developer Experience
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
 * [react-transform-hmr - A React Transform that enables hot reloading React](https://github.com/gaearon/react-transform-hmr)
 * [Nuclide - An open IDE for web and native mobile development, built on top of Atom](http://nuclide.io/)
@@ -708,7 +711,7 @@ A collection of awesome things regarding React ecosystem.
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
 
-#### React Native Development Experience
+#### React Native Developer Experience
 * [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
 * [react-native-code-push - React Native plugin for the CodePush service](https://github.com/Microsoft/react-native-code-push)
 * [Preview your React Native apps in your Github Pull Request](http://tech.m6web.fr/preview-android-ios-react-native-on-github-pull-request/)
