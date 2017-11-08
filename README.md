@@ -772,6 +772,7 @@ A collection of awesome things regarding React ecosystem.
 * [MobX](#mobx)
 
 #### Flux Tutorials
+* [Building Applications with React and Flux](https://app.pluralsight.com/library/courses/react-flux-building-applications/table-of-contents)
 * [Flux Application Architecture](http://facebook.github.io/flux/docs/overview.html)
 * [Flux: A simple architecture model to build Client-side apps](https://speakerdeck.com/pedronauck/flux-a-simple-architecture-model-to-build-client-side-apps)
 * [Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo](https://github.com/yahoo/flux-examples)
@@ -828,6 +829,7 @@ A collection of awesome things regarding React ecosystem.
 * [redux-react-i18n - An i18n solution for redux/react](https://github.com/derzunov/redux-react-i18n)
 
 #### Redux Tutorials
+* [Building Applications with React and Redux in ES6](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 * [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
 * [Redux Tutorial](https://github.com/happypoulp/redux-tutorial)
