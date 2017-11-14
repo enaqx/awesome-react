@@ -921,7 +921,8 @@ A collection of awesome things regarding React ecosystem.
 * [express-graphql - Create a GraphQL HTTP server with **Express**](https://github.com/graphql/express-graphql)
 
 #### Database Integration
-* [graphql-bookshelf - Some help defining GraphQL schema around BookshelfJS models](https://github.com/brysgo/graphql-bookshelf)
+* [graphql-bookshelf - Some help defining GraphQL schema around 
+helfJS models](https://github.com/brysgo/graphql-bookshelf)
 * [GraphpostgresQL - GraphQL for **PostgreSQL**](https://github.com/solidsnack/GraphpostgresQL)
 * [graffiti - Node.js GraphQL ORM](https://github.com/RisingStack/graffiti)
 * [sql-to-graphql - Generate a GraphQL API based on your SQL database structure](https://github.com/vaffel/sql-to-graphql)
@@ -1046,8 +1047,6 @@ A collection of awesome things regarding React ecosystem.
 * [Isomorphic Development with JavaScript](https://www.manning.com/books/isomorphic-development-with-javascript)
 * [React in Action](https://www.manning.com/books/react-in-action)
 * [React Quickly](https://www.manning.com/books/react-quickly)
-* [The Road to learn React](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_LEARN_REACT)
-* [Taming the State in React](https://roadtoreact.com/course-details?courseId=TAMING_THE_STATE)
 * [React: Up & Running: Building Web Applications](https://www.amazon.com/React-Running-Building-Web-Applications/dp/1491931825)
 
 ---
