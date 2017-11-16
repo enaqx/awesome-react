@@ -492,7 +492,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-switch - A draggable, customizable and accessible toggle-switch component.](https://github.com/yogaboll/react-switch)
 * [react-credit-card-input - A simple credit/debit card input field for React.](https://github.com/medipass/react-credit-card-input)
 * [react-creditcard - An awesome react credit card component.](https://github.com/medipass/react-creditcard)
-* [email-autocomplete-input - Simple email autocomplete input.](https://alex-cory.github.io/email-autocomplete-input/)
+* [email-autocomplete-input - Simple email autocomplete input.](https://github.com/alex-cory/email-autocomplete-input)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
