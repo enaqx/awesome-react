@@ -313,6 +313,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-facebook-login-component](https://github.com/kennetpostigo/react-facebook-login-component)
 * [react-component - A Collection of React UI Components](http://react-component.github.io/badgeboard/)
 * [Ant Design - An enterprise-class UI design language and React-based implementation](https://github.com/ant-design/ant-design)
+* [Zent - A collection of React UI components](https://github.com/youzan/zent)
 * [UXCore - A React UI Component Set living for enterprise backend application](https://github.com/uxcore/uxcore)
 * [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 * [react-aim - Determine the cursor aim for triggering mouse events](https://github.com/gabrielbull/react-aim)
