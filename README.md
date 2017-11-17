@@ -479,6 +479,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-pagespeed-score - A React component for display a dial-type chart of PageSpeed Insights](https://github.com/cauealves/react-pagespeed-score)
 * [react-livestamp - A simple and html date countdown component for React](https://github.com/markafoni/react-livestamp)
 * [react-offcanvas - Off-canvas menus for React](https://github.com/vutran/react-offcanvas)
+* Recomposing React application - Higher order components (https://youtu.be/zD_judE-bXk)
 * [react-svg-pan-zoom - Adds pan and zoom features to the SVG images](http://chrvadala.github.io/react-svg-pan-zoom/)
 * [react-virtualized - React components for efficiently rendering large lists and tabular data ](https://github.com/bvaughn/react-virtualized)
 * [react-colorizer - A library for generation of harmonious color themes for React](https://github.com/opensource-cards/react-colorizer)
