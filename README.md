@@ -125,6 +125,7 @@ A collection of awesome things regarding React ecosystem.
 * [Babel REPL](https://babeljs.io/repl/)
 * [React HTML to JSX Online Compiler](https://facebook.github.io/react/html-jsx.html)
 * [React browser prototyping for components](http://react.run)
+* [Online VS Code IDE for React](https://stackblitz.com)
 
 #### React Tutorials
 
