@@ -120,6 +120,7 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Online Playground
 * [CodeSandbox](https://codesandbox.io)
+* [Online VS Code IDE for React](https://stackblitz.com)
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
 * [React JSFiddle Integration without JSX](https://jsfiddle.net/reactjs/5vjqabv3/)
 * [Babel REPL](https://babeljs.io/repl/)
