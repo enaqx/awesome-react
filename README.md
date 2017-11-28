@@ -311,6 +311,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-material - Material design components written with React.js and React Style](https://github.com/SanderSpies/react-material)
 * [react-md - Set of React components and sass files for implementing Google's Material Design](https://github.com/mlaursen/react-md)
 * [material-ui - A CSS Framework and a Set of React Components for Material Design](https://github.com/callemall/material-ui)
+* [ReactSymbols - Pixel perfect UI Kit / Library in ready-to-use components with + original Sketch resource file](http://reactsymbols.com)
 * [react-google-login-component](https://github.com/kennetpostigo/react-google-login-component)
 * [react-facebook-login-component](https://github.com/kennetpostigo/react-facebook-login-component)
 * [react-component - A Collection of React UI Components](http://react-component.github.io/badgeboard/)
