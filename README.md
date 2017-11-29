@@ -1107,6 +1107,7 @@ A collection of awesome things regarding React ecosystem.
 * [brainfock/brainfock](https://github.com/brainfock/brainfock)
 * [HVF/franchise](https://github.com/HVF/franchise)
 * [KELiON/cerebro](https://github.com/KELiON/cerebro)
+* [stride-nyc/remote_retro](https://github.com/stride-nyc/remote_retro), live at [remoteretro.org](https://remoteretro.org)
 
 ---
 ### Contribution
