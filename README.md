@@ -781,6 +781,7 @@ A collection of awesome things regarding React ecosystem.
 * [Flummox](https://github.com/acdlite/flummox)
 * [Coflux](https://github.com/blainekasten/coflux)
 * [MobX](#mobx)
+* [Sinux](https://github.com/jbpin/sinux)
 
 #### Flux Tutorials
 * [Building Applications with React and Flux](https://www.pluralsight.com/courses/react-flux-building-applications)
