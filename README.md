@@ -267,6 +267,7 @@ A collection of awesome things regarding React ecosystem.
 #### React Tools
 
 ##### Boilerplates
+* [Modern and Scalable React/Redux Boilerplate - Flexible starter kit using Webpack 2 (tree-shaking), React Hot Loader v3, Code Splitting for React Router, CSS Modules, custom Ducks pattern app architecture, best practices, and Enzyme test environment](https://github.com/nicksp/redux-webpack-es6-boilerplate) 
 * [Create React App](https://github.com/facebookincubator/create-react-app)
 * [React Boilerplate - Minimalistic boilerplate with React, Redux, Flowtype, Babel and Webpack2](https://github.com/nordsoftware/react-boilerplate)
 * [React App SDK - CLI tools and templates for authoring React apps with a single dev dependency and zero configurations](https://github.com/kriasoft/react-app)
