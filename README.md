@@ -1121,6 +1121,7 @@ A collection of awesome things regarding React ecosystem.
 * [HVF/franchise](https://github.com/HVF/franchise)
 * [KELiON/cerebro](https://github.com/KELiON/cerebro)
 * [Sqlectron - SQL client](https://sqlectron.github.io/)
+* [ALM tools - an IDE built with and for React + TypeScript](http://alm.tools/)
 
 ---
 ### Contribution
