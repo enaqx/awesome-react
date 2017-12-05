@@ -1119,6 +1119,7 @@ A collection of awesome things regarding React ecosystem.
 * [brainfock/brainfock](https://github.com/brainfock/brainfock)
 * [HVF/franchise](https://github.com/HVF/franchise)
 * [KELiON/cerebro](https://github.com/KELiON/cerebro)
+* [Sqlectron - SQL client](https://sqlectron.github.io/)
 
 ---
 ### Contribution
