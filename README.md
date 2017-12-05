@@ -142,6 +142,7 @@ A collection of awesome things regarding React ecosystem.
 * [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 * [DIY guide to build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 * [React cheatsheet](https://devhints.io/react)
+* [Codecademy Learn ReactJS Course](https://www.codecademy.com/pt/learn/react-101)
 
 ##### React best practices
 
