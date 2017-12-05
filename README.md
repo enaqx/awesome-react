@@ -142,6 +142,7 @@ A collection of awesome things regarding React ecosystem.
 * [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 * [DIY guide to build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 * [React cheatsheet](https://devhints.io/react)
+* [Codecademy Learn ReactJS Course](https://www.codecademy.com/pt/learn/react-101)
 
 ##### React best practices
 
@@ -235,6 +236,7 @@ A collection of awesome things regarding React ecosystem.
 * [Serverside rendering with React + Hapi](https://github.com/jedireza/hapi-react-views)
 * [Isomorphic React apps in PHP via dnode](http://ericescalante.com/2015/06/07/isomorphic/)
 * [React Server Side Rendering with Hypernova](https://blog.larah.me/2017/04/10/react-server-side-rendering/)
+* [Server Side Rendering with Simple Redux Store Hydration](https://medium.com/@navgarcha7891/react-server-side-rendering-with-simple-redux-store-hydration-9f77ab66900a)
 
 ##### Compiling React Tutorials
 * [Webpack Howto by Pete Hunt](https://github.com/petehunt/webpack-howto)
@@ -291,6 +293,10 @@ A collection of awesome things regarding React ecosystem.
 * [Happyreaction - React/Spring/Java maven archetype for bootstraping a new project quickly](https://github.com/ignl/happyreaction)
 * [Create React NPM Component - CLI tool for creating a component for distribution on NPM](https://github.com/deltaskelta/create-react-npm-component)
 * [Suicrux - Universal starter with ultimate hot-reloading. PWA/LL/SSR/React/Redux/i18n.](https://github.com/Metnew/suicrux)
+* [Redux Async Boilerplate + Redux app containing example async actions and React storybook with auto publish to github pages](https://github.com/shanedasilva/redux-async-boilerplate)
+* [ReactQL - Universal React + GraphQL starter kit, with full server rendering, isomorphic data fetching and store management](https://reactql.org)
+* [React + Redux w/ ES6 Starter Project - Starter kit using Webpack, React Hot Loader, Code Splitting for React Router, CSS Modules, custom Ducks pattern app architecture, best practices, and Enzyme test environment](https://github.com/nicksp/redux-webpack-es6-boilerplate)
+* [react-firebase-authentication - Boilerplate for authentication and real-time database using React and Firebase](https://github.com/zerostatic/react-firebase-authentication)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
@@ -311,7 +317,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-material - Material design components written with React.js and React Style](https://github.com/SanderSpies/react-material)
 * [react-md - Set of React components and sass files for implementing Google's Material Design](https://github.com/mlaursen/react-md)
 * [material-ui - A CSS Framework and a Set of React Components for Material Design](https://github.com/callemall/material-ui)
-* [ReactSymbols - Pixel perfect UI Kit / Library in ready-to-use components with + original Sketch resource file](http://reactsymbols.com)
+* [ReactSymbols - Pixel perfect UI Kit / Library with ready-to-use components + original Sketch resource file](http://reactsymbols.com)
 * [react-google-login-component](https://github.com/kennetpostigo/react-google-login-component)
 * [react-facebook-login-component](https://github.com/kennetpostigo/react-facebook-login-component)
 * [react-component - A Collection of React UI Components](http://react-component.github.io/badgeboard/)
@@ -499,6 +505,9 @@ A collection of awesome things regarding React ecosystem.
 * [email-autocomplete-input - Simple email autocomplete input.](https://github.com/alex-cory/email-autocomplete-input)
 * [rlist-view - List view for react with pulling refresh and infinite data load ](https://github.com/gitpadtech/rlist-view)
 * [react-breadcrumbs-dynamic - Extremely flexible and completely router-independent react breadcrumbs solution](https://github.com/oklas/react-breadcrumbs-dynamic)
+* [react-automatic-width - Automatically sets `width` property on child components](https://github.com/zalando-stups/react-automatic-width)
+* [react-js-diagrams - A flow based diagramming library](http://github.com/woodenconsulting/react-js-diagrams/)
+* [react-file-input-previews-base64 - Wrapper around file input, with option for image previews and returning file as base64 string](https://github.com/SiDevesh/react-file-input-previews-base64)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
@@ -607,7 +616,9 @@ A collection of awesome things regarding React ecosystem.
 * [Redux-Autoform - Create Redux-Forms dynamically out of metadata](https://github.com/redux-autoform/redux-autoform)
 * [uniforms - Bunch of React components and helpers to easily generate and validate forms](https://github.com/vazco/uniforms)
 * [formik - Forms in React, without tears](https://github.com/jaredpalmer/formik)
-* [NeoForm – Modular HOCs for form state management and validation](https://github.com/zero-plus-x/neoform) 
+* [NeoForm – Modular HOCs for form state management and validation](https://github.com/zero-plus-x/neoform)
+* [react-jsonschema-form – A React component for building Web forms from JSON Schema](https://github.com/mozilla-services/react-jsonschema-form)
+* [List View Select - A Togglable select box for React Native with native components](https://github.com/JamesWatling/react-native-list-view-select)
 
 ##### Autocomplete
 * [react-typeahead-search by @tonyspiro](https://github.com/tonyspiro/react-typeahead-search)
@@ -779,6 +790,7 @@ A collection of awesome things regarding React ecosystem.
 * [Flummox](https://github.com/acdlite/flummox)
 * [Coflux](https://github.com/blainekasten/coflux)
 * [MobX](#mobx)
+* [Sinux](https://github.com/jbpin/sinux)
 
 #### Flux Tutorials
 * [Building Applications with React and Flux](https://www.pluralsight.com/courses/react-flux-building-applications)
@@ -1057,6 +1069,7 @@ A collection of awesome things regarding React ecosystem.
 * [React in Action](https://www.manning.com/books/react-in-action)
 * [React Quickly](https://www.manning.com/books/react-quickly)
 * [React: Up & Running: Building Web Applications](https://www.amazon.com/React-Running-Building-Web-Applications/dp/1491931825)
+* [Developing a React.js Edge](https://bleedingedgepress.com/developing-a-react-edge-2nd-edition/)
 
 ---
 ### Demos
@@ -1108,6 +1121,8 @@ A collection of awesome things regarding React ecosystem.
 * [HVF/franchise](https://github.com/HVF/franchise)
 * [KELiON/cerebro](https://github.com/KELiON/cerebro)
 * [stride-nyc/remote_retro](https://github.com/stride-nyc/remote_retro), live at [remoteretro.org](https://remoteretro.org)
+* [Sqlectron - SQL client](https://sqlectron.github.io/)
+* [ALM tools - an IDE built with and for React + TypeScript](http://alm.tools/)
 
 ---
 ### Contribution
