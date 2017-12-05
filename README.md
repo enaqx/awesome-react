@@ -502,6 +502,7 @@ A collection of awesome things regarding React ecosystem.
 * [rlist-view - List view for react with pulling refresh and infinite data load ](https://github.com/gitpadtech/rlist-view)
 * [react-breadcrumbs-dynamic - Extremely flexible and completely router-independent react breadcrumbs solution](https://github.com/oklas/react-breadcrumbs-dynamic)
 * [react-automatic-width - Automatically sets `width` property on child components](https://github.com/zalando-stups/react-automatic-width)
+* [react-js-diagrams - A flow based diagramming library](http://github.com/woodenconsulting/react-js-diagrams/)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
