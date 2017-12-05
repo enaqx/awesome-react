@@ -500,6 +500,7 @@ A collection of awesome things regarding React ecosystem.
 * [email-autocomplete-input - Simple email autocomplete input.](https://github.com/alex-cory/email-autocomplete-input)
 * [rlist-view - List view for react with pulling refresh and infinite data load ](https://github.com/gitpadtech/rlist-view)
 * [react-breadcrumbs-dynamic - Extremely flexible and completely router-independent react breadcrumbs solution](https://github.com/oklas/react-breadcrumbs-dynamic)
+* [react-automatic-width - Automatically sets `width` property on child components](https://github.com/zalando-stups/react-automatic-width)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
