@@ -484,6 +484,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-https-redirect - Force a redirect to HTTPS when not on a local web server](https://github.com/mbasso/react-https-redirect)
 * [react-browser-detection - React component to detect browser](https://github.com/mbasso/react-browser-detection)
 * [react-text-mask - React input mask](https://github.com/text-mask/text-mask)
+* [react-imask - another React input mask](https://github.com/uNmAnNeR/imaskjs/tree/gh-pages/plugins/react)
 * [rebass - Configurable React Stateless Functional UI Components](https://github.com/jxnblk/rebass)
 * [echarts-for-react - baidu Echarts(v3.0) components for React](https://github.com/hustcc/echarts-for-react)
 * [react-pagespeed-score - A React component for display a dial-type chart of PageSpeed Insights](https://github.com/cauealves/react-pagespeed-score)
