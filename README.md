@@ -363,7 +363,7 @@ A collection of awesome things regarding React ecosystem.
 * [RCSS - Turn your JavaScript objects into CSS classes](https://github.com/chenglou/RCSS)
 * [ReactiveElements - Allows to use React.js component as HTML element](https://github.com/PixelsCommander/ReactiveElements)
 * [react-chosen - React wrapper for Chosen jQuery](https://github.com/chenglou/react-chosen)
-* [react-inlinesvg - An SVG loader component for React](https://github.com/matthewwithanm/react-inlinesvg)
+* [react-inlinesvg - An SVG loader component for React](https://github.com/gilbarbara/react-inlinesvg)
 * [react-imageloader - A React component for wrangling image loading](https://github.com/hzdg/react-imageloader)
 * [expose - A React mixin for lazy loading](https://github.com/dok/expose)
 * [react-loadqueueloader - A React component for managing loads with a load queue](https://github.com/hzdg/react-loadqueueloader)
@@ -510,6 +510,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-automatic-width - Automatically sets `width` property on child components](https://github.com/zalando-stups/react-automatic-width)
 * [react-js-diagrams - A flow based diagramming library](http://github.com/woodenconsulting/react-js-diagrams/)
 * [react-file-input-previews-base64 - Wrapper around file input, with option for image previews and returning file as base64 string](https://github.com/SiDevesh/react-file-input-previews-base64)
+* [react-credit-cards - Beautiful credit cards for your payment forms](https://github.com/amarofashion/react-credit-cards)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
