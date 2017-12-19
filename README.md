@@ -300,6 +300,7 @@ A collection of awesome things regarding React ecosystem.
 * [React + Redux w/ ES6 Starter Project - Starter kit using Webpack, React Hot Loader, Code Splitting for React Router, CSS Modules, custom Ducks pattern app architecture, best practices, and Enzyme test environment](https://github.com/nicksp/redux-webpack-es6-boilerplate)
 * [react-firebase-authentication - Boilerplate for authentication and real-time database using React and Firebase](https://github.com/zerostatic/react-firebase-authentication)
 * [react-redux-saga-boilerplate - Starter kit with routing, state container, storage and SEO tools. PWA-ready](https://github.com/gilbarbara/react-redux-saga-boilerplate)
+* [generator-react-firebase - Yeoman generator for starting projects using React and Firebase (Redux optional) with features Full Authentication, Route protection and Material UI Application Navbar](https://github.com/prescottprue/generator-react-firebase)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
