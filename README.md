@@ -670,6 +670,7 @@ A collection of awesome things regarding React ecosystem.
 * [tydel - Typed Models and Collections, with React bindings](http://tydel.js.org)
 * [extendable-immutable - Extend any Immutable.js data structure](https://github.com/philpl/extendable-immutable)
 * [statty - A tiny and unobtrusive state management library for React and Preact apps](https://github.com/vesparny/statty)
+* [Hydux - An Elm-Like state manager for React with "batteries included"](https://github.com/hydux/hydux)
 
 ##### React Developer Experience
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
