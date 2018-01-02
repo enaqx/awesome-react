@@ -246,6 +246,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Prerendering aka snapshotting
 * [react-snap](https://github.com/stereobooster/react-snap)
+* [Prerendering solutions comparison](https://github.com/stereobooster/react-snap/blob/master/doc/alternatives.md)
 
 ##### Compiling React Tutorials
 * [Webpack Howto by Pete Hunt](https://github.com/petehunt/webpack-howto)
