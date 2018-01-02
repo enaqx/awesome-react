@@ -22,6 +22,7 @@ A collection of awesome things regarding React ecosystem.
     - [React and SocketIO](#react-and-socketio)
     - [Server-Client with React](#server-client-with-react)
     - [Server Side Rendering](#server-side-rendering)
+    - [Prerendering aka snapshotting](#prerendering-aka-snapshotting)
     - [Compiling React Tutorials](#compiling-react-tutorials)
     - [Debugging React](#debugging-react)
     - [Authentication](#authentication)
@@ -242,6 +243,10 @@ A collection of awesome things regarding React ecosystem.
 * [Isomorphic React apps in PHP via dnode](http://ericescalante.com/2015/06/07/isomorphic/)
 * [React Server Side Rendering with Hypernova](https://blog.larah.me/2017/04/10/react-server-side-rendering/)
 * [Server Side Rendering with Simple Redux Store Hydration](https://medium.com/@navgarcha7891/react-server-side-rendering-with-simple-redux-store-hydration-9f77ab66900a)
+
+##### Prerendering aka snapshotting
+* [react-snap](https://github.com/stereobooster/react-snap)
+* [Prerendering solutions comparison](https://github.com/stereobooster/react-snap/blob/master/doc/alternatives.md)
 
 ##### Compiling React Tutorials
 * [Webpack Howto by Pete Hunt](https://github.com/petehunt/webpack-howto)
