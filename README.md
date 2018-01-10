@@ -257,6 +257,10 @@ A collection of awesome things regarding React ecosystem.
 * [React JS and a browserify workflow, part2](http://christianalfoni.github.io/javascript/2014/10/30/react-js-workflow-part2.html)
 * [Choosing the correct packaging tool for React JS](http://christianalfoni.github.io/javascript/2014/08/29/choosing-the-correct-packaging-tool-for-react-js.html)
 
+##### Building React components
+* [Distributing React components](http://krasimirtsonev.com/blog/article/distributing-react-components-babel-browserify-webpack-uglifyjs)
+* [A guide to building a React component for NPM](https://medium.com/@markus.s.englund/a-guide-to-building-a-react-component-for-npm-68f03b314753)
+
 ##### Debugging React
 * [Trace Logging with React](http://www.garysieling.com/blog/trace-logging-react)
 * [Reactotron: Control, monitor, and instrument](https://github.com/skellock/reactotron)
