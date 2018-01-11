@@ -1145,7 +1145,7 @@ A collection of awesome things regarding React ecosystem.
 * [KELiON/cerebro](https://github.com/KELiON/cerebro)
 * [stride-nyc/remote_retro](https://github.com/stride-nyc/remote_retro)
 * [Sqlectron - SQL client](https://sqlectron.github.io/)
-* [ALM tools - an IDE built with and for React + TypeScript](http://alm.tools/)
+* [ALM - A cloud ready IDE for React + TypeScript](https://alm-tools.github.io)
 
 ---
 ### Contribution
