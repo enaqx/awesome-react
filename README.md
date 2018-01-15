@@ -948,7 +948,7 @@ A collection of awesome things regarding React ecosystem.
 * [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
 * [GraphQL Tour: Variables](https://medium.com/the-graphqlhub/graphql-tour-variables-58c6abd10f56#.wj9dsgyoy)
 * [How to Graphql - The Fullstack Tutorial for GraphQL](https://howtographql.com/)
-* [Build an online text RPG with React and GraphQL] (https://learn.pusher.com/rpg)
+* [Build an online text RPG with React and GraphQL](https://learn.pusher.com/rpg)
 
 
 #### GraphQL Implementations
