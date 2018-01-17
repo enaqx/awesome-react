@@ -936,6 +936,7 @@ A collection of awesome things regarding React ecosystem.
 #### GraphQL Tools
 * [GraphQL CMS](https://github.com/sarkistlt/graphql-auto-generating-cms)
 * [Mongoose schema To GraphQL](https://github.com/sarkistlt/mongoose-schema-to-graphql)
+* [GraphQL bridge to REST API](https://github.com/dacz/apollo-bridge-link)
 
 #### GraphQL Tutorials
 * [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
