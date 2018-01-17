@@ -529,6 +529,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-credit-cards - Beautiful credit cards for your payment forms](https://github.com/amarofashion/react-credit-cards)
 * [react-dropdown-tree-select - Lightweight, customizable and fast Dropdown Tree Select component for React](https://github.com/dowjones/react-dropdown-tree-select)
 * [react-sortly - Simple, lightweight and highly customizable dnd nested sortable component](https://github.com/lytc/react-sortly)  
+* [react-ui-cards - Various card components for React](https://github.com/nukeop/react-ui-cards)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
