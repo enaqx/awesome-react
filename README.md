@@ -133,7 +133,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### React General Tutorials
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
-* [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
+* [React.js Fundamentals (paid)](https://tylermcginnis.com/courses/react-fundamentals)
 * [React Primer](https://github.com/mikechau/react-primer-draft)
 * [ReactJS: Keep Simple. Everything can be a component!](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 * [React js tutorial](https://hackr.io/tutorials/learn-react)
