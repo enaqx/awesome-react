@@ -475,6 +475,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-progress-label - Progress label component](https://github.com/wangzuo/react-progress-label)
 * [react-input-slider - React input slider component](https://github.com/wangzuo/react-input-slider)
 * [react-range-slider - Collection of react slider components](https://github.com/jpuri/react-range-slider)
+* [rheostat - a www, mobile, and accessible slider component](https://github.com/airbnb/rheostat)
 * [react-ui-tree - React tree component with drag and drop support](https://github.com/pqx/react-ui-tree)
 * [react-frame - React components within an iframe for isolated css styling](https://github.com/pqx/react-frame)
 * [rodal - A React modal with animations](https://github.com/chenjiahan/rodal)
@@ -529,7 +530,8 @@ A collection of awesome things regarding React ecosystem.
 * [react-file-input-previews-base64 - Wrapper around file input, with option for image previews and returning file as base64 string](https://github.com/SiDevesh/react-file-input-previews-base64)
 * [react-credit-cards - Beautiful credit cards for your payment forms](https://github.com/amarofashion/react-credit-cards)
 * [react-dropdown-tree-select - Lightweight, customizable and fast Dropdown Tree Select component for React](https://github.com/dowjones/react-dropdown-tree-select)
-* [react-sortly - Simple, lightweight and highly customizable dnd nested sortable component](https://github.com/lytc/react-sortly)  
+* [react-sortly - Simple, lightweight and highly customizable dnd nested sortable component](https://github.com/lytc/react-sortly)
+* [react-dates - An easily internationalizable, mobile-friendly datepicker library for the web](https://github.com/airbnb/react-dates)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
@@ -650,6 +652,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-autocomplete by @eliseumds- Just tasting some ReactJS + RxJS](https://github.com/eliseumds/react-autocomplete)
 * [react-autocomplete by @prometheusresearch - Autocomplete widget based on React](https://github.com/prometheusresearch/react-autocomplete)
 * [instatype by @gragland - Simple react autocomplete component](https://github.com/gragland/instatype)
+* [downshift - 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components](https://github.com/paypal/downshift)
 
 ##### Documentation Tools
 * [react-docgen - Extract information from React component files for documentation generation](https://github.com/reactjs/react-docgen)
