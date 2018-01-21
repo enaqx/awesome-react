@@ -878,6 +878,7 @@ A collection of awesome things regarding React ecosystem.
 * [redux-mock-store - A mock store for your testing your redux async action creators and middleware](https://github.com/arnaudbenard/redux-mock-store)
 * [redux-immutable - Create an equivalent function of Redux combineReducers that works with Immutable.js state](https://github.com/gajus/redux-immutable)
 * [redux-react-i18n - An i18n solution for redux/react](https://github.com/derzunov/redux-react-i18n)
+* [R16N - A redux/react I18n solution](https://github.com/razodeh/r16n/)
 
 #### Redux Tutorials
 * [Building Applications with React and Redux in ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6)
