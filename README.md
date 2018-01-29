@@ -1094,8 +1094,6 @@ A collection of awesome things regarding React ecosystem.
 * [Modern React with Redux](https://www.udemy.com/react-redux/)
 * [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/)
 
-
-
 ---
 ### Books
 * [SurviveJS - Webpack and React](http://survivejs.com/)
