@@ -1147,7 +1147,6 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### Real Apps
-* [reddit/reddit-mobile](https://github.com/reddit/reddit-mobile)
 * [khan/perseus](https://github.com/khan/perseus)
 * [mozilla/payments-ui](https://github.com/mozilla/payments-ui)
 * [webbylab/itsquiz-wall](https://github.com/webbylab/itsquiz-wall)
