@@ -457,7 +457,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-localstorage - Simple localstorage mixin for react](https://github.com/STRML/react-localstorage)
 * [react-sortable-data React Mixin to sort data easily](https://github.com/AndrewHathaway/ReactSortableDataMixin)
 * [react-widgets - Suite of ui input widgets including combobox, multiselect, datepicker and more](https://github.com/theporchrat/react-widgets)
-* [🎉 React Popup Component 🎉  - Modals,Tooltips and Menus —  All in one (3 kB zipped)](https://github.com/yjose/reactjs-popup)
+* [reactjs-popup - 🎉 React Popup Component 🎉  - Modals,Tooltips and Menus —  All in one (3 kB zipped)](https://github.com/yjose/reactjs-popup)
 * [react-select - Rich Select Component](https://github.com/JedWatson/react-select)
 * [react-video - React component to load video from Vimeo or Youtube](https://github.com/pedronauck/react-video)
 * [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
