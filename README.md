@@ -171,6 +171,7 @@ A collection of awesome things regarding React ecosystem.
 * [styled-components](https://github.com/styled-components/styled-components)
 * [gloss](https://github.com/motion/gloss)
 * [JSS](https://github.com/cssinjs/jss)
+* [reas](https://github.com/diegohaz/reas)
 
 ##### React Charts Tutorials
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
@@ -558,7 +559,6 @@ A collection of awesome things regarding React ecosystem.
 * [Bit - A virtual repository for managing and using react and other web components across applications](https://github.com/teambit/bit)
 * [AtlasKit -  Atlassian's React UI library](https://atlaskit.atlassian.com/)
 * [ReactiveSearch - UI components libray for Elasticsearch](https://github.com/appbaseio/reactivesearch)
-* [reas - Minimalist and highly customizable component system built on top of React and `styled-components`](https://github.com/diegohaz/reas)
 
 ##### Integration
 * [ReactJS.NET](http://reactjs.net/)
