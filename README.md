@@ -951,7 +951,7 @@ A collection of awesome things regarding React ecosystem.
 * [First Thoughts on GraphQL](http://hueypetersen.com/posts/2015/02/02/first-thoughts-on-graph-ql/)
 * [Modeling Queries in a GraphQL Like Way](http://hueypetersen.com/posts/2015/02/08/modeling-queries-graph-ql-like/)
 * [Thin and Graphy](http://hueypetersen.com/posts/2015/02/22/thin-and-graphy/)
-* [GraphQL and g2sd](https://fistfulofbytes.com/graphql-and-g2sd)
+* [GraphQL and g2sd](https://webcache.googleusercontent.com/search?q=cache:xFibiodnfmgJ:https://fistfulofbytes.com/graphql-and-g2sd+&cd=1&hl=en&ct=clnk&gl=fr)
 * [GraphQL Overview - Getting Started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/)
 * [Writing a Basic API with GraphQL](http://davidandsuzi.com/writing-a-basic-api-with-graphql/)
 * [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
