@@ -539,6 +539,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-sortly - Simple, lightweight and highly customizable dnd nested sortable component](https://github.com/lytc/react-sortly)  
 * [react-dates - An easily internationalizable, mobile-friendly datepicker library for the web](https://github.com/airbnb/react-dates)
 * [react-ui-cards - Various card components for React](https://github.com/nukeop/react-ui-cards)
+* [React components IO - A curated list of useful React component libraries and component related tools](https://www.reactcomponent.io/)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
