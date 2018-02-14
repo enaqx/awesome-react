@@ -127,7 +127,6 @@ A collection of awesome things regarding React ecosystem.
 * [React JSFiddle Integration without JSX](https://jsfiddle.net/reactjs/5vjqabv3/)
 * [Babel REPL](https://babeljs.io/repl/)
 * [React HTML to JSX Online Compiler](https://facebook.github.io/react/html-jsx.html)
-* [React browser prototyping for components](http://react.run)
 
 #### React Tutorials
 
