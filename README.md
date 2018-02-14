@@ -339,7 +339,6 @@ A collection of awesome things regarding React ecosystem.
 * [React Topcoat UI components](https://github.com/kjda/react-topui)
 * [react-material - Material design components written with React.js and React Style](https://github.com/SanderSpies/react-material)
 * [Ant Design of React - A set of high-quality React components](http://github.com/ant-design/ant-design/)
-* [Atlassian's official UI library - Collection of React UI components](https://atlaskit.atlassian.com/)
 * [react-md - Set of React components and sass files for implementing Google's Material Design](https://github.com/mlaursen/react-md)
 * [material-ui - A CSS Framework and a Set of React Components for Material Design](https://github.com/callemall/material-ui)
 * [ReactSymbols - Pixel perfect UI Kit / Library with ready-to-use components + original Sketch resource file](http://reactsymbols.com)
