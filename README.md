@@ -329,6 +329,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-tv - React renderer for low memory applications and Packager for TVs](https://github.com/raphamorim/react-tv)
 
 ##### Components
+* [React Svg Textures - Textures.js ported to React. Fully isomorphic.](https://github.com/finnfiddle/react-svg-textures)
 * [React Responsive Tables](https://github.com/adam-hanna/react-responsive-tables)
 * [React Component List](http://dvemac.github.io/react-component-list/)
 * [JS.coach - A catalog of React components](https://js.coach/)
@@ -735,7 +736,7 @@ A collection of awesome things regarding React ecosystem.
 ##### Charts
 * [react-chartjs - Common react charting components using chart.js](https://github.com/jhudson8/react-chartjs)
 * [react-stockcharts - Highly customizable stock charts with ReactJS and d3](https://github.com/rrag/react-stockcharts)
-* [Number Picture - Low-level React + D3 building blocks](http://numberpicture.com/library)
+* [Number Picture - Low-level building blocks for constructing animated visualizations with React & D3.](http://numberpicture.com/build)
 * [VictoryJS - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
 * [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
 
