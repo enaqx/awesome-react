@@ -563,6 +563,7 @@ A collection of awesome things regarding React ecosystem.
 * [Bit - A virtual repository for managing and using react and other web components across applications](https://github.com/teambit/bit)
 * [AtlasKit -  Atlassian's React UI library](https://atlaskit.atlassian.com/)
 * [ReactiveSearch - UI components libray for Elasticsearch](https://github.com/appbaseio/reactivesearch)
+* [Slate - A completely customizable framework for building rich text editors.](https://github.com/ianstormtaylor/slate)
 
 ##### Integration
 * [ReactJS.NET](http://reactjs.net/)
