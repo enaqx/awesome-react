@@ -436,7 +436,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-kaomoji - A React component for displaying Japanese emoticons](https://github.com/enaqx/react-kaomoji)
 * [react-calendar - Calendar that inspired by React philosophy](https://github.com/Aetet/react-calendar)
 * [react-element-pan - React component for allowing panning of DOM-elements](https://github.com/rexxars/react-element-pan)
-* [react-anchor - Functional factory to create react anchor components](https://github.com/yoshuawuyts/react-anchor)
 * [react-bootstrap-daterangepicker - A date/time picker for react (using Bootstrap)](https://github.com/skratchdot/react-bootstrap-daterangepicker)
 * [react-bootstrap-datetimepicker - A react.js datetime picker for Bootstrap](https://github.com/quri/react-bootstrap-datetimepicker)
 * [react-bootstrap-multiselect - A multiselect component for react (with bootstrap)](https://github.com/skratchdot/react-bootstrap-multiselect)
