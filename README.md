@@ -81,7 +81,7 @@ A collection of awesome things regarding React ecosystem.
   - [Relay Tutorials](#relay-tutorials)
   - [Relay Tools](#relay-tools)
 - [Apollo](#apollo)
-  - [Apolo General Resources](#apollo-general-resources)
+  - [Apollo General Resources](#apollo-general-resources)
 - [Flow](#flow)
   - [Flow Resources](#flow-resources)
 - [Videos](#videos)
