@@ -538,6 +538,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-dates - An easily internationalizable, mobile-friendly datepicker library for the web](https://github.com/airbnb/react-dates)
 * [react-ui-cards - Various card components for React](https://github.com/nukeop/react-ui-cards)
 * [React components IO - A curated list of useful React component libraries and component related tools](https://www.reactcomponent.io/)
+* [react-filepond - Drag 'n Drop accessibile file upload component](https://github.com/pqina/react-filepond)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
