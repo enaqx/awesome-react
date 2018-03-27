@@ -1155,6 +1155,7 @@ A collection of awesome things regarding React ecosystem.
 * [A Reimplementation of Winamp 2.9 with React and Redux](https://github.com/captbaritone/winamp2-js)
 * [ComingOrNot - Event Planner built with react, react-router, redux, graphQL & serverless](https://github.com/lakshmantgld/comingOrNot#reactjs-redux-serverless-graphql-event-planner)
 * [React Reduction - Admin Dashboard built with React + Bootstrap4](https://github.com/reduction-admin/react-reduction)
+* [React Code Splitting Sample - React + React Router + Flux](https://github.com/tiarebalbi/flux-main-sample)
 
 ---
 ### Real Apps
