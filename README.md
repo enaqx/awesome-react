@@ -320,6 +320,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
+* [buttermilk - beautifully simple routing for React projects](https://github.com/probablyup/buttermilk)
 
 ##### React Projects
 * [gatsby - Transform plain text into dynamic blogs and websites using React.js](https://github.com/gatsbyjs/gatsby)
