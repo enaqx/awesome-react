@@ -171,6 +171,7 @@ A collection of awesome things regarding React ecosystem.
 * [gloss](https://github.com/motion/gloss)
 * [JSS](https://github.com/cssinjs/jss)
 * [reas](https://github.com/diegohaz/reas)
+* [emotion](https://emotion.sh/)
 
 ##### React Charts Tutorials
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
