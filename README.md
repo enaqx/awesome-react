@@ -1116,6 +1116,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Quickly](https://www.manning.com/books/react-quickly)
 * [React: Up & Running: Building Web Applications](https://www.amazon.com/React-Running-Building-Web-Applications/dp/1491931825)
 * [Developing a React.js Edge](https://bleedingedgepress.com/developing-a-react-edge-2nd-edition/)
+* [Builder Book: Build a Full-stack JavaScript Web App from Scratch](https://builderbook.org/book)
 
 ---
 ### Demos
