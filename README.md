@@ -147,6 +147,7 @@ A collection of awesome things regarding React ecosystem.
 * [Getting Started with React](https://sabe.io/tutorials/getting-started-with-react)
 * [React Express - Beginners Guide to React Application Development](http://www.react.express/)
 * [GraphCMS Beginners Guide with React](https://graphcms.com/docs/getting-started/beginners_guide_with_react/)
+* [Build a Chat App with React and Pusher Chatkit](https://github.com/bookercodes/build-a-chat-app-with-react-and-pusher-chatkit)
 
 ##### React best practices
 
