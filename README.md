@@ -542,6 +542,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-ui-cards - Various card components for React](https://github.com/nukeop/react-ui-cards)
 * [React components IO - A curated list of useful React component libraries and component related tools](https://www.reactcomponent.io/)
 * [react-filepond - Drag 'n Drop accessibile file upload component](https://github.com/pqina/react-filepond)
+* [pimg - A Progressive Image Component used for lazy loading images](https://github.com/ooade/pimg)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
