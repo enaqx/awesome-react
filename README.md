@@ -145,6 +145,7 @@ A collection of awesome things regarding React ecosystem.
 * [React cheatsheet](https://devhints.io/react)
 * [Codecademy Learn ReactJS Course](https://www.codecademy.com/pt/learn/react-101)
 * [Getting Started with React](https://sabe.io/tutorials/getting-started-with-react)
+* [Deploying a React app to Github Pages](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages)
 * [React Express - Beginners Guide to React Application Development](http://www.react.express/)
 * [GraphCMS Beginners Guide with React](https://graphcms.com/docs/getting-started/beginners_guide_with_react/)
 * [Build a Chat App with React and Pusher Chatkit](https://github.com/bookercodes/build-a-chat-app-with-react-and-pusher-chatkit)
