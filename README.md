@@ -641,6 +641,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-three - React bindings to create and control a 3D scene using three.js](https://github.com/Izzimach/react-three)
 * [react-three-renderer - Render into a three.js canvas using React](https://github.com/toxicFork/react-three-renderer)
 * [react-threejs - Simplest bindings between React & Three.js](https://github.com/fritx/react-threejs)
+* [react-masonry-css - Fast Masonry layout powered by CSS, dependancy free](https://github.com/paulcollett/react-masonry-css)
 
 ##### Forms
 * [React Forms](http://facebook.github.io/react/docs/forms.html)
