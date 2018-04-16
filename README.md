@@ -548,6 +548,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-filepond - Drag 'n Drop accessibile file upload component](https://github.com/pqina/react-filepond)
 * [pimg - A Progressive Image Component used for lazy loading images](https://github.com/ooade/pimg)
 * [object-editor-react - Schema-aware editor for structured JSON objects (drop-in component)](https://github.com/b-gran/object-editor-react)
+* [react-terminal-component - Emulate a terminal with autocomplete, commands, a file-system, themes and more.](https://github.com/rohanchandra/react-terminal-component)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
