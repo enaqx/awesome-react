@@ -535,6 +535,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-creditcard - An awesome react credit card component.](https://github.com/medipass/react-creditcard)
 * [email-autocomplete-input - Simple email autocomplete input.](https://github.com/alex-cory/email-autocomplete-input)
 * [rlist-view - List view for react with pulling refresh and infinite data load ](https://github.com/gitpadtech/rlist-view)
+* [gmodal - Make delightful modal layer ](https://github.com/gitpadtech/gmodal)
 * [react-breadcrumbs-dynamic - Extremely flexible and completely router-independent react breadcrumbs solution](https://github.com/oklas/react-breadcrumbs-dynamic)
 * [react-automatic-width - Automatically sets `width` property on child components](https://github.com/zalando-stups/react-automatic-width)
 * [react-js-diagrams - A flow based diagramming library](http://github.com/woodenconsulting/react-js-diagrams/)
