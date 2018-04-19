@@ -551,6 +551,7 @@ A collection of awesome things regarding React ecosystem.
 * [object-editor-react - Schema-aware editor for structured JSON objects (drop-in component)](https://github.com/b-gran/object-editor-react)
 * [react-terminal-component - Emulate a terminal with autocomplete, commands, a file-system, themes and more.](https://github.com/rohanchandra/react-terminal-component)
 * [react-scrolltop-button - A button component for scrolling to top of the page.](https://github.com/graysonhicks/react-scrolltop-button)
+* [numeric-keyboard - Numeric keyboard for mobile browsers.](https://github.com/viclm/numeric-keyboard)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
