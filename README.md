@@ -201,6 +201,7 @@ A collection of awesome things regarding React ecosystem.
 * [Angular to React/Redux, a Guide for Angular v1 Experts Looking to Learn React/Redux](https://github.com/GoTeamEpsilon/angular-to-react-redux)
 
 ##### React and Bootstrap
+* [Awesome react bootstrap components](https://github.com/Hermanya/awesome-react-bootstrap-components)
 * [Better Bootstrap modals and popover with React.js](http://clozeit.wordpress.com/2014/01/08/bootstrap-modals-and-popover-in-react-js/)
 * [A mixin-based design for a React.js Bootstrap component library](http://clozeit.wordpress.com/2014/01/08/13/)
 * [Popover mixin](http://clozeit.wordpress.com/2014/01/09/popover-mixin/)
