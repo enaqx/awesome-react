@@ -327,6 +327,7 @@ A collection of awesome things regarding React ecosystem.
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
 * [buttermilk - beautifully simple routing for React projects](https://github.com/probablyup/buttermilk)
+* [pagify-it - Add routing to your React app in one minute (Page.js)](https://github.com/sonaye/pagify-it)
 
 ##### React Projects
 * [gatsby - Transform plain text into dynamic blogs and websites using React.js](https://github.com/gatsbyjs/gatsby)
@@ -554,6 +555,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-scrolltop-button - A button component for scrolling to top of the page.](https://github.com/graysonhicks/react-scrolltop-button)
 * [numeric-keyboard - Numeric keyboard for mobile browsers.](https://github.com/viclm/numeric-keyboard)
 * [rsuite - A suite of React components](https://github.com/rsuite/rsuite)
+* [react-dt - A data table component for React and Material-UI](https://github.com/sonaye/react-dt)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
@@ -579,6 +581,7 @@ A collection of awesome things regarding React ecosystem.
 * [AtlasKit -  Atlassian's React UI library](https://atlaskit.atlassian.com/)
 * [ReactiveSearch - UI components libray for Elasticsearch](https://github.com/appbaseio/reactivesearch)
 * [Slate - A completely customizable framework for building rich text editors.](https://github.com/ianstormtaylor/slate)
+* [react-animated-transitions - Easy animated transitions in React](https://github.com/sonaye/react-animated-transitions)
 
 ##### Integration
 * [ReactJS.NET](http://reactjs.net/)
@@ -1159,7 +1162,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-babel-webpack - CRUD demo app featuring React, React Router, Flux, Webpack, Bootstrap](https://github.com/arcseldon/react-babel-webpack-starter-app.git)
 * [React/Redux CRUD with persistent state in Local Storage](https://github.com/cristianszwarc/react_crud_localStorage/)
 * [React Slack clone - comprehensive Slack clone built with React and Chatkit](https://github.com/pusher/react-slack-clone/)
-
+* [react-color-wander - Generative art with React](https://github.com/sonaye/react-color-wander)
 
 ---
 ### Example Apps
