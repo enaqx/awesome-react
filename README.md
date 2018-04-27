@@ -653,6 +653,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Forms
 * [React Forms](http://facebook.github.io/react/docs/forms.html)
+* [uniformed - Trying really hard to define a non-standard standard for React forms.](https://github.com/parkroolucas/uniformed)
 * [react-formal - Better form validation and value management for React, Provides minimal wiring](https://github.com/jquense/react-formal)
 * [react-forms - Forms library for React](https://github.com/prometheusresearch/react-forms)
 * [valuelink - full-featured two-way data binding with extended React links](https://github.com/Volicon/valuelink)
