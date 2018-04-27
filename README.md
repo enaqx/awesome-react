@@ -582,6 +582,7 @@ A collection of awesome things regarding React ecosystem.
 * [ReactiveSearch - UI components libray for Elasticsearch](https://github.com/appbaseio/reactivesearch)
 * [Slate - A completely customizable framework for building rich text editors.](https://github.com/ianstormtaylor/slate)
 * [react-animated-transitions - Easy animated transitions in React](https://github.com/sonaye/react-animated-transitions)
+* [react-json-schema - Construct React elements from JSON by mapping JSON definitions to React components that you expose.](https://github.com/TechniqueSoftware/react-json-schema)
 
 ##### Integration
 * [ReactJS.NET](http://reactjs.net/)
