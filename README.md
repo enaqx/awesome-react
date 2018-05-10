@@ -326,6 +326,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
+* [react-router5 - A routing library for React and more](http://router5.github.io/docs/with-react.html#/inbox)
 * [buttermilk - beautifully simple routing for React projects](https://github.com/probablyup/buttermilk)
 * [pagify-it - Add routing to your React app in one minute (Page.js)](https://github.com/sonaye/pagify-it)
 
