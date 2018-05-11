@@ -559,6 +559,7 @@ A collection of awesome things regarding React ecosystem.
 * [numeric-keyboard - Numeric keyboard for mobile browsers.](https://github.com/viclm/numeric-keyboard)
 * [rsuite - A suite of React components](https://github.com/rsuite/rsuite)
 * [react-dt - A data table component for React and Material-UI](https://github.com/sonaye/react-dt)
+* [react-vertical-timeline-component - A vertical timeline for React.js](https://github.com/stephane-monnot/react-vertical-timeline)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
