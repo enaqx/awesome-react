@@ -189,6 +189,7 @@ A collection of awesome things regarding React ecosystem.
 * [Meteor official Guide](http://guide.meteor.com/react.html)
 * [Meteor with React Tutorial](https://www.meteor.com/tutorials/react/creating-an-app)
 * [React for Meteor developers](http://blog.differential.com/react-for-meteor-developers/)
+* [Full-stack GraphQL with Apollo, Meteor & React](https://www.youtube.com/playlist?list=PLLnpHn493BHFTDL9M1PKnxQwBwOZ8J-h4)
 
 ##### React and Angular
 * [NgReact - React Components in Angular](http://davidandsuzi.com/ngreact-react-components-in-angular/)
