@@ -977,6 +977,7 @@ A collection of awesome things regarding React ecosystem.
 * [GraphQL CMS](https://github.com/sarkistlt/graphql-auto-generating-cms)
 * [Mongoose schema To GraphQL](https://github.com/sarkistlt/mongoose-schema-to-graphql)
 * [GraphQL bridge to REST API](https://github.com/dacz/apollo-bridge-link)
+* [GraphQL Playground - GraphQL IDE for better development workflows](https://github.com/graphcool/graphql-playground)
 
 #### GraphQL Tutorials
 * [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -1006,8 +1007,10 @@ A collection of awesome things regarding React ecosystem.
 
 #### Server Integration
 * [express-graphql - Create a GraphQL HTTP server with **Express**](https://github.com/graphql/express-graphql)
+* [graphql-yoga - Easiest way to run a GraphQL server](https://github.com/graphcool/graphql-yoga)
 
 #### Database Integration
+* [Prisma - a performant open-source GraphQL ORM-like * layer doing the heavy lifting in your GraphQL server.](https://www.prisma.io/)
 * [graphql-bookshelf - Some help defining GraphQL schema around BookshelfJS models](https://github.com/brysgo/graphql-bookshelf)
 * [GraphpostgresQL - GraphQL for **PostgreSQL**](https://github.com/solidsnack/GraphpostgresQL)
 * [graffiti - Node.js GraphQL ORM](https://github.com/RisingStack/graffiti)
