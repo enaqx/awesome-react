@@ -1187,6 +1187,7 @@ A collection of awesome things regarding React ecosystem.
 * [ComingOrNot - Event Planner built with react, react-router, redux, graphQL & serverless](https://github.com/lakshmantgld/comingOrNot#reactjs-redux-serverless-graphql-event-planner)
 * [React Reduction - Admin Dashboard built with React + Bootstrap4](https://github.com/reduction-admin/react-reduction)
 * [React Code Splitting Sample - React + React Router + Flux](https://github.com/tiarebalbi/flux-main-sample)
+* [Responsive React 'The Movie Database' (TMDb) App](https://github.com/SKempin/reactjs-tmdb-app)
 
 ---
 ### Real Apps
