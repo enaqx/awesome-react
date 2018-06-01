@@ -1010,6 +1010,7 @@ A collection of awesome things regarding React ecosystem.
 * [graphql-yoga - Easiest way to run a GraphQL server](https://github.com/graphcool/graphql-yoga)
 
 #### Database Integration
+* [Hasura - Build scalable GraphQL applications on Postgres in minutes. Create tables and relationships and get GraphQL APIs instantly with fine grained permissions and access control.](https://hasura.io/) 
 * [Prisma - a performant open-source GraphQL ORM-like * layer doing the heavy lifting in your GraphQL server.](https://www.prisma.io/)
 * [graphql-bookshelf - Some help defining GraphQL schema around BookshelfJS models](https://github.com/brysgo/graphql-bookshelf)
 * [GraphpostgresQL - GraphQL for **PostgreSQL**](https://github.com/solidsnack/GraphpostgresQL)
