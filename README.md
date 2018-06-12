@@ -561,6 +561,7 @@ A collection of awesome things regarding React ecosystem.
 * [rsuite - A suite of React components](https://github.com/rsuite/rsuite)
 * [react-dt - A data table component for React and Material-UI](https://github.com/sonaye/react-dt)
 * [react-vertical-timeline-component - A vertical timeline for React.js](https://github.com/stephane-monnot/react-vertical-timeline)
+* [react-oxygen-ui-kit - Flexbox-based, easy to use set of components](https://github.com/nukeop/react-oxygen-ui-kit)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
