@@ -678,6 +678,7 @@ A collection of awesome things regarding React ecosystem.
 * [NeoForm – Modular HOCs for form state management and validation](https://github.com/zero-plus-x/neoform)
 * [react-jsonschema-form – A React component for building Web forms from JSON Schema](https://github.com/mozilla-services/react-jsonschema-form)
 * [List View Select - A Togglable select box for React Native with native components](https://github.com/JamesWatling/react-native-list-view-select)
+* [Final Form 🏁](https://github.com/final-form/react-final-form)
 
 ##### Autocomplete
 * [react-typeahead-search by @tonyspiro](https://github.com/tonyspiro/react-typeahead-search)
