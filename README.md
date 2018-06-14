@@ -472,7 +472,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-widgets - Suite of ui input widgets including combobox, multiselect, datepicker and more](https://github.com/theporchrat/react-widgets)
 * [react-select - Rich Select Component](https://github.com/JedWatson/react-select)
 * [react-video - React component to load video from Vimeo or Youtube](https://github.com/pedronauck/react-video)
-* [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
 * [react-cassette-player - Vector-based HTML5 Audio Player](https://github.com/chadpaulson/react-cassette-player)
 * [react-tagsinput - A simple react component for inputing tags.](https://github.com/olahol/react-tagsinput)
 * [react-autolink - An autolink mixin for React](https://github.com/banyan/react-autolink)
@@ -657,6 +656,8 @@ A collection of awesome things regarding React ecosystem.
 * [react-three-renderer - Render into a three.js canvas using React](https://github.com/toxicFork/react-three-renderer)
 * [react-threejs - Simplest bindings between React & Three.js](https://github.com/fritx/react-threejs)
 * [react-masonry-css - Fast Masonry layout powered by CSS, dependancy free](https://github.com/paulcollett/react-masonry-css)
+* [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
+* [reaptcha - Clean, modern and simple React wrapper for Google reCAPTCHA](https://github.com/sarneeh/reaptcha)
 
 ##### Forms
 * [React Forms](http://facebook.github.io/react/docs/forms.html)
