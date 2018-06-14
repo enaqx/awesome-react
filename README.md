@@ -152,6 +152,7 @@ A collection of awesome things regarding React ecosystem.
 * [GraphCMS Beginners Guide with React](https://graphcms.com/docs/getting-started/beginners_guide_with_react/)
 * [Build a Chat App with React and Pusher Chatkit](https://github.com/bookercodes/build-a-chat-app-with-react-and-pusher-chatkit)
 * [How to set up continuous integration and deployment for your React app](https://medium.freecodecamp.org/how-to-set-up-continuous-integration-and-deployment-for-your-react-app-d09ae4525250)
+* [SSR Split (A/B) Testing and Analytics with React, Redux, and Next.js](https://hackernoon.com/tutorial-ssr-split-testing-and-analytics-with-react-redux-and-next-js-5392799c15c7)
 
 ##### React best practices
 
