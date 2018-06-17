@@ -561,6 +561,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-dt - A data table component for React and Material-UI](https://github.com/sonaye/react-dt)
 * [react-vertical-timeline-component - A vertical timeline for React.js](https://github.com/stephane-monnot/react-vertical-timeline)
 * [react-handsontable - A React wrapper for the the Handsontable spreadsheet component.](https://github.com/handsontable/react-handsontable)
+* [animated-number-react - Super easy way to animate numbers with React](https://github.com/Leocardoso94/animated-number-react)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
