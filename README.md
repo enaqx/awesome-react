@@ -562,6 +562,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-vertical-timeline-component - A vertical timeline for React.js](https://github.com/stephane-monnot/react-vertical-timeline)
 * [react-handsontable - A React wrapper for the the Handsontable spreadsheet component.](https://github.com/handsontable/react-handsontable)
 * [animated-number-react - Super easy way to animate numbers with React](https://github.com/Leocardoso94/animated-number-react)
+* [react-fetch-progressbar - Automatically show a progressbar in React whenever a fetch request is in progress](https://github.com/42BV/react-fetch-progressbar)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
