@@ -592,7 +592,7 @@ A collection of awesome things regarding React ecosystem.
 * [compose-state - Compose multiple setState or getDerivedStateFromProps updaters in React](https://github.com/tvler/compose-state)
 
 ##### Integration
-* [ReactJS.NET](http://reactjs.net/)
+* [ReactJS.NET](https://github.com/reactjs/React.NET)
 * [React ASP.NET Boilerplate](https://github.com/pauldotknopf/react-aspnet-boilerplate)
 * [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap/)
 * [React Bootstrap Components Playground](http://gcanti.github.io/resources/tcomb-react-bootstrap/playground/playground.html)
