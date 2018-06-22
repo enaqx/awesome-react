@@ -562,7 +562,8 @@ A collection of awesome things regarding React ecosystem.
 * [react-vertical-timeline-component - A vertical timeline for React.js](https://github.com/stephane-monnot/react-vertical-timeline)
 * [react-handsontable - A React wrapper for the the Handsontable spreadsheet component.](https://github.com/handsontable/react-handsontable)
 * [animated-number-react - Super easy way to animate numbers with React](https://github.com/Leocardoso94/animated-number-react)
-
+* [is-online-component - A simple react component that detects online and offline changes](https://github.com/Leocardoso94/is-online-component)
+  
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
 
