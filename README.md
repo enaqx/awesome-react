@@ -1208,6 +1208,7 @@ A collection of awesome things regarding React ecosystem.
 * [Sqlectron - SQL client](https://sqlectron.github.io/)
 * [ALM - A cloud ready IDE for React + TypeScript](https://alm-tools.github.io)
 * [Spectrum – Simple, powerful online communities](https://github.com/withspectrum/spectrum)
+* [Mattermost – Open source Slack-alternative](https://github.com/mattermost/mattermost-webapp)
 
 ---
 ### Contribution
