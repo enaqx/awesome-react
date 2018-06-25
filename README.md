@@ -221,6 +221,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### React and Datatables
 * [React and Datatables](https://github.com/wyvernnot/react-datatables-example)
+* [react-dt - A data table component for React and Material-UI](https://github.com/sonaye/react-dt)
 
 ##### React and Haskell
 * [stackage-view, built with Yesod and GHCJS+React](https://github.com/fpco/stackage-view)
@@ -324,12 +325,11 @@ A collection of awesome things regarding React ecosystem.
 * [Starter template for React + Redux + TypeScript - setup and simple app using async actions and Material UI](https://github.com/dsheiko/boilerplate/tree/master/react-redux-typescript)
 * [particleplate - an Express + TypeScript + React + React-Router + Redux + React-Redux + PostCSS + MaterialUI boilerplate](https://github.com/handicraftsman/particleplate)
 
-
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
 * [react-router5 - A routing library for React and more](http://router5.github.io/docs/with-react.html#/inbox)
 * [buttermilk - beautifully simple routing for React projects](https://github.com/probablyup/buttermilk)
-* [pagify-it - Add routing to your React app in one minute (Page.js)](https://github.com/sonaye/pagify-it)
+* [pagify-it - Add routing to your React app in minutes](https://github.com/sonaye/pagify-it)
 
 ##### React Projects
 * [gatsby - Transform plain text into dynamic blogs and websites using React.js](https://github.com/gatsbyjs/gatsby)
@@ -557,12 +557,12 @@ A collection of awesome things regarding React ecosystem.
 * [react-scrolltop-button - A button component for scrolling to top of the page.](https://github.com/graysonhicks/react-scrolltop-button)
 * [numeric-keyboard - Numeric keyboard for mobile browsers.](https://github.com/viclm/numeric-keyboard)
 * [rsuite - A suite of React components](https://github.com/rsuite/rsuite)
-* [react-dt - A data table component for React and Material-UI](https://github.com/sonaye/react-dt)
 * [react-vertical-timeline-component - A vertical timeline for React.js](https://github.com/stephane-monnot/react-vertical-timeline)
 * [react-handsontable - A React wrapper for the the Handsontable spreadsheet component.](https://github.com/handsontable/react-handsontable)
 * [animated-number-react - Super easy way to animate numbers with React](https://github.com/Leocardoso94/animated-number-react)
 * [is-online-component - A simple react component that detects online and offline changes](https://github.com/Leocardoso94/is-online-component)
-  
+* [react-paypal-btn - Add a PayPal button to your React app](https://github.com/sonaye/react-paypal-btn)
+
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
 
@@ -571,6 +571,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-toolbox - A set of React components implementing Google's Material Design specification](https://github.com/react-toolbox/react-toolbox)
 * [tcomb-react -  Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
 * [react-responsive - Media queries in react for responsive design](https://github.com/wearefractal/react-responsive)
+* [react-is-responsive - A utility to create responsive components in React](https://github.com/sonaye/react-is-responsive)
 * [react-cursor - Functional state management abstraction for use with Facebook React](https://github.com/dustingetz/react-cursor)
 * [Omniscient.js - Abstracting React components for fast top down render of immutable data](https://github.com/omniscientjs/omniscient)
 * [Touchstonejs - React.js powered UI framework for developing beautiful hybrid mobile apps.](https://github.com/touchstonejs/touchstonejs)
@@ -590,6 +591,8 @@ A collection of awesome things regarding React ecosystem.
 * [react-animated-transitions - Easy animated transitions in React](https://github.com/sonaye/react-animated-transitions)
 * [react-json-schema - Construct React elements from JSON by mapping JSON definitions to React components that you expose.](https://github.com/TechniqueSoftware/react-json-schema)
 * [compose-state - Compose multiple setState or getDerivedStateFromProps updaters in React](https://github.com/tvler/compose-state)
+* [react-with-analytics - Google Analytics for React apps with ease](https://github.com/sonaye/react-with-analytics)
+* [react-cache-me-outside - OTA data updates for React apps. How bow dat!](https://github.com/sonaye/react-cache-me-outside)
 
 ##### Integration
 * [ReactJS.NET](https://github.com/reactjs/React.NET)
@@ -719,6 +722,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-resolver - Isomorphic library to recursively lazy-load data for React components](https://github.com/ericclemmons/react-resolver)
 * [freezer-js - Lightweight and reactive immutable data structure for React](https://github.com/arqex/freezer)
 * [MobX - Simple, scalable state management](#mobx)
+* [Qaf - Components as stores. Simple state management for React based on context](https://github.com/sonaye/qaf)
 * [baobab - JavaScript persistent and optionally immutable data tree with cursors](https://github.com/Yomguithereal/baobab)
 * [baobab-react - React integration for Baobab](https://github.com/Yomguithereal/baobab-react)
 * [datascript - Immutable database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
