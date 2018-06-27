@@ -1218,6 +1218,7 @@ A collection of awesome things regarding React ecosystem.
 * [ALM - A cloud ready IDE for React + TypeScript](https://alm-tools.github.io)
 * [Spectrum – Simple, powerful online communities](https://github.com/withspectrum/spectrum)
 * [Mattermost – Open source Slack-alternative](https://github.com/mattermost/mattermost-webapp)
+* [SaaS Boilerplate – Open source web app to quickly build your own SaaS product](https://github.com/async-labs/saas)
 
 ---
 ### Contribution
