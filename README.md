@@ -342,6 +342,7 @@ A collection of awesome things regarding React ecosystem.
 * [MJML - The only framework that makes responsive-email easy. Based on React](https://mjml.io)
 * [react-tv - React renderer for low memory applications and Packager for TVs](https://github.com/raphamorim/react-tv)
 * [ink - React for interactive command-line apps](https://github.com/vadimdemedes/ink)
+* [react-cli - a react renderer for the command line](https://github.com/mgrip/react-cli)
 
 ##### Components
 * [React Svg Textures - Textures.js ported to React. Fully isomorphic.](https://github.com/finnfiddle/react-svg-textures)
