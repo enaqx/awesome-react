@@ -568,6 +568,7 @@ A collection of awesome things regarding React ecosystem.
 * [animated-number-react - Super easy way to animate numbers with React](https://github.com/Leocardoso94/animated-number-react)
 * [is-online-component - A simple react component that detects online and offline changes](https://github.com/Leocardoso94/is-online-component)
 * [react-paypal-btn - Add a PayPal button to your React app](https://github.com/sonaye/react-paypal-btn)
+* [react-unveil - Cross-browser ShowMore component for React with sensible defaults](https://github.com/clemmy/react-unveil)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
