@@ -1206,6 +1206,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Reduction - Admin Dashboard built with React + Bootstrap4](https://github.com/reduction-admin/react-reduction)
 * [React Code Splitting Sample - React + React Router + Flux](https://github.com/tiarebalbi/flux-main-sample)
 * [Responsive React 'The Movie Database' (TMDb) App](https://github.com/SKempin/reactjs-tmdb-app)
+* [CoreUI - Free Admin Panel built with React and Bootstrap 4](https://github.com/coreui/coreui-free-react-admin-template)
 
 ---
 ### Real Apps
