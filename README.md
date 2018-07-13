@@ -324,6 +324,7 @@ A collection of awesome things regarding React ecosystem.
 * [generator-react-firebase - Yeoman generator for starting projects using React and Firebase (Redux optional) with features Full Authentication, Route protection and Material UI Application Navbar](https://github.com/prescottprue/generator-react-firebase)
 * [Starter template for React + Redux + TypeScript - setup and simple app using async actions and Material UI](https://github.com/dsheiko/boilerplate/tree/master/react-redux-typescript)
 * [particleplate - an Express + TypeScript + React + React-Router + Redux + React-Redux + PostCSS + MaterialUI boilerplate](https://github.com/handicraftsman/particleplate)
+* [react-typescript-starter - A React + TypeScript + Webpack + React-Router v4 + Redux + React-Redux + Redux-Thunk + PostCSS + Bootstrap 4 boilerplate](https://github.com/shortgiraffe4/react-typescript-starter)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
