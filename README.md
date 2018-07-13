@@ -340,6 +340,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-cli - a react renderer for the command line](https://github.com/mgrip/react-cli)
 
 ##### Components
+* [DevExtreme React Grid - High-performance plugin-based React data grid for Bootstrap and Material Design](https://devexpress.github.io/devextreme-reactive/react/grid/)
 * [React Svg Textures - Textures.js ported to React. Fully isomorphic.](https://github.com/finnfiddle/react-svg-textures)
 * [React Responsive Tables](https://github.com/adam-hanna/react-responsive-tables)
 * [React Component List](http://dvemac.github.io/react-component-list/)
@@ -772,6 +773,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-mapbox-gl - A mapbox-gl-js wrapper to make the API react friendly](https://github.com/alex3165/react-mapbox-gl)
 
 ##### Charts
+* [DevExtreme React Chart - High-performance plugin-based React chart for Bootstrap and Material Design](https://devexpress.github.io/devextreme-reactive/react/chart/)
 * [react-chartjs - Common react charting components using chart.js](https://github.com/jhudson8/react-chartjs)
 * [react-stockcharts - Highly customizable stock charts with ReactJS and d3](https://github.com/rrag/react-stockcharts)
 * [Number Picture - Low-level building blocks for constructing animated visualizations with React & D3.](http://numberpicture.com/build)
