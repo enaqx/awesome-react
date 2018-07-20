@@ -246,6 +246,8 @@ A collection of awesome things regarding React ecosystem.
 * [Golang Isomorphic Hot Reloadable/React/Flummox/Css-Module Starter Kit](https://github.com/olebedev/go-starter-kit)
 * [Serverside rendering with React + Hapi](https://github.com/jedireza/hapi-react-views)
 * [Isomorphic React apps in PHP via dnode](http://ericescalante.com/2015/06/07/isomorphic/)
+
+* [Server Side Redering, Universal JS, Hot Module Reloading and Code Splitting with React and Redux](https://github.com/Alex-ray/v2-universal-js-hmr-ssr-react-redux)
 * [React Server Side Rendering with Hypernova](https://blog.larah.me/2017/04/10/react-server-side-rendering/)
 * [Server Side Rendering with Simple Redux Store Hydration](https://medium.com/@navgarcha7891/react-server-side-rendering-with-simple-redux-store-hydration-9f77ab66900a)
 
