@@ -324,8 +324,8 @@ A collection of awesome things regarding React ecosystem.
 * [generator-react-firebase - Yeoman generator for starting projects using React and Firebase (Redux optional) with features Full Authentication, Route protection and Material UI Application Navbar](https://github.com/prescottprue/generator-react-firebase)
 * [Starter template for React + Redux + TypeScript - setup and simple app using async actions and Material UI](https://github.com/dsheiko/boilerplate/tree/master/react-redux-typescript)
 * [particleplate - an Express + TypeScript + React + React-Router + Redux + React-Redux + PostCSS + MaterialUI boilerplate](https://github.com/handicraftsman/particleplate)
-* [Create React App (ejected) basic structure + redux + redux-thunk + routing + ImmutableJS + hot reloading + linters](https://github.com/kkoomen/react-boilerplate)
-* [CRA-gen (Create React App CLI generator using custom templates)](https://github.com/kkoomen/cra-gen)
+* [Create React App (ejected) extension containing: basic structure + redux + redux-thunk + routing + ImmutableJS + hot reloading + linters](https://github.com/kkoomen/react-boilerplate)
+  * [CRA-gen (Create React App CLI generator using custom templates)](https://github.com/kkoomen/cra-gen)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
