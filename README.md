@@ -931,6 +931,7 @@ A collection of awesome things regarding React ecosystem.
 * [redux-react-i18n - An i18n solution for redux/react](https://github.com/derzunov/redux-react-i18n)
 * [R16N - A redux/react I18n solution](https://github.com/razodeh/r16n/)
 * [redux-actiontyper - Helper to create less verbose action types for Redux](https://github.com/alnorris/redux-actiontyper)
+* [redux-state-validator - A simple redux middleware to validate redux state values and object types using JSON Schema](https://github.com/suyesh/redux-state-validator)
 
 #### Redux Tutorials
 * [Building Applications with React and Redux in ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6)
