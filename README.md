@@ -1224,6 +1224,7 @@ A collection of awesome things regarding React ecosystem.
 * [Spectrum – Simple, powerful online communities](https://github.com/withspectrum/spectrum)
 * [Mattermost – Open source Slack-alternative](https://github.com/mattermost/mattermost-webapp)
 * [SaaS Boilerplate – Open source web app to quickly build your own SaaS product](https://github.com/async-labs/saas)
+* [WOYE – Insert plain-text, get listed information from Youtube and Wikipedia](https://github.com/alxpez/woye)
 
 ---
 ### Contribution
