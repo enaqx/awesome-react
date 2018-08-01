@@ -227,7 +227,7 @@ A collection of awesome things regarding React ecosystem.
 ##### React and Haskell
 * [stackage-view, built with Yesod and GHCJS+React](https://github.com/fpco/stackage-view)
 * [TodoMVC example with Shade (Haste+React)](https://github.com/takeoutweight/shade-todomvc)
-* [react-haskell, to be used with Haste](https://hackage.haskell.org/package/react-haskell) ([blog post](http://joelburget.com/react-haskell/))
+* [react-haskell, to be used with Haste](https://hackage.haskell.org/package/react-haskell)
 * [blaze-react, blaze-html style React bindings using GHCJS](https://github.com/meiersi/blaze-react) ([video tutorial](https://www.youtube.com/watch?v=4nTnC0t7pzY))
 * [purescript-react bindings](https://github.com/purescript-contrib/purescript-react) ([example app](https://github.com/fujimura/purescript-react-example))
 
@@ -1224,6 +1224,7 @@ A collection of awesome things regarding React ecosystem.
 * [Spectrum – Simple, powerful online communities](https://github.com/withspectrum/spectrum)
 * [Mattermost – Open source Slack-alternative](https://github.com/mattermost/mattermost-webapp)
 * [SaaS Boilerplate – Open source web app to quickly build your own SaaS product](https://github.com/async-labs/saas)
+* [WOYE – Insert plain-text, get listed information from Youtube and Wikipedia](https://github.com/alxpez/woye)
 
 ---
 ### Contribution
