@@ -328,6 +328,7 @@ A collection of awesome things regarding React ecosystem.
 * [particleplate - an Express + TypeScript + React + React-Router + Redux + React-Redux + PostCSS + MaterialUI boilerplate](https://github.com/handicraftsman/particleplate)
 * [Create React App (ejected) extension containing: basic structure + redux + redux-thunk + routing + ImmutableJS + hot reloading + linters](https://github.com/kkoomen/react-boilerplate) (Can be used along with the corresponding tool: CRA-gen)
   * [CRA-gen (Create React App CLI generator using custom templates)](https://github.com/kkoomen/cra-gen)
+* [create Adobe-CEP (Photoshop, Illustrator etc..) extension/plugin with React, Material-UI, Native Node modules, Webpack, Babel and ExtendScript](https://github.com/HendrixString/adobe-cep-react-create)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
