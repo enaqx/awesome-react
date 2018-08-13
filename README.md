@@ -346,6 +346,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-cli - a react renderer for the command line](https://github.com/mgrip/react-cli)
 
 ##### Components
+* [@jpmonette/react-bulma - React components for Bulma - the Modern CSS framework](https://github.com/jpmonette/react-bulma)
 * [DevExtreme React Grid - High-performance plugin-based React data grid for Bootstrap and Material Design](https://devexpress.github.io/devextreme-reactive/react/grid/)
 * [React Svg Textures - Textures.js ported to React. Fully isomorphic.](https://github.com/finnfiddle/react-svg-textures)
 * [React Responsive Tables](https://github.com/adam-hanna/react-responsive-tables)
