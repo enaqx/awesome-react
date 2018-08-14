@@ -572,7 +572,7 @@ A collection of awesome things regarding React ecosystem.
 * [is-online-component - A simple react component that detects online and offline changes](https://github.com/Leocardoso94/is-online-component)
 * [react-paypal-btn - Add a PayPal button to your React app](https://github.com/sonaye/react-paypal-btn)
 * [react-unveil - Cross-browser ShowMore component for React with sensible defaults](https://github.com/clemmy/react-unveil)
-
+  
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
 
@@ -704,6 +704,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-autocomplete by @prometheusresearch - Autocomplete widget based on React](https://github.com/prometheusresearch/react-autocomplete)
 * [instatype by @gragland - Simple react autocomplete component](https://github.com/gragland/instatype)
 * [downshift - 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components](https://github.com/paypal/downshift)
+* [React Bootstrap Typeahead - A React-based typeahead that relies on Bootstrap for styling and was originally inspired by Twitter's typeahead.js.](https://github.com/ericgio/react-bootstrap-typeahead)
 
 ##### Documentation Tools
 * [react-docgen - Extract information from React component files for documentation generation](https://github.com/reactjs/react-docgen)
