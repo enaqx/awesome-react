@@ -1221,6 +1221,7 @@ A collection of awesome things regarding React ecosystem.
 ### Real Apps
 * [khan/perseus](https://github.com/khan/perseus)
 * [webbylab/itsquiz-wall](https://github.com/webbylab/itsquiz-wall)
+* [devtools-html/debugger](https://github.com/devtools-html/debugger.html)
 * [brainfock/brainfock](https://github.com/brainfock/brainfock)
 * [HVF/franchise](https://github.com/HVF/franchise)
 * [KELiON/cerebro](https://github.com/KELiON/cerebro)
