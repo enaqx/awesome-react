@@ -1220,7 +1220,6 @@ A collection of awesome things regarding React ecosystem.
 ---
 ### Real Apps
 * [khan/perseus](https://github.com/khan/perseus)
-* [mozilla/payments-ui](https://github.com/mozilla/payments-ui)
 * [webbylab/itsquiz-wall](https://github.com/webbylab/itsquiz-wall)
 * [brainfock/brainfock](https://github.com/brainfock/brainfock)
 * [HVF/franchise](https://github.com/HVF/franchise)
