@@ -792,7 +792,7 @@ A collection of awesome things regarding React ecosystem.
 * [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
 
 #### Job Interview Tools
-* [List of 100 ReactJS interview questions and answers](https://github.com/sudheerj/reactjs-interview-questions)
+* [List of hundreds ReactJS interview questions and answers](https://github.com/sudheerj/reactjs-interview-questions)
 ---
 ### React Native
 > Framework for building native apps using React
