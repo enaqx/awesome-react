@@ -1078,6 +1078,8 @@ A collection of awesome things regarding React ecosystem.
 * [Apollo Blog](https://medium.com/apollo-stack)
 * [Apollo Slack](https://apollostack.slack.com/)
 
+#### Apollo Tools
+* [react-apollo-redux -  A small wrapper to automatically dispatch actions in response to apollo mutations](https://github.com/Drawbotics/react-apollo-redux)
 
 ---
 ### Flow
