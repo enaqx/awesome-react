@@ -348,6 +348,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-cli - a react renderer for the command line](https://github.com/mgrip/react-cli)
 
 ##### Components
+* [nice-react-layout - Create complex and nice Flexbox-based layouts, without even knowing what flexbox means](https://github.com/ekros/nice-react-layout)
 * [@jpmonette/react-bulma - React components for Bulma - the Modern CSS framework](https://github.com/jpmonette/react-bulma)
 * [DevExtreme React Grid - High-performance plugin-based React data grid for Bootstrap and Material Design](https://devexpress.github.io/devextreme-reactive/react/grid/)
 * [React Svg Textures - Textures.js ported to React. Fully isomorphic.](https://github.com/finnfiddle/react-svg-textures)
@@ -574,7 +575,7 @@ A collection of awesome things regarding React ecosystem.
 * [is-online-component - A simple react component that detects online and offline changes](https://github.com/Leocardoso94/is-online-component)
 * [react-paypal-btn - Add a PayPal button to your React app](https://github.com/sonaye/react-paypal-btn)
 * [react-unveil - Cross-browser ShowMore component for React with sensible defaults](https://github.com/clemmy/react-unveil)
-  
+
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
 
