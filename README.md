@@ -676,6 +676,8 @@ A collection of awesome things regarding React ecosystem.
 * [react-masonry-css - Fast Masonry layout powered by CSS, dependancy free](https://github.com/paulcollett/react-masonry-css)
 * [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
 * [reaptcha - Clean, modern and simple React wrapper for Google reCAPTCHA](https://github.com/sarneeh/reaptcha)
+* [react-recaptcha-that-works - A reCAPTCHA bridge for React that works](https://github.com/douglasjunior/react-recaptcha-that-works)
+
 
 ##### Forms
 * [React Forms](http://facebook.github.io/react/docs/forms.html)
