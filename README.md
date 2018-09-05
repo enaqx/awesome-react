@@ -414,6 +414,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-pressable - Add onRelease, onReleaseInside, onReleaseOutside, and onPress events](https://github.com/hzdg/react-pressable)
 * [react-google-analytics - Google analytics component](https://github.com/hzdg/react-google-analytics)
 * [react-layers - A library for layering components in React](https://github.com/pieterv/react-layers)
+* [react-layer-stack - Simple yet complete and agnostic layering system for React. Useful for windowing/dnd/popover/modals/tooltip applications](https://github.com/fckt/react-layer-stack)
 * [react-gcal-events-list - A Reusable component that pulls events from your google calendar](https://github.com/VinSpee/react-gcal-events-list)
 * [reactdi - Dependency injection for ReactJS components](https://github.com/hzdg/reactdi)
 * [qrcode.react - A <QRCode/> component for use with React](https://github.com/zpao/qrcode.react)
