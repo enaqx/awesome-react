@@ -576,6 +576,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-paypal-btn - Add a PayPal button to your React app](https://github.com/sonaye/react-paypal-btn)
 * [react-unveil - Cross-browser ShowMore component for React with sensible defaults](https://github.com/clemmy/react-unveil)
 * [nice-react-layout - Create complex and nice Flexbox-based layouts, without even knowing what flexbox means](https://github.com/ekros/nice-react-layout)
+* [react-beautiful-chat - A simple and beautiful React chat component backend agnostic and with Emoji and File support](https://github.com/mattmezza/react-beautiful-chat)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
