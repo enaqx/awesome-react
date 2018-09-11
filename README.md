@@ -571,6 +571,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-vertical-timeline-component - A vertical timeline for React.js](https://github.com/stephane-monnot/react-vertical-timeline)
 * [react-handsontable - A React wrapper for the the Handsontable spreadsheet component.](https://github.com/handsontable/react-handsontable)
 * [animated-number-react - Super easy way to animate numbers with React](https://github.com/Leocardoso94/animated-number-react)
+* [react-fetch-progressbar - Automatically show a progressbar in React whenever a fetch request is in progress](https://github.com/42BV/react-fetch-progressbar)
 * [is-online-component - A simple react component that detects online and offline changes](https://github.com/Leocardoso94/is-online-component)
 * [react-paypal-btn - Add a PayPal button to your React app](https://github.com/sonaye/react-paypal-btn)
 * [react-unveil - Cross-browser ShowMore component for React with sensible defaults](https://github.com/clemmy/react-unveil)
