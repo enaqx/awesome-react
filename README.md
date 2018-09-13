@@ -608,6 +608,7 @@ A collection of awesome things regarding React ecosystem.
 * [compose-state - Compose multiple setState or getDerivedStateFromProps updaters in React](https://github.com/tvler/compose-state)
 * [react-with-analytics - Google Analytics for React apps with ease](https://github.com/sonaye/react-with-analytics)
 * [react-cache-me-outside - OTA data updates for React apps. How bow dat!](https://github.com/sonaye/react-cache-me-outside)
+* [PrimeReact - The Most Complete UI Framework for React!](https://github.com/primefaces/primereact)
 
 ##### Integration
 * [ReactJS.NET](https://github.com/reactjs/React.NET)
