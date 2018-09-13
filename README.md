@@ -753,6 +753,7 @@ A collection of awesome things regarding React ecosystem.
 * [Hydux - An Elm-Like state manager for React with "batteries included"](https://github.com/hydux/hydux)
 * [ReSub - A library for writing better React components and data stores](https://github.com/Microsoft/ReSub)
 * [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
+* [WatermelonDB - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast](https://github.com/Nozbe/WatermelonDB)
 
 ##### React Developer Experience
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
