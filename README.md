@@ -20,6 +20,7 @@ A collection of awesome things regarding React ecosystem.
     - [React and Datatables](#react-and-datatables)
     - [React and Haskell](#react-and-haskell)
     - [React and SocketIO](#react-and-socketio)
+    - [React and TypeScript](#react-and-typescript)
     - [Server-Client with React](#server-client-with-react)
     - [Server Side Rendering](#server-side-rendering)
     - [Prerendering aka snapshotting](#prerendering-aka-snapshotting)
@@ -237,6 +238,11 @@ A collection of awesome things regarding React ecosystem.
 * [Socket.IO integration example](https://gist.github.com/zpao/5686416)
 * [Socket.IO integration example inside of a single React component](https://gist.github.com/petehunt/5687230)
 * [Socket.IO integration employing separation of concerns](https://gist.github.com/petehunt/5687276)
+
+##### React and TypeScript
+* [TypeScript-React-Starter, A starter template from microsoft.](https://github.com/Microsoft/TypeScript-React-Starter)
+* [React TypeScript Kickstart Guide, in-depth, incl. boilerplate & cookbook](https://sandstorm.github.io/typescript-react-app-kickstart-guide/)
+* [React Chapter of TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/docs/jsx/react.html)
 
 ##### Server Side rendering
 * [Super-basic example of how server rendering works](https://github.com/petehunt/react-server-rendering-example)
