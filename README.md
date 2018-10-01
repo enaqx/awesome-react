@@ -292,6 +292,9 @@ A collection of awesome things regarding React ecosystem.
 ##### History of React
 * [The Evolution of React](https://blog.pusher.com/the-evolution-of-react)
 
+##### React Developer Roadmap
+* [Roadmap to becoming a React developer in 2018](https://github.com/adam-golab/react-developer-roadmap)
+
 #### React Tools
 
 ##### Boilerplates
