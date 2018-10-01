@@ -579,6 +579,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-beautiful-chat - A simple and beautiful React chat component backend agnostic and with Emoji and File support](https://github.com/mattmezza/react-beautiful-chat)
 * [react-loadable - A higher order component for loading components with promises.](https://github.com/jamiebuilds/react-loadable)
 * [unstated - State so simple, it goes without saying](https://github.com/jamiebuilds/unstated)
+* [react-particles-js - Particles.js for React](https://github.com/Wufe/react-particles-js)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
