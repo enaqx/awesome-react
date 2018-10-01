@@ -580,6 +580,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-loadable - A higher order component for loading components with promises.](https://github.com/jamiebuilds/react-loadable)
 * [unstated - State so simple, it goes without saying](https://github.com/jamiebuilds/unstated)
 * [react-particles-js - Particles.js for React](https://github.com/Wufe/react-particles-js)
+* [react-semantic-render - Semantic helper components for rendering content with React.](https://github.com/csvenke/react-semantic-render)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
