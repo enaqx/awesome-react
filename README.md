@@ -20,6 +20,7 @@ A collection of awesome things regarding React ecosystem.
     - [React and Datatables](#react-and-datatables)
     - [React and Haskell](#react-and-haskell)
     - [React and SocketIO](#react-and-socketio)
+    - [React and TypeScript](#react-and-typescript)
     - [Server-Client with React](#server-client-with-react)
     - [Server Side Rendering](#server-side-rendering)
     - [Prerendering aka snapshotting](#prerendering-aka-snapshotting)
@@ -237,6 +238,11 @@ A collection of awesome things regarding React ecosystem.
 * [Socket.IO integration example](https://gist.github.com/zpao/5686416)
 * [Socket.IO integration example inside of a single React component](https://gist.github.com/petehunt/5687230)
 * [Socket.IO integration employing separation of concerns](https://gist.github.com/petehunt/5687276)
+
+##### React and TypeScript
+* [TypeScript-React-Starter, A starter template from microsoft.](https://github.com/Microsoft/TypeScript-React-Starter)
+* [React TypeScript Kickstart Guide, in-depth, incl. boilerplate & cookbook](https://sandstorm.github.io/typescript-react-app-kickstart-guide/)
+* [React Chapter of TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/docs/jsx/react.html)
 
 ##### Server Side rendering
 * [Super-basic example of how server rendering works](https://github.com/petehunt/react-server-rendering-example)
@@ -1025,14 +1031,11 @@ A collection of awesome things regarding React ecosystem.
 * [First Thoughts on GraphQL](http://hueypetersen.com/posts/2015/02/02/first-thoughts-on-graph-ql/)
 * [Modeling Queries in a GraphQL Like Way](http://hueypetersen.com/posts/2015/02/08/modeling-queries-graph-ql-like/)
 * [Thin and Graphy](http://hueypetersen.com/posts/2015/02/22/thin-and-graphy/)
-* [GraphQL and g2sd](https://fistfulofbytes.com/graphql-and-g2sd/)
 * [GraphQL Overview - Getting Started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/)
 * [Writing a Basic API with GraphQL](http://davidandsuzi.com/writing-a-basic-api-with-graphql/)
 * [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
 * [GraphQL Tour: Variables](https://medium.com/the-graphqlhub/graphql-tour-variables-58c6abd10f56#.wj9dsgyoy)
 * [How to Graphql - The Fullstack Tutorial for GraphQL](https://howtographql.com/)
-* [Build an online text RPG with React and GraphQL](https://learn.pusher.com/rpg)
-
 
 #### GraphQL Implementations
 * [graphql-js - A reference implementation of GraphQL for **JavaScript**](https://github.com/graphql/graphql-js)
