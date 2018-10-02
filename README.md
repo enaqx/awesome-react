@@ -26,6 +26,7 @@ A collection of awesome things regarding React ecosystem.
     - [Prerendering aka snapshotting](#prerendering-aka-snapshotting)
     - [Compiling React Tutorials](#compiling-react-tutorials)
     - [Debugging React](#debugging-react)
+    - [Analyzing React Performance](#analyzing-react-performance)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
     - [File Uploads](#file-uploads)
@@ -283,6 +284,11 @@ A collection of awesome things regarding React ecosystem.
 * [Trace Logging with React](http://www.garysieling.com/blog/trace-logging-react)
 * [Reactotron: Control, monitor, and instrument](https://github.com/skellock/reactotron)
 * [React-fix-it: Automagically generate tests from errors](https://github.com/MicheleBertoli/react-fix-it)
+
+##### Analyzing React Performance
+* [Introducing the React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
+* [Why did you update](https://github.com/maicki/why-did-you-update)
+* [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 
 ##### Authentication
 * [Adding authentication to your React Flux app](https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/)
