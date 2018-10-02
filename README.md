@@ -112,6 +112,9 @@ A collection of awesome things regarding React ecosystem.
 * [React GitHub](https://github.com/facebook/react)
 * [React Community GitHub](https://github.com/reactjs)
 * [React FAQ](https://reactfaq.site/)
+* [The Evolution of React](https://blog.pusher.com/the-evolution-of-react)
+* [Roadmap to becoming a React developer in 2018](https://github.com/adam-golab/react-developer-roadmap)
+
 
 #### React Community
 * [Reactiflux](http://www.reactiflux.com/)
@@ -294,9 +297,6 @@ A collection of awesome things regarding React ecosystem.
 
 ##### API Integration
 * [react-flux-cosmicjs Data-driven react application connected to the Cosmic JS API](https://github.com/tonyspiro/react-flux-cosmicjs)
-
-##### History of React
-* [The Evolution of React](https://blog.pusher.com/the-evolution-of-react)
 
 #### React Tools
 
