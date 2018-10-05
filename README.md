@@ -301,6 +301,7 @@ A collection of awesome things regarding React ecosystem.
 #### React Tools
 
 ##### Boilerplates
+* [Visual webpack config tool for React apps](https://webpack.jakoblind.no)
 * [Create React App](https://github.com/facebookincubator/create-react-app)
 * [React Boilerplate - Minimalistic boilerplate with React, Redux, Flowtype, Babel and Webpack2](https://github.com/nordsoftware/react-boilerplate)
 * [React App SDK - CLI tools and templates for authoring React apps with a single dev dependency and zero configurations](https://github.com/kriasoft/react-app)
