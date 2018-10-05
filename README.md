@@ -337,6 +337,7 @@ A collection of awesome things regarding React ecosystem.
 * [Create React App (ejected) extension containing: basic structure + redux + redux-thunk + routing + ImmutableJS + hot reloading + linters](https://github.com/kkoomen/react-boilerplate) (Can be used along with the corresponding tool: CRA-gen)
   * [CRA-gen (Create React App CLI generator using custom templates)](https://github.com/kkoomen/cra-gen)
 * [create Adobe-CEP (Photoshop, Illustrator etc..) extension/plugin with React, Material-UI, Native Node modules, Webpack, Babel and ExtendScript](https://github.com/HendrixString/adobe-cep-react-create)
+* [Visual webpack config tool for React apps](https://github.com/jakoblind/webpack-autoconf)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
