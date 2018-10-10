@@ -621,6 +621,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-with-analytics - Google Analytics for React apps with ease](https://github.com/sonaye/react-with-analytics)
 * [react-cache-me-outside - OTA data updates for React apps. How bow dat!](https://github.com/sonaye/react-cache-me-outside)
 * [PrimeReact - The Most Complete UI Framework for React!](https://github.com/primefaces/primereact)
+* [react-lodash - Lodash as React components](https://github.com/typicode/react-lodash)
 
 ##### Integration
 * [ReactJS.NET](https://github.com/reactjs/React.NET)
