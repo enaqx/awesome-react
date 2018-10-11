@@ -589,6 +589,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-particles-js - Particles.js for React](https://github.com/Wufe/react-particles-js)
 * [react-semantic-render - Semantic helper components for rendering content with React.](https://github.com/csvenke/react-semantic-render)
 * [react-location-picker - A react component to pick a location using google maps.](https://github.com/rameshsyn/react-location-picker)
+* [cogo-toast - Beautiful, Zero Configuration, Toast Messages](https://github.com/Cogoport/cogo-toast)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
