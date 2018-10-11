@@ -633,6 +633,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-cache-me-outside - OTA data updates for React apps. How bow dat!](https://github.com/sonaye/react-cache-me-outside)
 * [PrimeReact - The Most Complete UI Framework for React!](https://github.com/primefaces/primereact)
 * [react-lodash - Lodash as React components](https://github.com/typicode/react-lodash)
+* [react-helmet - A document head manager for React](https://github.com/nfl/react-helmet)
 
 ##### Integration
 * [ReactJS.NET](https://github.com/reactjs/React.NET)
