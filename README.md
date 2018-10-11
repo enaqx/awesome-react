@@ -624,7 +624,6 @@ A collection of awesome things regarding React ecosystem.
 * [PrimeReact - The Most Complete UI Framework for React!](https://github.com/primefaces/primereact)
 * [react-lodash - Lodash as React components](https://github.com/typicode/react-lodash)
 
-
 ##### Integration
 * [ReactJS.NET](https://github.com/reactjs/React.NET)
 * [React ASP.NET Boilerplate](https://github.com/pauldotknopf/react-aspnet-boilerplate)
