@@ -635,6 +635,7 @@ A collection of awesome things regarding React ecosystem.
 * [PrimeReact - The Most Complete UI Framework for React!](https://github.com/primefaces/primereact)
 * [react-lodash - Lodash as React components](https://github.com/typicode/react-lodash)
 * [react-helmet - A document head manager for React](https://github.com/nfl/react-helmet)
+* [Stator - Simple, plain JavaScript state management with built-in support for React](https://github.com/cs01/stator)
 
 ##### Integration
 * [ReactJS.NET](https://github.com/reactjs/React.NET)
