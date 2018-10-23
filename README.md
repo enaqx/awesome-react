@@ -601,6 +601,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-semantic-render - Semantic helper components for rendering content with React.](https://github.com/csvenke/react-semantic-render)
 * [react-location-picker - A react component to pick a location using google maps.](https://github.com/rameshsyn/react-location-picker)
 * [cogo-toast - Beautiful, Zero Configuration, Toast Messages](https://github.com/Cogoport/cogo-toast)
+* [folio - Dynamic Form Built With React & CSS Grid layout](https://github.com/jalal246/folio)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
