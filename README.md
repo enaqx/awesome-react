@@ -603,6 +603,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-location-picker - A react component to pick a location using google maps.](https://github.com/rameshsyn/react-location-picker)
 * [cogo-toast - Beautiful, Zero Configuration, Toast Messages](https://github.com/Cogoport/cogo-toast)
 * [folio - Dynamic Form Built With React & CSS Grid layout](https://github.com/jalal246/folio)
+* [use-wait - Complex Loader Management Hook for React Applications](https://github.com/f/use-wait)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
