@@ -733,6 +733,7 @@ A collection of awesome things regarding React ecosystem.
 * [List View Select - A Togglable select box for React Native with native components](https://github.com/JamesWatling/react-native-list-view-select)
 * [Final Form 🏁](https://github.com/final-form/react-final-form)
 * [formland - A simple, super-flexible, extensible config based form generator](https://github.com/indix/formland)
+* [ez-react-form - simple form syntax. Works with multiple Style Frameworks like: Bootstrap, Semantic UI, etc.](https://github.com/ngduc/ez-react-form)
 
 ##### Autocomplete
 * [react-typeahead-search by @tonyspiro](https://github.com/tonyspiro/react-typeahead-search)
