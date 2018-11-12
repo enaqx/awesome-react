@@ -713,6 +713,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Forms
 * [React Forms](http://facebook.github.io/react/docs/forms.html)
+* [react-reactive-form - Angular like reactive forms in React](https://github.com/bietkul/react-reactive-form)
 * [react-formal - Better form validation and value management for React, Provides minimal wiring](https://github.com/jquense/react-formal)
 * [react-forms - Forms library for React](https://github.com/prometheusresearch/react-forms)
 * [valuelink - full-featured two-way data binding with extended React links](https://github.com/Volicon/valuelink)
