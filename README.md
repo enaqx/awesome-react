@@ -734,6 +734,7 @@ A collection of awesome things regarding React ecosystem.
 * [Final Form 🏁](https://github.com/final-form/react-final-form)
 * [formland - A simple, super-flexible, extensible config based form generator](https://github.com/indix/formland)
 * [ez-react-form - simple form syntax. Works with multiple Style Frameworks like: Bootstrap, Semantic UI, etc.](https://github.com/ngduc/ez-react-form)
+* [react-reactive-form - Angular like reactive forms in React](https://github.com/bietkul/react-reactive-form)
 
 ##### Autocomplete
 * [react-typeahead-search by @tonyspiro](https://github.com/tonyspiro/react-typeahead-search)
