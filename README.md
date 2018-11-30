@@ -605,6 +605,7 @@ A collection of awesome things regarding React ecosystem.
 * [cogo-toast - Beautiful, Zero Configuration, Toast Messages](https://github.com/Cogoport/cogo-toast)
 * [folio - Dynamic Form Built With React & CSS Grid layout](https://github.com/jalal246/folio)
 * [react-loading-skeleton - Make beautiful, animated loading skeletons that automatically adapt to your app.](https://github.com/dvtng/react-loading-skeleton)
+* [material-ui-layout - A declarative Layout component based on Material-UI and Google's Material Design](https://github.com/OrigenStudio/material-ui-layout)  
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
