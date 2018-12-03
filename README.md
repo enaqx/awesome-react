@@ -103,7 +103,6 @@ A collection of awesome things regarding React ecosystem.
 - [Real Apps](#real-apps)
 - [Contribution](#contribution)
 
-
 ---
 ### React
 > JavaScript Library for building User Interfaces
@@ -351,6 +350,7 @@ A collection of awesome things regarding React ecosystem.
 * [create Adobe-CEP (Photoshop, Illustrator etc..) extension/plugin with React, Material-UI, Native Node modules, Webpack, Babel and ExtendScript](https://github.com/HendrixString/adobe-cep-react-create)
 * [Visual webpack config tool for React apps](https://github.com/jakoblind/webpack-autoconf)
 * [maka.js - MakaJs,react and redux based, lightweight react framework. Use json schema to express react.](https://makajs.org)
+* [Crassa - A CLI tool to create React + Server Side Rendering with one command.](https://github.com/ghondar/crassa)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
@@ -891,7 +891,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar](https://github.com/oblador/react-native-vector-icons)
 * [react-native-google-signin - Google Signin for React Native](https://github.com/apptailor/react-native-google-signin)
 
-
 ---
 ### JSX
 > XML-Like Syntax Extension to JavaScript
@@ -953,7 +952,6 @@ A collection of awesome things regarding React ecosystem.
 * [Simple Counter App with React and Nuclear JS](https://github.com/haochuan/random-notes/blob/master/react/couter-app-with-react-nuclear.md)
 * [LearnCode.academy Flux Tutorial Series](https://www.youtube.com/watch?v=PvjNglsyOHs&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=9)
 
-
 ---
 ### Redux
 > Predictable State Container for JavaScript Apps
@@ -1002,7 +1000,6 @@ A collection of awesome things regarding React ecosystem.
 * [React Redux based blood donor demo application](https://github.com/smanne/reduxnor)
 * [LearnCode.academy Redux Tutorials Series](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=15)
 
-
 ---
 ### MobX
 > Simple, scalable state management for JavaScript Apps
@@ -1034,7 +1031,6 @@ A collection of awesome things regarding React ecosystem.
 * [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
 * [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
 * [The missing piece to the React testing puzzle](https://medium.com/@bruderstein/the-missing-piece-to-the-react-testing-puzzle-c51cd30df7a0)
-
 
 ---
 ### GraphQL
@@ -1088,7 +1084,6 @@ A collection of awesome things regarding React ecosystem.
 * [sql-to-graphql - Generate a GraphQL API based on your SQL database structure](https://github.com/vaffel/sql-to-graphql)
 * [graphql-sequelize - GraphQL & Relay for MySQL & Postgres via Sequelize](https://github.com/mickhansen/graphql-sequelize)
 
-
 ---
 ### Relay
 > Data-Driven React Applications
@@ -1108,7 +1103,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-router-relay - Relay integration for React Router](https://github.com/relay-tools/react-router-relay)
 * [relay-local-schema - Use Relay without a GraphQL server](https://github.com/relay-tools/relay-local-schema)
 * [relay-codemod -  Codemod scripts based for on jsodeshift to update Relay APIs](https://github.com/facebook/jscodeshift)
-
 
 ---
 ### Apollo
@@ -1130,7 +1124,6 @@ A collection of awesome things regarding React ecosystem.
 #### Flow Resources
 * [Flow Official Site](http://flowtype.org/)
 * [Flow GitHub](https://github.com/facebook/flow)
-
 
 ---
 ### Videos
@@ -1281,7 +1274,6 @@ A collection of awesome things regarding React ecosystem.
 ---
 ### Contribution
 Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
-
 
 ---
 ### License
