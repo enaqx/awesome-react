@@ -610,6 +610,7 @@ A collection of awesome things regarding React ecosystem.
 * [react.animate - State animation plugin for react.js](https://github.com/pleasetrythisathome/react.animate)
 * [react-animate - React animation mixin](https://github.com/elierotenberg/react-animate)
 * [react-absolute-grid - An absolutely positioned, animated, filterable, sortable, drag and droppable, ES6 grid for React](https://github.com/jrowny/react-absolute-grid)
+* [react-singular-component - Transition between dom elements of a component easily](https://github.com/dor6/react-singular-component)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
