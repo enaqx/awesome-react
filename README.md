@@ -600,7 +600,8 @@ A collection of awesome things regarding React ecosystem.
 * [react-location-picker - A react component to pick a location using google maps.](https://github.com/rameshsyn/react-location-picker)
 * [cogo-toast - Beautiful, Zero Configuration, Toast Messages](https://github.com/Cogoport/cogo-toast)
 * [folio - Dynamic Form Built With React & CSS Grid layout](https://github.com/jalal246/folio)
-* [material-ui-layout - A declarative Layout component based on Material-UI and Google's Material Design](https://github.com/OrigenStudio/material-ui-layout)  
+* [material-ui-layout - A declarative Layout component based on Material-UI and Google's Material Design](https://github.com/OrigenStudio/material-ui-layout)
+* [react-admin](https://github.com/marmelab/react-admin): A frontend Framework for building admin applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 
 ##### Animation Components
 * [react-loading-skeleton - Make beautiful, animated loading skeletons that automatically adapt to your app.](https://github.com/dvtng/react-loading-skeleton)
