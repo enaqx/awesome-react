@@ -268,6 +268,7 @@ A collection of awesome things regarding React ecosystem.
 ##### Prerendering aka snapshotting
 * [react-snap](https://github.com/stereobooster/react-snap)
 * [Prerendering solutions comparison](https://github.com/stereobooster/react-snap/blob/master/doc/alternatives.md)
+* [Rendora - dynamic SSR server-side rendering using headless Chrome to effortlessly solve the SEO problem for modern javascript websites](https://github.com/rendora/rendora)
 
 ##### Compiling React Tutorials
 * [Webpack Howto by Pete Hunt](https://github.com/petehunt/webpack-howto)
