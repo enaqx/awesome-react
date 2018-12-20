@@ -31,6 +31,7 @@ A collection of awesome things regarding React ecosystem.
     - [Authorization](#authorization)
     - [File Uploads](#file-uploads)
   - [React Tools](#react-tools)
+    - [Development Toolkits and Frameworks](#development-toolkits-and-frameworks)
     - [Boilerplates](#boilerplates)
     - [Routing](#routing)
     - [React Projects](#react-projects)
@@ -313,8 +314,22 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Tools
 
+##### Development Toolkits and Frameworks
+* [Create React App](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
+* [Neutrino](https://neutrinojs.org/) - Create and build modern JavaScript applications with zero initial configuration.
+* [nwb](https://github.com/insin/nwb) - A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it).
+* [Next.js](https://nextjs.org/) - A minimalistic framework for server-rendered React applications.
+* [Razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration.
+* [create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - Create React App using typescript with no build configuration.
+* [rekit](http://rekit.js.org/) - IDE and toolkit for building scalable web applications with React, Redux and React-router.
+* [ARc](https://arc.js.org) - A progressive React starter kit based on Atomic Design.
+* [Maka.js](https://makajs.org) - A react framework using Microservice Architecture.
+* [Crana](https://github.com/CranaJS/crana) - A CLI tool to create React + Node apps with just one command (batteries included).
+* [Crassa](https://github.com/ghondar/crassa) - A CLI tool to create React + Server Side Rendering with one command.
+
+
+
 ##### Boilerplates
-* [Create React App](https://github.com/facebookincubator/create-react-app)
 * [React Boilerplate - Minimalistic boilerplate with React, Redux, Flowtype, Babel and Webpack2](https://github.com/nordsoftware/react-boilerplate)
 * [React App SDK - CLI tools and templates for authoring React apps with a single dev dependency and zero configurations](https://github.com/kriasoft/react-app)
 * [React Starter Kit — isomorphic web app boilerplate (Node.js, GraphQL, React, Babel, Webpack, CSS Modules, HMR)](https://github.com/kriasoft/react-starter-kit)
@@ -331,10 +346,8 @@ A collection of awesome things regarding React ecosystem.
 * [react-cordova-boilerplate - TodoMVC example for React to build a Cordova application](https://github.com/unimonkiez/react-cordova-boilerplate)
 * [UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra](https://github.com/codefoundries/UniversalRelayBoilerplate)
 * [react-boilerplate - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](http://reactboilerplate.com)
-* [Next.js - A minimalistic framework for server-rendered React applications](https://github.com/zeit/next.js)
 * [react-express-stripe - A minimal boilerplate to accept payments in a React App](https://github.com/rwieruch/react-express-stripe)
 * [React-PWA - BoilerPlate with PWA and support for Code-Splitting, SSR, SEO, Page and API caching, Image optimization and much more.](https://github.com/Atyantik/react-pwa)
-* [ARc - A progressive React starter kit based on Atomic Design](https://arc.js.org)
 * [react-webpack-starter - A simple boiler plate for creating react applications bundled by webpack (using ES6, Babel, SASS and webpack development server)](https://github.com/temilaj/react-webpack-starter)
 * [Happyreaction - React/Spring/Java maven archetype for bootstraping a new project quickly](https://github.com/ignl/happyreaction)
 * [Create React NPM Component - CLI tool for creating a component for distribution on NPM](https://github.com/deltaskelta/create-react-npm-component)
@@ -346,13 +359,12 @@ A collection of awesome things regarding React ecosystem.
 * [generator-react-firebase - Yeoman generator for starting projects using React and Firebase (Redux optional) with features Full Authentication, Route protection and Material UI Application Navbar](https://github.com/prescottprue/generator-react-firebase)
 * [Starter template for React + Redux + TypeScript - setup and simple app using async actions and Material UI](https://github.com/dsheiko/boilerplate/tree/master/react-redux-typescript)
 * [particleplate - an Express + TypeScript + React + React-Router + Redux + React-Redux + PostCSS + MaterialUI boilerplate](https://github.com/handicraftsman/particleplate)
-* [create-react-app-typescript - Create React App using typescript with no build configuration.](https://github.com/wmonk/create-react-app-typescript)
 * [Create React App (ejected) extension containing: basic structure + redux + redux-thunk + routing + ImmutableJS + hot reloading + linters](https://github.com/kkoomen/react-boilerplate) (Can be used along with the corresponding tool: CRA-gen)
   * [CRA-gen (Create React App CLI generator using custom templates)](https://github.com/kkoomen/cra-gen)
 * [create Adobe-CEP (Photoshop, Illustrator etc..) extension/plugin with React, Material-UI, Native Node modules, Webpack, Babel and ExtendScript](https://github.com/HendrixString/adobe-cep-react-create)
 * [Visual webpack config tool for React apps](https://github.com/jakoblind/webpack-autoconf)
-* [maka.js - MakaJs,react and redux based, lightweight react framework. Use json schema to express react.](https://makajs.org)
-* [Crassa - A CLI tool to create React + Server Side Rendering with one command.](https://github.com/ghondar/crassa)
+
+
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
