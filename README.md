@@ -372,6 +372,7 @@ A collection of awesome things regarding React ecosystem.
 * [buttermilk - beautifully simple routing for React projects](https://github.com/probablyup/buttermilk)
 * [pagify-it - Add routing to your React app in minutes](https://github.com/sonaye/pagify-it)
 * [reach-router - Next Generation Routing for React](https://github.com/reach/router)
+* [curi - JavaScript router for SPA](https://curi.js.org/)
 
 ##### React Projects
 * [gatsby - Transform plain text into dynamic blogs and websites using React.js](https://github.com/gatsbyjs/gatsby)
