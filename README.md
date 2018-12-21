@@ -846,6 +846,8 @@ A collection of awesome things regarding React ecosystem.
 * [google-map-react - Isomorphic google map React component](https://github.com/istarkov/google-map-react)
 * [react-mapbox-gl - A mapbox-gl-js wrapper to make the API react friendly](https://github.com/alex3165/react-mapbox-gl)
 * [google-maps-react - A declarative Google Map React component using React, lazy-loading dependencies, current-location finder and a test-driven approach by the Fullstack React team.](https://github.com/fullstackreact/google-maps-react)
+* [react-leaflet - React components for Leaflet maps](https://react-leaflet.js.org/)
+* [react-geo - A set of geo-related components using react, antd, and ol](https://github.com/terrestris/react-geo)
 
 ##### Charts
 * [DevExtreme React Chart - High-performance plugin-based React chart for Bootstrap and Material Design](https://devexpress.github.io/devextreme-reactive/react/chart/)
