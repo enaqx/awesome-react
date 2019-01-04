@@ -141,6 +141,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### React General Tutorials
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+* [Material-UI: Get started (Fast!) ⚡ React 16+](https://hackernoon.com/material-ui-get-started-fast-react-16-eea211d65308)
 * [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
 * [Live React Bootcamp by Tyler Mcginnis(free)](https://www.youtube.com/playlist?list=PLqrUy7kON1mfWjiu0GWQhefWSx38v0UGo)
 * [React.js Fundamentals (paid)](https://tylermcginnis.com/courses/react-fundamentals)
@@ -330,6 +331,7 @@ A collection of awesome things regarding React ecosystem.
 
 
 ##### Boilerplates
+* [Razzle Material-UI Styled Example — With Styled Components using Express with compression](https://github.com/kireerik/razzle-material-ui-styled-example)
 * [React Boilerplate - Minimalistic boilerplate with React, Redux, Flowtype, Babel and Webpack2](https://github.com/nordsoftware/react-boilerplate)
 * [React App SDK - CLI tools and templates for authoring React apps with a single dev dependency and zero configurations](https://github.com/kriasoft/react-app)
 * [React Starter Kit — isomorphic web app boilerplate (Node.js, GraphQL, React, Babel, Webpack, CSS Modules, HMR)](https://github.com/kriasoft/react-starter-kit)
