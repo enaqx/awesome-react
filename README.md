@@ -363,8 +363,7 @@ A collection of awesome things regarding React ecosystem.
   * [CRA-gen (Create React App CLI generator using custom templates)](https://github.com/kkoomen/cra-gen)
 * [create Adobe-CEP (Photoshop, Illustrator etc..) extension/plugin with React, Material-UI, Native Node modules, Webpack, Babel and ExtendScript](https://github.com/HendrixString/adobe-cep-react-create)
 * [Visual webpack config tool for React apps](https://github.com/jakoblind/webpack-autoconf)
-* [A well-structured production ready Next.js boilerplate with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle Analyzer.](https://github.com/pankod/next-boilerplate)
-
+* [Next.js boilerplate with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, and Bundle Analyzer](https://github.com/pankod/next-boilerplate)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
