@@ -99,6 +99,7 @@ A collection of awesome things regarding React ecosystem.
   - [React.js Conf 2016 Playlist](#reactjs-conf-2016-playlist)
   - [ReactRally Conf 2016 Playlist](#reactrally-conf-2016-playlist)
   - [Video Tutorials](#video-tutorials)
+  - [React.js Amsterdam 2018 Playlist](#reactjs-amsterdam-2018-playlist)
 - [Books](#books)
 - [Demos](#demos)
 - [Example Apps](#example-apps)
@@ -162,6 +163,7 @@ A collection of awesome things regarding React ecosystem.
 * [Build a Chat App with React and Pusher Chatkit](https://github.com/bookercodes/build-a-chat-app-with-react-and-pusher-chatkit)
 * [How to set up continuous integration and deployment for your React app](https://medium.freecodecamp.org/how-to-set-up-continuous-integration-and-deployment-for-your-react-app-d09ae4525250)
 * [SSR Split (A/B) Testing and Analytics with React, Redux, and Next.js](https://hackernoon.com/tutorial-ssr-split-testing-and-analytics-with-react-redux-and-next-js-5392799c15c7)
+* [Material-UI: Get started (Fast!) ⚡ React 16+](https://hackernoon.com/material-ui-get-started-fast-react-16-eea211d65308)
 
 ##### React best practices
 
@@ -363,7 +365,10 @@ A collection of awesome things regarding React ecosystem.
   * [CRA-gen (Create React App CLI generator using custom templates)](https://github.com/kkoomen/cra-gen)
 * [create Adobe-CEP (Photoshop, Illustrator etc..) extension/plugin with React, Material-UI, Native Node modules, Webpack, Babel and ExtendScript](https://github.com/HendrixString/adobe-cep-react-create)
 * [Visual webpack config tool for React apps](https://github.com/jakoblind/webpack-autoconf)
-* [Next.js boilerplate with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, and Bundle Analyzer](https://github.com/pankod/next-boilerplate)
+* [next-boilerplate - Next.js with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, and Bundle Analyzer](https://github.com/pankod/next-boilerplate)
+* [maka.js - MakaJs,react and redux based, lightweight react framework. Use json schema to express react.](https://makajs.org)
+* [create-wp-react-app - WordPress CLI to generate your next modern plugin](https://github.com/matzeeable/wp-reactjs-starter)
+* [Razzle Material-UI Styled Example — With Styled Components using Express with compression](https://github.com/kireerik/razzle-material-ui-styled-example)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
@@ -1194,6 +1199,7 @@ A collection of awesome things regarding React ecosystem.
 #### [ReactEurope Conf 2016 Day 1 Playlist](https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa)
 #### [ReactEurope Conf 2016 Day 2 Playlist](https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof)
 #### [ReactRally Conf 2016 Playlist](https://www.youtube.com/playlist?list=PLUD4kD-wL_zYSfU3tIYsb4WqfFQzO_EjQ)
+#### [React.js Amsterdam 2018 Playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMFi_glL49hsoyqu7dHTMnNm)
 
 #### Video Tutorials
 * [learnreact.com — 3ish minute videos on React.js](http://learnreact.com/)
