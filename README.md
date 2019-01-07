@@ -392,6 +392,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Svg Textures - Textures.js ported to React. Fully isomorphic.](https://github.com/finnfiddle/react-svg-textures)
 * [React Responsive Tables](https://github.com/adam-hanna/react-responsive-tables)
 * [React Component List](http://dvemac.github.io/react-component-list/)
+* [JS.coach - A catalog of React components](https://js.coach/)
 * [iReact: Fantastic React Components and Libraries!](http://ireact.cn/)
 * [Khan Academy React Components](http://khan.github.io/react-components/)
 * [VistarMedia Components](http://cmpnt.vistarmedia.com/)
