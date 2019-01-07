@@ -369,6 +369,7 @@ A collection of awesome things regarding React ecosystem.
 * [maka.js - MakaJs,react and redux based, lightweight react framework. Use json schema to express react.](https://makajs.org)
 * [create-wp-react-app - WordPress CLI to generate your next modern plugin](https://github.com/matzeeable/wp-reactjs-starter)
 * [Razzle Material-UI Styled Example — With Styled Components using Express with compression](https://github.com/kireerik/razzle-material-ui-styled-example)
+* [SaaS Boilerplate – Open source web app to quickly build your own SaaS product](https://github.com/async-labs/saas)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
@@ -1285,20 +1286,19 @@ A collection of awesome things regarding React ecosystem.
 * [CoreUI - Free Admin Panel built with React and Bootstrap 4](https://github.com/coreui/coreui-free-react-admin-template)
 
 ---
-### Real Apps
-* [khan/perseus](https://github.com/khan/perseus)
-* [webbylab/itsquiz-wall](https://github.com/webbylab/itsquiz-wall)
-* [devtools-html/debugger](https://github.com/devtools-html/debugger.html)
-* [brainfock/brainfock](https://github.com/brainfock/brainfock)
-* [HVF/franchise](https://github.com/HVF/franchise)
-* [KELiON/cerebro](https://github.com/KELiON/cerebro)
-* [stride-nyc/remote_retro](https://github.com/stride-nyc/remote_retro)
-* [Sqlectron - SQL client](https://sqlectron.github.io/)
-* [ALM - A cloud ready IDE for React + TypeScript](https://alm-tools.github.io)
+
+### Real apps
+
+Remember this is an **awesome** list. To be included here, apps should be:
+
+1. Tracking the latest releases of React.
+2. Actively maintained.
+3. Have significant user base.
+
+* [debugger.html – Firefox debugger](https://github.com/devtools-html/debugger.html)
+* [Remote Retro – Agile retrospectives for distributed teams](https://github.com/stride-nyc/remote_retro)
 * [Spectrum – Simple, powerful online communities](https://github.com/withspectrum/spectrum)
-* [Mattermost – Open source Slack-alternative](https://github.com/mattermost/mattermost-webapp)
-* [SaaS Boilerplate – Open source web app to quickly build your own SaaS product](https://github.com/async-labs/saas)
-* [WOYE – Insert plain-text, get listed information from Youtube and Wikipedia](https://github.com/alxpez/woye)
+* [Mattermost – Open source Slack alternative](https://github.com/mattermost/mattermost-webapp)
 
 ---
 ### Contribution
