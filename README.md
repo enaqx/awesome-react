@@ -251,7 +251,6 @@ A collection of awesome things regarding React ecosystem.
 * [TypeScript-React-Starter, A starter template from microsoft.](https://github.com/Microsoft/TypeScript-React-Starter)
 * [React TypeScript Kickstart Guide, in-depth, incl. boilerplate & cookbook](https://sandstorm.github.io/typescript-react-app-kickstart-guide/)
 * [React Chapter of TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/docs/jsx/react.html)
-* [Create React App using TypeScript](https://github.com/wmonk/create-react-app-typescript)
 
 ##### Server Side rendering
 * [Super-basic example of how server rendering works](https://github.com/petehunt/react-server-rendering-example)
@@ -297,7 +296,6 @@ A collection of awesome things regarding React ecosystem.
 * [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 * [Using the React DevTools Profiler to Diagnose React App Performance Issues](https://www.netlify.com/blog/2018/08/29/using-the-react-devtools-profiler-to-diagnose-react-app-performance-issues/)
 * [Top 5 Practices to Boost React Performance](https://www.codementor.io/blizzerand/top-5-practices-to-boost-react-performance-jv6zr89ep)
-* [Using the React DevTools Profiler to Diagnose React App Performance Issues](https://www.netlify.com/blog/2018/08/29/using-the-react-devtools-profiler-to-diagnose-react-app-performance-issues/)
 * [React is Slow, React is Fast: Optimizing react Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
 
 ##### Authentication
@@ -366,7 +364,6 @@ A collection of awesome things regarding React ecosystem.
 * [create Adobe-CEP (Photoshop, Illustrator etc..) extension/plugin with React, Material-UI, Native Node modules, Webpack, Babel and ExtendScript](https://github.com/HendrixString/adobe-cep-react-create)
 * [Visual webpack config tool for React apps](https://github.com/jakoblind/webpack-autoconf)
 * [next-boilerplate - Next.js with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, and Bundle Analyzer](https://github.com/pankod/next-boilerplate)
-* [maka.js - MakaJs,react and redux based, lightweight react framework. Use json schema to express react.](https://makajs.org)
 * [create-wp-react-app - WordPress CLI to generate your next modern plugin](https://github.com/matzeeable/wp-reactjs-starter)
 * [Razzle Material-UI Styled Example — With Styled Components using Express with compression](https://github.com/kireerik/razzle-material-ui-styled-example)
 * [SaaS Boilerplate – Open source web app to quickly build your own SaaS product](https://github.com/async-labs/saas)
