@@ -116,7 +116,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Community GitHub](https://github.com/reactjs)
 * [React FAQ](https://reactfaq.site/)
 * [The Evolution of React](https://blog.pusher.com/the-evolution-of-react)
-* [Roadmap to becoming a React developer in 2018](https://github.com/adam-golab/react-developer-roadmap)
+* [Roadmap to becoming a React developer in 2019](https://github.com/adam-golab/react-developer-roadmap)
 
 
 #### React Community
