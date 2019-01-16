@@ -554,7 +554,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-motion - An spring-based animation library, similar to Rebound.js](https://github.com/chenglou/react-motion)
 * [react-motion-menu - Motion menu component powered by React Motion](https://github.com/bokuweb/react-motion-menu)
 * [sweetalert-react - Using sweetalert in React](https://github.com/chentsulin/sweetalert-react)
-* [React Joyride - Create walkthroughs, tours and tooltips for your apps](http://gilbarbara.github.io/react-joyride/)
+* [React Joyride - Create walkthroughs, tours and tooltips for your apps](https://react-joyride.com/)
 * [react-file-reader-input - Complete control over styling + abstraction from file reading](https://github.com/ngokevin/react-file-reader-input)
 * [react-sortable-pane - Resizable and sortable pane component for React](https://github.com/bokuweb/react-sortable-pane)
 * [react-DnR - Dragable and Resizable window build with React.js](https://github.com/yongxu/react-DnR)
