@@ -375,6 +375,7 @@ A collection of awesome things regarding React ecosystem.
 * [pagify-it - Add routing to your React app in minutes](https://github.com/sonaye/pagify-it)
 * [reach-router - Next Generation Routing for React](https://github.com/reach/router)
 * [curi - JavaScript router for SPA](https://curi.js.org/)
+* [navi - Declarative, asynchronous routing for React. Supports hooks, suspense & static rendering.](https://github.com/frontarm/navi)
 
 ##### React Projects
 * [gatsby - Transform plain text into dynamic blogs and websites using React.js](https://github.com/gatsbyjs/gatsby)
