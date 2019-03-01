@@ -865,6 +865,7 @@ A collection of awesome things regarding React ecosystem.
 * [Number Picture - Low-level building blocks for constructing animated visualizations with React & D3.](http://numberpicture.com/build)
 * [VictoryJS - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
 * [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
+* [React-ApexCharts - React component for ApexCharts (An Interactive SVG Chart Library)](https://github.com/apexcharts/react-apexcharts)
 
 #### Job Interview Tools
 * [List of hundreds ReactJS interview questions and answers](https://github.com/sudheerj/reactjs-interview-questions)
