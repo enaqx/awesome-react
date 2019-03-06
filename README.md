@@ -896,6 +896,7 @@ A collection of awesome things regarding React ecosystem.
 * [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
+* [Using React Native With TypeScript](https://medium.com/@jan.hesters/using-typescript-with-react-native-946aa4b4ae6f)
 
 #### React Native Developer Experience
 * [react-native-webpack-server - Build React Native apps with Webpack](https://github.com/mjohnston/react-native-webpack-server)
