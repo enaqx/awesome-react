@@ -931,7 +931,7 @@ A collection of awesome things regarding React ecosystem.
 #### JSX Resources
 * [JSX Spec](https://facebook.github.io/jsx/)
 * [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
-* [JSX in TypeScript](https://github.com/Microsoft/TypeScript/wiki/JSX)
+* [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 
 ---
 ### Flux
