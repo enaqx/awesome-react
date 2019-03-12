@@ -668,6 +668,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-lodash - Lodash as React components](https://github.com/typicode/react-lodash)
 * [react-helmet - A document head manager for React](https://github.com/nfl/react-helmet)
 * [Stator - Simple, plain JavaScript state management with built-in support for React](https://github.com/cs01/stator)
+* [ClearX - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibiility in separation of concerns for your React applicationss](https://github.com/Autodesk/clearx)
 
 ##### Integration
 * [ReactJS.NET](https://github.com/reactjs/React.NET)
