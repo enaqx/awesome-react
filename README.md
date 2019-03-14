@@ -625,6 +625,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-admin](https://github.com/marmelab/react-admin): A frontend Framework for building admin applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 * [reactjs-popup - popup, Modals, Tooltips and Menus,  All in one](https://github.com/yjose/reactjs-popup)
 * [react-filter-control - A component to build UI for boolean filter creation](https://github.com/komarovalexander/react-filter-control)
+* [dialog-web-components - Set of components for building messaging applications](https://github.com/dialogs/dialog-web-components)
 
 ##### Animation Components
 * [react-loading-skeleton - Make beautiful, animated loading skeletons that automatically adapt to your app.](https://github.com/dvtng/react-loading-skeleton)
