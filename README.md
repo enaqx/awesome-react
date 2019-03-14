@@ -868,6 +868,7 @@ A collection of awesome things regarding React ecosystem.
 * [VictoryJS - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
 * [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
 * [React-ApexCharts - React component for ApexCharts (An Interactive SVG Chart Library)](https://github.com/apexcharts/react-apexcharts)
+* [REAVIZ - https://github.com/jask-oss/reaviz](https://github.com/jask-oss/reaviz)
 
 #### Job Interview Tools
 * [List of hundreds ReactJS interview questions and answers](https://github.com/sudheerj/reactjs-interview-questions)
