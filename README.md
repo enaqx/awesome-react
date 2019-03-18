@@ -626,6 +626,7 @@ A collection of awesome things regarding React ecosystem.
 * [reactjs-popup - popup, Modals, Tooltips and Menus,  All in one](https://github.com/yjose/reactjs-popup)
 * [react-filter-control - A component to build UI for boolean filter creation](https://github.com/komarovalexander/react-filter-control)
 * [dialog-web-components - Set of components for building messaging applications](https://github.com/dialogs/dialog-web-components)
+* [react-dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync)](https://github.com/flatlogic/react-dashboard)
 
 ##### Animation Components
 * [react-loading-skeleton - Make beautiful, animated loading skeletons that automatically adapt to your app.](https://github.com/dvtng/react-loading-skeleton)
@@ -918,6 +919,7 @@ A collection of awesome things regarding React ecosystem.
 * [Create React Native App - Create a React Native app on any OS with no build config, with or without Expo](https://github.com/react-community/create-react-native-app)
 * [Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage)](https://github.com/bartonhammond/snowflake)
 * [Ignite - The hottest CLI for React Native, boilerplates, plugins, generators, and more!](https://github.com/infinitered/ignite)
+* [React Native Starter Kit - A powerful starter project that bootstraps development of your mobile application](https://github.com/flatlogic/react-native-starter)
 
 #### React Native Awesome Components
 * [react-native-social-share - Use the iOS and Android native Twitter and Facebook share popup with React Native](https://github.com/doefler/react-native-social-share)
