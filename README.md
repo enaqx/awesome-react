@@ -60,6 +60,7 @@ A collection of awesome things regarding React ecosystem.
   - [React Native Awesome Components](#react-native-awesome-components)
 - [JSX](#jsx)
   - [JSX Resources](#jsx-resources)
+  
 - [Flux](#flux)
   - [Flux General Resources](#flux-general-resources)
   - [Flux Implementations](#flux-implementations)
@@ -658,6 +659,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-i13n - A performant, scalable and pluggable approach to instrumenting your React application](https://github.com/yahoo/react-i13n)
 * [react-icons - svg react icons of popular icon packs](https://github.com/gorangajic/react-icons)
 * [Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc...](https://github.com/Wildhoney/Keo)
+* [React on λamda, no more JSX but functions with currying, compositions and etc...](https://github.com/sultan99/react-on-lambda)
 * [Blueprint - A React-based UI toolkit for the web](https://github.com/palantir/blueprint)
 * [Bit - A virtual repository for managing and using react and other web components across applications](https://github.com/teambit/bit)
 * [AtlasKit -  Atlassian's React UI library](https://atlaskit.atlassian.com/)
