@@ -844,6 +844,7 @@ A collection of awesome things regarding React ecosystem.
 * [generator-sui-react - A yeoman generator for Schibsted User Interface (SUI) ReactJS components](https://github.com/SUI-Components/generator-sui-react)
 * [Racket - A yeoman generator for creating a universal react/redux web application](https://github.com/mohebifar/racket)
 * [Docz - An incredible environment to build components and generate beautiful and highly customizable documentation using MDX](https://github.com/pedronauck/docz)
+* [ScaffoldHub.io - Generate fullstack applications with React and Ant Design with MongoDB, SQL or Firebase Firestore databases](https://scaffoldhub.io)
 
 ##### Template Engines
  * [react-templates - Lightweight templates for React](https://github.com/wix/react-templates)
