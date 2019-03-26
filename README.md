@@ -629,6 +629,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-filter-control - A component to build UI for boolean filter creation](https://github.com/komarovalexander/react-filter-control)
 * [dialog-web-components - Set of components for building messaging applications](https://github.com/dialogs/dialog-web-components)
 * [react-dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync)](https://github.com/flatlogic/react-dashboard)
+* [toasted-notes - flexible and accessible toast notifications for react](https://github.com/bmcmahen/toasted-notes)
 
 ##### Animation Components
 * [react-loading-skeleton - Make beautiful, animated loading skeletons that automatically adapt to your app.](https://github.com/dvtng/react-loading-skeleton)
