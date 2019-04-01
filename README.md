@@ -141,7 +141,6 @@ A collection of awesome things regarding React ecosystem.
 #### React Tutorials
 
 ##### React General Tutorials
-* [Learn React.js - Full Course for Beginners - Tutorial 2019 (free & interactive)](https://scrimba.com/g/glearnreact)
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
 * [Live React Bootcamp by Tyler Mcginnis(free)](https://www.youtube.com/playlist?list=PLqrUy7kON1mfWjiu0GWQhefWSx38v0UGo)
@@ -165,6 +164,7 @@ A collection of awesome things regarding React ecosystem.
 * [How to set up continuous integration and deployment for your React app](https://medium.freecodecamp.org/how-to-set-up-continuous-integration-and-deployment-for-your-react-app-d09ae4525250)
 * [SSR Split (A/B) Testing and Analytics with React, Redux, and Next.js](https://hackernoon.com/tutorial-ssr-split-testing-and-analytics-with-react-redux-and-next-js-5392799c15c7)
 * [Material-UI: Get started (Fast!) ⚡ React 16+](https://hackernoon.com/material-ui-get-started-fast-react-16-eea211d65308)
+* [Learn React.js - Full Course for Beginners - Tutorial 2019 (free & interactive)](https://scrimba.com/g/glearnreact)
 
 ##### React best practices
 
