@@ -60,6 +60,8 @@ A collection of awesome things regarding React ecosystem.
   - [React Native Awesome Components](#react-native-awesome-components)
 - [JSX](#jsx)
   - [JSX Resources](#jsx-resources)
+- [XState](#xstate)
+  - [Xstate Resources](#xstate-resources)
 - [Flux](#flux)
   - [Flux General Resources](#flux-general-resources)
   - [Flux Implementations](#flux-implementations)
@@ -942,6 +944,15 @@ A collection of awesome things regarding React ecosystem.
 * [JSX Spec](https://facebook.github.io/jsx/)
 * [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
 * [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
+
+---
+### XState
+> Functional, stateless JavaScript finite state machines and statecharts
+
+#### XState Resources
+* [Xstate Concept](https://xstate.js.org/docs/about/concepts.html)
+* [XState Docs](https://xstate.js.org/docs/)
+
 
 ---
 ### Flux
