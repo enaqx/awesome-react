@@ -116,14 +116,14 @@ A collection of awesome things regarding React ecosystem.
 * [React Official Site](http://facebook.github.io/react/)
 * [React GitHub](https://github.com/facebook/react)
 * [React Community GitHub](https://github.com/reactjs)
-* [React FAQ](https://reactfaq.site/)
+* [React FAQ](https://reactjs.org/docs/faq-ajax.html)
 * [The Evolution of React](https://blog.pusher.com/the-evolution-of-react)
 * [Roadmap to becoming a React developer in 2019](https://github.com/adam-golab/react-developer-roadmap)
 
 
 #### React Community
 * [Reactiflux](http://www.reactiflux.com/)
-* [React Discussion Forum](https://discuss.reactjs.org/)
+* [React Discussion Forum](https://reactjs.org/community/support.html#popular-discussion-forums)
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 * [React Twitter](https://twitter.com/reactjs)
 * [React Core meeting notes](https://github.com/reactjs/core-notes)
@@ -1093,7 +1093,7 @@ A collection of awesome things regarding React ecosystem.
 
 #### GraphQL Spec
 * [GraphQL Official Site](http://graphql.org/)
-* [GraphQL Specification](http://facebook.github.io/graphql/)
+* [GraphQL Specification](https://github.com/graphql/graphql-spec/tree/master/spec)
 * [GraphQL Specification Repository](https://github.com/facebook/graphql)
 
 #### GraphQL Tools
