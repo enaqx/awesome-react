@@ -635,6 +635,7 @@ A collection of awesome things regarding React ecosystem.
 * [dialog-web-components - Set of components for building messaging applications](https://github.com/dialogs/dialog-web-components)
 * [react-dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync)](https://github.com/flatlogic/react-dashboard)
 * [reactponsive - Responsive utils in all the flavors for your favorite framework](https://github.com/jmlweb/reactponsive)
+* [react-svg - A React component that injects SVG into the DOM](https://github.com/tanem/react-svg)
 
 ##### Animation Components
 * [react-loading-skeleton - Make beautiful, animated loading skeletons that automatically adapt to your app.](https://github.com/dvtng/react-loading-skeleton)
