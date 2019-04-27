@@ -167,6 +167,7 @@ A collection of awesome things regarding React ecosystem.
 * [SSR Split (A/B) Testing and Analytics with React, Redux, and Next.js](https://hackernoon.com/tutorial-ssr-split-testing-and-analytics-with-react-redux-and-next-js-5392799c15c7)
 * [Material-UI: Get started (Fast!) ⚡ React 16+](https://hackernoon.com/material-ui-get-started-fast-react-16-eea211d65308)
 * [Learn React.js - Full Course for Beginners - Tutorial 2019 (free & interactive)](https://scrimba.com/g/glearnreact)
+* [Build a Pet Hotel web app with React, GraphQL, NodeJS and Database using ScaffoldHub (7h 11m)](https://www.youtube.com/watch?v=MMOvx38dXz4)
 
 ##### React best practices
 
