@@ -783,7 +783,6 @@ A collection of awesome things regarding React ecosystem.
 * [react-reactive-form - Angular like reactive forms in React](https://github.com/bietkul/react-reactive-form)
 
 ##### Autocomplete
-* [react-typeahead-search by @tonyspiro](https://github.com/tonyspiro/react-typeahead-search)
 * [react-autocomplete by @rackt - WAI-ARIA compliant React autocomplete](https://github.com/rackt/react-autocomplete)
 * [react-autosuggest by @moroshko - WAI-ARIA compliant React autosuggest component](https://github.com/moroshko/react-autosuggest)
 * [react-autocomplete by @eliseumds- Just tasting some ReactJS + RxJS](https://github.com/eliseumds/react-autocomplete)
