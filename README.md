@@ -372,6 +372,7 @@ A collection of awesome things regarding React ecosystem.
 * [Razzle Material-UI Styled Example — With Styled Components using Express with compression](https://github.com/kireerik/razzle-material-ui-styled-example)
 * [SaaS Boilerplate – Open source web app to quickly build your own SaaS product](https://github.com/async-labs/saas)
 * [MERN Boilerplate - Boilerplate based on MERN stack with redux and SSR ](https://github.com/anikethsaha/MERN-Boilerplate)
+* [React Electron Boilerplate - Simple React Electron Boilerplate Ready For Packaging](https://github.com/abdul-elah-js/react-electron-app)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
