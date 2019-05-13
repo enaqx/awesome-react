@@ -93,6 +93,7 @@ A collection of awesome things regarding React ecosystem.
 - [Flow](#flow)
   - [Flow Resources](#flow-resources)
 - [Videos](#videos)
+  - [Indexed react.js conference videos](#reactjsvideos)
   - [Video from Confs](#video-from-confs)
   - [React.js Conf 2015 Playlist](#reactjs-conf-2015-playlist)
   - [ReactEurope Conf 2015 Day 1 Playlist](#reacteurope-conf-2015-day-1-playlist)
@@ -1187,6 +1188,8 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 ### Videos
+
+#### [reactjsvideos.com](https://www.reactjsvideos.com)
 
 #### Video from Confs
 * [Tom Occhino and Jordan Walke: JS Apps at Facebook - JSConfUS 2013](https://www.youtube.com/watch?v=GW0rj4sNH2w)
