@@ -940,6 +940,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-native-icons - Quick and easy icons in React Native](https://github.com/corymsmith/react-native-icons)
 * [react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar](https://github.com/oblador/react-native-vector-icons)
 * [react-native-google-signin - Google Signin for React Native](https://github.com/apptailor/react-native-google-signin)
+* [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view)
 
 ---
 ### JSX
