@@ -330,8 +330,7 @@ A collection of awesome things regarding React ecosystem.
 * [Maka.js](https://makajs.org) - A react framework using Microservice Architecture.
 * [Crana](https://github.com/CranaJS/crana) - A CLI tool to create React + Node apps with just one command (batteries included).
 * [Crassa](https://github.com/ghondar/crassa) - A CLI tool to create React + Server Side Rendering with one command.
-
-
+* [react-int](https://github.com/leafOfTree/react-int) - A simple way to use react/react-native with redux and redux-saga.
 
 ##### Boilerplates
 * [React Boilerplate - Minimalistic boilerplate with React, Redux, Flowtype, Babel and Webpack2](https://github.com/nordsoftware/react-boilerplate)
