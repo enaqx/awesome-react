@@ -734,7 +734,6 @@ A collection of awesome things regarding React ecosystem.
 * [semantic-react - React wrappers for Semantic UI](https://github.com/DveMac/semantic-react)
 * [sbt-reactjs - React SBT Plugin using npm](https://github.com/ddispaltro/sbt-reactjs)
 * [scalajs-react - A guilty affair between Scala.js and Facebook's React](https://github.com/japgolly/scalajs-react)
-* [rpm-xtags-rivets-finch-react - RPM project: x-tags, rivets.js, finch.js, and React](https://github.com/ruahman/rpm-xtags-rivets-finch-react)
 * [react-xtags - Using React to implement xtags](https://github.com/vjeux/react-xtags/)
 * [jreact - React on server-side Java (with Rhino or Nashorn)](https://github.com/KnisterPeter/jreact)
 * [React.hiccup - A complete replacement for JSX written in sweet.js](https://github.com/lantiga/react.hiccup)
