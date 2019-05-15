@@ -1260,7 +1260,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Native in Arabic - Create a real app series](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS)
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
 * [Modern React with Redux](https://www.udemy.com/react-redux/)
-* [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/)
+* [Advanced React and Redux](https://www.udemy.com/course/react-redux-tutorial/)
 
 ---
 ### Books
