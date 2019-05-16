@@ -759,7 +759,6 @@ A collection of awesome things regarding React ecosystem.
 
 
 ##### Forms
-* [unform - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!](https://github.com/Rocketseat/unform)
 * [React Forms](http://facebook.github.io/react/docs/forms.html)
 * [react-formal - Better form validation and value management for React, Provides minimal wiring](https://github.com/jquense/react-formal)
 * [react-forms - Forms library for React](https://github.com/prometheusresearch/react-forms)
@@ -783,6 +782,7 @@ A collection of awesome things regarding React ecosystem.
 * [formland - A simple, super-flexible, extensible config based form generator](https://github.com/indix/formland)
 * [ez-react-form - simple form syntax. Works with multiple Style Frameworks like: Bootstrap, Semantic UI, etc.](https://github.com/ngduc/ez-react-form)
 * [react-reactive-form - Angular like reactive forms in React](https://github.com/bietkul/react-reactive-form)
+* [unform - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!](https://github.com/Rocketseat/unform)
 
 ##### Autocomplete
 * [react-autocomplete by @rackt - WAI-ARIA compliant React autocomplete](https://github.com/rackt/react-autocomplete)
