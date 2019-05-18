@@ -178,6 +178,7 @@ A collection of awesome things regarding React ecosystem.
 * [Clean Code vs. Dirty Code: React Best Practices](http://americanexpress.io/clean-code-dirty-code/)
 * [Writing Scalable React Apps with the Component Folder Pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
 * [React Performance – A Definitive Guide to Optimize Major Performance issues in React](https://www.simform.com/react-performance/)
+* [React and Accessibility – Tips and Best Practices](https://www.aditus.io/talks/react-and-accessibility/)
 
 ##### React styling
 * [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
