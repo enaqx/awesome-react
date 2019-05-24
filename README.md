@@ -331,6 +331,7 @@ A collection of awesome things regarding React ecosystem.
 * [Maka.js](https://makajs.org) - A react framework using Microservice Architecture.
 * [Crana](https://github.com/CranaJS/crana) - A CLI tool to create React + Node apps with just one command (batteries included).
 * [Crassa](https://github.com/ghondar/crassa) - A CLI tool to create React + Server Side Rendering with one command.
+* [JSONX](https://github.com/repetere/jsonx) - React JSON Syntax - Construct React elements, JSX and HTML from JSON without transpilers (JSON to React, JSON to JSX and JSON to HTML).
 
 
 
