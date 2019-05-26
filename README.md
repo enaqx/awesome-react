@@ -805,6 +805,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-famous - Complex 3D animations UI at 60 FPS with Famo.us](https://github.com/pilwon/react-famous)
 * [react-kinetic - HTML5 Canvas via KineticJS using React](https://github.com/freiksenet/react-kinetic)
 * [react-svg-morph - morph your svg components one into another](https://github.com/gorangajic/react-svg-morph)
+* [react-hooks-svgdrawing - SVG Drawing with React hooks](https://github.com/kmkzt/react-hooks-svgdrawing)
 
 ##### Model Libraries
 * [mori - ClojureScript's persistent data structures and supporting API](https://github.com/swannodette/mori)
