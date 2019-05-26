@@ -374,6 +374,7 @@ A collection of awesome things regarding React ecosystem.
 * [Razzle Material-UI Styled Example — With Styled Components using Express with compression](https://github.com/kireerik/razzle-material-ui-styled-example)
 * [SaaS Boilerplate – Open source web app to quickly build your own SaaS product](https://github.com/async-labs/saas)
 * [MERN Boilerplate - Boilerplate based on MERN stack with redux and SSR ](https://github.com/anikethsaha/MERN-Boilerplate)
+* [React-prisma-typescript-fullstack - Full-Stack Webpack React Apollo NodeJS Express GraphQL Prisma Typescript Material-UI Formik Yup](https://github.com/DylanMerigaud/react-prisma-typescript-fullstack)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
