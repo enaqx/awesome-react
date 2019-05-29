@@ -1092,6 +1092,7 @@ A collection of awesome things regarding React ecosystem.
 * [enzyme - JavaScript Testing utilities for React](https://github.com/airbnb/enzyme)
 * [chai-immutable - Chai assertions for Facebook's Immutable library for JavaScript collections](https://github.com/astorije/chai-immutable)
 * [react-testing-library - React DOM testing utilities that encourage good testing practices](https://github.com/kentcdodds/react-testing-library)
+* [react-hooks-testing-library - React hooks testing utilities that encourage good testing practices](https://github.com/mpeyper/react-hooks-testing-library)
 
 ##### Testing Tutorials
 * [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
