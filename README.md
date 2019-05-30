@@ -9,8 +9,7 @@ A collection of awesome things regarding React ecosystem.
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
     - [JSX](#jsx)
-    - [React and Ruby on Rails](#react-and-ruby-on-rails)
-    - [React and Meteor](#react-and-meteor)
+    - [React Integration Tutorials](#react-inegration-tutorials)
     - [React and Angular](#react-and-angular)
     - [React and Bootstrap](#react-and-bootstrap)
     - [React and ClojureScript](#react-and-clojurescript)
@@ -30,15 +29,17 @@ A collection of awesome things regarding React ecosystem.
     - [File Uploads](#file-uploads)
     - [React Internals](#react-internals)
   - [React Tools](#react-tools)
-    - [Development Toolkits and Frameworks](#development-toolkits-and-frameworks)
+    - [React Development Tools](#react-development-tools)
+    - [React Frameworks](#react-frameworks)
     - [Boilerplates](#boilerplates)
     - [React Styling](#react-styling)
     - [Routing](#routing)
     - [React Projects](#react-projects)
+    - [React Component Libraries](#react-component-libraries)
     - [Components](#components)
     - [Animation Components](#animation-components)
     - [Libraries](#libraries)
-    - [Integration](#integration)
+    - [React Integration](#react-integration)
     - [Forms](#forms)
     - [Autocomplete](#autocomplete)
     - [Documentation Tools](#documentation-tools)
@@ -113,7 +114,7 @@ A collection of awesome things regarding React ecosystem.
 
 #### React General Resources
 
-- [React Official Site](http://facebook.github.io/react/)
+- [React Official Website](http://facebook.github.io/react/)
 - [React Documentation](https://reactjs.org/docs)
 - [React GitHub](https://github.com/facebook/react)
 - [React Community GitHub](https://github.com/reactjs)
@@ -135,38 +136,20 @@ A collection of awesome things regarding React ecosystem.
 
 ##### React General Tutorials
 
-- [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
-- [Scrimba - Learn React for free](https://scrimba.com/g/glearnreact)
+- [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+- [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
 - [React cheatsheet](https://devhints.io/react)
 - [Roadmap to becoming a React developer](https://github.com/adam-golab/react-developer-roadmap)
 
-#### JSX
+##### JSX
 
 - [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
 - [JSX Spec](https://facebook.github.io/jsx/)
 - [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 
-##### React and Ruby on Rails
+##### React Integration Tutorials
 
-- [React on Rails - integration of React, Webpack, React-Router with Ruby on Rails](https://github.com/shakacode/react_on_rails/)
-- [reactrails.com - live example site using React on Rails with source code](http://www.reactrails.com/)
-
-##### React and Meteor
-
-- [Meteor official Guide](http://guide.meteor.com/react.html)
 - [Meteor with React Tutorial](https://www.meteor.com/tutorials/react/creating-an-app)
-- [React for Meteor developers](http://blog.differential.com/react-for-meteor-developers/)
-- [Full-stack GraphQL with Apollo, Meteor & React](https://www.youtube.com/playlist?list=PLLnpHn493BHFTDL9M1PKnxQwBwOZ8J-h4)
-
-##### React and Angular
-
-- [NgReact - React Components in Angular](http://davidandsuzi.com/ngreact-react-components-in-angular/)
-- [ng-React Update - React 0.9 and Angular Track By](http://davidandsuzi.com/ngreact-update/)
-- [Using React for Faster Renders and Isomorphism in Angular](http://davidandsuzi.com/using-react-for-faster-renders-and-isomorphism-in-angular/)
-- [Improving AngularJS long list rendering performance using ReactJS](http://www.mono-software.com/blog/post/Mono/242/Improving-AngularJS-long-list-rendering-performance-using-ReactJS/)
-- [How can React and Flux help us create better Angular applications?](https://medium.com/@gilbox/how-can-react-and-flux-help-us-create-better-stronger-faster-angular-applications-639247898fb)
-- [Achieving Reasonable and Scalable Routing in AngularJS with Flux](https://medium.com/@gilbox/achieving-reasonable-and-scalable-routing-in-angularjs-with-flux-2655e06cd5ee)
-- [Angular to React/Redux, a Guide for Angular v1 Experts Looking to Learn React/Redux](https://github.com/GoTeamEpsilon/angular-to-react-redux)
 
 ##### React and Bootstrap
 
@@ -285,13 +268,18 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Tools
 
-##### Development Toolkits and Frameworks
+##### React Development Tools
 
 - [Create React App](https://facebook.github.io/create-react-app/) - Set up a modern web app by running one command.
-- [Next.js](https://nextjs.org/) - The React Framework.
+- [React Developer Tools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
+
+##### React Frameworks
+
+- [Next.js](https://nextjs.org/) - The React Framework
 - [Gatsby.js](https://www.gatsbyjs.org/) - Free and open source framework based on React
-- [Razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration.
+- [Razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration
 - [Reakit](https://reakit.io/) - Build accessible rich web apps with React
+- [Fusion.js](https://fusionjs.com/) - Modern framework for fast, powerful React apps
 
 ##### Boilerplates
 
@@ -365,6 +353,13 @@ A collection of awesome things regarding React ecosystem.
 - [react-tv - React renderer for low memory applications and Packager for TVs](https://github.com/raphamorim/react-tv)
 - [ink - React for interactive command-line apps](https://github.com/vadimdemedes/ink)
 - [react-cli - a react renderer for the command line](https://github.com/mgrip/react-cli)
+
+##### React Component Libraries
+
+- [Material UI](https://material-ui.com/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
+- [Semantic UI React](https://react.semantic-ui.com/)
+- [Base Web React Components](https://baseweb.design/)
 
 ##### Components
 
@@ -665,14 +660,12 @@ A collection of awesome things regarding React ecosystem.
 - [Stator - Simple, plain JavaScript state management with built-in support for React](https://github.com/cs01/stator)
 - [ClearX - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibiility in separation of concerns for your React applicationss](https://github.com/Autodesk/clearx)
 
-##### Integration
+##### React Integration
 
+- [React Rails](https://github.com/reactjs/react-rails)
 - [ReactJS.NET](https://github.com/reactjs/React.NET)
 - [React ASP.NET Boilerplate](https://github.com/pauldotknopf/react-aspnet-boilerplate)
-- [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap/)
 - [React Bootstrap Components Playground](http://gcanti.github.io/resources/tcomb-react-bootstrap/playground/playground.html)
-- [React Rails](https://github.com/reactjs/react-rails)
-- [React on Rails](https://github.com/elierotenberg/react-rails)
 - [om - ClojureScript interface](https://github.com/swannodette/om)
 - [quiescent - A lightweight ClojureScript abstraction over React](https://github.com/levand/quiescent)
 - [Reagent - A minimalistic ClojureScript interface to React.js](https://github.com/reagent-project/reagent)
@@ -823,7 +816,6 @@ A collection of awesome things regarding React ecosystem.
 
 ##### React Developer Experience
 
-- [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
 - [react-transform-hmr - A React Transform that enables hot reloading React](https://github.com/gaearon/react-transform-hmr)
 - [Nuclide - An open IDE for web and native mobile development, built on top of Atom](http://nuclide.io/)
 - [babel-sublime - Syntax definitions for ES6 JavaScript with React JSX extensions](https://github.com/babel/babel-sublime)
