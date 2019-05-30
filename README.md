@@ -8,6 +8,7 @@ A collection of awesome things regarding React ecosystem.
   - [React Online Playgrounds](#react-online-playgrounds)
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
+    - [JSX](#jsx)
     - [React Charts Tutorials](#react-charts-tutorials)
     - [React and Ruby on Rails](#react-and-ruby-on-rails)
     - [React and Meteor](#react-and-meteor)
@@ -57,9 +58,7 @@ A collection of awesome things regarding React ecosystem.
   - [React Native Developer Experience](#react-native-developer-experience)
   - [React Native Sample Apps](#react-native-sample-apps)
   - [React Native Boilerplates](#react-native-boilerplates)
-  - [React Native Awesome Components](#react-native-awesome-components)
-- [JSX](#jsx)
-  - [JSX Resources](#jsx-resources)
+  - [React Native Awesome Components](#react-native-awesome-components)s
 - [Flux](#flux)
   - [Flux General Resources](#flux-general-resources)
   - [Flux Implementations](#flux-implementations)
@@ -141,6 +140,12 @@ A collection of awesome things regarding React ecosystem.
 - [Scrimba - Learn React for free](https://scrimba.com/g/glearnreact)
 - [React cheatsheet](https://devhints.io/react)
 - [Roadmap to becoming a React developer](https://github.com/adam-golab/react-developer-roadmap)
+
+#### JSX
+
+- [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
+- [JSX Spec](https://facebook.github.io/jsx/)
+- [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 
 ##### React Charts Tutorials
 
@@ -948,13 +953,7 @@ A collection of awesome things regarding React ecosystem.
 
 ### JSX
 
-> XML-Like Syntax Extension to JavaScript
-
-#### JSX Resources
-
-- [JSX Spec](https://facebook.github.io/jsx/)
-- [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
-- [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
+> XML-Like Syntax Extension to EcmaScript
 
 ---
 
