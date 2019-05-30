@@ -310,7 +310,6 @@ A collection of awesome things regarding React ecosystem.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
 - [Razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration.
 
-
 ##### Boilerplates
 
 - [React Boilerplate - Minimalistic boilerplate with React, Redux, Flowtype, Babel and Webpack2](https://github.com/nordsoftware/react-boilerplate)
@@ -1291,7 +1290,6 @@ A collection of awesome things regarding React ecosystem.
 
 #### Video Tutorials
 
-- [learnreact.com — 3ish minute videos on React.js](http://learnreact.com/)
 - [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
 - [Learn ReactJS (make a Pokedex!) - part 2](https://www.youtube.com/watch?v=lNqnZ58YGE0)
 - [React.js Components - part 1](http://www.youtube.com/watch?v=rFvZydtmsxM)
@@ -1300,17 +1298,12 @@ A collection of awesome things regarding React ecosystem.
 - [ReactJS: Dealing with the Server](https://www.youtube.com/watch?v=lJUUjdsv0aw)
 - [Building UIs with ReactJS](http://www.youtube.com/watch?v=lAn7GVoGlKU)
 - [React.js Internals](https://www.youtube.com/watch?v=FAgSdSikSCc)
-- [React in 7 Minutes](https://egghead.io/lessons/react-react-in-7-minutes)
 - [jFlux - Going from MVC to FLUX](https://www.youtube.com/watch?v=plUN2L4Ak14)
-- [Learn React in steps - BigBinary](http://bigbinary.com/videos/learn-reactjs-in-steps)
-- [Keep up with React - BigBinary](http://bigbinary.com/videos/keep-up-with-reactjs)
 - [React Native Intro](http://brentvatne.ca/react-native-intro-talk/)
 - [Building a Simple ToDo App With React Native and Firebase](https://www.youtube.com/watch?v=3ab0K6viEp0)
 - [React & Flux by: Christian Lilley](https://www.youtube.com/watch?v=mK4_a7u2cgI)
-- [React for beginners](https://reactforbeginners.com/)
 - [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
 - [React Native in Arabic - Create a real app series](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS)
-- [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
 
 ---
 
@@ -1375,11 +1368,11 @@ A collection of awesome things regarding React ecosystem.
 
 Remember this is an **awesome** list. To be included here, apps should be:
 
-1. Tracking the latest releases of React.
-2. Actively maintained.
-3. Have significant user base.
+- Tracking the latest releases of React.
+- Actively maintained.
+- Have significant user base.
 
-- [debugger.html – Firefox debugger](https://github.com/devtools-html/debugger.html)
+- [Firefox debugger](https://github.com/devtools-html/debugger.html)
 - [Remote Retro – Agile retrospectives for distributed teams](https://github.com/stride-nyc/remote_retro)
 - [Spectrum – Simple, powerful online communities](https://github.com/withspectrum/spectrum)
 - [Mattermost – Open source Slack alternative](https://github.com/mattermost/mattermost-webapp)
