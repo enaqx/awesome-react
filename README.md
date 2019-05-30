@@ -396,6 +396,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-cli - a react renderer for the command line](https://github.com/mgrip/react-cli)
 
 ##### Components
+* [Awesome React Components list](https://github.com/brillout/awesome-react-components)
 * [Essential JS 2 for React - Over 60 high-performance, lightweight, modular, and responsive UI components.](https://www.syncfusion.com/react-ui-components)
 * [KendoReact - UI for React Developers](https://www.telerik.com/kendo-react-ui/)
 * [React Material Web Components - The most performant, un-opinionated, and simple implementation of Material Design in React.](https://jamesmfriedman.github.io/rmwc/)
