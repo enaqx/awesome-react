@@ -123,14 +123,9 @@ A collection of awesome things regarding React ecosystem.
 #### React Community
 
 - [Reactiflux](http://www.reactiflux.com/)
-- [React Discussion Forum](https://reactjs.org/community/support.html#popular-discussion-forums)
+- [React Discussion Forums](https://reactjs.org/community/support.html#popular-discussion-forums)
 - [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 - [React Twitter](https://twitter.com/reactjs)
-- [React Core meeting notes](https://github.com/reactjs/core-notes)
-- [Made with React - Collection of websites and applications using ReactJS](http://madewithreact.com/)
-- [The React newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe)
-- [React Iran Telegram Group](https://telegram.me/joinchat/D8jLp0D27irx4rjq2j88xw)
-- [React Community Germany](https://reactjs.de/)
 
 #### React Online Playground
 
