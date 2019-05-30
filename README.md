@@ -103,7 +103,7 @@ A collection of awesome things regarding React ecosystem.
   - [ReactRally Conf 2016 Playlist](#reactrally-conf-2016-playlist)
   - [Video Tutorials](#video-tutorials)
   - [React.js Amsterdam 2018 Playlist](#reactjs-amsterdam-2018-playlist)
-- [Books](#books)
+- [Free Books](#free-books)
 - [Demos](#demos)
 - [Example Apps](#example-apps)
 - [Real Apps](#real-apps)
@@ -1349,18 +1349,10 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 
-### Books
+### Free Books
 
 - [SurviveJS - Webpack and React](http://survivejs.com/)
-- [Fullstack React: The Complete Guide to ReactJS and Friends](https://www.fullstackreact.com/)
-- [The Road to learn React](https://www.robinwieruch.de/the-road-to-learn-react/)
-- [Isomorphic Development with JavaScript](https://www.manning.com/books/isomorphic-development-with-javascript)
-- [React in Action](https://www.manning.com/books/react-in-action)
-- [React Quickly](https://www.manning.com/books/react-quickly)
-- [React: Up & Running: Building Web Applications](https://www.amazon.com/React-Running-Building-Web-Applications/dp/1491931825)
-- [Developing a React.js Edge](https://bleedingedgepress.com/developing-a-react-edge-2nd-edition/)
-- [Builder Book: Build a Full-stack JavaScript Web App from Scratch](https://builderbook.org/book)
-- [React Native in Action](https://www.manning.com/books/react-native-in-action)
+- [React in Patterns](https://krasimir.gitbooks.io/react-in-patterns/content/)s
 
 ---
 
@@ -1431,7 +1423,7 @@ Remember this is an **awesome** list. To be included here, apps should be:
 
 ### Contribution
 
-Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
+This list started as personal collecton of interesting things about React. At the time it started React was in beta, there was special script to convert JSX to JS and even Flux was not yet published. React is mainstream now, lots of things happened. Please, do not try to use this list as advertisement board or place for your experiments. Only free resources here. Your contributions and suggestions are heartily♡ welcome, though. (✿◠‿◠)
 
 ---
 
