@@ -309,14 +309,7 @@ A collection of awesome things regarding React ecosystem.
 - [Next.js](https://nextjs.org/) - A minimalistic framework for server-rendered React applications.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
 - [Razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration.
-- [create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - Create React App using typescript with no build configuration.
-- [rekit](http://rekit.js.org/) - IDE and toolkit for building scalable web applications with React, Redux and React-router.
-- [ARc](https://arc.js.org) - A progressive React starter kit based on Atomic Design.
-- [Maka.js](https://makajs.org) - A react framework using Microservice Architecture.
-- [Crana](https://github.com/CranaJS/crana) - A CLI tool to create React + Node apps with just one command (batteries included).
-- [Crassa](https://github.com/ghondar/crassa) - A CLI tool to create React + Server Side Rendering with one command.
-- [JSONX](https://github.com/repetere/jsonx) - React JSON Syntax - Construct React elements, JSX and HTML from JSON without transpilers (JSON to React, JSON to JSX and JSON to HTML).
-- [isomor-react-app](https://github.com/apiel/isomor#getting-started-with-react) - Setup a working environment with React and isomor, to unify the frontend and the backend by generating automatically the API.
+
 
 ##### Boilerplates
 
