@@ -8,7 +8,6 @@ A collection of awesome things regarding React ecosystem.
   - [React Online Playgrounds](#react-online-playgrounds)
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
-    - [React Styling](#react-styling)
     - [React Charts Tutorials](#react-charts-tutorials)
     - [React and Ruby on Rails](#react-and-ruby-on-rails)
     - [React and Meteor](#react-and-meteor)
@@ -33,6 +32,7 @@ A collection of awesome things regarding React ecosystem.
   - [React Tools](#react-tools)
     - [Development Toolkits and Frameworks](#development-toolkits-and-frameworks)
     - [Boilerplates](#boilerplates)
+    - [React Styling](#react-styling)
     - [Routing](#routing)
     - [React Projects](#react-projects)
     - [Components](#components)
@@ -116,6 +116,7 @@ A collection of awesome things regarding React ecosystem.
 #### React General Resources
 
 - [React Official Site](http://facebook.github.io/react/)
+- [React Documentation](https://reactjs.org/docs)
 - [React GitHub](https://github.com/facebook/react)
 - [React Community GitHub](https://github.com/reactjs)
 
@@ -140,24 +141,6 @@ A collection of awesome things regarding React ecosystem.
 - [Scrimba - Learn React for free](https://scrimba.com/g/glearnreact)
 - [React cheatsheet](https://devhints.io/react)
 - [Roadmap to becoming a React developer](https://github.com/adam-golab/react-developer-roadmap)
-
-##### React styling
-
-- [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
-- [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
-- [CSS in JS Playground](https://css-in-js-playground.com)
-- [Radium](https://github.com/FormidableLabs/radium)
-- [jsxstyle](https://github.com/petehunt/jsxstyle)
-- [ReactCSS](https://github.com/casesandberg/reactcss)
-- [Aphrodite](https://github.com/Khan/aphrodite)
-- [Glamor](https://github.com/threepointone/glamor)
-- [Styletron](https://github.com/rtsao/styletron)
-- [TypeStyle](https://github.com/typestyle/typestyle)
-- [styled-components](https://github.com/styled-components/styled-components)
-- [gloss](https://github.com/motion/gloss)
-- [JSS](https://github.com/cssinjs/jss)
-- [reas](https://github.com/diegohaz/reas)
-- [emotion](https://emotion.sh/)
 
 ##### React Charts Tutorials
 
@@ -305,10 +288,11 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Development Toolkits and Frameworks
 
-- [Create React App](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
-- [Next.js](https://nextjs.org/) - A minimalistic framework for server-rendered React applications.
-- [Gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
+- [Create React App](https://facebook.github.io/create-react-app/) - Set up a modern web app by running one command.
+- [Next.js](https://nextjs.org/) - The React Framework.
+- [Gatsby.js](https://www.gatsbyjs.org/) - Free and open source framework based on React
 - [Razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration.
+- [Reakit](https://reakit.io/) - Build accessible rich web apps with React
 
 ##### Boilerplates
 
@@ -351,6 +335,18 @@ A collection of awesome things regarding React ecosystem.
 - [SaaS Boilerplate – Open source web app to quickly build your own SaaS product](https://github.com/async-labs/saas)
 - [MERN Boilerplate - Boilerplate based on MERN stack with redux and SSR ](https://github.com/anikethsaha/MERN-Boilerplate)
 - [React-prisma-typescript-fullstack - Full-Stack Webpack React Apollo NodeJS Express GraphQL Prisma Typescript Material-UI Formik Yup](https://github.com/DylanMerigaud/react-prisma-typescript-fullstack)
+
+##### React styling
+
+- [styled-components](https://github.com/styled-components/styled-components)
+- [Emotion](https://emotion.sh)
+- [Radium](https://github.com/FormidableLabs/radium)
+- [JSS](https://github.com/cssinjs/jss)
+- [Aphrodite](https://github.com/Khan/aphrodite)
+- [Styletron](https://github.com/styletron/styletron)
+- [TypeStyle](https://github.com/typestyle/typestyle)
+- [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
+- [CSS in JS Playground](https://css-in-js-playground.com)
 
 ##### Routing
 
@@ -1236,7 +1232,7 @@ A collection of awesome things regarding React ecosystem.
 - [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 - [Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
 - [Tom Occhino and Jordan Walke: JS Apps at Facebook - JSConfUS 2013](https://www.youtube.com/watch?v=GW0rj4sNH2w)
-- [Pete Hunt: High performance functional programming with React and Meteor -- Devshop 11](https://www.youtube.com/watch?v=qqVbr_LaCIo)
+- [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
 - [Stoyan Stefanov: Introduction to React - LAWebSpeed meetup](https://www.youtube.com/watch?v=SMMRJif5QW0)
 - [Pete Hunt: Be Predictable, Not Correct - Mountain West JavaScript 2014](https://www.youtube.com/watch?v=h3KksH8gfcQ)
 - [Pete Hunt: The Secrets of React's Virtual DOM - FutureJS 2014](https://www.youtube.com/watch?v=-DX3vJiqxm4)
