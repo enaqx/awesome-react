@@ -726,7 +726,6 @@ A collection of awesome things regarding React ecosystem.
 - [generator-react-gulp-browserify - Yeoman generator for React](https://github.com/randylien/generator-react-gulp-browserify)
 - [generator-reactapp - Yeoman generator for react app with redux, webpack, gulp and restful.js etc.](https://github.com/Jackong/generator-reactapp)
 - [static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
-- [react-cosmos - DX tool for designing reusable React components](https://github.com/react-cosmos/react-cosmos)
 - [Storybook - Development environment for UI components](https://github.com/storybooks/storybook)
 - [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide
 - [React Cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
