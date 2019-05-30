@@ -9,7 +9,6 @@ A collection of awesome things regarding React ecosystem.
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
     - [React and TypeScript](#react-and-typescript)
-    - [Debugging React](#debugging-react)
     - [React Performance](#react-performance)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
@@ -134,12 +133,6 @@ A collection of awesome things regarding React ecosystem.
 - [TypeScript, React and Webpack](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html)
 - [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 
-##### Debugging React
-
-- [Trace Logging with React](http://www.garysieling.com/blog/trace-logging-react)
-- [Reactotron: Control, monitor, and instrument](https://github.com/skellock/reactotron)
-- [React-fix-it: Automagically generate tests from errors](https://github.com/MicheleBertoli/react-fix-it)
-
 ##### React Performance
 
 - [Introducing the React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
@@ -174,6 +167,7 @@ A collection of awesome things regarding React ecosystem.
 - [Create React App](https://facebook.github.io/create-react-app/) - Set up a modern web app by running one command
 - [React Developer Tools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools
 - [React Hot Loader](https://gaearon.github.io/react-hot-loader/) - Tweak React components in real time
+- [Reactotron(https://github.com/skellock/reactotron) - A desktop app for inspecting your React JS and React Native projects
 - [Babel](https://babeljs.io/) - Babel is a JavaScript compiler
 - [Webpack](https://webpack.js.org/) - A bundler for javascript and friends
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
@@ -437,7 +431,6 @@ A collection of awesome things regarding React ecosystem.
 - [grommet - The most advanced UX framework for enterprise applications](https://github.com/grommet/grommet)
 - [react-resizable-and-movable - Resizable and movable component for React](https://github.com/bokuweb/react-resizable-and-movable)
 - [react-sidebar - An app like sidebar for React including touch support](https://balloob.github.io/react-sidebar/example)
-- [react-motion - An spring-based animation library, similar to Rebound.js](https://github.com/chenglou/react-motion)
 - [react-motion-menu - Motion menu component powered by React Motion](https://github.com/bokuweb/react-motion-menu)
 - [sweetalert-react - Using sweetalert in React](https://github.com/chentsulin/sweetalert-react)
 - [React Joyride - Create walkthroughs, tours and tooltips for your apps](https://react-joyride.com/)
@@ -735,6 +728,8 @@ A collection of awesome things regarding React ecosystem.
 - [static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
 - [react-cosmos - DX tool for designing reusable React components](https://github.com/react-cosmos/react-cosmos)
 - [Storybook - Development environment for UI components](https://github.com/storybooks/storybook)
+- [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide
+- [React Cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 - [generator-sui-react - A yeoman generator for Schibsted User Interface (SUI) ReactJS components](https://github.com/SUI-Components/generator-sui-react)
 - [Racket - A yeoman generator for creating a universal react/redux web application](https://github.com/mohebifar/racket)
 - [Docz - An incredible environment to build components and generate beautiful and highly customizable documentation using MDX](https://github.com/pedronauck/docz)
