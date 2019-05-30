@@ -9,7 +9,6 @@ A collection of awesome things regarding React ecosystem.
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
     - [JSX](#jsx)
-    - [React Charts Tutorials](#react-charts-tutorials)
     - [React and Ruby on Rails](#react-and-ruby-on-rails)
     - [React and Meteor](#react-and-meteor)
     - [React and Angular](#react-and-angular)
@@ -146,11 +145,6 @@ A collection of awesome things regarding React ecosystem.
 - [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
 - [JSX Spec](https://facebook.github.io/jsx/)
 - [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
-
-##### React Charts Tutorials
-
-- [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
-- [D3 and React - the future of charting components?](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
 
 ##### React and Ruby on Rails
 
