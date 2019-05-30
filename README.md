@@ -5,10 +5,10 @@ A collection of awesome things regarding React ecosystem.
 - [React](#react)
   - [React General Resources](#react-general-resources)
   - [React Community](#react-community)
-  - [React Online Playground](#react-online-playground)
+  - [React Online Playgrounds](#react-online-playgrounds)
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
-    - [React styling](#react-styling)
+    - [React Styling](#react-styling)
     - [React Charts Tutorials](#react-charts-tutorials)
     - [React and Ruby on Rails](#react-and-ruby-on-rails)
     - [React and Meteor](#react-and-meteor)
@@ -29,6 +29,7 @@ A collection of awesome things regarding React ecosystem.
     - [Authentication](#authentication)
     - [Authorization](#authorization)
     - [File Uploads](#file-uploads)
+    - [React Internals](#react-internals)
   - [React Tools](#react-tools)
     - [Development Toolkits and Frameworks](#development-toolkits-and-frameworks)
     - [Boilerplates](#boilerplates)
@@ -127,7 +128,7 @@ A collection of awesome things regarding React ecosystem.
 - [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 - [React Twitter](https://twitter.com/reactjs)
 
-#### React Online Playground
+#### React Online Playgrounds
 
 - [CodePen](https://reactjs.org/redirect-to-codepen/hello-world)
 - [CodeSandbox](https://codesandbox.io/s/new)
@@ -138,19 +139,7 @@ A collection of awesome things regarding React ecosystem.
 ##### React General Tutorials
 
 - [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
-- [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
 - [Roadmap to becoming a React developer](https://github.com/adam-golab/react-developer-roadmap)
-- [Live React Bootcamp by Tyler Mcginnis(free)](https://www.youtube.com/playlist?list=PLqrUy7kON1mfWjiu0GWQhefWSx38v0UGo)
-- [React.js Fundamentals (paid)](https://tylermcginnis.com/courses/react-fundamentals)
-- [React Primer](https://github.com/mikechau/react-primer-draft)
-- [ReactJS: Keep Simple. Everything can be a component!](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
-- [React js tutorial](https://hackr.io/tutorials/learn-react)
-- [React.js Koans: Practical exercises that will help you learn React.js from square one](https://github.com/arkency/reactjs_koans)
-- [LearnCode React Tutorials](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
-- [Thinkster React topics](https://thinkster.io/topics/react)
-- [React tutorial - Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
-- [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
-- [DIY guide to build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 - [React cheatsheet](https://devhints.io/react)
 - [Getting Started with React](https://sabe.io/tutorials/getting-started-with-react)
 - [Deploying a React app to Github Pages](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages)
@@ -327,9 +316,9 @@ A collection of awesome things regarding React ecosystem.
 
 - [Direct uploads to S3 with React, Rails, and Paperclip](http://blog.littleblimp.com/post/119230396893/direct-uploads-to-s3-with-react-rails-and)
 
-##### API Integration
+##### React Internals
 
-- [react-flux-cosmicjs Data-driven react application connected to the Cosmic JS API](https://github.com/tonyspiro/react-flux-cosmicjs)
+- [Build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 
 #### React Tools
 
