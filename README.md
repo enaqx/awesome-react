@@ -8,15 +8,6 @@ A collection of awesome things regarding React ecosystem.
   - [React Online Playgrounds](#react-online-playgrounds)
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
-    - [JSX](#jsx)
-    - [React Integration Tutorials](#react-inegration-tutorials)
-    - [React and Angular](#react-and-angular)
-    - [React and Bootstrap](#react-and-bootstrap)
-    - [React and ClojureScript](#react-and-clojurescript)
-    - [React and CoffeeScript](#react-and-coffeescript)
-    - [React and Datatables](#react-and-datatables)
-    - [React and Haskell](#react-and-haskell)
-    - [React and SocketIO](#react-and-socketio)
     - [React and TypeScript](#react-and-typescript)
     - [Server-Client with React](#server-client-with-react)
     - [Server Side Rendering](#server-side-rendering)
@@ -122,7 +113,6 @@ A collection of awesome things regarding React ecosystem.
 #### React Community
 
 - [Reactiflux](http://www.reactiflux.com/)
-- [React Discussion Forums](https://reactjs.org/community/support.html#popular-discussion-forums)
 - [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 - [React Twitter](https://twitter.com/reactjs)
 
@@ -141,60 +131,10 @@ A collection of awesome things regarding React ecosystem.
 - [React cheatsheet](https://devhints.io/react)
 - [Roadmap to becoming a React developer](https://github.com/adam-golab/react-developer-roadmap)
 
-##### JSX
-
-- [JSX in Depth](http://facebook.github.io/react/docs/jsx-in-depth.html)
-- [JSX Spec](https://facebook.github.io/jsx/)
-- [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
-
-##### React Integration Tutorials
-
-- [Meteor with React Tutorial](https://www.meteor.com/tutorials/react/creating-an-app)
-
-##### React and Bootstrap
-
-- [Awesome react bootstrap components](https://github.com/Hermanya/awesome-react-bootstrap-components)
-- [Better Bootstrap modals and popover with React.js](http://clozeit.wordpress.com/2014/01/08/bootstrap-modals-and-popover-in-react-js/)
-- [A mixin-based design for a React.js Bootstrap component library](http://clozeit.wordpress.com/2014/01/08/13/)
-- [Popover mixin](http://clozeit.wordpress.com/2014/01/09/popover-mixin/)
-- [Bootstrap TabbedArea component with React.js](http://clozeit.wordpress.com/2014/01/13/34/)
-- [Bootstrap forms using React.js](http://clozeit.wordpress.com/2014/01/13/bootstrap-forms-using-react-js/)
-
-##### React and ClojureScript
-
-- [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs)
-- [The Case for React.js and ClojureScript](http://murilopereira.com/the-case-for-reactjs-and-clojurescript/)
-- [A Reagent Framework For Writing SPAs](https://github.com/Day8/re-frame)
-
-##### React and CoffeeScript
-
-- [React & CoffeeScript](http://blog.vjeux.com/2013/javascript/react-coffeescript.html)
-- [React patterns - Mostly reasonable patterns for writing React in CoffeeScript](https://github.com/planningcenter/react-patterns)
-
-##### React and Datatables
-
-- [React and Datatables](https://github.com/wyvernnot/react-datatables-example)
-- [react-dt - A data table component for React and Material-UI](https://github.com/sonaye/react-dt)
-
-##### React and Haskell
-
-- [stackage-view, built with Yesod and GHCJS+React](https://github.com/fpco/stackage-view)
-- [TodoMVC example with Shade (Haste+React)](https://github.com/takeoutweight/shade-todomvc)
-- [react-haskell, to be used with Haste](https://hackage.haskell.org/package/react-haskell)
-- [blaze-react, blaze-html style React bindings using GHCJS](https://github.com/meiersi/blaze-react) ([video tutorial](https://www.youtube.com/watch?v=4nTnC0t7pzY))
-- [purescript-react bindings](https://github.com/purescript-contrib/purescript-react) ([example app](https://github.com/fujimura/purescript-react-example))
-
-##### React and Socket.IO
-
-- [Socket.IO integration example](https://gist.github.com/zpao/5686416)
-- [Socket.IO integration example inside of a single React component](https://gist.github.com/petehunt/5687230)
-- [Socket.IO integration employing separation of concerns](https://gist.github.com/petehunt/5687276)
-
 ##### React and TypeScript
 
-- [TypeScript-React-Starter, A starter template from microsoft.](https://github.com/Microsoft/TypeScript-React-Starter)
-- [React TypeScript Kickstart Guide, in-depth, incl. boilerplate & cookbook](https://sandstorm.github.io/typescript-react-app-kickstart-guide/)
-- [React Chapter of TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/docs/jsx/react.html)
+- [TypeScript, React and Webpack](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html)
+- [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 
 ##### Server Side rendering
 
@@ -207,7 +147,6 @@ A collection of awesome things regarding React ecosystem.
 - [Golang Isomorphic Hot Reloadable/React/Flummox/Css-Module Starter Kit](https://github.com/olebedev/go-starter-kit)
 - [Serverside rendering with React + Hapi](https://github.com/jedireza/hapi-react-views)
 - [Isomorphic React apps in PHP via dnode](http://ericescalante.com/2015/06/07/isomorphic/)
-
 - [Server Side Redering, Universal JS, Hot Module Reloading and Code Splitting with React and Redux](https://github.com/Alex-ray/v2-universal-js-hmr-ssr-react-redux)
 - [React Server Side Rendering with Hypernova](https://blog.larah.me/2017/04/10/react-server-side-rendering/)
 - [Server Side Rendering with Simple Redux Store Hydration](https://medium.com/@navgarcha7891/react-server-side-rendering-with-simple-redux-store-hydration-9f77ab66900a)
@@ -270,8 +209,11 @@ A collection of awesome things regarding React ecosystem.
 
 ##### React Development Tools
 
-- [Create React App](https://facebook.github.io/create-react-app/) - Set up a modern web app by running one command.
-- [React Developer Tools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
+- [Create React App](https://facebook.github.io/create-react-app/) - Set up a modern web app by running one command
+- [React Developer Tools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools
+- [Babel](https://babeljs.io/) - Babel is a JavaScript compiler
+- [Webpack](https://webpack.js.org/) - A bundler for javascript and friends
+- [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 
 ##### React Frameworks
 
@@ -279,7 +221,6 @@ A collection of awesome things regarding React ecosystem.
 - [Gatsby.js](https://www.gatsbyjs.org/) - Free and open source framework based on React
 - [Razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration
 - [Reakit](https://reakit.io/) - Build accessible rich web apps with React
-- [Fusion.js](https://fusionjs.com/) - Modern framework for fast, powerful React apps
 
 ##### Boilerplates
 
@@ -310,18 +251,14 @@ A collection of awesome things regarding React ecosystem.
 - [react-firebase-authentication - Boilerplate for authentication and real-time database using React and Firebase](https://github.com/zerostatic/react-firebase-authentication)
 - [react-redux-saga-boilerplate - Starter kit with routing, state container, storage and SEO tools. PWA-ready](https://github.com/gilbarbara/react-redux-saga-boilerplate)
 - [generator-react-firebase - Yeoman generator for starting projects using React and Firebase (Redux optional) with features Full Authentication, Route protection and Material UI Application Navbar](https://github.com/prescottprue/generator-react-firebase)
-- [Starter template for React + Redux + TypeScript - setup and simple app using async actions and Material UI](https://github.com/dsheiko/boilerplate/tree/master/react-redux-typescript)
-- [particleplate - an Express + TypeScript + React + React-Router + Redux + React-Redux + PostCSS + MaterialUI boilerplate](https://github.com/handicraftsman/particleplate)
 - [Create React App (ejected) extension containing: basic structure + redux + redux-thunk + routing + ImmutableJS + hot reloading + linters](https://github.com/kkoomen/react-boilerplate) (Can be used along with the corresponding tool: CRA-gen)
   - [CRA-gen (Create React App CLI generator using custom templates)](https://github.com/kkoomen/cra-gen)
 - [create Adobe-CEP (Photoshop, Illustrator etc..) extension/plugin with React, Material-UI, Native Node modules, Webpack, Babel and ExtendScript](https://github.com/HendrixString/adobe-cep-react-create)
 - [Visual webpack config tool for React apps](https://github.com/jakoblind/webpack-autoconf)
-- [next-boilerplate - Next.js with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, and Bundle Analyzer](https://github.com/pankod/next-boilerplate)
 - [create-wp-react-app - WordPress CLI to generate your next modern plugin](https://github.com/matzeeable/wp-reactjs-starter)
 - [Razzle Material-UI Styled Example — With Styled Components using Express with compression](https://github.com/kireerik/razzle-material-ui-styled-example)
 - [SaaS Boilerplate – Open source web app to quickly build your own SaaS product](https://github.com/async-labs/saas)
 - [MERN Boilerplate - Boilerplate based on MERN stack with redux and SSR ](https://github.com/anikethsaha/MERN-Boilerplate)
-- [React-prisma-typescript-fullstack - Full-Stack Webpack React Apollo NodeJS Express GraphQL Prisma Typescript Material-UI Formik Yup](https://github.com/DylanMerigaud/react-prisma-typescript-fullstack)
 
 ##### React styling
 
@@ -677,9 +614,6 @@ A collection of awesome things regarding React ecosystem.
 - [React Python](https://github.com/reactjs/react-python)
 - [React PHP](https://github.com/reactjs/react-php-v8js)
 - [React Laravel](https://github.com/talyssonoc/react-laravel)
-- [React Meteor](https://github.com/reactjs/react-meteor)
-- [Coffee React](https://github.com/jsdf/coffee-react)
-- [react-coffee - Build React components using natural CoffeeScript syntax](https://github.com/elucidata/react-coffee)
 - [coffee-react-transform - Provides React JSX support for Coffeescript](https://github.com/jsdf/coffee-react-transform)
 - [sprockets-coffee-react - Sprockets preprocessor for CJSX](https://github.com/jsdf/sprockets-coffee-react)
 - [react-kup - A simple, non-intrusive alternative to jsx for coffeescript](https://github.com/snd/react-kup)
