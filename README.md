@@ -119,9 +119,6 @@ A collection of awesome things regarding React ecosystem.
 - [React Official Site](http://facebook.github.io/react/)
 - [React GitHub](https://github.com/facebook/react)
 - [React Community GitHub](https://github.com/reactjs)
-- [React FAQ](https://reactjs.org/docs/faq-ajax.html)
-- [The Evolution of React](https://blog.pusher.com/the-evolution-of-react)
-- [Roadmap to becoming a React developer in 2019](https://github.com/adam-golab/react-developer-roadmap)
 
 #### React Community
 
@@ -150,6 +147,7 @@ A collection of awesome things regarding React ecosystem.
 
 - [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 - [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
+- [Roadmap to becoming a React developer](https://github.com/adam-golab/react-developer-roadmap)
 - [Live React Bootcamp by Tyler Mcginnis(free)](https://www.youtube.com/playlist?list=PLqrUy7kON1mfWjiu0GWQhefWSx38v0UGo)
 - [React.js Fundamentals (paid)](https://tylermcginnis.com/courses/react-fundamentals)
 - [React Primer](https://github.com/mikechau/react-primer-draft)
@@ -162,7 +160,6 @@ A collection of awesome things regarding React ecosystem.
 - [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 - [DIY guide to build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 - [React cheatsheet](https://devhints.io/react)
-- [Codecademy Learn ReactJS Course](https://www.codecademy.com/pt/learn/react-101)
 - [Getting Started with React](https://sabe.io/tutorials/getting-started-with-react)
 - [Deploying a React app to Github Pages](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages)
 - [React Express - Beginners Guide to React Application Development](http://www.react.express/)
@@ -768,7 +765,6 @@ A collection of awesome things regarding React ecosystem.
 - [semantic-react - React wrappers for Semantic UI](https://github.com/DveMac/semantic-react)
 - [sbt-reactjs - React SBT Plugin using npm](https://github.com/ddispaltro/sbt-reactjs)
 - [scalajs-react - A guilty affair between Scala.js and Facebook's React](https://github.com/japgolly/scalajs-react)
-- [rpm-xtags-rivets-finch-react - RPM project: x-tags, rivets.js, finch.js, and React](https://github.com/ruahman/rpm-xtags-rivets-finch-react)
 - [react-xtags - Using React to implement xtags](https://github.com/vjeux/react-xtags/)
 - [jreact - React on server-side Java (with Rhino or Nashorn)](https://github.com/KnisterPeter/jreact)
 - [React.hiccup - A complete replacement for JSX written in sweet.js](https://github.com/lantiga/react.hiccup)
