@@ -25,7 +25,7 @@ A collection of awesome things regarding React ecosystem.
     - [Prerendering aka snapshotting](#prerendering-aka-snapshotting)
     - [Compiling React Tutorials](#compiling-react-tutorials)
     - [Debugging React](#debugging-react)
-    - [Analyzing React Performance](#analyzing-react-performance)
+    - [React Performance](#react-performance)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
     - [File Uploads](#file-uploads)
@@ -60,8 +60,6 @@ A collection of awesome things regarding React ecosystem.
   - [React Native Awesome Components](#react-native-awesome-components)
 - [JSX](#jsx)
   - [JSX Resources](#jsx-resources)
-- [XState](#xstate)
-  - [Xstate Resources](#xstate-resources)
 - [Flux](#flux)
   - [Flux General Resources](#flux-general-resources)
   - [Flux Implementations](#flux-implementations)
@@ -139,27 +137,9 @@ A collection of awesome things regarding React ecosystem.
 ##### React General Tutorials
 
 - [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
-- [Roadmap to becoming a React developer](https://github.com/adam-golab/react-developer-roadmap)
+- [Scrimba - Learn React for free](https://scrimba.com/g/glearnreact)
 - [React cheatsheet](https://devhints.io/react)
-- [Getting Started with React](https://sabe.io/tutorials/getting-started-with-react)
-- [Deploying a React app to Github Pages](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages)
-- [React Express - Beginners Guide to React Application Development](http://www.react.express/)
-- [GraphCMS Beginners Guide with React](https://docs.graphcms.com/tutorials/developers/beginners_guide_with_react)
-- [Build a Chat App with React and Pusher Chatkit](https://github.com/bookercodes/build-a-chat-app-with-react-and-pusher-chatkit)
-- [How to set up continuous integration and deployment for your React app](https://medium.freecodecamp.org/how-to-set-up-continuous-integration-and-deployment-for-your-react-app-d09ae4525250)
-- [SSR Split (A/B) Testing and Analytics with React, Redux, and Next.js](https://hackernoon.com/tutorial-ssr-split-testing-and-analytics-with-react-redux-and-next-js-5392799c15c7)
-- [Material-UI: Get started (Fast!) ⚡ React 16+](https://hackernoon.com/material-ui-get-started-fast-react-16-eea211d65308)
-- [Learn React.js - Full Course for Beginners - Tutorial 2019 (free & interactive)](https://scrimba.com/g/glearnreact)
-- [Build a Pet Hotel web app with React, GraphQL, NodeJS and Database using ScaffoldHub (7h 11m)](https://www.youtube.com/watch?v=MMOvx38dXz4)
-
-##### React best practices
-
-- [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
-- [Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
-- [React.js Best Practices](https://github.com/ximet/awesome-best-practices/blob/master/frontend/react/bestPracticeReact.md)
-- [Clean Code vs. Dirty Code: React Best Practices](http://americanexpress.io/clean-code-dirty-code/)
-- [Writing Scalable React Apps with the Component Folder Pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
-- [React Performance – A Definitive Guide to Optimize Major Performance issues in React](https://www.simform.com/react-performance/)
+- [Roadmap to becoming a React developer](https://github.com/adam-golab/react-developer-roadmap)
 
 ##### React styling
 
@@ -294,9 +274,10 @@ A collection of awesome things regarding React ecosystem.
 - [Reactotron: Control, monitor, and instrument](https://github.com/skellock/reactotron)
 - [React-fix-it: Automagically generate tests from errors](https://github.com/MicheleBertoli/react-fix-it)
 
-##### Analyzing React Performance
+##### React Performance
 
 - [Introducing the React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
+- [React Performance – A Definitive Guide to Optimize Major Performance issues in React](https://www.simform.com/react-performance/)
 - [Why did you update](https://github.com/maicki/why-did-you-update)
 - [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [Using the React DevTools Profiler to Diagnose React App Performance Issues](https://www.netlify.com/blog/2018/08/29/using-the-react-devtools-profiler-to-diagnose-react-app-performance-issues/)
@@ -989,17 +970,6 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 
-### XState
-
-> Functional, stateless JavaScript finite state machines and statecharts
-
-#### XState Resources
-
-- [Xstate Concept](https://xstate.js.org/docs/about/concepts.html)
-- [XState Docs](https://xstate.js.org/docs/)
-
----
-
 ### Flux
 
 > Application Architecture for Building User Interfaces
@@ -1269,8 +1239,10 @@ A collection of awesome things regarding React ecosystem.
 
 #### [reactjsvideos.com](https://www.reactjsvideos.com)
 
-#### Video from Confs
+#### Important Talks
 
+- [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
+- [Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
 - [Tom Occhino and Jordan Walke: JS Apps at Facebook - JSConfUS 2013](https://www.youtube.com/watch?v=GW0rj4sNH2w)
 - [Pete Hunt: High performance functional programming with React and Meteor -- Devshop 11](https://www.youtube.com/watch?v=qqVbr_LaCIo)
 - [Stoyan Stefanov: Introduction to React - LAWebSpeed meetup](https://www.youtube.com/watch?v=SMMRJif5QW0)
@@ -1424,9 +1396,5 @@ Remember this is an **awesome** list. To be included here, apps should be:
 ### Contribution
 
 This list started as personal collecton of interesting things about React. At the time it started React was in beta, there was special script to convert JSX to JS and even Flux was not yet published. React is mainstream now, lots of things happened. Please, do not try to use this list as advertisement board or place for your experiments. Only free resources here. Your contributions and suggestions are heartily♡ welcome, though. (✿◠‿◠)
-
----
-
-### License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
