@@ -9,7 +9,6 @@ A collection of awesome things regarding React ecosystem.
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
     - [React and TypeScript](#react-and-typescript)
-    - [Prerendering aka snapshotting](#prerendering-aka-snapshotting)
     - [Compiling React Tutorials](#compiling-react-tutorials)
     - [Debugging React](#debugging-react)
     - [React Performance](#react-performance)
@@ -134,16 +133,6 @@ A collection of awesome things regarding React ecosystem.
 
 - [TypeScript, React and Webpack](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html)
 - [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
-
-##### Server Side rendering
-
-- [Server Side Rendering with Simple Redux Store Hydration](https://medium.com/@navgarcha7891/react-server-side-rendering-with-simple-redux-store-hydration-9f77ab66900a)
-
-##### Prerendering aka snapshotting
-
-- [react-snap](https://github.com/stereobooster/react-snap)
-- [Prerendering solutions comparison](https://github.com/stereobooster/react-snap/blob/master/doc/alternatives.md)
-- [Rendora - dynamic SSR server-side rendering using headless Chrome to effortlessly solve the SEO problem for modern javascript websites](https://github.com/rendora/rendora)
 
 ##### Compiling React Tutorials
 
@@ -584,6 +573,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-helmet - A document head manager for React](https://github.com/nfl/react-helmet)
 - [Stator - Simple, plain JavaScript state management with built-in support for React](https://github.com/cs01/stator)
 - [ClearX - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibiility in separation of concerns for your React applicationss](https://github.com/Autodesk/clearx)
+- [react-snap](https://github.com/stereobooster/react-snap) - Zero-configuration framework-agnostic static prerendering for SPAs
 
 ##### React Integration
 
