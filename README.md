@@ -9,8 +9,6 @@ A collection of awesome things regarding React ecosystem.
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
     - [React and TypeScript](#react-and-typescript)
-    - [Server-Client with React](#server-client-with-react)
-    - [Server Side Rendering](#server-side-rendering)
     - [Prerendering aka snapshotting](#prerendering-aka-snapshotting)
     - [Compiling React Tutorials](#compiling-react-tutorials)
     - [Debugging React](#debugging-react)
@@ -127,6 +125,7 @@ A collection of awesome things regarding React ecosystem.
 ##### React General Tutorials
 
 - [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+- [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
 - [React cheatsheet](https://devhints.io/react)
 - [Roadmap to becoming a React developer](https://github.com/adam-golab/react-developer-roadmap)
@@ -138,17 +137,6 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Server Side rendering
 
-- [Super-basic example of how server rendering works](https://github.com/petehunt/react-server-rendering-example)
-- [Server Side Rendering for ReactJS](http://yanns.github.io/blog/2014/03/15/server-side-rendering-for-javascript-reactjs-framework/)
-- [React Server Rendering](https://github.com/mhart/react-server-example)
-- [JDK8 + Facebook React: Rendering single page apps on the server](http://augustl.com/blog/2014/jdk8_react_rendering_on_server/)
-- [Server-rendered React components in Rails](http://bensmithett.com/server-rendered-react-components-in-rails/)
-- [Server-rendered React + Flux in Rails](https://github.com/nambrot/rails-webpack-react-flux)
-- [Golang Isomorphic Hot Reloadable/React/Flummox/Css-Module Starter Kit](https://github.com/olebedev/go-starter-kit)
-- [Serverside rendering with React + Hapi](https://github.com/jedireza/hapi-react-views)
-- [Isomorphic React apps in PHP via dnode](http://ericescalante.com/2015/06/07/isomorphic/)
-- [Server Side Redering, Universal JS, Hot Module Reloading and Code Splitting with React and Redux](https://github.com/Alex-ray/v2-universal-js-hmr-ssr-react-redux)
-- [React Server Side Rendering with Hypernova](https://blog.larah.me/2017/04/10/react-server-side-rendering/)
 - [Server Side Rendering with Simple Redux Store Hydration](https://medium.com/@navgarcha7891/react-server-side-rendering-with-simple-redux-store-hydration-9f77ab66900a)
 
 ##### Prerendering aka snapshotting
