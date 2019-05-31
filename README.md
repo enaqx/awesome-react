@@ -23,6 +23,7 @@ A collection of awesome things regarding React ecosystem.
     - [React Projects](#react-projects)
     - [React Component Libraries](#react-component-libraries)
     - [Components](#components)
+    - [React Testing Libraries](#react-testing-libraries)
     - [Animation Components](#animation-components)
     - [Libraries](#libraries)
     - [React Integration](#react-integration)
@@ -59,9 +60,6 @@ A collection of awesome things regarding React ecosystem.
   - [MobX General Resources](#mobx-general-resources)
   - [MobX Tools](#mobx-tools)
   - [MobX Tutorials](#mobx-tutorials)
-- [Testing](#testing)
-  - [Testing Utilities](#testing-utilities)
-  - [Testing Tutorials](#testing-tutorials)
 - [GraphQL](#graphql)
   - [GraphQL Spec](#graphql-spec)
   - [GraphQL Tools](#graphql-tools)
@@ -503,6 +501,13 @@ A collection of awesome things regarding React ecosystem.
 - [react-dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync)](https://github.com/flatlogic/react-dashboard)
 - [reactponsive - Responsive utils in all the flavors for your favorite framework](https://github.com/jmlweb/reactponsive)
 - [react-svg - A React component that injects SVG into the DOM](https://github.com/tanem/react-svg)
+
+#### React Testing Libraries
+
+- [Jest](https://jestjs.io/) - Delightful JavaScript Testing Framework
+- [Enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
+- [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
+- [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) - React hooks testing utilities that encourage good testing practices
 
 ##### Animation Components
 
@@ -981,26 +986,6 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 
-### Testing
-
-> React Testing
-
-#### Testing Utilities
-
-- [Jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
-- [enzyme - JavaScript Testing utilities for React](https://github.com/airbnb/enzyme)
-- [chai-immutable - Chai assertions for Facebook's Immutable library for JavaScript collections](https://github.com/astorije/chai-immutable)
-- [react-testing-library - React DOM testing utilities that encourage good testing practices](https://github.com/kentcdodds/react-testing-library)
-- [react-hooks-testing-library - React hooks testing utilities that encourage good testing practices](https://github.com/mpeyper/react-hooks-testing-library)
-
-##### Testing Tutorials
-
-- [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
-- [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
-- [The missing piece to the React testing puzzle](https://medium.com/@bruderstein/the-missing-piece-to-the-react-testing-puzzle-c51cd30df7a0)
-
----
-
 ### GraphQL
 
 > Query Language
@@ -1269,6 +1254,6 @@ A collection of awesome things regarding React ecosystem.
 
 ### Contribution
 
-This list started as personal collecton of interesting things about React. At the time it started React was in beta, there was special script to convert JSX to JS and even Flux was not yet published. React is mainstream now, lots of things happened. Please, do not try to use this list as advertisement board or place for your experiments. Only free resources here. Your contributions and suggestions are heartily♡ welcome, though. (✿◠‿◠)
+This list started as personal collecton of interesting things about React. At the time it started React was in beta, there was special script to trasnform JSX to JS and even Flux was not yet published. React is mainstream now, lots of things happened. Please, do not try to use this list as advertisement board or place for public push of your experiments. Only free resources here, please. Your contributions and suggestions are heartily♡ welcome, though. (✿◠‿◠)
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
