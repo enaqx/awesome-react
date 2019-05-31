@@ -1247,12 +1247,6 @@ A collection of awesome things regarding React ecosystem.
 
 ### Real apps
 
-Remember this is an **awesome** list. To be included here, apps should be:
-
-- Tracking the latest releases of React.
-- Actively maintained.
-- Have significant user base.
-
 - [Firefox debugger](https://github.com/devtools-html/debugger.html)
 - [Remote Retro – Agile retrospectives for distributed teams](https://github.com/stride-nyc/remote_retro)
 - [Spectrum – Simple, powerful online communities](https://github.com/withspectrum/spectrum)
