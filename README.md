@@ -45,7 +45,8 @@ A collection of awesome things regarding React ecosystem.
   - [React Native Sample Apps](#react-native-sample-apps)
   - [React Native Boilerplates](#react-native-boilerplates)
   - [React Native Awesome Components](#react-native-awesome-components)
-- [React AR/VR](#react-ar/vr)
+- [React AR/VR](#react-arvr)
+- [ReasonReact](#reasonreact)
 - [Flux](#flux)
   - [Flux General Resources](#flux-general-resources)
   - [Flux Implementations](#flux-implementations)
@@ -681,7 +682,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Data Managing
 
-- [Immutable.js - Immutable Data Collections for Javascript](https://github.com/facebook/immutable-js)
+- [Immutable.js - Immutable Data Collections for Javascript](https://github.com/immutable-js/immutable-js)
 - [cortex - A javascript library for centrally managing data with React](https://github.com/mquan/cortex)
 - [avers - A modern client-side model abstraction library](https://github.com/wereHamster/avers)
 - [imvvm - Immutable Model-View-ViewModel for React](https://github.com/entrendipity/imvvm)
@@ -840,6 +841,12 @@ A collection of awesome things regarding React ecosystem.
 - [Viro React](https://viromedia.com/viroreact/) - Platform for rapidly building AR/VR applications using React Native
 
 ---
+
+### ReasonReact
+
+> Reason bindings for ReactJS
+
+- [ReasonReact Official Website](https://reasonml.github.io/reason-react/)
 
 ### Flux
 
