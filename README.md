@@ -19,7 +19,7 @@ A collection of awesome things regarding React ecosystem.
     - [React Frameworks](#react-frameworks)
     - [Boilerplates](#boilerplates)
     - [React Styling](#react-styling)
-    - [Routing](#routing)
+    - [Reatc Routing](#react-routing)
     - [React Projects](#react-projects)
     - [React Component Libraries](#react-component-libraries)
     - [Components](#components)
@@ -229,16 +229,13 @@ A collection of awesome things regarding React ecosystem.
 - [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 - [CSS in JS Playground](https://css-in-js-playground.com)
 
-##### Routing
+##### React Routing
 
-- [react-router - A complete routing library for React](https://github.com/ReactTraining/react-router)
-- [react-router5 - A routing library for React and more](http://router5.github.io/docs/with-react.html#/inbox)
-- [buttermilk - beautifully simple routing for React projects](https://github.com/probablyup/buttermilk)
-- [pagify-it - Add routing to your React app in minutes](https://github.com/sonaye/pagify-it)
-- [reach-router - Next Generation Routing for React](https://github.com/reach/router)
-- [curi - JavaScript router for SPA](https://curi.js.org/)
-- [navi - Declarative, asynchronous routing for React. Supports hooks, suspense & static rendering.](https://github.com/frontarm/navi)
-- [react-use-path - The tiniest hook style react router.](https://github.com/zhangkaiyulw/react-use-path)
+- [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
+- [reach-router](https://github.com/reach/router) - Next Generation Routing for React
+- [react-router5](https://github.com/router5/router5) - Flexible and powerful universal routing solution
+- [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
+- [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
 
 ##### React Projects
 
@@ -572,8 +569,6 @@ A collection of awesome things regarding React ecosystem.
 - [Express Coffee-React views - render coffee-react on the server](https://github.com/duereg/express-coffee-react-views)
 - [React Page Middleware](https://github.com/reactjs/react-page-middleware)
 - [ngReact - React Components in Angular](https://github.com/davidchang/ngReact)
-- [React Python](https://github.com/reactjs/react-python)
-- [React PHP](https://github.com/reactjs/react-php-v8js)
 - [React Laravel](https://github.com/talyssonoc/react-laravel)
 - [coffee-react-transform - Provides React JSX support for Coffeescript](https://github.com/jsdf/coffee-react-transform)
 - [sprockets-coffee-react - Sprockets preprocessor for CJSX](https://github.com/jsdf/sprockets-coffee-react)
