@@ -44,7 +44,8 @@ A collection of awesome things regarding React ecosystem.
   - [React Native Developer Experience](#react-native-developer-experience)
   - [React Native Sample Apps](#react-native-sample-apps)
   - [React Native Boilerplates](#react-native-boilerplates)
-  - [React Native Awesome Components](#react-native-awesome-components)s
+  - [React Native Awesome Components](#react-native-awesome-components)
+- [React AR/VR](#react-ar/vr)
 - [Flux](#flux)
   - [Flux General Resources](#flux-general-resources)
   - [Flux Implementations](#flux-implementations)
@@ -818,6 +819,8 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Native Awesome Components
 
+- [Expo](https://expo.io/) - The Expo platform for making cross-platform mobile apps
+- [react-navigation](https://reactnavigation.org/) - Routing and navigation for your React Native apps
 - [react-native-social-share - Use the iOS and Android native Twitter and Facebook share popup with React Native](https://github.com/doefler/react-native-social-share)
 - [react-native-fbsdk - A wrapper around the iOS Facebook SDK](https://github.com/facebook/react-native-fbsdk)
 - [react-native-side-menu - Simple customizable component to create side menu](https://github.com/Kureev/react-native-side-menu)
@@ -829,9 +832,12 @@ A collection of awesome things regarding React ecosystem.
 
 ---
 
-### JSX
+### React AR/VR
 
-> XML-Like Syntax Extension to EcmaScript
+> Usage of React for Augmented and Virtual Reality
+
+- [React 360](https://facebook.github.io/react-360/) - Create exciting 360 and VR experiences using React
+- [Viro React](https://viromedia.com/viroreact/) - Platform for rapidly building AR/VR applications using React Native
 
 ---
 
