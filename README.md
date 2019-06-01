@@ -10,16 +10,13 @@ A collection of awesome things regarding React ecosystem.
     - [React General Tutorials](#react-general-tutorials)
     - [React and TypeScript](#react-and-typescript)
     - [React Performance](#react-performance)
-    - [Authentication](#authentication)
-    - [Authorization](#authorization)
-    - [File Uploads](#file-uploads)
     - [React Internals](#react-internals)
   - [React Tools](#react-tools)
     - [React Development Tools](#react-development-tools)
     - [React Frameworks](#react-frameworks)
     - [Boilerplates](#boilerplates)
     - [React Styling](#react-styling)
-    - [Reatc Routing](#react-routing)
+    - [React Routing](#react-routing)
     - [React Projects](#react-projects)
     - [React Component Libraries](#react-component-libraries)
     - [Components](#components)
@@ -29,7 +26,6 @@ A collection of awesome things regarding React ecosystem.
     - [React Integration](#react-integration)
     - [Forms](#forms)
     - [Autocomplete](#autocomplete)
-    - [Documentation Tools](#documentation-tools)
     - [Graphics](#graphics)
     - [Model Libraries](#model-libraries)
     - [Data Managing](#data-managing)
@@ -122,11 +118,11 @@ A collection of awesome things regarding React ecosystem.
 ##### React General Tutorials
 
 - [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
 - [React cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
-- [Roadmap to becoming a React developer](https://github.com/adam-golab/react-developer-roadmap)
 
 ##### React and TypeScript
 
@@ -135,29 +131,18 @@ A collection of awesome things regarding React ecosystem.
 
 ##### React Performance
 
+- [Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
 - [Introducing the React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
 - [React Performance – A Definitive Guide to Optimize Major Performance issues in React](https://www.simform.com/react-performance/)
-- [Why did you update](https://github.com/maicki/why-did-you-update)
 - [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [Using the React DevTools Profiler to Diagnose React App Performance Issues](https://www.netlify.com/blog/2018/08/29/using-the-react-devtools-profiler-to-diagnose-react-app-performance-issues/)
 - [Top 5 Practices to Boost React Performance](https://www.codementor.io/blizzerand/top-5-practices-to-boost-react-performance-jv6zr89ep)
 - [React is Slow, React is Fast: Optimizing react Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
 
-##### Authentication
-
-- [Adding authentication to your React Flux app](https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/)
-- [Build a React Application with User Authentication](https://stormpath.com/blog/build-a-react-app-with-user-authentication/)
-
-##### Authorization
-
-- [Managing user permissions in your React app](https://medium.com/dailyjs/managing-user-permissions-in-your-react-app-a93a94ff9b40)
-
-##### File Uploads
-
-- [Direct uploads to S3 with React, Rails, and Paperclip](http://blog.littleblimp.com/post/119230396893/direct-uploads-to-s3-with-react-rails-and)
-
 ##### React Internals
 
+- [Reconciliation](https://reactjs.org/docs/reconciliation.html)
+- [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 - [Build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 
 #### React Tools
@@ -340,7 +325,6 @@ A collection of awesome things regarding React ecosystem.
 - [react-scroll-components - A set of components that react to page scrolling](https://github.com/jeroencoumans/react-scroll-components)
 - [react-fullscreen-component - Create fullscreen toggles](https://github.com/jeroencoumans/react-fullscreen-component)
 - [react-frozenhead - Make your whole page a React component and render it on the server](https://github.com/matthewwithanm/react-frozenhead)
-- [react-document-title - declarative, nested, stateful document.title](https://github.com/gaearon/react-document-title)
 - [react-tags - A simple wrapper around React.DOM](https://github.com/adelevie/react-tags)
 - [react-datepicker by @y0c - React DatePicker Library (Flexible, Reusable)](https://github.com/y0c/react-datepicker)
 - [react-datepicker by @misino - Datepicker component for application using Facebook React](https://github.com/misino/react-datepicker)
@@ -352,6 +336,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-ellipsis - Ellipsis component for React](https://github.com/guillaumervls/react-ellipsis)
 - [react-pillbox - Pillbox component for React](https://github.com/redbadger/react-pillbox)
 - [react-intl - React Internationalization Component](https://github.com/yahoo/react-intl)
+- [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
 - [react-tokeninput - Tokeninput component for React](https://github.com/instructure/react-tokeninput)
 - [react-select-box - An accessible select box component for React](https://github.com/instructure/react-select-box)
 - [react-ladda - React wrapper for Ladda buttons](https://github.com/jsdir/react-ladda)
@@ -663,12 +648,6 @@ A collection of awesome things regarding React ecosystem.
 - [downshift - 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components](https://github.com/paypal/downshift)
 - [React Bootstrap Typeahead - A React-based typeahead that relies on Bootstrap for styling and was originally inspired by Twitter's typeahead.js.](https://github.com/ericgio/react-bootstrap-typeahead)
 
-##### Documentation Tools
-
-- [react-docgen - Extract information from React component files for documentation generation](https://github.com/reactjs/react-docgen)
-- [react-styleguide-generator - Easily generate a good-looking styleguide](https://github.com/pocotan001/react-styleguide-generator)
-- [react-display-window - A simple tool to showcase react components](https://github.com/react-display-window/react-display-window)
-
 ##### Graphics
 
 - [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
@@ -788,7 +767,6 @@ A collection of awesome things regarding React ecosystem.
 #### React Native Tutorials
 
 - [React Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
-- [Building the F8 2016 App](http://makeitopen.com/)
 - [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 - [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
 - [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
@@ -942,6 +920,7 @@ A collection of awesome things regarding React ecosystem.
 - [R16N - A redux/react I18n solution](https://github.com/razodeh/r16n/)
 - [redux-actiontyper - Helper to create less verbose action types for Redux](https://github.com/alnorris/redux-actiontyper)
 - [redux-state-validator - A simple redux middleware to validate redux state values and object types using JSON Schema](https://github.com/suyesh/redux-state-validator)
+- [redux-persist](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a redux store
 
 #### Redux Tutorials
 
@@ -1036,7 +1015,7 @@ A collection of awesome things regarding React ecosystem.
 
 #### Database Integration
 
-- [Hasura - Build scalable GraphQL applications on Postgres in minutes. Create tables and relationships and get GraphQL APIs instantly with fine grained permissions and access control.](https://hasura.io/)
+- [Hasura](https://hasura.io/) - Instant Realtime GraphQL on Postgres
 - [Prisma - a performant open-source GraphQL ORM-like \* layer doing the heavy lifting in your GraphQL server.](https://www.prisma.io/)
 - [graphql-bookshelf - Some help defining GraphQL schema around BookshelfJS models](https://github.com/brysgo/graphql-bookshelf)
 - [GraphpostgresQL - GraphQL for **PostgreSQL**](https://github.com/solidsnack/GraphpostgresQL)
