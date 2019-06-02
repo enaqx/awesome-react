@@ -16,9 +16,9 @@ A collection of awesome things regarding React ecosystem.
     - [React Frameworks](#react-frameworks)
     - [React Styling](#react-styling)
     - [React Routing](#react-routing)
-    - [React Projects](#react-projects)
     - [React Component Libraries](#react-component-libraries)
     - [Components](#components)
+    - [React for Command Line](#react-for-command-line)
     - [React Testing Libraries](#react-testing-libraries)
     - [Animation Components](#animation-components)
     - [Libraries](#libraries)
@@ -94,10 +94,9 @@ A collection of awesome things regarding React ecosystem.
 
 #### React General Resources
 
-- [React Official Website](http://facebook.github.io/react/)
+- [React Official Website](https://reactjs.org/)
 - [React Documentation](https://reactjs.org/docs)
 - [React GitHub](https://github.com/facebook/react)
-- [React Community GitHub](https://github.com/reactjs)
 
 #### React Community
 
@@ -178,14 +177,6 @@ A collection of awesome things regarding React ecosystem.
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
-
-##### React Projects
-
-- [react-blessed - A react renderer for blessed terminal interface library](https://github.com/Yomguithereal/react-blessed)
-- [MJML - The only framework that makes responsive-email easy. Based on React](https://mjml.io)
-- [react-tv - React renderer for low memory applications and Packager for TVs](https://github.com/raphamorim/react-tv)
-- [ink - React for interactive command-line apps](https://github.com/vadimdemedes/ink)
-- [react-cli - a react renderer for the command line](https://github.com/mgrip/react-cli)
 
 ##### React Component Libraries
 
@@ -442,6 +433,11 @@ A collection of awesome things regarding React ecosystem.
 - [react-dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync)](https://github.com/flatlogic/react-dashboard)
 - [reactponsive - Responsive utils in all the flavors for your favorite framework](https://github.com/jmlweb/reactponsive)
 - [react-svg - A React component that injects SVG into the DOM](https://github.com/tanem/react-svg)
+
+##### React for Command Line
+
+- [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+- [react-blessed](https://github.com/Yomguithereal/react-blessed) - A React renderer for blessed terminal interface library
 
 #### React Testing Libraries
 
