@@ -29,7 +29,6 @@ A collection of awesome things regarding React ecosystem.
     - [Graphics](#graphics)
     - [Model Libraries](#model-libraries)
     - [Data Managing](#data-managing)
-    - [React Developer Experience](#react-developer-experience)
     - [Template Engines](#template-engines)
     - [Maps](#maps)
     - [Charts](#charts)
@@ -103,7 +102,7 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Community
 
-- [Reactiflux](http://www.reactiflux.com/)
+- [Reactiflux Discord Channel](http://www.reactiflux.com/)
 - [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 - [React Twitter](https://twitter.com/reactjs)
 
@@ -121,7 +120,7 @@ A collection of awesome things regarding React ecosystem.
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
-- [React cheatsheet](https://devhints.io/react)
+- [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
 
 ##### React and TypeScript
@@ -133,7 +132,7 @@ A collection of awesome things regarding React ecosystem.
 
 - [Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
 - [Introducing the React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
-- [React Performance – A Definitive Guide to Optimize Major Performance issues in React](https://www.simform.com/react-performance/)
+- [A Definitive Guide to Optimize Major Performance issues in React](https://www.simform.com/react-performance/)
 - [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [Using the React DevTools Profiler to Diagnose React App Performance Issues](https://www.netlify.com/blog/2018/08/29/using-the-react-devtools-profiler-to-diagnose-react-app-performance-issues/)
 - [Top 5 Practices to Boost React Performance](https://www.codementor.io/blizzerand/top-5-practices-to-boost-react-performance-jv6zr89ep)
@@ -152,10 +151,14 @@ A collection of awesome things regarding React ecosystem.
 - [Create React App](https://facebook.github.io/create-react-app/) - Set up a modern web app by running one command
 - [React Developer Tools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools
 - [React Hot Loader](https://gaearon.github.io/react-hot-loader/) - Tweak React components in real time
-- [Reactotron(https://github.com/skellock/reactotron) - A desktop app for inspecting your React JS and React Native projects
 - [Babel](https://babeljs.io/) - Babel is a JavaScript compiler
-- [Webpack](https://webpack.js.org/) - A bundler for javascript and friends
+- [Webpack](https://webpack.js.org/) - A bundler for JavaScript and friends
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
+- [Reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React JS and React Native projects
+- [Storybook](https://github.com/storybookjs/storybook) - UI component dev & test
+- [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide
+- [React Cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
+- [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 
 ##### React Frameworks
 
@@ -474,7 +477,6 @@ A collection of awesome things regarding React ecosystem.
 - [react-loadable - A higher order component for loading components with promises.](https://github.com/jamiebuilds/react-loadable)
 - [unstated - State so simple, it goes without saying](https://github.com/jamiebuilds/unstated)
 - [react-particles-js - Particles.js for React](https://github.com/Wufe/react-particles-js)
-- [react-semantic-render - Semantic helper components for rendering content with React.](https://github.com/csvenke/react-semantic-render)
 - [react-location-picker - A react component to pick a location using google maps.](https://github.com/rameshsyn/react-location-picker)
 - [cogo-toast - Beautiful, Zero Configuration, Toast Messages](https://github.com/Cogoport/cogo-toast)
 - [folio - Dynamic Form Built With React & CSS Grid layout](https://github.com/jalal246/folio)
@@ -585,8 +587,6 @@ A collection of awesome things regarding React ecosystem.
 - [react-jade - Compile Jade to React JavaScript](https://github.com/ForbesLindesay/react-jade)
 - [jade-react - Compile Jade templates to React.DOM expressions](https://github.com/duncanbeevers/jade-react)
 - [gulp-jade-react - Compile Jade templates into React de-sugared JSX with Gulp](https://github.com/duncanbeevers/gulp-jade-react)
-- [react-semantic-ui - React components for Semantic UI](https://github.com/jhudson8/react-semantic-ui)
-- [semantic-react - React wrappers for Semantic UI](https://github.com/DveMac/semantic-react)
 - [sbt-reactjs - React SBT Plugin using npm](https://github.com/ddispaltro/sbt-reactjs)
 - [scalajs-react - A guilty affair between Scala.js and Facebook's React](https://github.com/japgolly/scalajs-react)
 - [react-xtags - Using React to implement xtags](https://github.com/vjeux/react-xtags/)
@@ -634,7 +634,6 @@ A collection of awesome things regarding React ecosystem.
 - [List View Select - A Toggleable select box for React Native with native components](https://github.com/JamesWatling/react-native-list-view-select)
 - [Final Form 🏁](https://github.com/final-form/react-final-form)
 - [formland - A simple, super-flexible, extensible config based form generator](https://github.com/indix/formland)
-- [ez-react-form - simple form syntax. Works with multiple Style Frameworks like: Bootstrap, Semantic UI, etc.](https://github.com/ngduc/ez-react-form)
 - [react-reactive-form - Angular like reactive forms in React](https://github.com/bietkul/react-reactive-form)
 - [unform - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!](https://github.com/Rocketseat/unform)
 
@@ -690,29 +689,6 @@ A collection of awesome things regarding React ecosystem.
 - [WatermelonDB - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast](https://github.com/Nozbe/WatermelonDB)
 - [Effector — Fast and powerful reactive state manager. Lets you write simple, fast and type safe code and manage reactive state with ease.](https://github.com/zerobias/effector)
 - [reactn - React, but with built-in global state management](https://github.com/CharlesStover/reactn)
-
-##### React Developer Experience
-
-- [react-transform-hmr - A React Transform that enables hot reloading React](https://github.com/gaearon/react-transform-hmr)
-- [Nuclide - An open IDE for web and native mobile development, built on top of Atom](http://nuclide.io/)
-- [babel-sublime - Syntax definitions for ES6 JavaScript with React JSX extensions](https://github.com/babel/babel-sublime)
-- [babel-sublime-snippets - Next generation JavaScript and React snippets for Sublime](https://github.com/babel/babel-sublime-snippets)
-- [atom-react - Atom React.js support](https://atom.io/packages/react)
-- [vim-jsx - Vim JSX Syntax](https://github.com/mxw/vim-jsx)
-- [vim-react-snippets - Vim version of the snippets from sublime-react](https://github.com/justinj/vim-react-snippets)
-- [vim-babel - Wrapper around babel.js for vim](https://github.com/jbgutierrez/vim-babel)
-- [web-mode.el - An autonomous emacs major-mode for editing web templates](http://web-mode.org/)
-- [eslint-plugin-react - React specific linting rules for ESLint](https://github.com/yannickcr/eslint-plugin-react)
-- [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
-- [generator-react-gulp-browserify - Yeoman generator for React](https://github.com/randylien/generator-react-gulp-browserify)
-- [generator-reactapp - Yeoman generator for react app with redux, webpack, gulp and restful.js etc.](https://github.com/Jackong/generator-reactapp)
-- [static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
-- [Storybook - Development environment for UI components](https://github.com/storybooks/storybook)
-- [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide
-- [React Cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
-- [generator-sui-react - A yeoman generator for Schibsted User Interface (SUI) ReactJS components](https://github.com/SUI-Components/generator-sui-react)
-- [Racket - A yeoman generator for creating a universal react/redux web application](https://github.com/mohebifar/racket)
-- [Docz - An incredible environment to build components and generate beautiful and highly customizable documentation using MDX](https://github.com/pedronauck/docz)
 
 ##### Template Engines
 
