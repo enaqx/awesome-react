@@ -115,6 +115,7 @@ A collection of awesome things regarding React ecosystem.
 ##### React General Tutorials
 
 - [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
@@ -128,8 +129,9 @@ A collection of awesome things regarding React ecosystem.
 
 ##### React Performance
 
-- [Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
+- [React Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
 - [Introducing the React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
+- [Optimizing React: Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained)
 - [A Definitive Guide to Optimize Major Performance issues in React](https://www.simform.com/react-performance/)
 - [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [Using the React DevTools Profiler to Diagnose React App Performance Issues](https://www.netlify.com/blog/2018/08/29/using-the-react-devtools-profiler-to-diagnose-react-app-performance-issues/)
@@ -141,6 +143,7 @@ A collection of awesome things regarding React ecosystem.
 - [Reconciliation](https://reactjs.org/docs/reconciliation.html)
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 - [Build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
+- [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
 
 #### React Tools
 
@@ -1014,36 +1017,19 @@ A collection of awesome things regarding React ecosystem.
 - [Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
 - [Tom Occhino and Jordan Walke: JS Apps at Facebook - JSConfUS 2013](https://www.youtube.com/watch?v=GW0rj4sNH2w)
 - [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
-- [Stoyan Stefanov: Introduction to React - LAWebSpeed meetup](https://www.youtube.com/watch?v=SMMRJif5QW0)
 - [Pete Hunt: Be Predictable, Not Correct - Mountain West JavaScript 2014](https://www.youtube.com/watch?v=h3KksH8gfcQ)
-- [Pete Hunt: The Secrets of React's Virtual DOM - FutureJS 2014](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 - [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw)
 - [Christopher Chedeau: Why does React Scale? - JSConf2014](https://www.youtube.com/watch?v=D-ioDiacTm8)
 - [Christopher Chedeau: React's Architecture - OSCON 2014](https://www.youtube.com/watch?v=eCf5CquV_Bw)
 - [Pete Hunt: React RESTful UI Rendering - Strange Loop 2014](https://www.youtube.com/watch?v=IVvHPPcl2TM)
-- [Stefano Masini: Refactoring to React - Amsterdam Javascript MVC meetup 10 sep 2014](https://www.youtube.com/watch?v=MivXyEtwK24)
 - [Pete Hunt: How Instagram.com Works - OSCON 2014](https://www.youtube.com/watch?v=VkTCL6Nqm6Y)
 - [Bill Fisher and Jing Chen: React and Flux - NewCircle Training 2014](https://www.youtube.com/watch?v=i__969noyAM)
-- [Vagmi Mudumbai: Building single page apps with React.JS - JSFoo 2014](https://www.youtube.com/watch?v=-v9MehRHsNE)
-- [Ben Anderson: Reactive, Component-based UIs with React - E4E Developer Conf 2014](https://www.youtube.com/watch?v=uwnjDXtJufs)
 - [Sebastian Markbage: Minimal API Surface Area - JSConf EU 2014](https://www.youtube.com/watch?v=4anAwXYqLG8)
-- [Pete Hunt, Aaron Murray, and Contra Schof: Facebook React at the Famo.us Meetup 8/13/14](https://www.youtube.com/watch?v=1tWCnNgNZm4)
-- [Steven Luscher: Decomplexifying Code with React - Powered by JavaScript conf 2014](https://www.youtube.com/watch?v=rI0GQc__0SM)
-- [James Pearce: An Introduction to ReactJS - All Things Open 2014](https://www.youtube.com/watch?v=m2fuO2wl_3c)
 - [Avik Chaudhuri: JavaScript Testing and Static Type Systems at Scale - Scale 2014](https://www.youtube.com/watch?v=M8x0bc81smU)
-- [Jonathan Beebe: Real World React - Nodevember 2014](https://www.youtube.com/watch?v=uZgAq1CZ1N8)
-- [Pete Hunt: Secrets of the Virtual DOM - JSConf.au 2014](https://www.youtube.com/watch?v=a21b-KDHG-Q)
-- [Dave Smith: Angular + React = Speed - ng-conf 2015](https://www.youtube.com/watch?v=XQM0K6YG18s)
-- [Ilya Boyandin: Interactive Data Visualization with React: Taming the Complexity of Changing State - OpenVis 2015](https://www.youtube.com/watch?v=dcLrbiHIX5M)
 - [React Native & Relay: Bringing Modern Web Techniques to Mobile - f8 2015)](https://www.youtube.com/watch?v=X6YbAKiLCLU)
-- [Flux: A Unidirectional Data Flow Architecture for React Apps - ACM Applicative 2015](https://www.youtube.com/watch?v=N3tF7jtbKZY)
-- [Michael Chan: React.js on Rails](https://www.youtube.com/watch?v=kTSsZrub5iE)
-- [What's new in React Native](https://www.youtube.com/watch?v=oWPoW0gIzvs)
-- [Building and Deploying Relay with Facebook](https://www.youtube.com/watch?v=Pxdgu2XIAAg)
-- [Supercharge your React.js Development with Taylor Hakes](https://www.youtube.com/watch?v=yYcS9E4yRqw)
 - [Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock](https://www.youtube.com/watch?v=LQFQl8EsV3k)
 - [Laney Kuenzel: Mutations and Subscriptions in Relay - JSConf 2015](https://www.youtube.com/watch?v=mmke4w4gc6c)
-- [Pete Hunt: Immediate Mode UIs with React - SFJS Meetup 2015](https://www.youtube.com/watch?v=Y4q34vpFO2M)
+- [React Today and Tomorrow and 90% Cleaner React With Hooks - React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 
 - [React Conferences](https://reactjs.org/community/conferences.html)
 - [React Videos](https://reactjs.org/community/videos.html)
