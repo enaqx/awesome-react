@@ -17,7 +17,7 @@ A collection of awesome things regarding React ecosystem.
     - [React Styling](#react-styling)
     - [React Routing](#react-routing)
     - [React Component Libraries](#react-component-libraries)
-    - [Components](#components)
+    - [React Awesome Components](#react-awesome-components)
     - [React for Command Line](#react-for-command-line)
     - [React Testing Libraries](#react-testing-libraries)
     - [Animation Components](#animation-components)
@@ -70,8 +70,7 @@ A collection of awesome things regarding React ecosystem.
 - [Flow](#flow)
   - [Flow Resources](#flow-resources)
 - [Videos](#videos)
-  - [Indexed react.js conference videos](#reactjsvideos)
-  - [Video from Confs](#video-from-confs)
+  - [Important Talks](#important-talks)
   - [React.js Conf 2015 Playlist](#reactjs-conf-2015-playlist)
   - [ReactEurope Conf 2015 Day 1 Playlist](#reacteurope-conf-2015-day-1-playlist)
   - [ReactEurope Conf 2015 Day 2 Playlist](#reacteurope-conf-2015-day-2-playlist)
@@ -184,39 +183,16 @@ A collection of awesome things regarding React ecosystem.
 ##### React Component Libraries
 
 - [Material UI](https://material-ui.com/)
+- [Ant Design](https://ant.design/)
+- [Blueprint](https://github.com/palantir/blueprint)
+- [Fabric React](https://github.com/OfficeDev/office-ui-fabric-react)
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [Semantic UI React](https://react.semantic-ui.com/)
-- [Base Web React Components](https://baseweb.design/)
 
-##### Components
+##### React Awesome Components
 
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Calendar component
-- [Essential JS 2 for React - Over 60 high-performance, lightweight, modular, and responsive UI components.](https://www.syncfusion.com/react-ui-components)
-- [KendoReact - UI for React Developers](https://www.telerik.com/kendo-react-ui/)
-- [React Material Web Components - The most performant, un-opinionated, and simple implementation of Material Design in React.](https://jamesmfriedman.github.io/rmwc/)
-- [@jpmonette/react-bulma - React components for Bulma - the Modern CSS framework](https://github.com/jpmonette/react-bulma)
-- [DevExtreme React Grid - High-performance plugin-based React data grid for Bootstrap and Material Design](https://devexpress.github.io/devextreme-reactive/react/grid/)
-- [React Svg Textures - Textures.js ported to React. Fully isomorphic.](https://github.com/finnfiddle/react-svg-textures)
-- [React Responsive Tables](https://github.com/adam-hanna/react-responsive-tables)
-- [React Component List](http://dvemac.github.io/react-component-list/)
-- [JS.coach - A catalog of React components](https://js.coach/)
-- [iReact: Fantastic React Components and Libraries!](http://ireact.cn/)
-- [Khan Academy React Components](http://khan.github.io/react-components/)
-- [VistarMedia Components](http://cmpnt.vistarmedia.com/)
-- [React Topcoat UI components](https://github.com/kjda/react-topui)
-- [react-material - Material design components written with React.js and React Style](https://github.com/SanderSpies/react-material)
-- [react-materialize - Material design for React, powered by Materialize](https://github.com/react-materialize/react-materialize)
-- [react-md - Set of React components and sass files for implementing Google's Material Design](https://github.com/mlaursen/react-md)
-- [material-ui - A CSS Framework and a Set of React Components for Material Design](https://github.com/callemall/material-ui)
-- [ReactSymbols - Pixel perfect UI Kit / Library with ready-to-use components + original Sketch resource file](http://reactsymbols.com)
-- [react-google-login-component](https://github.com/kennetpostigo/react-google-login-component)
-- [react-facebook-login-component](https://github.com/kennetpostigo/react-facebook-login-component)
-- [react-component - A Collection of React UI Components](http://react-component.github.io/badgeboard/)
-- [Ant Design - An enterprise-class UI design language, A set of high-quality React components](https://github.com/ant-design/ant-design)
-- [Zent - A collection of React UI components](https://github.com/youzan/zent)
-- [UXCore - A React UI Component Set living for enterprise backend application](https://github.com/uxcore/uxcore)
-- [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 - [react-aim - Determine the cursor aim for triggering mouse events](https://github.com/gabrielbull/react-aim)
 - [react-uwp - React Components that Implement Microsoft's UWP Design & Fluent Design.](https://github.com/myxvisual/react-uwp)
 - [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
@@ -501,6 +477,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-snap](https://github.com/stereobooster/react-snap) - Zero-configuration framework-agnostic static prerendering for SPAs
 - [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
 - [refract](https://github.com/fanduel-oss/refract) - Harness the power of reactive programming to supercharge your components
+- [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 
 ##### React Integration
 
