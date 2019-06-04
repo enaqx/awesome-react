@@ -28,7 +28,6 @@ A collection of awesome things regarding React ecosystem.
     - [Graphics](#graphics)
     - [Model Libraries](#model-libraries)
     - [Data Managing](#data-managing)
-    - [Template Engines](#template-engines)
     - [Maps](#maps)
     - [Charts](#charts)
   - [Job Interview Tools](#job-interview-tools)
@@ -79,7 +78,6 @@ A collection of awesome things regarding React ecosystem.
   - [ReactRally Conf 2016 Playlist](#reactrally-conf-2016-playlist)
   - [Video Tutorials](#video-tutorials)
   - [React.js Amsterdam 2018 Playlist](#reactjs-amsterdam-2018-playlist)
-- [Free Books](#free-books)
 - [Demos](#demos)
 - [Example Apps](#example-apps)
 - [Real Apps](#real-apps)
@@ -193,18 +191,7 @@ A collection of awesome things regarding React ecosystem.
 
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Calendar component
-- [expose - A React mixin for lazy loading](https://github.com/dok/expose)
-- [react-loadqueueloader - A React component for managing loads with a load queue](https://github.com/hzdg/react-loadqueueloader)
-- [react-loadermixin - A React mixin for giving components loading behavior](https://github.com/hzdg/react-loadermixin)
-- [react-pressable - Add onRelease, onReleaseInside, onReleaseOutside, and onPress events](https://github.com/hzdg/react-pressable)
-- [react-google-analytics - Google analytics component](https://github.com/hzdg/react-google-analytics)
-- [react-layers - A library for layering components in React](https://github.com/pieterv/react-layers)
-- [react-layer-stack - Simple yet complete and agnostic layering system for React. Useful for windowing/dnd/popover/modals/tooltip applications](https://github.com/fckt/react-layer-stack)
-- [react-gcal-events-list - A Reusable component that pulls events from your google calendar](https://github.com/VinSpee/react-gcal-events-list)
-- [reactdi - Dependency injection for ReactJS components](https://github.com/hzdg/reactdi)
-- [qrcode.react - A <QRCode/> component for use with React](https://github.com/zpao/qrcode.react)
-- [react-swf - Shockwave Flash Player component for React](https://github.com/syranide/react-swf)
-- [react-unmount-listener-mixin - React mixin for listenable componentWillUnmount](https://github.com/syranide/react-unmount-listener-mixin)
+- [qrcode.react](https://github.com/zpao/qrcode.react) - A <QRCode/> component for use with React
 - [react-sortable - A sortable list component built \w React](https://github.com/danielstocks/react-sortable)
 - [react-anything-sortable - A sortable component with IE8 compatibility](https://github.com/jasonslyvia/react-anything-sortable)
 - [react-controllables - Easily create controllable components](https://github.com/matthewwithanm/react-controllables)
@@ -398,10 +385,6 @@ A collection of awesome things regarding React ecosystem.
 - [react-singular-component - Transition between dom elements of a component easily](https://github.com/dor6/react-singular-component)
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems
 
-##### Containers
-
-- [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
-
 ##### Libraries
 
 - [react-border-wrapper - A wrapper for placing elements along div borders in React.](https://github.com/Metroxe/react-border-wrapper)
@@ -439,6 +422,7 @@ A collection of awesome things regarding React ecosystem.
 - [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
 - [refract](https://github.com/fanduel-oss/refract) - Harness the power of reactive programming to supercharge your components
 - [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
+- [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
 
 ##### React Integration
 
@@ -580,12 +564,6 @@ A collection of awesome things regarding React ecosystem.
 - [WatermelonDB - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast](https://github.com/Nozbe/WatermelonDB)
 - [Effector — Fast and powerful reactive state manager. Lets you write simple, fast and type safe code and manage reactive state with ease.](https://github.com/zerobias/effector)
 - [reactn - React, but with built-in global state management](https://github.com/CharlesStover/reactn)
-
-##### Template Engines
-
-- [react-templates - Lightweight templates for React](https://github.com/wix/react-templates)
-- [teact - A JSX alternative based on composing functions in the Markaby / CoffeeKup / Teacup tradition](https://github.com/hurrymaplelad/teact)
-- [react-jsx-filter - JSX Filter template for React](https://github.com/chiaweilee/react-jsx-filter)
 
 ##### Maps
 
@@ -1009,13 +987,6 @@ A collection of awesome things regarding React ecosystem.
 - [React & Flux by: Christian Lilley](https://www.youtube.com/watch?v=mK4_a7u2cgI)
 - [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
 - [React Native in Arabic - Create a real app series](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS)
-
----
-
-### Free Books
-
-- [SurviveJS - Webpack and React](http://survivejs.com/)
-- [React in Patterns](https://krasimir.gitbooks.io/react-in-patterns/content/)s
 
 ---
 
