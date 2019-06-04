@@ -193,13 +193,6 @@ A collection of awesome things regarding React ecosystem.
 
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Calendar component
-- [react-aim - Determine the cursor aim for triggering mouse events](https://github.com/gabrielbull/react-aim)
-- [react-uwp - React Components that Implement Microsoft's UWP Design & Fluent Design.](https://github.com/myxvisual/react-uwp)
-- [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
-- [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
-- [react-grid - Data grid for React](https://github.com/prometheusresearch/react-grid)
-- [React-iCheck - iCheck components built with React. Highly customizable checkboxes and radio buttons](https://github.com/luqin/react-icheck)
-- [react-async - Async rendering for React components](https://github.com/andreypopp/react-async)
 - [react-async-input - Inputs that behave properly with async set{State,Props} calls](https://github.com/grncdr/react-async-input)
 - [react-countup - A React component wrapper around CountUp.js](https://github.com/glennreyes/react-countup)
 - [react-mediaswitch - Choose your DOM based on media queries](https://github.com/matthewwithanm/react-mediaswitch)
@@ -459,7 +452,6 @@ A collection of awesome things regarding React ecosystem.
 - [react-i13n - A performant, scalable and pluggable approach to instrumenting your React application](https://github.com/yahoo/react-i13n)
 - [react-icons - svg react icons of popular icon packs](https://github.com/gorangajic/react-icons)
 - [Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc...](https://github.com/Wildhoney/Keo)
-- [Blueprint - A React-based UI toolkit for the web](https://github.com/palantir/blueprint)
 - [Bit - A virtual repository for managing and using react and other web components across applications](https://github.com/teambit/bit)
 - [AtlasKit - Atlassian's React UI library](https://atlaskit.atlassian.com/)
 - [ReactiveSearch - UI components library for Elasticsearch](https://github.com/appbaseio/reactivesearch)
