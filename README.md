@@ -12,6 +12,7 @@ A collection of awesome things regarding React ecosystem.
     - [React and TypeScript](#react-and-typescript)
     - [React Performance](#react-performance)
     - [React Internals](#react-internals)
+    - [React Interview Questions]()
   - [React Tools](#react-tools)
     - [React Development Tools](#react-development-tools)
     - [React Frameworks](#react-frameworks)
@@ -31,7 +32,6 @@ A collection of awesome things regarding React ecosystem.
     - [Data Managing](#data-managing)
     - [Maps](#maps)
     - [Charts](#charts)
-  - [Job Interview Tools](#job-interview-tools)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
   - [React Native Community](#react-native-community)
@@ -116,6 +116,7 @@ A collection of awesome things regarding React ecosystem.
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
+- [freeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
 
@@ -149,6 +150,11 @@ A collection of awesome things regarding React ecosystem.
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 - [Build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 - [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
+
+##### React Interview Questions
+
+- [13 Essential React Interview Questions](https://www.toptal.com/react/interview-questions)
+- [List of React interview Questions and Answers](https://github.com/sudheerj/reactjs-interview-questions)
 
 #### React Tools
 
@@ -188,44 +194,27 @@ A collection of awesome things regarding React ecosystem.
 
 ##### React Component Libraries
 
-- [Material UI](https://material-ui.com/)
-- [Ant Design](https://ant.design/)
-- [Blueprint](https://github.com/palantir/blueprint)
-- [Fabric React](https://github.com/OfficeDev/office-ui-fabric-react)
-- [React Bootstrap](https://react-bootstrap.github.io/)
-- [Semantic UI React](https://react.semantic-ui.com/)
+- [Material UI](https://material-ui.com/) - React components for faster and easier web development
+- [Ant Design](https://ant.design/) - A design system with values of Nature and Determinacy
+- [Blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the webs
+- [Fabric React](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences
+- [React Bootstrap](https://react-bootstrap.github.io/) - The most popular front-end framework
+  Rebuilt for React
+- [Semantic UI React](https://react.semantic-ui.com/) - The official Semantic-UI-React integration
 
 ##### React Awesome Components
 
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
-- [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Calendar component
-- [qrcode.react](https://github.com/zpao/qrcode.react) - A <QRCode/> component for use with React
-- [react-frozenhead - Make your whole page a React component and render it on the server](https://github.com/matthewwithanm/react-frozenhead)
-- [react-tags - A simple wrapper around React.DOM](https://github.com/adelevie/react-tags)
-- [react-datepicker by @y0c - React DatePicker Library (Flexible, Reusable)](https://github.com/y0c/react-datepicker)
-- [react-datepicker by @misino - Datepicker component for application using Facebook React](https://github.com/misino/react-datepicker)
-- [react-datepicker by @Hacker0x01 - A simple and reusable datepicker component for React](https://github.com/Hacker0x01/react-datepicker)
-- [react-table-sorter-demo - A React.js Table Sorter Component](https://github.com/bgerm/react-table-sorter-demo)
-- [react-table-component - React Table Component for creating a very basic html table](https://gist.github.com/ChaseWest/1935d08b156ae04b85d2)
-- [react-input-placeholder - Input is a small wrapper around React.DOM.input](https://github.com/enigma-io/react-input-placeholder)
-- [react-infinite-scroll - An infinite scroll component for React](https://github.com/guillaumervls/react-infinite-scroll)
-- [react-ellipsis - Ellipsis component for React](https://github.com/guillaumervls/react-ellipsis)
-- [react-pillbox - Pillbox component for React](https://github.com/redbadger/react-pillbox)
-- [react-intl - React Internationalization Component](https://github.com/yahoo/react-intl)
+- [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
+- [react-grid-layout](https://github.com/strml/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
+- [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component
+- [react-resizable](https://github.com/strml/react-resizable) - A simple React component that is resizable with a handle
+- [react-big-calendar](https://intljusticemission.github.io/react-big-calendar/examples/index.html) - Calendar component
+- [react-datepicker](https://reactdatepicker.com/) - ReactJS Datepicker
+- [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component
+- [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
-- [react-tokeninput - Tokeninput component for React](https://github.com/instructure/react-tokeninput)
-- [react-select-box - An accessible select box component for React](https://github.com/instructure/react-select-box)
-- [react-ladda - React wrapper for Ladda buttons](https://github.com/jsdir/react-ladda)
-- [react-list - A versatile infinite scroll React component](https://github.com/orgsync/react-list)
-- [olay-react - Olay implemented as a React component](https://github.com/orgsync/olay-react)
-- [reactable - Fast, flexible, and simple data tables in React](https://github.com/glittershark/reactable)
-- [react-tabs - React tabs component](https://github.com/mzabriskie/react-tabs)
-- [react-draggable-tabs - Atom-fashioned draggable tabs](https://github.com/ZaninAndrea/react-draggable-tabs)
-- [react-simpletabs - Just a simple tabs component](https://github.com/pedronauck/react-simpletabs)
-- [react-draggable - React draggable component](https://github.com/mzabriskie/react-draggable)
-- [react-resizable - A tiny Resizable component based on react-draggable](https://github.com/strml/react-resizable)
-- [react-grid-layout - A Masonry-style responsive grid layout](https://github.com/strml/react-grid-layout)
-- [react-dnd - Flexible HTML5 drag-and-drop mixin for React with full DOM control](https://github.com/gaearon/react-dnd)
+- [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [react-movable - Accessible and tiny drag and drop for your React lists and tables](https://github.com/tajo/react-movable)
 - [react-sticky - <Sticky /> component for React-based apps](https://github.com/captivationsoftware/react-sticky)
 - [js-object-to-table - JavaScript objects drawing themselves into a table using React](https://github.com/enaqx/js-object-to-table)
@@ -588,10 +577,6 @@ A collection of awesome things regarding React ecosystem.
 - [VictoryJS - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
 - [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
 - [React-ApexCharts - React component for ApexCharts (An Interactive SVG Chart Library)](https://github.com/apexcharts/react-apexcharts)
-
-#### Job Interview Tools
-
-- [List of hundreds ReactJS interview questions and answers](https://github.com/sudheerj/reactjs-interview-questions)
 
 ---
 
