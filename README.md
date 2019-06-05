@@ -116,7 +116,7 @@ A collection of awesome things regarding React ecosystem.
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
-- [freeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
+- [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
 
@@ -149,7 +149,7 @@ A collection of awesome things regarding React ecosystem.
 - [Reconciliation](https://reactjs.org/docs/reconciliation.html)
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 - [Build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
-- [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
+- [Inside Fiber: In-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
 
 ##### React Interview Questions
 
@@ -160,18 +160,20 @@ A collection of awesome things regarding React ecosystem.
 
 ##### React Development Tools
 
-- [Create React App](https://facebook.github.io/create-react-app/) - Set up a modern web app by running one command
-- [React Starter Kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic web app boilerplate
+- [Create React App](https://facebook.github.io/create-react-app/) - Set up a modern Web app by running one command
+- [React Starter Kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic Web app boilerplate
 - [React Developer Tools](https://github.com/facebook/react-devtools) - Inspection of React component hierarchy in the Chrome and Firefox Developer Tools
 - [React Hot Loader](https://gaearon.github.io/react-hot-loader/) - Tweak React components in real time
 - [Babel](https://babeljs.io/) - Babel is a JavaScript compiler
 - [Webpack](https://webpack.js.org/) - A bundler for JavaScript and friends
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
-- [Reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React JS and React Native projects
+- [Reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
 - [Storybook](https://github.com/storybookjs/storybook) - UI component dev & test
 - [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide
 - [React Cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 - [ESlint Plugin React](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+- [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
+- [react-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React applications
 
 ##### React Frameworks
 
@@ -205,7 +207,9 @@ A collection of awesome things regarding React ecosystem.
 ##### React Awesome Components
 
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
+- [react-select](https://github.com/JedWatson/react-select) - The Select Component for React
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
+- [react-filepond](https://github.com/pqina/react-filepond) - A handy FilePond adapter component for React
 - [react-grid-layout](https://github.com/strml/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component
 - [react-resizable](https://github.com/strml/react-resizable) - A simple React component that is resizable with a handle
@@ -214,37 +218,9 @@ A collection of awesome things regarding React ecosystem.
 - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component
 - [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
+- [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible React modal
 - [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
-- [react-movable - Accessible and tiny drag and drop for your React lists and tables](https://github.com/tajo/react-movable)
-- [react-sticky - <Sticky /> component for React-based apps](https://github.com/captivationsoftware/react-sticky)
-- [js-object-to-table - JavaScript objects drawing themselves into a table using React](https://github.com/enaqx/js-object-to-table)
-- [react-kaomoji - A React component for displaying Japanese emoticons](https://github.com/enaqx/react-kaomoji)
-- [react-calendar - Calendar that inspired by React philosophy](https://github.com/Aetet/react-calendar)
-- [react-element-pan - React component for allowing panning of DOM-elements](https://github.com/rexxars/react-element-pan)
-- [react-bootstrap-daterangepicker - A date/time picker for react (using Bootstrap)](https://github.com/skratchdot/react-bootstrap-daterangepicker)
-- [react-bootstrap-datetimepicker - A react.js datetime picker for Bootstrap](https://github.com/quri/react-bootstrap-datetimepicker)
-- [react-bootstrap-multiselect - A multiselect component for react (with bootstrap)](https://github.com/skratchdot/react-bootstrap-multiselect)
-- [react-colorpicker - Colorpicker for React](https://github.com/stayradiated/react-colorpicker)
-- [react-commits-graph - A React component to render an svg graph of git commits](https://www.npmjs.org/package/react-commits-graph)
-- [react-layout - Dynamic subview layout for React](https://github.com/jsdf/react-layout)
-- [react-weather - Example React weather app using forecast.io's API](https://github.com/andrewgleave/react-weather)
-- [react-sparkline - React component for rendering simple sparklines](https://github.com/KyleAMathews/react-sparkline)
-- [react-component-width-mixin - React mixin which sets width](https://github.com/KyleAMathews/react-component-width-mixin)
-- [react-micro-bar-chart - React component for micro bar-charts rendered with D3](https://github.com/KyleAMathews/react-micro-bar-chart)
-- [react-horizontal-bar-chart - Simple horizontal bar chart component, using D3 scales only](https://github.com/laem/react-horizontal-bar-chart)
-- [react-boxplot - Simple SVG box plots in React](https://github.com/bodylabs/react-boxplot)
-- [react-infinity - A UITableView Inspired list and grid display](https://github.com/nmn/react-infinity)
-- [react-timeago - A simple time-ago component for React](https://github.com/nmn/react-timeago)
-- [react-star-rating-input - React.js component for entering 0-5 stars](https://github.com/ikr/react-star-rating-input)
-- [react-star-rating - A simple star rating component built with React.](https://github.com/cameronjroe/react-star-rating)
-- [react-data-components - React components and mixins for manipulating data](https://github.com/carlosrocha/react-data-components)
-- [react-number-editor - Number editor (textfield) component for react](https://github.com/tleunen/react-number-editor)
-- [react-localstorage - Simple localstorage mixin for react](https://github.com/STRML/react-localstorage)
-- [react-sortable-data React Mixin to sort data easily](https://github.com/AndrewHathaway/ReactSortableDataMixin)
-- [react-widgets - Suite of ui input widgets including combobox, multiselect, datepicker and more](https://github.com/theporchrat/react-widgets)
-- [react-select - Rich Select Component](https://github.com/JedWatson/react-select)
-- [react-video - React component to load video from Vimeo or Youtube](https://github.com/pedronauck/react-video)
-- [react-cassette-player - Vector-based HTML5 Audio Player](https://github.com/chadpaulson/react-cassette-player)
+- [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
 - [react-tagsinput - A simple react component for inputing tags.](https://github.com/olahol/react-tagsinput)
 - [react-autolink - An autolink mixin for React](https://github.com/banyan/react-autolink)
 - [react-emoji - An emoji mixin for React](https://github.com/banyan/react-emoji)
@@ -262,7 +238,6 @@ A collection of awesome things regarding React ecosystem.
 - [react-progress-label - Progress label component](https://github.com/wangzuo/react-progress-label)
 - [react-input-slider - React input slider component](https://github.com/wangzuo/react-input-slider)
 - [react-range-slider - Collection of react slider components](https://github.com/jpuri/react-range-slider)
-- [rheostat - a www, mobile, and accessible slider component](https://github.com/airbnb/rheostat)
 - [react-ui-tree - React tree component with drag and drop support](https://github.com/pqx/react-ui-tree)
 - [react-frame - React components within an iframe for isolated css styling](https://github.com/pqx/react-frame)
 - [rodal - A React modal with animations](https://github.com/chenjiahan/rodal)
@@ -304,7 +279,6 @@ A collection of awesome things regarding React ecosystem.
 - [react-flexbox-svg - Flexbox for SVG in React, using css-layout](https://github.com/paulmelnikow/react-flexbox-svg)
 - [react-instantsearch - Search Interface building blocks for Algolia](https://github.com/algolia/react-instantsearch)
 - [react-d3-tree - Create interactive D3 tree graphs](https://github.com/bkrem/react-d3-tree)
-- [react-redux-modal-flex - Accessible modal dialog component for React, easy to install and use with Redux.](https://github.com/tronghiep92/react-redux-modal-flex)
 - [react-switch](https://github.com/markusenglund/react-switch) - A draggable toggle-switch component for React
 - [react-credit-card-input - A simple credit/debit card input field for React.](https://github.com/medipass/react-credit-card-input)
 - [react-creditcard - An awesome react credit card component.](https://github.com/medipass/react-creditcard)
@@ -321,8 +295,6 @@ A collection of awesome things regarding React ecosystem.
 - [react-dates - An easily internationalizable, mobile-friendly datepicker library for the web](https://github.com/airbnb/react-dates)
 - [react-ui-cards - Various card components for React](https://github.com/nukeop/react-ui-cards)
 - [React components IO - A curated list of useful React component libraries and component related tools](https://www.reactcomponent.io/)
-- [react-filepond - Drag 'n Drop accessible file upload component](https://github.com/pqina/react-filepond)
-- [pimg - A Progressive Image Component used for lazy loading images](https://github.com/ooade/pimg)
 - [object-editor-react - Schema-aware editor for structured JSON objects (drop-in component)](https://github.com/b-gran/object-editor-react)
 - [react-terminal-component - Emulate a terminal with autocomplete, commands, a file-system, themes and more.](https://github.com/rohanchandra/react-terminal-component)
 - [react-scrolltop-button - A button component for scrolling to top of the page.](https://github.com/graysonhicks/react-scrolltop-button)
