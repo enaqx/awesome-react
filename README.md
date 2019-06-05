@@ -8,6 +8,7 @@ A collection of awesome things regarding React ecosystem.
   - [React Online Playgrounds](#react-online-playgrounds)
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
+    - [React Hooks](#react-hooks)
     - [React and TypeScript](#react-and-typescript)
     - [React Performance](#react-performance)
     - [React Internals](#react-internals)
@@ -76,8 +77,8 @@ A collection of awesome things regarding React ecosystem.
   - [ReactRally Conf 2015 Playlist](#reactrally-conf-2015-playlist)
   - [React.js Conf 2016 Playlist](#reactjs-conf-2016-playlist)
   - [ReactRally Conf 2016 Playlist](#reactrally-conf-2016-playlist)
-  - [Video Tutorials](#video-tutorials)
   - [React.js Amsterdam 2018 Playlist](#reactjs-amsterdam-2018-playlist)
+  - [Video Tutorials](#video-tutorials)
 - [Demos](#demos)
 - [Example Apps](#example-apps)
 - [Real Apps](#real-apps)
@@ -113,11 +114,18 @@ A collection of awesome things regarding React ecosystem.
 
 - [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
-- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
+
+##### React Hooks
+
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [Replacing Redux with React Hooks and Context](https://medium.com/octopus-labs-london/replacing-redux-with-react-hooks-and-context-part-1-11b72ffdb533)
+- [React Hooks cheat sheet: Unlock solutions to common problems](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/)
+- [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data/)
+- [Easy to understand React Hook recipes](https://usehooks.com/)
 
 ##### React and TypeScript
 
@@ -192,14 +200,6 @@ A collection of awesome things regarding React ecosystem.
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Calendar component
 - [qrcode.react](https://github.com/zpao/qrcode.react) - A <QRCode/> component for use with React
-- [react-sortable - A sortable list component built \w React](https://github.com/danielstocks/react-sortable)
-- [react-anything-sortable - A sortable component with IE8 compatibility](https://github.com/jasonslyvia/react-anything-sortable)
-- [react-controllables - Easily create controllable components](https://github.com/matthewwithanm/react-controllables)
-- [react-datalist - A <datalist> polyfill for Reactjs](https://github.com/asbjornenge/react-datalist)
-- [react-pad - Authoring tool for React components](https://github.com/andreypopp/react-pad)
-- [ogre.js - Object graph manager, built with ReactJS in mind](https://github.com/elucidata/ogre.js)
-- [react-scroll-components - A set of components that react to page scrolling](https://github.com/jeroencoumans/react-scroll-components)
-- [react-fullscreen-component - Create fullscreen toggles](https://github.com/jeroencoumans/react-fullscreen-component)
 - [react-frozenhead - Make your whole page a React component and render it on the server](https://github.com/matthewwithanm/react-frozenhead)
 - [react-tags - A simple wrapper around React.DOM](https://github.com/adelevie/react-tags)
 - [react-datepicker by @y0c - React DatePicker Library (Flexible, Reusable)](https://github.com/y0c/react-datepicker)
@@ -785,6 +785,7 @@ A collection of awesome things regarding React ecosystem.
 - [React Redux based blood donor demo application](https://github.com/smanne/reduxnor)
 - [LearnCode.academy Redux Tutorials Series](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=15)
 - [Practical Redux](https://blog.isquaredsoftware.com/series/practical-redux/)
+- [A Complete React Redux Tutorial for Beginners](https://daveceddia.com/redux-tutorial/)
 
 ---
 
@@ -973,20 +974,7 @@ A collection of awesome things regarding React ecosystem.
 
 #### Video Tutorials
 
-- [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
-- [Learn ReactJS (make a Pokedex!) - part 2](https://www.youtube.com/watch?v=lNqnZ58YGE0)
-- [React.js Components - part 1](http://www.youtube.com/watch?v=rFvZydtmsxM)
-- [React.js Components - part 2](http://www.youtube.com/watch?v=5yvFLrt7N8M)
-- [Advanced Input Validation With React](https://www.youtube.com/watch?v=Mjcou3UCiBM)
-- [ReactJS: Dealing with the Server](https://www.youtube.com/watch?v=lJUUjdsv0aw)
-- [Building UIs with ReactJS](http://www.youtube.com/watch?v=lAn7GVoGlKU)
-- [React.js Internals](https://www.youtube.com/watch?v=FAgSdSikSCc)
-- [jFlux - Going from MVC to FLUX](https://www.youtube.com/watch?v=plUN2L4Ak14)
-- [React Native Intro](http://brentvatne.ca/react-native-intro-talk/)
-- [Building a Simple ToDo App With React Native and Firebase](https://www.youtube.com/watch?v=3ab0K6viEp0)
-- [React & Flux by: Christian Lilley](https://www.youtube.com/watch?v=mK4_a7u2cgI)
-- [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
-- [React Native in Arabic - Create a real app series](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS)
+- [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
 
 ---
 
