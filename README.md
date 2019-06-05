@@ -167,6 +167,7 @@ A collection of awesome things regarding React ecosystem.
 - [Babel](https://babeljs.io/) - Babel is a JavaScript compiler
 - [Webpack](https://webpack.js.org/) - A bundler for JavaScript and friends
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
+- [Loadable Components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
 - [Reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
 - [Storybook](https://github.com/storybookjs/storybook) - UI component dev & test
 - [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide
@@ -211,6 +212,8 @@ A collection of awesome things regarding React ecosystem.
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [react-filepond](https://github.com/pqina/react-filepond) - A handy FilePond adapter component for React
 - [react-grid-layout](https://github.com/strml/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
+- [react-table](https://github.com/tannerlinsley/react-table/) - A lightweight, fast and extendable datagrid for React
+- [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid component built with React
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component
 - [react-resizable](https://github.com/strml/react-resizable) - A simple React component that is resizable with a handle
 - [react-big-calendar](https://intljusticemission.github.io/react-big-calendar/examples/index.html) - Calendar component
@@ -219,17 +222,9 @@ A collection of awesome things regarding React ecosystem.
 - [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible React modal
+- [react-hotkeys](https://reacttraining.com/react-router/) - Declarative hotkey and focus area management for React
 - [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
-- [react-tagsinput - A simple react component for inputing tags.](https://github.com/olahol/react-tagsinput)
-- [react-autolink - An autolink mixin for React](https://github.com/banyan/react-autolink)
-- [react-emoji - An emoji mixin for React](https://github.com/banyan/react-emoji)
-- [react-portal - A transportation of (not just) modals and lightboxes to document.body](https://github.com/tajo/react-portal)
-- [react-hotkeys - Declarative hotkey and focus area management for React](https://github.com/Chrisui/react-hotkeys)
-- [react-data-grid - Data grid for React:Excel-like grid component built with React, with editors, keyboard navigation, copy & paste ](https://github.com/adazzle/react-data-grid)
-- [react-datagrid - A carefully crafted DataGrid for React](https://github.com/nishp1/react-datagrid)
-- [react-table - A lightweight, fast and extendable datagrid for React](https://github.com/react-tools/react-table)
-- [react-base-table - A react table component to display large datasets with high performance and flexibility](https://github.com/Autodesk/react-base-table)
 - [react-panels - A multipurpose tabbed panel with many features](https://github.com/Theadd/react-panels)
 - [autoresponsive-react - A Magical Layout Library For React](http://xudafeng.github.io/autoresponsive-react)
 - [Belle - Set of easy to style React Components with great UX](http://nikgraf.github.io/belle/)
