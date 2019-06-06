@@ -441,6 +441,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
 - [reaptcha - Clean, modern and simple React wrapper for Google reCAPTCHA](https://github.com/sarneeh/reaptcha)
 - [react-recaptcha-that-works - A reCAPTCHA bridge for React that works](https://github.com/douglasjunior/react-recaptcha-that-works)
+- [API Platform Client Generator - Generated React, React Native and Next.js apps for OpenAPI, Hydra, API Platform and web APIs](https://api-platform.com/docs/master/client-generator/)
 
 ##### Forms
 
