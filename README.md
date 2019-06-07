@@ -317,6 +317,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync)](https://github.com/flatlogic/react-dashboard)
 - [reactponsive - Responsive utils in all the flavors for your favorite framework](https://github.com/jmlweb/reactponsive)
 - [react-svg - A React component that injects SVG into the DOM](https://github.com/tanem/react-svg)
+- [react-snackbar-alert - Simple snackbar notifications for React](https://github.com/joeattardi/react-snackbar-alert)
 
 ##### React for Command Line
 
