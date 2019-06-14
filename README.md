@@ -989,6 +989,7 @@ A collection of awesome things regarding React ecosystem.
 - [Remote Retro – Agile retrospectives for distributed teams](https://github.com/stride-nyc/remote_retro)
 - [Spectrum – Simple, powerful online communities](https://github.com/withspectrum/spectrum)
 - [Mattermost – Open source Slack alternative](https://github.com/mattermost/mattermost-webapp)
+- [Data-Forge Notebook - Notebook-style desktop application for data analysis, transformation and visualization in JavaScript](https://www.data-forge-notebook.com)
 
 ---
 
