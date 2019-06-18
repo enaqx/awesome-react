@@ -111,6 +111,7 @@ A collection of awesome things regarding React ecosystem.
 ##### React General Tutorials
 
 - [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+- [Best practices for building a large scale react application](https://buttercms.com/blog/best-practices-for-building-a-large-scale-react-application)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
 - [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
@@ -121,6 +122,7 @@ A collection of awesome things regarding React ecosystem.
 ##### React Hooks
 
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [Learn React Hooks by writing your first Hook](https://buttercms.com/blog/learn-react-hooks-by-writing-your-first-hook)
 - [Replacing Redux with React Hooks and Context](https://medium.com/octopus-labs-london/replacing-redux-with-react-hooks-and-context-part-1-11b72ffdb533)
 - [React Hooks cheat sheet: Unlock solutions to common problems](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/)
 - [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data/)
