@@ -173,7 +173,7 @@ A collection of awesome things regarding React ecosystem.
 - [React Cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 - [ESlint Plugin React](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 - [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
-- [react-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React applications
+- [React Axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React applications
 
 ##### React Frameworks
 
@@ -190,9 +190,9 @@ A collection of awesome things regarding React ecosystem.
 
 ##### React Routing
 
-- [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
-- [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
-- [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
+- [React Router](https://github.com/ReactTraining/react-router) - Declarative routing for React
+- [Navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
+- [Curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
 
 ##### React Component Libraries
 
@@ -224,10 +224,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-hotkeys](https://reacttraining.com/react-router/) - Declarative hotkey and focus area management for React
 - [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
-- [react-panels - A multipurpose tabbed panel with many features](https://github.com/Theadd/react-panels)
-- [autoresponsive-react - A Magical Layout Library For React](http://xudafeng.github.io/autoresponsive-react)
-- [Belle - Set of easy to style React Components with great UX](http://nikgraf.github.io/belle/)
-- [react-input-color - React input color component with hsv color picker](https://github.com/wangzuo/react-input-color)
+
 - [react-medium-editor - React wrapper for medium-editor](https://github.com/wangzuo/react-medium-editor)
 - [react-progress-label - Progress label component](https://github.com/wangzuo/react-progress-label)
 - [react-input-slider - React input slider component](https://github.com/wangzuo/react-input-slider)
@@ -517,6 +514,7 @@ A collection of awesome things regarding React ecosystem.
 - [WatermelonDB - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast](https://github.com/Nozbe/WatermelonDB)
 - [Effector — Fast and powerful reactive state manager. Lets you write simple, fast and type safe code and manage reactive state with ease.](https://github.com/zerobias/effector)
 - [reactn - React, but with built-in global state management](https://github.com/CharlesStover/reactn)
+- [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 
 ##### Maps
 
