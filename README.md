@@ -368,6 +368,7 @@ A collection of awesome things regarding React ecosystem.
 - [refract](https://github.com/fanduel-oss/refract) - Harness the power of reactive programming to supercharge your components
 - [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 - [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
+- [babel-plugin-react-directive](https://github.com/evolify/babel-plugin-react-directive) - Use directive in React, for example, you can use `r-if`、`r-for` in jsx just as `v-if`、`v-for` in Vue.
 
 ##### React Integration
 
