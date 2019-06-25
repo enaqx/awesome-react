@@ -456,6 +456,7 @@ A collection of awesome things regarding React ecosystem.
 - [formland - A simple, super-flexible, extensible config based form generator](https://github.com/indix/formland)
 - [react-reactive-form - Angular like reactive forms in React](https://github.com/bietkul/react-reactive-form)
 - [unform - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!](https://github.com/Rocketseat/unform)
+- [react-formawesome React UI lib for validation forms](https://github.com/MAKARD/react-formawesome)
 
 ##### Autocomplete
 
@@ -600,6 +601,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar](https://github.com/oblador/react-native-vector-icons)
 - [react-native-google-signin - Google Signin for React Native](https://github.com/apptailor/react-native-google-signin)
 - [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view)
+- [react-native-formawesome - React-Native UI lib for validation forms](https://github.com/MAKARD/react-native-formawesome)
 
 ---
 
