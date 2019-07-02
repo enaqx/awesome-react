@@ -368,6 +368,7 @@ A collection of awesome things regarding React ecosystem.
 - [refract](https://github.com/fanduel-oss/refract) - Harness the power of reactive programming to supercharge your components
 - [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 - [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
+- [react-extras](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React
 
 ##### React Integration
 
