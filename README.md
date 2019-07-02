@@ -142,6 +142,7 @@ A collection of awesome things regarding React ecosystem.
 - [Using the React DevTools Profiler to Diagnose React App Performance Issues](https://www.netlify.com/blog/2018/08/29/using-the-react-devtools-profiler-to-diagnose-react-app-performance-issues/)
 - [Top 5 Practices to Boost React Performance](https://www.codementor.io/blizzerand/top-5-practices-to-boost-react-performance-jv6zr89ep)
 - [React is Slow, React is Fast: Optimizing react Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
+- [Rendering large lists with react-window](https://addyosmani.com/blog/react-window/)
 
 ##### React Internals
 
@@ -306,6 +307,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync)](https://github.com/flatlogic/react-dashboard)
 - [reactponsive - Responsive utils in all the flavors for your favorite framework](https://github.com/jmlweb/reactponsive)
 - [react-svg - A React component that injects SVG into the DOM](https://github.com/tanem/react-svg)
+- [react-window - React components for efficiently rendering large lists and tabular data](https://github.com/bvaughn/react-window)
 
 ##### React for Command Line
 
