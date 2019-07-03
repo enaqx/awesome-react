@@ -204,6 +204,7 @@ A collection of awesome things regarding React ecosystem.
 - [React Bootstrap](https://react-bootstrap.github.io/) - The most popular front-end framework
   Rebuilt for React
 - [Semantic UI React](https://react.semantic-ui.com/) - The official Semantic-UI-React integration
+- [MDBootstrap](https://mdbootstrap.com/docs/react/) - React UI KIT based on the latest Bootstrap 4 and React 16
 
 ##### React Awesome Components
 
