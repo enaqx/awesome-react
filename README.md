@@ -331,6 +331,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-absolute-grid - An absolutely positioned, animated, filterable, sortable, drag and droppable, ES6 grid for React](https://github.com/jrowny/react-absolute-grid)
 - [react-singular-component - Transition between dom elements of a component easily](https://github.com/dor6/react-singular-component)
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems
+- [react-stack-cards](https://github.com/yoloten/react-stack-cards) - Collection of stack card effects for galleries and preview grids. 
 
 ##### Libraries
 
