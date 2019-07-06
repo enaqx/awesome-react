@@ -459,6 +459,7 @@ A collection of awesome things regarding React ecosystem.
 - [formland - A simple, super-flexible, extensible config based form generator](https://github.com/indix/formland)
 - [react-reactive-form - Angular like reactive forms in React](https://github.com/bietkul/react-reactive-form)
 - [unform - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!](https://github.com/Rocketseat/unform)
+- [simple-react-validator - A simple react and react native form validator inspired by Laravel validation.](https://github.com/dockwa/simple-react-validator)
 
 ##### Autocomplete
 
