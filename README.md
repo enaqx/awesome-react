@@ -308,6 +308,7 @@ A collection of awesome things regarding React ecosystem.
 - [reactponsive - Responsive utils in all the flavors for your favorite framework](https://github.com/jmlweb/reactponsive)
 - [react-svg - A React component that injects SVG into the DOM](https://github.com/tanem/react-svg)
 - [react-window - React components for efficiently rendering large lists and tabular data](https://github.com/bvaughn/react-window)
+- [react-cam - A simple webcam component for web apps](https://github.com/ccwukong/react-cam)
 
 ##### React for Command Line
 
