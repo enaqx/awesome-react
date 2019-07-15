@@ -12,7 +12,7 @@ A collection of awesome things regarding React ecosystem.
     - [React and TypeScript](#react-and-typescript)
     - [React Performance](#react-performance)
     - [React Internals](#react-internals)
-    - [React Interview Questions]()
+    - [React Interview Questions](#react-interview-questions)
   - [React Tools](#react-tools)
     - [React Development Tools](#react-development-tools)
     - [React Frameworks](#react-frameworks)
@@ -239,7 +239,7 @@ A collection of awesome things regarding React ecosystem.
 - [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A React renderer for blessed terminal interface library
 
-#### React Testing Libraries
+##### React Testing Libraries
 
 - [Jest](https://jestjs.io/) - Delightful JavaScript Testing Framework
 - [Enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
@@ -297,6 +297,7 @@ A collection of awesome things regarding React ecosystem.
 - [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
 - [react-extras](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React
 - [react-instantsearch](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native applications, by Algolia
+- [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers
 
 ##### React Integration
 
@@ -553,7 +554,6 @@ A collection of awesome things regarding React ecosystem.
 
 - [Flux Official Site](http://facebook.github.io/flux/)
 - [Flux GitHub](https://github.com/facebook/flux)
-- [Awesome Flux](https://github.com/yanmagale/awesome-flux/)
 
 #### Flux Implementations
 
@@ -573,7 +573,6 @@ A collection of awesome things regarding React ecosystem.
 #### Flux Tutorials
 
 - [Building Applications with React and Flux](https://www.pluralsight.com/courses/react-flux-building-applications)
-- [Flux Application Architecture](http://facebook.github.io/flux/docs/overview.html)
 - [Flux: A simple architecture model to build Client-side apps](https://speakerdeck.com/pedronauck/flux-a-simple-architecture-model-to-build-client-side-apps)
 - [Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo](https://github.com/yahoo/flux-examples)
 - [Async requests with React.js and Flux](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
