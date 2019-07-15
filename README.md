@@ -21,9 +21,8 @@ A collection of awesome things regarding React ecosystem.
     - [React Component Libraries](#react-component-libraries)
     - [React Awesome Components](#react-awesome-components)
     - [React for Command Line](#react-for-command-line)
-    - [React Testing Libraries](#react-testing-libraries)
-    - [Animation Components](#animation-components)
-    - [Libraries](#libraries)
+    - [React Testing](#react-testing)
+    - [React Libraries](#react-libraries)
     - [React Integration](#react-integration)
     - [Forms](#forms)
     - [Autocomplete](#autocomplete)
@@ -160,50 +159,46 @@ A collection of awesome things regarding React ecosystem.
 
 ##### React Development Tools
 
-- [Create React App](https://facebook.github.io/create-react-app/) - Set up a modern Web app by running one command
-- [React Starter Kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic Web app boilerplate
-- [React Developer Tools](https://github.com/facebook/react-devtools) - Inspection of React component hierarchy in the Chrome and Firefox Developer Tools
-- [React Hot Loader](https://gaearon.github.io/react-hot-loader/) - Tweak React components in real time
-- [Babel](https://babeljs.io/) - Babel is a JavaScript compiler
-- [Webpack](https://webpack.js.org/) - A bundler for JavaScript and friends
-- [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
-- [React Loadable](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises
-- [Loadable Components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
-- [Reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
-- [Storybook](https://github.com/storybookjs/storybook) - UI component dev & test
-- [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide
-- [React Cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
-- [ESlint Plugin React](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+- [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
+- [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic Web app boilerplate
+- [react-devtools](https://github.com/facebook/react-devtools) - Inspection of React component hierarchy in the Chrome and Firefox Developer Tools
+- [react-hot-loader](https://github.com/gaearon/react-hot-loader) - Tweak React components in real time
+- [react-loadable](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises
+- [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
+- [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
+- [storybook](https://github.com/storybookjs/storybook) - UI component dev & test
+- [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
+- [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
+- [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 - [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
-- [React Axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React applications
+- [react-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React applications
 
 ##### React Frameworks
 
-- [Next.js](https://nextjs.org/) - The React Framework
-- [Gatsby.js](https://www.gatsbyjs.org/) - Free and open source framework based on React
+- [next.js](https://github.com/zeit/next.js) - The React Framework
+- [gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
 
 ##### React Styling
 
-- [Styled Components](https://www.styled-components.com/) - Visual primitives for the component age
-- [Emotion](https://github.com/emotion-js/emotion) - Library designed for writing CSS styles with JavaScript
-- [Radium](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
-- [JSS](https://github.com/cssinjs/jss) - Authoring tool for CSS
+- [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
+- [emotion](https://github.com/emotion-js/emotion) - Library designed for writing CSS styles with JavaScript
+- [radium](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
+- [jss](https://github.com/cssinjs/jss) - Authoring tool for CSS
 
 ##### React Routing
 
-- [React Router](https://github.com/ReactTraining/react-router) - Declarative routing for React
-- [Navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
-- [Curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
+- [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
+- [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
+- [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
 
 ##### React Component Libraries
 
-- [Material UI](https://material-ui.com/) - React components for faster and easier web development
-- [Ant Design](https://ant.design/) - A design system with values of Nature and Determinacy
-- [Blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the webs
-- [Fabric React](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences
-- [React Bootstrap](https://react-bootstrap.github.io/) - The most popular front-end framework
-  Rebuilt for React
-- [Semantic UI React](https://react.semantic-ui.com/) - The official Semantic-UI-React integration
+- [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development
+- [ant-design](https://github.com/ant-design/ant-design) - A design system with values of Nature and Determinacy
+- [blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the webs
+- [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences
+- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - The most popular front-end framework built with React
+- [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
 
 ##### React Awesome Components
 
@@ -226,38 +221,29 @@ A collection of awesome things regarding React ecosystem.
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible React modal
 - [react-hotkeys](https://github.com/greena13/react-hotkeys) - Declarative hotkey and focus area management for React
-- [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
-- [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
 - [react-keydown](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components
 - [react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours for your apps
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [react-text-mask](https://github.com/text-mask/text-mask) - Input mask for React
+- [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
+- [react-spinkit](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React
+- [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
+- [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
 
 ##### React for Command Line
 
 - [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A React renderer for blessed terminal interface library
 
-##### React Testing Libraries
+##### React Testing
 
-- [Jest](https://jestjs.io/) - Delightful JavaScript Testing Framework
-- [Enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
+- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing Framework
+- [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
 - [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
 - [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) - React hooks testing utilities that encourage good testing practices
 
-##### Animation Components
-
-- [react-loading-skeleton - Make beautiful, animated loading skeletons that automatically adapt to your app.](https://github.com/dvtng/react-loading-skeleton)
-- [animated-number-react - Super easy way to animate numbers with React](https://github.com/Leocardoso94/animated-number-react)
-- [react-spinkit - A collection of loading indicators animated with CSS for React](https://github.com/KyleAMathews/react-spinkit)
-- [react.animate - State animation plugin for react.js](https://github.com/pleasetrythisathome/react.animate)
-- [react-animate - React animation mixin](https://github.com/elierotenberg/react-animate)
-- [react-absolute-grid - An absolutely positioned, animated, filterable, sortable, drag and droppable, ES6 grid for React](https://github.com/jrowny/react-absolute-grid)
-- [react-singular-component - Transition between dom elements of a component easily](https://github.com/dor6/react-singular-component)
-- [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems
-
-##### Libraries
+##### React Libraries
 
 - [react-border-wrapper - A wrapper for placing elements along div borders in React.](https://github.com/Metroxe/react-border-wrapper)
 - [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
@@ -298,6 +284,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-extras](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React
 - [react-instantsearch](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native applications, by Algolia
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers
+- [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems
 
 ##### React Integration
 
@@ -860,7 +847,6 @@ A collection of awesome things regarding React ecosystem.
 - [Flux ImmutableJS TodoList](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
 - [Hapi+React+Flux user management system](https://github.com/jedireza/aqua)
 - [Redux TodoMVC](https://github.com/gaearon/redux/tree/master/examples/todomvc)
-- [react-babel-webpack - CRUD demo app featuring React, React Router, Flux, Webpack, Bootstrap](https://github.com/arcseldon/react-babel-webpack-starter-app.git)
 - [React/Redux CRUD with persistent state in Local Storage](https://github.com/cristianszwarc/react_crud_localStorage/)
 - [React Slack clone - comprehensive Slack clone built with React and Chatkit](https://github.com/pusher/react-slack-clone/)
 - [react-color-wander - Generative art with React](https://github.com/sonaye/react-color-wander)
