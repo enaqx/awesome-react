@@ -295,6 +295,7 @@ A collection of awesome things regarding React ecosystem.
 - [om - ClojureScript interface](https://github.com/swannodette/om)
 - [quiescent - A lightweight ClojureScript abstraction over React](https://github.com/levand/quiescent)
 - [Reagent - A minimalistic ClojureScript interface to React.js](https://github.com/reagent-project/reagent)
+- [Fulcro - A library for development of single-page full-stack web applications in clj/cljs](https://github.com/fulcrologic/fulcro)
 - [react-haskell - React bindings for Haskell](https://github.com/joelburget/react-haskell)
 - [Express React views](https://github.com/reactjs/express-react-views)
 - [Express Coffee-React views - render coffee-react on the server](https://github.com/duereg/express-coffee-react-views)
