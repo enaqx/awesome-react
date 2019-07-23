@@ -285,6 +285,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-instantsearch](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native applications, by Algolia
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems
+- [react-esi](https://github.com/dunglas/react-esi) - React Edge Side Includes
 
 ##### React Integration
 
