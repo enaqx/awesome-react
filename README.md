@@ -451,6 +451,7 @@ A collection of awesome things regarding React ecosystem.
 - [VictoryJS - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
 - [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
 - [React-ApexCharts - React component for ApexCharts (An Interactive SVG Chart Library)](https://github.com/apexcharts/react-apexcharts)
+- [reaviz](https://github.com/jask-oss/reaviz) - React Data Visualization Library based on D3.js
 
 ---
 
