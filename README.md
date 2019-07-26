@@ -287,6 +287,7 @@ A collection of awesome things regarding React ecosystem.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems
 - [react-esi](https://github.com/dunglas/react-esi) - React Edge Side Includes
+- [react-hook-hooker](https://github.com/fjcaetano/react-hook-hooker) - A nifty little HOC to add hooks to your React components.
 
 ##### React Integration
 
