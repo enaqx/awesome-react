@@ -214,6 +214,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-resizable](https://github.com/strml/react-resizable) - A simple React component that is resizable with a handle
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) - A resizable component for React
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - A sortable and resizable pane component for React
+- [react-spaces](https://github.com/aeagle/react-spaces) - Nestable resizable, anchored, scrollable components
 - [react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Calendar component
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - ReactJS Datepicker
