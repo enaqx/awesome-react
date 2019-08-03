@@ -231,6 +231,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-spinkit](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React
 - [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
 - [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
+- [react-laravel-paginex](https://github.com/GHarutyunyan/react-laravel-paginex) - Laravel Pagination with ReactJS (customizable)
 
 ##### React for Command Line
 
