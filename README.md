@@ -506,6 +506,7 @@ A collection of awesome things regarding React ecosystem.
 - [Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage)](https://github.com/bartonhammond/snowflake)
 - [Ignite - The hottest CLI for React Native, boilerplates, plugins, generators, and more!](https://github.com/infinitered/ignite)
 - [React Native Starter Kit - A powerful starter project that bootstraps development of your mobile application](https://github.com/flatlogic/react-native-starter)
+- [React Native Airbnb Template - Clean and minimalist React Native template for a quick start.](https://github.com/iboldurev/react-native-template-airbnb)
 
 #### React Native Awesome Components
 
