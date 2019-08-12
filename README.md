@@ -233,6 +233,7 @@ A collection of awesome things regarding React ecosystem.
 - [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
 - [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [react-triple-toggle](https://github.com/geobde/react-triple-toggle) - ⚛️ React multi toggle component.
+- [react-find](https://github.com/geobde/react-find) - ⚛️ Elegant, accessible search component for React.
 
 ##### React for Command Line
 
