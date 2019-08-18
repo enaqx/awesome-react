@@ -177,6 +177,7 @@ A collection of awesome things regarding React ecosystem.
 
 - [next.js](https://github.com/zeit/next.js) - The React Framework
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
+- [SPAX](https://github.com/crossjs/spax) - Pluggable and progressive framework based on React & react-scripts
 
 ##### React Styling
 
