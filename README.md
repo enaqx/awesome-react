@@ -231,6 +231,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-spinkit](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React
 - [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
 - [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
+- [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 
 ##### React for Command Line
 
