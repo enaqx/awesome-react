@@ -455,12 +455,12 @@ A collection of awesome things regarding React ecosystem.
 - [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
 - [React-ApexCharts - React component for ApexCharts (An Interactive SVG Chart Library)](https://github.com/apexcharts/react-apexcharts)
 - [reaviz](https://github.com/jask-oss/reaviz) - React Data Visualization Library based on D3.js
-- [react-vis - A React visualization library designed with the following principles in mind: React-friendly, high-level and customizable, expressive, and industry-strong.](https://uber.github.io/react-vis/)
-- [nivo - It provides a rich set of data visualization components, built on top of the D3 and React libraries.](https://nivo.rocks/)
-- [vx - A collection of reusable low-level visualization components. It combines the power of D3 to generate your visualization with the benefits of React for updating the DOM.](https://vx-demo.now.sh/)
+- [react-vis - A React visualization library designed with the following principles in mind: React-friendly, high-level and customizable, expressive, and industry-strong.](https://github.com/uber/react-vis)
+- [nivo - It provides a rich set of data visualization components, built on top of the D3 and React libraries.](https://github.com/plouc/nivo)
+- [vx - A collection of reusable low-level visualization components. It combines the power of D3 to generate your visualization with the benefits of React for updating the DOM.](https://github.com/hshoff/vx)
 - [echarts-for-react - A very simple ECharts wrapper for React.](https://github.com/hustcc/echarts-for-react)
 - [Chartify - React plugin for building charts using CSS.](https://github.com/kis/chartify)
-- [Semiotic - A data visualization framework combining React and D3.](https://semiotic.nteract.io/)
+- [Semiotic - A data visualization framework combining React and D3.](https://github.com/nteract/semiotic)
 
 ---
 
