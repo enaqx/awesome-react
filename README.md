@@ -881,6 +881,7 @@ A collection of awesome things regarding React ecosystem.
 - [CoreUI - Free Admin Panel built with React and Bootstrap 4](https://github.com/coreui/coreui-free-react-admin-template)
 - [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - Simple ecommerce cart application built with React and Redux
 - [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL
+- [React TypeScript Todo Example 2019](https://github.com/ryota-murakami/react-typescript-todo-example-2019)
 
 ---
 
