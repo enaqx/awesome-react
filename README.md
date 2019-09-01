@@ -116,6 +116,7 @@ A collection of awesome things regarding React ecosystem.
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
 - [Setup Flow with React](https://flow.org/en/docs/react/)
+- [How to Create a CRUD App with Rails and React](https://hibbard.eu/rails-react-crud-app/)
 
 ##### React Hooks
 
