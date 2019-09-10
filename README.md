@@ -201,7 +201,7 @@ A collection of awesome things regarding React ecosystem.
 - [reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 component library for React
-- [Reakit](https://reakit.io/) - Accessible, Composable and Customizable components for React
+- [Reakit](https://github.com/reakit/reakit) - Accessible, Composable and Customizable components for React
 
 ##### React Awesome Components
 
