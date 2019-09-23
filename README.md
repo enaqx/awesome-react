@@ -632,6 +632,7 @@ A collection of awesome things regarding React ecosystem.
 - [redux-actiontyper - Helper to create less verbose action types for Redux](https://github.com/alnorris/redux-actiontyper)
 - [redux-state-validator - A simple redux middleware to validate redux state values and object types using JSON Schema](https://github.com/suyesh/redux-state-validator)
 - [redux-persist](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a redux store
+- [react-redux-dispatch-async](https://github.com/xcarpentier/react-redux-dispatch-async) - Redux middleware to be able to wait async actions with fixed defined suffixes
 
 #### Redux Tutorials
 
