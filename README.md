@@ -234,6 +234,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-spinkit](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React
 - [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
 - [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
+- [react-puzzle-confirm](https://github.com/ozluy/react-puzzle-confirm) - React confirm modal component by fitting the puzzle piece correctly
 
 ##### React for Command Line
 
