@@ -862,6 +862,7 @@ A collection of awesome things regarding React ecosystem.
 - [React Slack clone - comprehensive Slack clone built with React and Chatkit](https://github.com/pusher/react-slack-clone/)
 - [react-color-wander - Generative art with React](https://github.com/sonaye/react-color-wander)
 - [overreacted.io - Personal blog by Dan Abramov](https://github.com/gaearon/overreacted.io)
+- [Self destructing voice notes with React](https://github.com/cometchat-pro-tutorials/self-destructing-voice-notes)
 
 ---
 
