@@ -203,6 +203,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 component library for React
 - [Reakit](https://github.com/reakit/reakit) - Accessible, Composable and Customizable components for React
 - [rsuite](https://github.com/rsuite/rsuite) - A suite of React components
+- [fluent-ui](https://github.com/fluent-org/fluent-ui) - 🌈 React components that inspired by Microsoft's Fluent Design System
 
 ##### React Awesome Components
 
