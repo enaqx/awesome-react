@@ -190,6 +190,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
+- [connected-react-router](https://github.com/supasate/connected-react-router) - A Redux binding for React Router v4 and v5
 
 ##### React Component Libraries
 
@@ -203,6 +204,7 @@ A collection of awesome things regarding React ecosystem.
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 component library for React
 - [Reakit](https://github.com/reakit/reakit) - Accessible, Composable and Customizable components for React
 - [rsuite](https://github.com/rsuite/rsuite) - A suite of React components
+- [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2/src/master/) - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
 
 ##### React Awesome Components
 
