@@ -290,6 +290,7 @@ A collection of awesome things regarding React ecosystem.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems
 - [react-esi](https://github.com/dunglas/react-esi) - React Edge Side Includes
+- [Ola](https://github.com/franciscop/ola/) - Smooth animation library for inbetweening / interpolating numbers in realtime
 
 ##### React Integration
 
