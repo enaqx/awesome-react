@@ -116,6 +116,7 @@ A collection of awesome things regarding React ecosystem.
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
 - [Setup Flow with React](https://flow.org/en/docs/react/)
+- [Add Push Notifications to Your React Chat App](https://www.cometchat.com/tutorials/react-chat-push-notifications/)
 
 ##### React Hooks
 
