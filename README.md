@@ -98,6 +98,7 @@ A collection of awesome things regarding React ecosystem.
 - [Reactiflux Discord Channel](http://www.reactiflux.com/)
 - [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 - [React Twitter](https://twitter.com/reactjs)
+- [React Telegram](https://t.me/react_js_en)
 
 #### React Online Playgrounds
 
@@ -479,6 +480,10 @@ A collection of awesome things regarding React ecosystem.
 - [React Native Awesome List](https://github.com/jondot/awesome-react-native)
 - [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
 - [React Native Radio](https://devchat.tv/react-native-radio/)
+
+#### React Native Community
+
+- [React Native Telegram](https://t.me/react_native_en)
 
 #### React Native Tutorials
 
