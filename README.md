@@ -190,7 +190,6 @@ A collection of awesome things regarding React ecosystem.
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
-- [connected-react-router](https://github.com/supasate/connected-react-router) - A Redux binding for React Router v4 and v5
 
 ##### React Component Libraries
 
