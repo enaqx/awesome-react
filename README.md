@@ -355,6 +355,7 @@ A collection of awesome things regarding React ecosystem.
 - [React Forms](http://facebook.github.io/react/docs/forms.html)
 - [react-formal - Better form validation and value management for React, Provides minimal wiring](https://github.com/jquense/react-formal)
 - [react-forms - Forms library for React](https://github.com/prometheusresearch/react-forms)
+- [react-hook-form - React hooks for form validation without the hassle](https://github.com/react-hook-form/react-hook-form)
 - [valuelink - full-featured two-way data binding with extended React links](https://github.com/Volicon/valuelink)
 - [wingspan-forms - A dynamic form library for Facebook React](https://github.com/wingspan/wingspan-forms)
 - [newforms - Isomorphic form-handling for React](https://github.com/insin/newforms)
