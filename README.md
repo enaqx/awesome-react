@@ -125,6 +125,7 @@ A collection of awesome things regarding the React ecosystem.
 - [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data/)
 - [Easy to understand React Hook recipes](https://usehooks.com/)
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
+- [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
 
 ##### React and TypeScript
 
