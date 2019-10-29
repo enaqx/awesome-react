@@ -116,6 +116,7 @@ A collection of awesome things regarding the React ecosystem.
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
 - [Setup Flow with React](https://flow.org/en/docs/react/)
+- [Nordschool - React Tutorials](https://nordschool.com/tag/react)
 
 ##### React Hooks
 
