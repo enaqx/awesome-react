@@ -247,6 +247,7 @@ A collection of awesome things regarding the React ecosystem.
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
 - [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
 - [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) - React hooks testing utilities that encourage good testing practices
+- [majestic](https://github.com/Raathigesh/majestic) - Zero config GUI for Jest
 
 ##### React Libraries
 
