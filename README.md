@@ -208,6 +208,8 @@ A collection of awesome things regarding the React ecosystem.
 ##### React Awesome Components
 
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
+- [react-awesome-button](https://github.com/rcaferati/react-awesome-button) - 3D animated 60fps buttons with load progress and social share actions.
+- [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - 3D animated 60fps media and content slider/carousel.
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [react-grid-layout](https://github.com/strml/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
@@ -517,6 +519,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Expo](https://expo.io/) - The Expo platform for making cross-platform mobile apps
 - [react-navigation](https://reactnavigation.org/) - Routing and navigation for your React Native apps
 - [react-native-social-share - Use the iOS and Android native Twitter and Facebook share popup with React Native](https://github.com/doefler/react-native-social-share)
+- [react-native-really-awesome-button](https://github.com/rcaferati/react-native-really-awesome-button) - Performant 3D button UI component.
 - [react-native-fbsdk - A wrapper around the iOS Facebook SDK](https://github.com/facebook/react-native-fbsdk)
 - [react-native-side-menu - Simple customizable component to create side menu](https://github.com/Kureev/react-native-side-menu)
 - [react-native-mapbox-gl - A Mapbox GL react native module](https://github.com/mapbox/react-native-mapbox-gl)
