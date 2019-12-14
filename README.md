@@ -27,7 +27,6 @@ A collection of awesome things regarding the React ecosystem.
     - [Forms](#forms)
     - [Autocomplete](#autocomplete)
     - [Graphics](#graphics)
-    - [Model Libraries](#model-libraries)
     - [Data Managing](#data-managing)
     - [Maps](#maps)
     - [Charts](#charts)
@@ -297,7 +296,6 @@ A collection of awesome things regarding the React ecosystem.
 - [React ASP.NET Boilerplate](https://github.com/pauldotknopf/react-aspnet-boilerplate)
 - [React Bootstrap Components Playground](http://gcanti.github.io/resources/tcomb-react-bootstrap/playground/playground.html)
 - [om - ClojureScript interface](https://github.com/swannodette/om)
-- [quiescent - A lightweight ClojureScript abstraction over React](https://github.com/levand/quiescent)
 - [Reagent - A minimalistic ClojureScript interface to React.js](https://github.com/reagent-project/reagent)
 - [react-haskell - React bindings for Haskell](https://github.com/joelburget/react-haskell)
 - [Express React views](https://github.com/reactjs/express-react-views)
@@ -399,13 +397,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-hooks-svgdrawing - SVG Drawing with React hooks](https://github.com/kmkzt/react-hooks-svgdrawing)
 - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
 
-##### Model Libraries
-
-- [mori - ClojureScript's persistent data structures and supporting API](https://github.com/swannodette/mori)
-- [NestedTypes - fast mutable models with "pure render" support](https://github.com/Volicon/NestedTypes)
-- [swarm - JavaScript replicated model (M of MVC) library](https://github.com/gritzko/swarm)
-- [caplet - JavaScript models library](https://github.com/mojo-js/caplet.js)
-
 ##### Data Managing
 
 - [Immutable.js - Immutable Data Collections for Javascript](https://github.com/immutable-js/immutable-js)
@@ -419,7 +410,6 @@ A collection of awesome things regarding the React ecosystem.
 - [MobX - Simple, scalable state management](#mobx)
 - [baobab - JavaScript persistent and optionally immutable data tree with cursors](https://github.com/Yomguithereal/baobab)
 - [baobab-react - React integration for Baobab](https://github.com/Yomguithereal/baobab-react)
-- [datascript - Immutable database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
 - [immstruct - Immutable data structures with history for top-to-bottom properties in component based libraries like React](https://github.com/omniscientjs/immstruct)
 - [seamless-immutable - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects](https://github.com/rtfeldman/seamless-immutable)
 - [tydel - Typed Models and Collections, with React bindings](http://tydel.js.org)
