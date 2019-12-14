@@ -877,10 +877,10 @@ A collection of awesome things regarding the React ecosystem.
 
 ### Real apps
 
-- [Firefox debugger](https://github.com/devtools-html/debugger.html)
-- [Remote Retro – Agile retrospectives for distributed teams](https://github.com/stride-nyc/remote_retro)
-- [Spectrum – Simple, powerful online communities](https://github.com/withspectrum/spectrum)
-- [Mattermost – Open source Slack alternative](https://github.com/mattermost/mattermost-webapp)
+- [Kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+- [Firefox debugger](https://github.com/firefox-devtools/debugger) - The Firefox debugger that works anywhere
+- [Spectrum](https://github.com/withspectrum/spectrum) – Simple, powerful online communities
+- [Mattermost](https://github.com/mattermost/mattermost-webapp) - Open source Slack alternative
 
 ---
 
