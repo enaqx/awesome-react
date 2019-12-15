@@ -75,9 +75,8 @@ A collection of awesome things regarding the React ecosystem.
   - [ReactRally Conf 2016 Playlist](#reactrally-conf-2016-playlist)
   - [React.js Amsterdam 2018 Playlist](#reactjs-amsterdam-2018-playlist)
   - [Video Tutorials](#video-tutorials)
-- [Demos](#demos)
-- [Example Apps](#example-apps)
-- [Real Apps](#real-apps)
+- [Demo React Apps](#demo-react-apps)
+- [Real React Apps](#real-react-apps)
 - [Contribution](#contribution)
 
 ---
@@ -819,63 +818,24 @@ A collection of awesome things regarding the React ecosystem.
 
 ---
 
-### Demos
+### Demo React Apps
 
-- [React and React Native State Museum](https://hackernoon.com/the-react-state-museum-a278c726315)
-- [react.rocks - Pinterest-style directory of online demos with available code](http://react.rocks/)
-- [react-hn - A React & react-router-powered implementation of Hacker News](https://github.com/insin/react-hn)
-- [react-pokemon - A React component for displaying Pokémon](https://github.com/passy/react-pokemon)
-- [React + Backbone TodoMVC](http://todomvc.com/examples/react-backbone/)
-- [React + NestedTypes TodoMVC](https://github.com/gaperton/todomvc-nestedreact)
-- [react-rxjs-todomvc - TodoMVC implementation with React and RxJS](https://github.com/fdecampredon/react-rxjs-todomvc)
-- [react-mvc - A sample chat application written with React and pure MVC](https://github.com/ustun/react-mvc)
-- [react-observe-todomvc - TodoMVC implementation built on top of React and Object.observe](https://github.com/fdecampredon/react-observe-todomvc)
-- [react-lights-out - Simple demo of the React framework's power and flexibility](https://github.com/chenglou/react-lights-out)
-- [todomvc-swarm - React TodoMVC implementation using Swarm for real-time collaboration](https://github.com/gritzko/todomvc-swarm)
-- [reactodo - Multiple localStorage TODO lists, built with React](https://github.com/insin/reactodo)
-- [lifequote - React port of a life insurance quick quoting application](https://github.com/insin/lifequote)
-- [reactor-demo - Isomorphic Javascript app with React](https://github.com/natew/reactor-demo)
-- [imgsible - React-based Imgur-like isomorphic demo app](https://github.com/BinaryMuse/imgsible)
-- [wow-realm-status-react - WoW Realm Status: React Edition](https://github.com/BinaryMuse/wow-realm-status-react)
-- [react-json-editor - A generic JSON editor](https://github.com/dustingetz/react-json-editor)
-- [react-todos - Backbone's example TODO app with React JS for views](https://github.com/ssorallen/react-todos)
-- [github-issues-viewer - A github issues viewer build in react + backbone](https://github.com/jaredly/github-issues-viewer)
-- [wolfenstein3D-react - Wolfenstein with the rendering layer written in React](https://github.com/petehunt/wolfenstein3D-react)
-- [Flux ImmutableJS TodoList](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
-- [Hapi+React+Flux user management system](https://github.com/jedireza/aqua)
-- [Redux TodoMVC](https://github.com/gaearon/redux/tree/master/examples/todomvc)
-- [React/Redux CRUD with persistent state in Local Storage](https://github.com/cristianszwarc/react_crud_localStorage/)
-- [React Slack clone - comprehensive Slack clone built with React and Chatkit](https://github.com/pusher/react-slack-clone/)
-- [overreacted.io - Personal blog by Dan Abramov](https://github.com/gaearon/overreacted.io)
-
----
-
-### Example Apps
-
-- [isomorphic500 - Isomorphic JS app built with React and Fluxible](https://github.com/gpbl/isomorphic500)
-- [fil - A playground for in-browser interpreters (Redux)](https://github.com/fatiherikli/fil)
-- [sound-redux - A Soundcloud client built with React / Redux](https://github.com/andrewngu/sound-redux)
-- [react-pomodoro - A Pomodoro timer for developers](https://github.com/afonsopacifer/react-pomodoro)
-- [Do - Notes management application built with React and Redux](https://github.com/1ven/do)
-- [soundcloud-react-redux - A SoundCloud Client built with React / Redux](https://github.com/rwieruch/favesound-redux)
-- [soundcloud-react-mobx - A SoundCloud Client built with React / MobX](https://github.com/rwieruch/favesound-mobx)
-- [A Reimplementation of Winamp 2.9 with React and Redux](https://github.com/captbaritone/winamp2-js)
-- [ComingOrNot - Event Planner built with react, react-router, redux, graphQL & serverless](https://github.com/lakshmantgld/comingOrNot#reactjs-redux-serverless-graphql-event-planner)
-- [React Reduction - Admin Dashboard built with React + Bootstrap4](https://github.com/reduction-admin/react-reduction)
-- [React Code Splitting Sample - React + React Router + Flux](https://github.com/tiarebalbi/flux-main-sample)
-- [Responsive React 'The Movie Database' (TMDb) App](https://github.com/SKempin/reactjs-tmdb-app)
-- [CoreUI - Free Admin Panel built with React and Bootstrap 4](https://github.com/coreui/coreui-free-react-admin-template)
-- [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - Simple ecommerce cart application built with React and Redux
 - [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL
+- [react-reduction](https://github.com/reduction-admin/react-reduction) - Free Admin Template Built with React and Bootstrap4
+- [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) - Responsive React The Movie Database App
+- [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - Simple ecommerce cart application built with React Redux
+- [dnote](https://github.com/dnote/dnote) - A simple personal knowledge base
 
 ---
 
-### Real apps
+### Real React Apps
 
-- [Kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
-- [Firefox debugger](https://github.com/firefox-devtools/debugger) - The Firefox debugger that works anywhere
-- [Spectrum](https://github.com/withspectrum/spectrum) – Simple, powerful online communities
-- [Mattermost](https://github.com/mattermost/mattermost-webapp) - Open source Slack alternative
+- [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+- [firefox debugger](https://github.com/firefox-devtools/debugger) - The Firefox debugger that works anywhere
+- [spectrum](https://github.com/withspectrum/spectrum) – Simple, powerful online communities
+- [mattermost](https://github.com/mattermost/mattermost-webapp) - Open source Slack alternative
+- [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
+- [winamp2-js](https://github.com/captbaritone/winamp2-js) - Winamp 2 reimplemented for the browser
 
 ---
 
