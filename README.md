@@ -24,6 +24,8 @@ A collection of awesome things regarding the React ecosystem.
     - [React Testing](#react-testing)
     - [React Libraries](#react-libraries)
     - [React Integration](#react-integration)
+    - [React State Management](#react-state-management)
+    - [React AR and VR](#react-ar-and-vr)
     - [Forms](#forms)
     - [Autocomplete](#autocomplete)
     - [Graphics](#graphics)
@@ -38,12 +40,6 @@ A collection of awesome things regarding the React ecosystem.
   - [React Native Sample Apps](#react-native-sample-apps)
   - [React Native Boilerplates](#react-native-boilerplates)
   - [React Native Awesome Components](#react-native-awesome-components)
-- [React AR/VR](#react-arvr)
-- [ReasonReact](#reasonreact)
-- [Flux](#flux)
-  - [Flux General Resources](#flux-general-resources)
-  - [Flux Implementations](#flux-implementations)
-  - [Flux Tutorials](#flux-tutorials)
 - [Redux](#redux)
   - [Redux General Resources](#redux-general-resources)
   - [Redux Tools](#redux-tools)
@@ -291,6 +287,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Integration
 
+- [ReasonReact](https://reasonml.github.io/reason-react/)
 - [React Rails](https://github.com/reactjs/react-rails)
 - [ReactJS.NET](https://github.com/reactjs/React.NET)
 - [om - ClojureScript interface](https://github.com/swannodette/om)
@@ -344,6 +341,17 @@ A collection of awesome things regarding the React ecosystem.
 - [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
 - [reaptcha - Clean, modern and simple React wrapper for Google reCAPTCHA](https://github.com/sarneeh/reaptcha)
 - [react-recaptcha-that-works - A reCAPTCHA bridge for React that works](https://github.com/douglasjunior/react-recaptcha-that-works)
+
+##### React State Management
+
+- [redux](#redux)
+- [mobx](#mobx)
+- [flux](http://facebook.github.io/flux/)
+
+##### React AR and VR
+
+- [React 360](https://facebook.github.io/react-360/) - Create exciting 360 and VR experiences using React
+- [Viro React](https://viromedia.com/viroreact/) - Platform for rapidly building AR/VR applications using React Native
 
 ##### Forms
 
@@ -511,76 +519,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar](https://github.com/oblador/react-native-vector-icons)
 - [react-native-google-signin - Google Signin for React Native](https://github.com/apptailor/react-native-google-signin)
 - [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view)
-
----
-
-### React AR/VR
-
-> Usage of React for Augmented and Virtual Reality
-
-- [React 360](https://facebook.github.io/react-360/) - Create exciting 360 and VR experiences using React
-- [Viro React](https://viromedia.com/viroreact/) - Platform for rapidly building AR/VR applications using React Native
-
----
-
-### ReasonReact
-
-> Reason bindings for ReactJS
-
-- [ReasonReact Official Website](https://reasonml.github.io/reason-react/)
-
-### Flux
-
-> Application Architecture for Building User Interfaces
-
-#### Flux General Resources
-
-- [Flux Official Site](http://facebook.github.io/flux/)
-- [Flux GitHub](https://github.com/facebook/flux)
-
-#### Flux Implementations
-
-- [Flux Comparision](https://github.com/voronianski/flux-comparison)
-- [RefluxJS](https://github.com/spoike/refluxjs)
-- [Fluxxor](https://github.com/BinaryMuse/fluxxor)
-- [Marty](https://github.com/martyjs/marty)
-- [McFly](https://github.com/kenwheeler/mcfly)
-- [Alt](https://github.com/goatslacker/alt)
-- [Fluxible](https://github.com/yahoo/fluxible)
-- [NuclearJS](https://github.com/optimizely/nuclear-js)
-- [Flummox](https://github.com/acdlite/flummox)
-- [Coflux](https://github.com/blainekasten/coflux)
-- [MobX](#mobx)
-- [Sinux](https://github.com/jbpin/sinux)
-
-#### Flux Tutorials
-
-- [Building Applications with React and Flux](https://www.pluralsight.com/courses/react-flux-building-applications)
-- [Flux: A simple architecture model to build Client-side apps](https://speakerdeck.com/pedronauck/flux-a-simple-architecture-model-to-build-client-side-apps)
-- [Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo](https://github.com/yahoo/flux-examples)
-- [Async requests with React.js and Flux](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
-- [Implementing Flux in CoffeeScript](https://archive.fo/l9ih6)
-- [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
-- [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
-- [Yo in Flux](http://davidandsuzi.com/yo-in-flux/)
-- [React.js architecture - Flux VS Reflux](http://blog.krawaller.se/posts/react-js-architecture-flux-vs-reflux/)
-- [Avoiding Event Chains in Single Page Applications](http://www.code-experience.com/avoiding-event-chains-in-single-page-applications/)
-- [ReactJS and Flux](http://christianalfoni.github.io/javascript/2014/08/20/react-js-and-flux.html)
-- [Deconstructing ReactJS's Flux](http://spoike.ghost.io/deconstructing-reactjss-flux/)
-- [Flux Step By Step](http://blogs.atlassian.com/2014/08/flux-architecture-step-by-step/)
-- [Flux in practice](https://medium.com/@garychambers108/flux-in-practice-ec08daa9041a)
-- [What is the Flux Application Architecture?](https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e)
-- [React + Flux Backed by Rails API: Part 1](http://fancypixel.github.io/blog/2015/01/28/react-plus-flux-backed-by-rails-api/)
-- [React + Flux Backed by Rails API: Part 2](http://fancypixel.github.io/blog/2015/01/29/react-plus-flux-backed-by-rails-api-part-2/)
-- [React + Flux Backed by Rails API: Part 3](http://fancypixel.github.io/blog/2015/01/30/react-plus-flux-backed-by-rails-api-part-3/)
-- [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
-- [Flux Cargo-Culting](https://medium.com/@cassiozen/flux-cargo-culting-3cae9ff27c0c)
-- [The Case for Flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
-- [The Evolution of Flux Frameworks](http://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
-- [React with Flux by example - a simple Todo List dissected](http://reactkungfu.com/2015/07/react-with-flux-by-example-simple-todo-list-dissected/)
-- [FOR FLUX SAKE! - a beginners tutorial](https://github.com/MIJOTHY/FOR_FLUX_SAKE)
-- [Simple Counter App with React and Nuclear JS](https://github.com/haochuan/random-notes/blob/master/react/couter-app-with-react-nuclear.md)
-- [LearnCode.academy Flux Tutorial Series](https://www.youtube.com/watch?v=PvjNglsyOHs&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=9)
 
 ---
 
