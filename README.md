@@ -235,6 +235,7 @@ A collection of awesome things regarding the React ecosystem.
 - [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
 - [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
+- [cogo-toast](https://github.com/Cogoport/cogo-toast) - Plug and play, toast messages, with promise support and inbuilt styling and icons, ~4kb.
 
 ##### React for Command Line
 
