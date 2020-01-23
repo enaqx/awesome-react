@@ -235,6 +235,7 @@ A collection of awesome things regarding the React ecosystem.
 - [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
 - [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
+- [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - Create Instagram like stories in React
 
 ##### React for Command Line
 
