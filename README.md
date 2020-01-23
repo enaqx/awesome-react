@@ -201,6 +201,7 @@ A collection of awesome things regarding the React ecosystem.
 - [reakit](https://github.com/reakit/reakit) - Accessible, Composable and Customizable components for React
 - [rsuite](https://github.com/rsuite/rsuite) - A suite of React components
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
+- [baseweb](https://github.com/uber/baseweb) - Base Web is a foundation for initiating, evolving, and unifying web products.
 
 ##### React Awesome Components
 
@@ -384,6 +385,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-reactive-form - Angular like reactive forms in React](https://github.com/bietkul/react-reactive-form)
 - [unform - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!](https://github.com/Rocketseat/unform)
 - [Formal - Elegant form management primitives for the react hooks era](https://github.com/iamkevinwolf/formal)
+- [react-hook-form - Performant, flexible and extensible forms with easy to use validation](https://github.com/react-hook-form/react-hook-form)
 
 ##### Autocomplete
 
