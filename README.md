@@ -202,6 +202,7 @@ A collection of awesome things regarding the React ecosystem.
 - [rsuite](https://github.com/rsuite/rsuite) - A suite of React components
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
 - [baseweb](https://github.com/uber/baseweb) - Base Web is a foundation for initiating, evolving, and unifying web products.
+- [primereact](https://github.com/primefaces/primereact) - A complete UI Framework for React with 50+ components featuring material, bootstrap and custom themes.
 
 ##### React Awesome Components
 
@@ -273,7 +274,6 @@ A collection of awesome things regarding the React ecosystem.
 - [Slate - A completely customizable framework for building rich text editors.](https://github.com/ianstormtaylor/slate)
 - [react-json-schema - Construct React elements from JSON by mapping JSON definitions to React components that you expose.](https://github.com/TechniqueSoftware/react-json-schema)
 - [compose-state - Compose multiple setState or getDerivedStateFromProps updaters in React](https://github.com/tvler/compose-state)
-- [PrimeReact - The Most Complete UI Framework for React!](https://github.com/primefaces/primereact)
 - [react-lodash - Lodash as React components](https://github.com/typicode/react-lodash)
 - [react-helmet - A document head manager for React](https://github.com/nfl/react-helmet)
 - [Stator - Simple, plain JavaScript state management with built-in support for React](https://github.com/cs01/stator)
