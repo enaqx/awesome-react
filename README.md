@@ -174,6 +174,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [next.js](https://github.com/zeit/next.js) - The React Framework
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
+- [react-admin](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
 
 ##### React Styling
 
