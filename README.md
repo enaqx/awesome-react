@@ -770,7 +770,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-reduction](https://github.com/reduction-admin/react-reduction) - Free Admin Template Built with React and Bootstrap4
 - [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) - Responsive React The Movie Database App
 - [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - Simple ecommerce cart application built with React Redux
-- [dnote](https://github.com/dnote/dnote) - A simple personal knowledge base
 
 ---
 
@@ -782,6 +781,7 @@ A collection of awesome things regarding the React ecosystem.
 - [mattermost](https://github.com/mattermost/mattermost-webapp) - Open source Slack alternative
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 - [winamp2-js](https://github.com/captbaritone/winamp2-js) - Winamp 2 reimplemented for the browser
+- [dnote](https://github.com/dnote/dnote) - A command line notebook with multi-device sync and web interface
 
 ---
 
