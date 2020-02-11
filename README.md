@@ -186,7 +186,10 @@ A collection of awesome things regarding the React ecosystem.
 ##### React Routing
 
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
+- [reach-router](https://github.com/reach/router) - Next Generation Routing for React
 - [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
+- [found](https://github.com/4Catalyzer/found) - Extensible route-based routing for React applications
+- [react-keeper](https://github.com/vifird/react-keeper) - A routing library of React.
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
 
 ##### React Component Libraries
@@ -204,6 +207,7 @@ A collection of awesome things regarding the React ecosystem.
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
 - [baseweb](https://github.com/uber/baseweb) - Base Web is a foundation for initiating, evolving, and unifying web products.
 - [primereact](https://github.com/primefaces/primereact) - A complete UI Framework for React with 50+ components featuring material, bootstrap and custom themes.
+- [react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework
 
 ##### React Awesome Components
 
