@@ -354,6 +354,7 @@ A collection of awesome things regarding the React ecosystem.
 - [redux](#redux)
 - [mobx](#mobx)
 - [flux](http://facebook.github.io/flux/)
+- [universal-model-react](https://github.com/universal-model/universal-model-react)
 
 ##### React AR and VR
 
