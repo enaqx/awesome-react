@@ -387,6 +387,7 @@ A collection of awesome things regarding the React ecosystem.
 - [unform - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!](https://github.com/Rocketseat/unform)
 - [Formal - Elegant form management primitives for the react hooks era](https://github.com/iamkevinwolf/formal)
 - [react-hook-form - Performant, flexible and extensible forms with easy to use validation](https://github.com/react-hook-form/react-hook-form)
+- [Data Driven Forms - Easy and manageable way for creating React forms using JSON data schemas.](https://github.com/data-driven-forms/react-forms)
 
 ##### Autocomplete
 
