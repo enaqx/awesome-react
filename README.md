@@ -432,6 +432,7 @@ A collection of awesome things regarding the React ecosystem.
 - [ReSub - A library for writing better React components and data stores](https://github.com/Microsoft/ReSub)
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [WatermelonDB - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast](https://github.com/Nozbe/WatermelonDB)
+- [RxDB - A realtime Database for JavaScript Applications](https://github.com/pubkey/rxdb)
 - [Effector — Fast and powerful reactive state manager. Lets you write simple, fast and type safe code and manage reactive state with ease.](https://github.com/zerobias/effector)
 - [reactn - React, but with built-in global state management](https://github.com/CharlesStover/reactn)
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
