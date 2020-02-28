@@ -170,7 +170,7 @@ A collection of awesome things regarding the React ecosystem.
 - [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
 - [react-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React applications
 - [codesandbox](https://codesandbox.io/s/new) - An online IDE for rapid React development with integrated React DevTools.
-- [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - An ultra-fast and tiny (5.2 kB) browser based compiler for JSX / React.
+- [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page
 
 ##### React Frameworks
 
