@@ -467,6 +467,7 @@ A collection of awesome things regarding the React ecosystem.
 - [echarts-for-react - A very simple ECharts wrapper for React.](https://github.com/hustcc/echarts-for-react)
 - [Chartify - React plugin for building charts using CSS.](https://github.com/kis/chartify)
 - [Semiotic - A data visualization framework combining React and D3.](https://github.com/nteract/semiotic)
+- [jscharting-react](https://github.com/jscharting/jscharting-react) – React chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/).
 
 ---
 
