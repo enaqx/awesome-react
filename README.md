@@ -470,6 +470,11 @@ A collection of awesome things regarding the React ecosystem.
 - [Chartify - React plugin for building charts using CSS.](https://github.com/kis/chartify)
 - [Semiotic - A data visualization framework combining React and D3.](https://github.com/nteract/semiotic)
 
+
+#### React Books
+
+- [React Hooks in Action](https://www.manning.com/books/react-hooks-in-action)
+
 ---
 
 ### React Native
