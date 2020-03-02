@@ -32,6 +32,7 @@ A collection of awesome things regarding the React ecosystem.
     - [Data Managing](#data-managing)
     - [Maps](#maps)
     - [Charts](#charts)
+  - [React Books](#react-books)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
   - [React Native Community](#react-native-community)
