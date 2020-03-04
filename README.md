@@ -184,6 +184,7 @@ A collection of awesome things regarding the React ecosystem.
 - [emotion](https://github.com/emotion-js/emotion) - Library designed for writing CSS styles with JavaScript
 - [radium](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
 - [jss](https://github.com/cssinjs/jss) - Authoring tool for CSS
+- [paperclip](https://github.com/crcn/paperclip) - Tool for creating primitive UI components visually
 
 ##### React Routing
 
