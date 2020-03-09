@@ -291,7 +291,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems
 - [react-esi](https://github.com/dunglas/react-esi) - React Edge Side Includes
 - [hookstate](https://github.com/avkonst/hookstate) - Modern, very fast and extendable state management for React that is based on hooks
-- [unstated](https://github.com/BadMask121/unstated) - A simple state management library 
+- [unstated](https://github.com/jamiebuilds/unstated) - A simple state management library 
 ##### React Integration
 
 - [ReasonReact](https://reasonml.github.io/reason-react/)
