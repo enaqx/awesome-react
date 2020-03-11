@@ -241,6 +241,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
+- [react-colrow](https://github.com/phphe/react-colrow) - Responsive grid layout components. Based on css flexbox.
 
 ##### React for Command Line
 
