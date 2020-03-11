@@ -169,6 +169,8 @@ A collection of awesome things regarding the React ecosystem.
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 - [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
 - [react-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React applications
+- [codesandbox](https://codesandbox.io/s/new) - An online IDE for rapid React development with integrated React DevTools.
+- [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page
 
 ##### React Frameworks
 
@@ -238,6 +240,7 @@ A collection of awesome things regarding the React ecosystem.
 - [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
+- [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 
 ##### React for Command Line
 
@@ -292,6 +295,8 @@ A collection of awesome things regarding the React ecosystem.
 - [react-esi](https://github.com/dunglas/react-esi) - React Edge Side Includes
 - [hookstate](https://github.com/avkonst/hookstate) - Modern, very fast and extendable state management for React that is based on hooks
 - [unstated](https://github.com/jamiebuilds/unstated) - A simple state management library 
+- [universal-model-react](https://github.com/universal-model/universal-model-react) - Unified state management solution for React
+
 ##### React Integration
 
 - [ReasonReact](https://reasonml.github.io/reason-react/)
@@ -430,6 +435,7 @@ A collection of awesome things regarding the React ecosystem.
 - [ReSub - A library for writing better React components and data stores](https://github.com/Microsoft/ReSub)
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [WatermelonDB - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast](https://github.com/Nozbe/WatermelonDB)
+- [RxDB - A realtime Database for JavaScript Applications](https://github.com/pubkey/rxdb)
 - [Effector — Fast and powerful reactive state manager. Lets you write simple, fast and type safe code and manage reactive state with ease.](https://github.com/zerobias/effector)
 - [reactn - React, but with built-in global state management](https://github.com/CharlesStover/reactn)
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
