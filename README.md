@@ -345,6 +345,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-packery-mixin - Standalone mixin for Packery (Metafizzy)](https://github.com/eiriklv/react-packery-mixin)
 - [react-dropzone - Simple HTML5 drag-drop zone with React.js.](https://github.com/paramaggarwal/react-dropzone)
 - [aframe-react - A-Frame VR + React](https://github.com/ngokevin/aframe)
+- [react-three-fiber - A react reconciler for threejs (web and react-native)](https://github.com/react-spring/react-three-fiber)
 - [react-three - React bindings to create and control a 3D scene using three.js](https://github.com/Izzimach/react-three)
 - [react-three-renderer - Render into a three.js canvas using React](https://github.com/toxicFork/react-three-renderer)
 - [react-threejs - Simplest bindings between React & Three.js](https://github.com/fritx/react-threejs)
