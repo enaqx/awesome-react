@@ -224,6 +224,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Calendar component
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - ReactJS Datepicker
+- [react-google-flight-datepicker](https://github.com/JSLancerTeam/react-google-flight-datepicker) - Google flight date picker implemented in React
 - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component
 - [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
