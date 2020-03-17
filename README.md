@@ -272,6 +272,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Maple.js - Bringing the concept of web-components to React](https://github.com/Wildhoney/Maple.js)
 - [react-i13n - A performant, scalable and pluggable approach to instrumenting your React application](https://github.com/yahoo/react-i13n)
 - [react-icons - svg react icons of popular icon packs](https://github.com/gorangajic/react-icons)
+- [react-open-doodles](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
 - [Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc...](https://github.com/Wildhoney/Keo)
 - [Bit - A virtual repository for managing and using react and other web components across applications](https://github.com/teambit/bit)
 - [AtlasKit - Atlassian's React UI library](https://atlaskit.atlassian.com/)
