@@ -206,6 +206,10 @@ A collection of awesome things regarding the React ecosystem.
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
 - [baseweb](https://github.com/uber/baseweb) - Base Web is a foundation for initiating, evolving, and unifying web products.
 - [primereact](https://github.com/primefaces/primereact) - A complete UI Framework for React with 50+ components featuring material, bootstrap and custom themes.
+- [react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework
+- [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
+- [rbx](https://github.com/dfee/rbx) - The Comprehensive Bulma UI Framework for React
+- [trunx](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
 
 ##### React Awesome Components
 
