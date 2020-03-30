@@ -795,6 +795,7 @@ A collection of awesome things regarding the React ecosystem.
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 - [winamp2-js](https://github.com/captbaritone/winamp2-js) - Winamp 2 reimplemented for the browser
 - [dnote](https://github.com/dnote/dnote) - A command line notebook with multi-device sync and web interface
+- [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume) - A free & open-source resume builder that respects your privacy, built with React Hooks + Context API
 
 ---
 
