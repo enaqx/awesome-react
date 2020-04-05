@@ -562,6 +562,8 @@ A collection of awesome things regarding the React ecosystem.
 - [redux-thunk - Thunk middleware for redux](https://github.com/gaearon/redux-thunk)
 - [redux-logger - Logger middleware for redux](https://github.com/theaqua/redux-logger)
 - [reselect - Selector library for Redux](https://github.com/reactjs/reselect)
+- [redux-actions - Flux Standard Action utilities for Redux](https://github.com/redux-utilities/redux-actions)
+- [reduce-reducers - Reduce multiple reducers into a single reducer from left to right](https://github.com/redux-utilities/reduce-reducers)
 - [normalizr - Normalizes nested JSON according to a schema](https://github.com/paularmstrong/normalizr)
 - [redux-saga - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga)
 - [redux-data-fx - Declarative Side Effects for Redux](https://github.com/matthieu-beteille/redux-data-fx)
