@@ -171,6 +171,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React applications
 - [codesandbox](https://codesandbox.io/s/new) - An online IDE for rapid React development with integrated React DevTools.
 - [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page
+- [Poetic](https://github.com/arianacosta/poetic) - Automatically install and maintain ESLint, Prettier, EditorConfig and Airbnb rules for JavaScript, TypeScript and React.
 
 ##### React Frameworks
 
