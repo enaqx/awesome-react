@@ -212,6 +212,7 @@ A collection of awesome things regarding the React ecosystem.
 - [trunx](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
 - [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
 - [tails-ui](https://github.com/knipferrc/tails-ui) - Clean UI based on tailwindcss
+- [insites-ui](https://github.com/insites-co/insites-ui) - Modern, opinionated, minimal, yet powerful React components library, powered by Styled Components.
 
 ##### React Awesome Components
 
