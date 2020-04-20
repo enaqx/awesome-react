@@ -247,6 +247,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
+- [react-imgix](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background in React
 
 ##### React for Command Line
 
