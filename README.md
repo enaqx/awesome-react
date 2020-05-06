@@ -34,7 +34,6 @@ A collection of awesome things regarding the React ecosystem.
     - [Charts](#charts)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
-  - [React Native Community](#react-native-community)
   - [React Native Tutorials](#react-native-tutorials)
   - [React Native Development Tools](#react-native-development-tools)
   - [React Native Sample Apps](#react-native-sample-apps)
