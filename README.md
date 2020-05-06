@@ -39,6 +39,7 @@ A collection of awesome things regarding the React ecosystem.
   - [React Native Sample Apps](#react-native-sample-apps)
   - [React Native Boilerplates](#react-native-boilerplates)
   - [React Native Awesome Components](#react-native-awesome-components)
+  - [React Native Libraries](#react-native-libraries)
 - [Redux](#redux)
   - [Redux General Resources](#redux-general-resources)
   - [Redux Tools](#redux-tools)
@@ -176,6 +177,7 @@ A collection of awesome things regarding the React ecosystem.
 - [next.js](https://github.com/zeit/next.js) - The React Framework
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
 - [react-admin](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
+- [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
 
 ##### React Styling
 
@@ -183,19 +185,22 @@ A collection of awesome things regarding the React ecosystem.
 - [emotion](https://github.com/emotion-js/emotion) - Library designed for writing CSS styles with JavaScript
 - [radium](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
 - [jss](https://github.com/cssinjs/jss) - Authoring tool for CSS
+- [aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
+
 
 ##### React Routing
 
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
+- [reach](https://github.com/reach/router) - Next Generation Routing for React
 
 ##### React Component Libraries
 
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development
 - [ant-design](https://github.com/ant-design/ant-design) - A design system with values of Nature and Determinacy
 - [blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the webs
-- [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences
+- [Fluent UI](https://github.com/microsoft/fluentui) -  A set of React components for building Microsoft web experiences
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
@@ -540,8 +545,17 @@ A collection of awesome things regarding the React ecosystem.
 - [react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar](https://github.com/oblador/react-native-vector-icons)
 - [react-native-google-signin - Google Signin for React Native](https://github.com/apptailor/react-native-google-signin)
 - [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view)
+- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
+- [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) -  FastImage, performant React Native image component
+- [recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
+- [react-native-largelist](https://github.com/bolan9999/react-native-largelist) - The best large list component for React Native
+- [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native
+- [rn-placeholder](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native
 
----
+#### React Native Libraries
+- [sentry-react-native](https://github.com/getsentry/sentry-react-native) - Real-time crash reporting for your web apps, mobile apps, and games.
+- [realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
+- [react-native-device-info](https://github.com/react-native-community/react-native-device-info) - Device Information for React Native iOS and Android
 
 ### Redux
 
