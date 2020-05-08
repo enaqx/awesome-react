@@ -106,6 +106,7 @@ A collection of awesome things regarding the React ecosystem.
 - [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
+- [30-seconds-of-react](https://github.com/30-seconds/30-seconds-of-react)
 - [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
@@ -151,6 +152,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [13 Essential React Interview Questions](https://www.toptal.com/react/interview-questions)
 - [List of React interview Questions and Answers](https://github.com/sudheerj/reactjs-interview-questions)
+- [A curated collection of common interview questions to help you prepare for your next interview](https://github.com/30-seconds/30-seconds-of-interviews)
 
 #### React Tools
 
