@@ -282,6 +282,7 @@ A collection of awesome things regarding the React ecosystem.
 - [riotjs - A React- like, 3.5KB user interface library](https://github.com/muut/riotjs)
 - [Maple.js - Bringing the concept of web-components to React](https://github.com/Wildhoney/Maple.js)
 - [react-i13n - A performant, scalable and pluggable approach to instrumenting your React application](https://github.com/yahoo/react-i13n)
+- [react-icomoon - It allows you to simply view the icons in the selection.json file provided by Icomoon.](https://github.com/gorangajic/react-icomoon)
 - [react-icons - svg react icons of popular icon packs](https://github.com/gorangajic/react-icons)
 - [react-open-doodles](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
 - [Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc...](https://github.com/Wildhoney/Keo)
