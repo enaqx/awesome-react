@@ -271,6 +271,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
 - [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) - React hooks testing utilities that encourage good testing practices
 - [majestic](https://github.com/Raathigesh/majestic) - Zero config GUI for Jest
+- [cypress-react-unit-test](https://github.com/bahmutov/cypress-react-unit-test) - Write React component tests using [Cypress](https://github.com/cypress-io/cypress)
 
 ##### React Libraries
 
