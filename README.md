@@ -689,6 +689,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [express-graphql - Create a GraphQL HTTP server with **Express**](https://github.com/graphql/express-graphql)
 - [graphql-yoga - Easiest way to run a GraphQL server](https://github.com/graphcool/graphql-yoga)
+- [The Knests Stack - Full stack  boilerplate/hackathon starter with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.](https://github.com/tudorconstantin/knests/)
 
 #### Database Integration
 
