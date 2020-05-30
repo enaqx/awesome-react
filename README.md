@@ -2,6 +2,7 @@
 
 A collection of awesome things regarding the React ecosystem.
 
+- [**Awesome React** ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-react-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
 - [React](#react)
   - [React General Resources](#react-general-resources)
   - [React Community](#react-community)
@@ -61,13 +62,18 @@ A collection of awesome things regarding the React ecosystem.
   - [Relay Tools](#relay-tools)
 - [Apollo](#apollo)
   - [Apollo General Resources](#apollo-general-resources)
+  - [Apollo Tools](#apollo-tools)
 - [Videos](#videos)
+  - [reactjsvideos.com](#reactjsvideoscom)
   - [Important Talks](#important-talks)
   - [React.js Conf 2015 Playlist](#reactjs-conf-2015-playlist)
   - [ReactEurope Conf 2015 Day 1 Playlist](#reacteurope-conf-2015-day-1-playlist)
   - [ReactEurope Conf 2015 Day 2 Playlist](#reacteurope-conf-2015-day-2-playlist)
   - [ReactRally Conf 2015 Playlist](#reactrally-conf-2015-playlist)
   - [React.js Conf 2016 Playlist](#reactjs-conf-2016-playlist)
+  - [React Amsterdam 2016 Playlist](#react-amsterdam-2016-playlist)
+  - [ReactEurope Conf 2016 Day 1 Playlist](#reacteurope-conf-2016-day-1-playlist)
+  - [ReactEurope Conf 2016 Day 2 Playlist](#reacteurope-conf-2016-day-2-playlist)
   - [ReactRally Conf 2016 Playlist](#reactrally-conf-2016-playlist)
   - [React.js Amsterdam 2018 Playlist](#reactjs-amsterdam-2018-playlist)
   - [Video Tutorials](#video-tutorials)
@@ -819,6 +825,7 @@ A collection of awesome things regarding the React ecosystem.
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 - [winamp2-js](https://github.com/captbaritone/winamp2-js) - Winamp 2 reimplemented for the browser
 - [dnote](https://github.com/dnote/dnote) - A command line notebook with multi-device sync and web interface
+- [feednext](https://feednext.io) - Open-Source Social Media Application
 
 ---
 
