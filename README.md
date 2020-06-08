@@ -223,6 +223,7 @@ A collection of awesome things regarding the React ecosystem.
 - [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
 - [tails-ui](https://github.com/knipferrc/tails-ui) - Clean UI based on tailwindcss
 - [zeit-ui/react](https://github.com/zeit-ui/react) - Modern and minimalist React UI library
+- [smart-ui](https://www.htmlelements.com/react/) - Toolkit with 60+ React.js components
 
 ##### React Awesome Components
 
@@ -232,6 +233,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [react-grid-layout](https://github.com/strml/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [react-table](https://github.com/tannerlinsley/react-table/) - A lightweight, fast and extendable datagrid for React
+- [react-datagrid](https://www.htmlelements.com/react/grid/overview/) - Feature complete Grid, TreeGrid and Spreadsheet for React
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid component built with React
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - A resizable and draggable component for React
