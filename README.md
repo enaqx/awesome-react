@@ -173,6 +173,7 @@ A collection of awesome things regarding the React ecosystem.
 - [codesandbox](https://codesandbox.io/s/new) - An online IDE for rapid React development with integrated React DevTools.
 - [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders.
+- [react-parse](https://github.com/parse-community/ParseReact) - Open Source Parse Backend for React Apps
 
 ##### React Frameworks
 
@@ -697,6 +698,7 @@ A collection of awesome things regarding the React ecosystem.
 #### Database Integration
 
 - [Hasura](https://hasura.io/) - Instant Realtime GraphQL on Postgres
+- [Back4App](https://www.back4app.com/docs/js-framework/react-template) - React Apps Database with GraphQL & Rest APIs.
 - [Prisma - a performant open-source GraphQL ORM-like \* layer doing the heavy lifting in your GraphQL server.](https://www.prisma.io/)
 - [graphql-bookshelf - Some help defining GraphQL schema around BookshelfJS models](https://github.com/brysgo/graphql-bookshelf)
 - [GraphpostgresQL - GraphQL for **PostgreSQL**](https://github.com/solidsnack/GraphpostgresQL)
