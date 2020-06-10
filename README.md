@@ -427,6 +427,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-kinetic](https://github.com/freiksenet/react-kinetic) - HTML5 Canvas via KineticJS using React
 - [react-svg-morph](https://github.com/gorangajic/react-svg-morph) - morph your svg components one into another
 - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
+- [gooey-react](https://gooey-react.netlify.app/) - A React component for applying a gooey effect.
 
 ##### Data Managing
 
