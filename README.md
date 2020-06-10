@@ -434,6 +434,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-svg-morph - morph your svg components one into another](https://github.com/gorangajic/react-svg-morph)
 - [react-hooks-svgdrawing - SVG Drawing with React hooks](https://github.com/kmkzt/react-hooks-svgdrawing)
 - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
+- [gooey-react](https://gooey-react.netlify.app/) - A React component for applying a gooey effect.
 
 ##### Data Managing
 
