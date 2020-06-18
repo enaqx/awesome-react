@@ -223,6 +223,7 @@ A collection of awesome things regarding the React ecosystem.
 - [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
 - [tails-ui](https://github.com/knipferrc/tails-ui) - Clean UI based on tailwindcss
 - [zeit-ui/react](https://github.com/zeit-ui/react) - Modern and minimalist React UI library
+- [insites-ui](https://github.com/sodify/insites-ui) - Modern, opinionated, minimal, yet powerful React components library, powered by Styled Components.
 
 ##### React Awesome Components
 
