@@ -820,6 +820,7 @@ A collection of awesome things regarding the React ecosystem.
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 - [winamp2-js](https://github.com/captbaritone/winamp2-js) - Winamp 2 reimplemented for the browser
 - [dnote](https://github.com/dnote/dnote) - A command line notebook with multi-device sync and web interface
+- [COVID-19 in Charts](https://github.com/evrimfeyyaz/covid-19-in-charts) - A web app that visualizes the COVID-19 data from JHU CSSE.
 
 ---
 
