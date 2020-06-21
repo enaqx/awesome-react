@@ -34,12 +34,12 @@ A collection of awesome things regarding the React ecosystem.
     - [Charts](#charts)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
-  - [React Native Community](#react-native-community)
   - [React Native Tutorials](#react-native-tutorials)
   - [React Native Development Tools](#react-native-development-tools)
   - [React Native Sample Apps](#react-native-sample-apps)
   - [React Native Boilerplates](#react-native-boilerplates)
   - [React Native Awesome Components](#react-native-awesome-components)
+  - [React Native Libraries](#react-native-libraries)
 - [Redux](#redux)
   - [Redux General Resources](#redux-general-resources)
   - [Redux Tools](#redux-tools)
@@ -164,6 +164,7 @@ A collection of awesome things regarding the React ecosystem.
 - [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
 - [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
 - [storybook](https://github.com/storybookjs/storybook) - UI component dev & test
+- [docz](https://github.com/doczjs/docz) - Zero Config, live-reloading documentation with Markdown + JSX
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
@@ -171,12 +172,14 @@ A collection of awesome things regarding the React ecosystem.
 - [react-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React applications
 - [codesandbox](https://codesandbox.io/s/new) - An online IDE for rapid React development with integrated React DevTools.
 - [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page
+- [Why Did You Render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders.
 
 ##### React Frameworks
 
 - [next.js](https://github.com/zeit/next.js) - The React Framework
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
 - [react-admin](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
+- [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
 
 ##### React Styling
 
@@ -184,22 +187,29 @@ A collection of awesome things regarding the React ecosystem.
 - [emotion](https://github.com/emotion-js/emotion) - Library designed for writing CSS styles with JavaScript
 - [radium](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
 - [jss](https://github.com/cssinjs/jss) - Authoring tool for CSS
+- [aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
+
 
 ##### React Routing
 
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
+- [reach](https://github.com/reach/router) - Next Generation Routing for React
 
 ##### React Component Libraries
 
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development
 - [ant-design](https://github.com/ant-design/ant-design) - A design system with values of Nature and Determinacy
 - [blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the webs
-- [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences
+- [Fluent UI](https://github.com/microsoft/fluentui) -  A set of React components for building Microsoft web experiences
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
+- [evergreen](https://github.com/segmentio/evergreen) -  Evergreen React UI Framework by Segment
+- [grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui/) - Simple, Modular & Accessible UI Components for your React Applications
+- [rebass](https://github.com/rebassjs/rebass) - React primitive UI components built with styled-system
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 component library for React
 - [reakit](https://github.com/reakit/reakit) - Accessible, Composable and Customizable components for React
 - [rsuite](https://github.com/rsuite/rsuite) - A suite of React components
@@ -212,11 +222,13 @@ A collection of awesome things regarding the React ecosystem.
 - [trunx](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
 - [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
 - [tails-ui](https://github.com/knipferrc/tails-ui) - Clean UI based on tailwindcss
+- [zeit-ui/react](https://github.com/zeit-ui/react) - Modern and minimalist React UI library
 
 ##### React Awesome Components
 
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [react-grid-layout](https://github.com/strml/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [react-table](https://github.com/tannerlinsley/react-table/) - A lightweight, fast and extendable datagrid for React
@@ -225,6 +237,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - A resizable and draggable component for React
 - [react-resizable](https://github.com/strml/react-resizable) - A simple React component that is resizable with a handle
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) - A resizable component for React
+- [react-searchbox-awesome](https://github.com/axmz/react-searchbox-awesome) - Minimalistic searchbox
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - A sortable and resizable pane component for React
 - [react-spaces](https://github.com/aeagle/react-spaces) - Nestable resizable, anchored, scrollable components
 - [react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
@@ -366,6 +379,8 @@ A collection of awesome things regarding the React ecosystem.
 - [redux](#redux)
 - [mobx](#mobx)
 - [flux](http://facebook.github.io/flux/)
+- [recoil](https://github.com/facebookexperimental/Recoil)
+- [xState](https://github.com/davidkpiano/xstate)
 
 ##### React AR and VR
 
@@ -540,8 +555,17 @@ A collection of awesome things regarding the React ecosystem.
 - [react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar](https://github.com/oblador/react-native-vector-icons)
 - [react-native-google-signin - Google Signin for React Native](https://github.com/apptailor/react-native-google-signin)
 - [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view)
+- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
+- [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) -  FastImage, performant React Native image component
+- [recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
+- [react-native-largelist](https://github.com/bolan9999/react-native-largelist) - The best large list component for React Native
+- [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native
+- [rn-placeholder](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native
 
----
+#### React Native Libraries
+- [sentry-react-native](https://github.com/getsentry/sentry-react-native) - Real-time crash reporting for your web apps, mobile apps, and games.
+- [realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
+- [react-native-device-info](https://github.com/react-native-community/react-native-device-info) - Device Information for React Native iOS and Android
 
 ### Redux
 
@@ -558,6 +582,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-redux - Official React bindings for Redux](https://github.com/reactjs/react-redux)
 - [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/reduxjs/redux-devtools)
   - [react-router-redux - Bindings to keep react-router and redux in sync](https://github.com/reactjs/react-router-redux)
+- [redux-toolkit - The official, opinionated, batteries-included toolset for efficient Redux development](https://github.com/reduxjs/redux-toolkit)
 - [redux-form - A Higher Order Component using react-redux to keep form state](https://github.com/erikras/redux-form)
 - [redux-thunk - Thunk middleware for redux](https://github.com/gaearon/redux-thunk)
 - [redux-logger - Logger middleware for redux](https://github.com/theaqua/redux-logger)
