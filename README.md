@@ -290,7 +290,6 @@ A collection of awesome things regarding the React ecosystem.
 - [tcomb-react - Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
 - [react-responsive - Media queries in react for responsive design](https://github.com/wearefractal/react-responsive)
 - [react-cursor - Functional state management abstraction for use with Facebook React](https://github.com/dustingetz/react-cursor)
-- [Omniscient.js - Abstracting React components for fast top down render of immutable data](https://github.com/omniscientjs/omniscient)
 - [Touchstonejs - React.js powered UI framework for developing beautiful hybrid mobile apps.](https://github.com/touchstonejs/touchstonejs)
 - [Elemental - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
 - [StateTrooper - Centrally manage state for React applications with CSP](https://github.com/swipely/state-trooper)
