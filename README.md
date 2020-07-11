@@ -276,6 +276,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Libraries
 
+- [Reoverlay](https://github.com/hiradary/reoverlay), the missing solution for managing modals in React.
 - [react-border-wrapper - A wrapper for placing elements along div borders in React.](https://github.com/Metroxe/react-border-wrapper)
 - [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
 - [react-toolbox - A set of React components implementing Google's Material Design specification](https://github.com/react-toolbox/react-toolbox)
