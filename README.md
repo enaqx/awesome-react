@@ -561,6 +561,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-native-largelist](https://github.com/bolan9999/react-native-largelist) - The best large list component for React Native
 - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native
 - [rn-placeholder](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native
+- [react-native-rating-element](https://github.com/ui-ninja/react-native-rating-element) - A simple rating library for react native supporting: decimal points rating, direction aware icons like bottom to top or RTL etc, custom icons from Ionicons, custom images and record rating given by users.
 
 #### React Native Libraries
 - [sentry-react-native](https://github.com/getsentry/sentry-react-native) - Real-time crash reporting for your web apps, mobile apps, and games.
