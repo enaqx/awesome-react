@@ -380,6 +380,8 @@ A collection of awesome things regarding the React ecosystem.
 - [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
 - [reaptcha - Clean, modern and simple React wrapper for Google reCAPTCHA](https://github.com/sarneeh/reaptcha)
 - [react-recaptcha-that-works - A reCAPTCHA bridge for React that works](https://github.com/douglasjunior/react-recaptcha-that-works)
+- [ckeditor4-react - An official CKEditor 4 rich text editor component for React](https://github.com/ckeditor/ckeditor4-react)
+- [ckeditor5-react - An official CKEditor 5 rich text editor component for React](https://github.com/ckeditor/ckeditor5-react)
 
 ##### React State Management
 
