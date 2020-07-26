@@ -389,6 +389,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### Forms
 
+- [Jafar 🌟!(Just another form application renderer) - Form & Field components which uses underline javascript form class](http://facebook.github.io/react/docs/forms.html)
 - [React Forms](http://facebook.github.io/react/docs/forms.html)
 - [react-formal - Better form validation and value management for React, Provides minimal wiring](https://github.com/jquense/react-formal)
 - [react-forms - Forms library for React](https://github.com/prometheusresearch/react-forms)
