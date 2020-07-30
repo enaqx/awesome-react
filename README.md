@@ -234,6 +234,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-grid-layout](https://github.com/strml/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [react-table](https://github.com/tannerlinsley/react-table/) - A lightweight, fast and extendable datagrid for React
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid component built with React
+- [react-drag-sizing](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - A resizable and draggable component for React
 - [react-resizable](https://github.com/strml/react-resizable) - A simple React component that is resizable with a handle
@@ -261,6 +262,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
+- [react-editor](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML
 
 ##### React for Command Line
 
