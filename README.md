@@ -188,6 +188,7 @@ A collection of awesome things regarding the React ecosystem.
 - [radium](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
 - [jss](https://github.com/cssinjs/jss) - Authoring tool for CSS
 - [aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
+- [paperclip](https://github.com/crcn/paperclip) - Build UI primitives using plain HTML & CSS
 
 
 ##### React Routing
