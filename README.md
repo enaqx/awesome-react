@@ -220,7 +220,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
 - [rbx](https://github.com/dfee/rbx) - The Comprehensive Bulma UI Framework for React
 - [trunx](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
-- [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
+- [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) - React utility component primitives & UI framework for use with Tailwind CSS
 - [tails-ui](https://github.com/knipferrc/tails-ui) - Clean UI based on tailwindcss
 - [zeit-ui/react](https://github.com/zeit-ui/react) - Modern and minimalist React UI library
 - [elastic ui framework](https://github.com/elastic/eui) - The Elastic UI Framework is a collection of React UI components for quickly building user interfaces at Elastic.
