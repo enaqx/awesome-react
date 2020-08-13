@@ -706,7 +706,7 @@ A collection of awesome things regarding the React ecosystem.
 - [graffiti - Node.js GraphQL ORM](https://github.com/RisingStack/graffiti)
 - [sql-to-graphql - Generate a GraphQL API based on your SQL database structure](https://github.com/vaffel/sql-to-graphql)
 - [graphql-sequelize - GraphQL & Relay for MySQL & Postgres via Sequelize](https://github.com/mickhansen/graphql-sequelize)
-
+- [8base](https://www.8base.com) - GraphQL platform for rapidly building and hosting SaaS Products
 ---
 
 ### Relay
