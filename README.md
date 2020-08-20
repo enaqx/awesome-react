@@ -560,6 +560,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view)
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
 - [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) -  FastImage, performant React Native image component
+- [react-native-bigimageviewer](https://github.com/khalisafkari/react-native-bigimageviewer) -  React native Bigimageviewer supporting pan and zoom, with very little memory
 - [recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
 - [react-native-largelist](https://github.com/bolan9999/react-native-largelist) - The best large list component for React Native
 - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native
