@@ -263,6 +263,8 @@ A collection of awesome things regarding the React ecosystem.
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 - [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A component to easily add Particles animations to your React application
+- [react-spring](https://www.react-spring.io/) - Spring-physics based animation library for React applications.
+- [framer-motion](https://www.framer.com/motion/) - A React library to power production-ready animations.
 
 ##### React for Command Line
 
