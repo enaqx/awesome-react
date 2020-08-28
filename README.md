@@ -320,6 +320,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-esi](https://github.com/dunglas/react-esi) - React Edge Side Includes
 - [hookstate](https://github.com/avkonst/hookstate) - Modern, very fast and extendable state management for React that is based on hooks
 - [universal-model-react](https://github.com/universal-model/universal-model-react) - Unified state management solution for React
+- [react-widgets](https://github.com/Due-Work/react-widgets) - Simplest way to integrate widgets like docs, wiki, knowledge base, live chat, user onboarding, customer feedback etc to your react project.
 
 ##### React Integration
 
