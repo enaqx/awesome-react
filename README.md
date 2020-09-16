@@ -177,7 +177,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Frameworks
 
-- [next.js](https://github.com/zeit/next.js) - The React Framework
+- [next.js](https://github.com/vercel/next.js) - The React Framework
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
 - [react-admin](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
 - [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
@@ -223,7 +223,7 @@ A collection of awesome things regarding the React ecosystem.
 - [trunx](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
 - [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) - React utility component primitives & UI framework for use with Tailwind CSS
 - [tails-ui](https://github.com/knipferrc/tails-ui) - Clean UI based on tailwindcss
-- [zeit-ui/react](https://github.com/zeit-ui/react) - Modern and minimalist React UI library
+- [geist-org/react](https://github.com/geist-org/react) - Modern and minimalist React UI library, originating from Vercel's design
 - [elastic ui framework](https://github.com/elastic/eui) - The Elastic UI Framework is a collection of React UI components for quickly building user interfaces at Elastic.
 
 ##### React Awesome Components
