@@ -197,6 +197,7 @@ A collection of awesome things regarding the React ecosystem.
 - [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
 - [reach](https://github.com/reach/router) - Next Generation Routing for React
+- [react-easyroute](https://github.com/lyohaplotinka/react-easyroute) - Config-based router for React in style of Vue Router
 
 ##### React Component Libraries
 
