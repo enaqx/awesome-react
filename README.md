@@ -379,7 +379,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
 - [reaptcha - Clean, modern and simple React wrapper for Google reCAPTCHA](https://github.com/sarneeh/reaptcha)
 - [react-recaptcha-that-works - A reCAPTCHA bridge for React that works](https://github.com/douglasjunior/react-recaptcha-that-works)
-- [react-sophia - A visualization plugin which trace and manipulate data that promotes development speed when you are debugging & logging variables.](https://github.com/noberk/react-sophia)
+- [react-sophia - A visualization plugin which trace and manipulate data that promotes development speed when you are debugging & logging variables](https://github.com/noberk/react-sophia)
 
 ##### React State Management
 
