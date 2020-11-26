@@ -139,6 +139,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Top 5 Practices to Boost React Performance](https://www.codementor.io/blizzerand/top-5-practices-to-boost-react-performance-jv6zr89ep)
 - [React is Slow, React is Fast: Optimizing react Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
 - [Rendering large lists with react-window](https://addyosmani.com/blog/react-window/)
+- [What is the difference between useMemo and useCallback?](https://atomizedobjects.com/blog/react/what-is-the-difference-between-usememo-and-usecallback/)
 
 ##### React Internals
 
