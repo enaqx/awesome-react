@@ -399,7 +399,6 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Renderers
 
-- [Ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
 - [React Sketch.app](https://github.com/airbnb/react-sketchapp) - Render React components to Sketch
 - [React Figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js (web and react-native)
