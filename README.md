@@ -26,6 +26,7 @@ A collection of awesome things regarding the React ecosystem.
     - [React Integration](#react-integration)
     - [React State Management](#react-state-management)
     - [React AR and VR](#react-ar-and-vr)
+    - [React Renderers](#react-renderers)
     - [Forms](#forms)
     - [Autocomplete](#autocomplete)
     - [Graphics](#graphics)
@@ -395,6 +396,16 @@ A collection of awesome things regarding the React ecosystem.
 
 - [React 360](https://facebook.github.io/react-360/) - Create exciting 360 and VR experiences using React
 - [Viro React](https://viromedia.com/viroreact/) - Platform for rapidly building AR/VR applications using React Native
+
+##### React Renderers
+
+- [Ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+- [React Sketch.app](https://github.com/airbnb/react-sketchapp) - Render React components to Sketch
+- [React Figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js (web and react-native)
+- [react-nil](https://github.com/pmndrs/react-nil) - A react null renderer
+- [React PDF](https://github.com/diegomura/react-pdf) - Create PDF files using React
+- [React Hardware](https://github.com/iamdustan/react-hardware) - A React renderer for Hardware
 
 ##### Forms
 
