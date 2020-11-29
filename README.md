@@ -182,6 +182,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-admin](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
 - [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
 - [aleph.js](https://github.com/alephjs/aleph.js) - The React Framework in Deno
+- [vesselize](https://github.com/vesselize/vesselize) - ⛵ A JavaScript IoC container that works seamlessly with React
 
 ##### React Styling
 
