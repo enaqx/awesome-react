@@ -399,9 +399,11 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Renderers
 
+- [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
 - [React Sketch.app](https://github.com/airbnb/react-sketchapp) - Render React components to Sketch
 - [React Figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js (web and react-native)
+- [React 360](https://facebook.github.io/react-360/)
 - [react-nil](https://github.com/pmndrs/react-nil) - A react null renderer
 - [React PDF](https://github.com/diegomura/react-pdf) - Create PDF files using React
 - [React Hardware](https://github.com/iamdustan/react-hardware) - A React renderer for Hardware
