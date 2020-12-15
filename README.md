@@ -269,6 +269,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A component to easily add Particles animations to your React application
 - [react-spring](https://www.react-spring.io/) - Spring-physics based animation library for React applications.
 - [framer-motion](https://www.framer.com/motion/) - A React library to power production-ready animations.
+- [react-truncate-markup](https://github.com/parsable/react-truncate-markup) - React component for truncating JSX markup.
 
 ##### React for Command Line
 
