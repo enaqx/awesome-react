@@ -196,6 +196,7 @@ A collection of awesome things regarding the React ecosystem.
 ##### React Routing
 
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
+- [react-typesafe-routes](https://github.com/innFactory/react-typesafe-routes) - Statically typed react-router utility with middleware support
 - [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
 - [reach](https://github.com/reach/router) - Next Generation Routing for React
