@@ -111,7 +111,6 @@ A collection of awesome things regarding the React ecosystem.
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
 - [Setup Flow with React](https://flow.org/en/docs/react/)
-- [Develop a Live Project with React with Payment Integration & BarCode Scanner](https://www.manning.com/liveproject/online-booking-systems-for-a-salon-and-day-spa-using-spring-boot-and-reactjs)
 
 ##### React Hooks
 
