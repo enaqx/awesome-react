@@ -269,7 +269,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A component to easily add Particles animations to your React application
 - [react-spring](https://www.react-spring.io/) - Spring-physics based animation library for React applications.
 - [framer-motion](https://www.framer.com/motion/) - A React library to power production-ready animations.
-- [react-slick](https://react-slick.neostack.com/) - Carousel component built with React.
+- [react-slick](https://github.com/akiran/react-slick) - Carousel component built with React.
 
 ##### React for Command Line
 
