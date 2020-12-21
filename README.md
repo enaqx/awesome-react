@@ -270,6 +270,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-spring](https://www.react-spring.io/) - Spring-physics based animation library for React applications.
 - [framer-motion](https://www.framer.com/motion/) - A React library to power production-ready animations.
 - [react-truncate-markup](https://github.com/parsable/react-truncate-markup) - React component for truncating JSX markup.
+- [react-cookie](https://github.com/reactivestack/cookies) - Universal cookies for React.
 
 ##### React for Command Line
 
