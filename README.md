@@ -272,6 +272,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-truncate-markup](https://github.com/parsable/react-truncate-markup) - React component for truncating JSX markup.
 - [react-cookie](https://github.com/reactivestack/cookies) - Universal cookies for React.
 - [react-slick](https://github.com/akiran/react-slick) - Carousel component built with React.
+- [react-gtm-module](https://github.com/alinemorelli/react-gtm) - Google Tag Manager Module for React.
 
 ##### React for Command Line
 
