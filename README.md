@@ -269,6 +269,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A component to easily add Particles animations to your React application
 - [react-spring](https://www.react-spring.io/) - Spring-physics based animation library for React applications.
 - [framer-motion](https://www.framer.com/motion/) - A React library to power production-ready animations.
+- [react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - React Component for creating an 'Accordion' that adheres to the WAI ARIA spec for accessibility.
 - [react-truncate-markup](https://github.com/parsable/react-truncate-markup) - React component for truncating JSX markup.
 - [react-cookie](https://github.com/reactivestack/cookies) - Universal cookies for React.
 - [react-slick](https://github.com/akiran/react-slick) - Carousel component built with React.
