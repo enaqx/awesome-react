@@ -229,6 +229,7 @@ A collection of awesome things regarding the React ecosystem.
 - [geist-org/react](https://github.com/geist-org/react) - Modern and minimalist React UI library, originating from Vercel's design
 - [elastic ui framework](https://github.com/elastic/eui) - The Elastic UI Framework is a collection of React UI components for quickly building user interfaces at Elastic.
 - [bugbag react ui kit](https://bumbag.style/) - Bumbag is a friendly React UI Kit suitable for MVPs or large-scale applications.
+- [brix-ui](https://github.com/uStudioTeam/brix-ui) - Minimal UI framework for React built with TypeScript and styled-components.
 
 ##### React Awesome Components
 
