@@ -204,6 +204,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development
 - [ant-design](https://github.com/ant-design/ant-design) - A design system with values of Nature and Determinacy
+- [volt-react-dashboard](https://github.com/themesberg/volt-react-dashboard) - React components and dashboard pages based on Bootstrap 5
 - [blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the webs
 - [Fluent UI](https://github.com/microsoft/fluentui) - A set of React components for building Microsoft web experiences
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
