@@ -395,6 +395,7 @@ A collection of awesome things regarding the React ecosystem.
 - [flux](http://facebook.github.io/flux/)
 - [recoil](https://github.com/facebookexperimental/Recoil)
 - [xState](https://github.com/davidkpiano/xstate)
+- [react-query](https://react-query.tanstack.com/)
 
 ##### React AR and VR
 
