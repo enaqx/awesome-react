@@ -273,6 +273,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-cookie](https://github.com/reactivestack/cookies) - Universal cookies for React.
 - [react-slick](https://github.com/akiran/react-slick) - Carousel component built with React.
 - [react-gtm-module](https://github.com/alinemorelli/react-gtm) - Google Tag Manager Module for React.
+- [react-device-detect](https://github.com/duskload/react-device-detect) - Detect device for React.
 
 ##### React for Command Line
 
@@ -447,7 +448,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-autocomplete by @eliseumds](https://github.com/eliseumds/react-autocomplete) - Just tasting some ReactJS + RxJS
 - [react-autocomplete by @prometheusresearch](https://github.com/prometheusresearch/react-autocomplete) - Autocomplete widget based on React
 - [instatype by @gragland](https://github.com/gragland/instatype) - Simple react autocomplete component
-- [downshift](https://github.com/paypal/downshift) - 🏎  Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
+- [downshift](https://github.com/paypal/downshift) - 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
 - [React Bootstrap Typeahead](https://github.com/ericgio/react-bootstrap-typeahead) - A React-based typeahead that relies on Bootstrap for styling and was originally inspired by Twitter's typeahead.js.
 
 ##### Graphics
