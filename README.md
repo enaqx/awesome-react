@@ -638,8 +638,8 @@ A collection of awesome things regarding the React ecosystem.
 #### Redux Tutorials
 
 - [Building Applications with React and Redux in ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6)
-- [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
-- [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
+- [Getting Started with Redux](https://app.egghead.io/courses/getting-started-with-redux)
+- [Building React Applications with Idiomatic Redux](https://app.egghead.io/courses/building-react-applications-with-idiomatic-redux)
 - [Redux Tutorial](https://github.com/happypoulp/redux-tutorial)
 - [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial: Part 1](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/)
 - [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial: Part 2](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/)
@@ -664,7 +664,7 @@ A collection of awesome things regarding the React ecosystem.
 #### MobX General Resources
 
 - [MobX GitHub](https://github.com/mobxjs/mobx)
-- [MobX Official Site](https://mobxjs.github.io/mobx/)
+- [MobX Official Site](https://mobx.js.org/README.html)
 
 #### MobX Tools
 
@@ -672,7 +672,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### MobX Tutorials
 
-- [Ten minute introduction to MobX and React](https://mobxjs.github.io/mobx/getting-started.html)
+- [Ten minute introduction to MobX and React](https://mobx.js.org/getting-started)
 - [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
 - [Refactor your application from Redux to MobX](http://www.robinwieruch.de/mobx-react)
 - [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
