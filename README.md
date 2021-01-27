@@ -318,7 +318,7 @@ A collection of awesome things regarding the React ecosystem.
 - [compose-state](https://github.com/tvler/compose-state) - Compose multiple setState or getDerivedStateFromProps updaters in React
 - [react-lodash](https://github.com/typicode/react-lodash) - Lodash as React components
 - [react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
-- [Stator](https://github.com/cs01/stator) - Simple, plain JavaScript state management with built-in support for React
+- [Stator](https://github.com/cs01/stator) - Simple, plain JavaScript state management with built-in support for React (Archived, read-only)
 - [ClearX](https://github.com/Autodesk/clearx) - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibility in separation of concerns for your React applications
 - [react-snap](https://github.com/stereobooster/react-snap) - Zero-configuration framework-agnostic static prerendering for SPAs
 - [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
@@ -447,7 +447,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### Autocomplete
 
-- [react-autocomplete by @rackt](https://github.com/rackt/react-autocomplete) - WAI-ARIA compliant React autocomplete
+- [react-autocomplete by @rackt](https://github.com/rackt/react-autocomplete) - WAI-ARIA compliant React autocomplete (Archived, read-only)
 - [react-autosuggest by @moroshko](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component
 - [react-autocomplete by @eliseumds](https://github.com/eliseumds/react-autocomplete) - Just tasting some ReactJS + RxJS
 - [react-autocomplete by @prometheusresearch](https://github.com/prometheusresearch/react-autocomplete) - Autocomplete widget based on React
@@ -501,7 +501,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js plus overlay API
 - [google-map-react](https://github.com/istarkov/google-map-react) - Isomorphic google map React component
 - [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A mapbox-gl-js wrapper to make the API react friendly
-- [google-maps-react](https://github.com/fullstackreact/ - A declarative Google Map React component using React, lazy-loading dependencies, current-location finder and a test-driven approach by the Fullstack React team.google-maps-react)
+- [google-maps-react](https://github.com/fullstackreact/) - A declarative Google Map React component using React, lazy-loading dependencies, current-location finder and a test-driven approach by the Fullstack React team.google-maps-react
 - [react-leaflet](https://react-leaflet.js.org/) - React components for Leaflet maps
 - [react-geo](https://github.com/terrestris/react-geo) - A set of geo-related components using react, antd, and ol
 - [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS maps without external dependencies
@@ -619,14 +619,14 @@ A collection of awesome things regarding the React ecosystem.
 - [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state
 - [redux-thunk](https://github.com/gaearon/redux-thunk) - Thunk middleware for redux
 - [redux-logger](https://github.com/theaqua/redux-logger) - Logger middleware for redux
-- [reselect](https://github.com/reactjs/reselect) - Selector library for Redux
+- [reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
 - [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
-- [redux-saga](https://github.com/yelouafi/redux-saga) - An alternative side effect model for Redux apps
+- [redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
 - [redux-data-fx](https://github.com/matthieu-beteille/redux-data-fx) - Declarative Side Effects for Redux
 - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for Redux
 - [redux-analytics](https://github.com/markdalgleish/redux-analytics) - Analytics middleware for Redux
 - [redux-undo](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to redux state containers
-- [redux-search](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search
+- [redux-search](https://github.com/bvaughn/redux-search) - Redux bindings for client-side search
 - [redux-mock-store](https://github.com/arnaudbenard/redux-mock-store) - A mock store for your testing your redux async action creators and middleware
 - [redux-immutable](https://github.com/gajus/redux-immutable) - Create an equivalent function of Redux combineReducers that works with Immutable.js state
 - [redux-react-i18n](https://github.com/derzunov/redux-react-i18n) - An i18n solution for redux/react
@@ -695,7 +695,7 @@ A collection of awesome things regarding the React ecosystem.
 - [GraphQL CMS](https://github.com/sarkistlt/graphql-auto-generating-cms)
 - [Mongoose schema To GraphQL](https://github.com/sarkistlt/mongoose-schema-to-graphql)
 - [GraphQL bridge to REST API](https://github.com/dacz/apollo-bridge-link)
-- [GraphQL Playground - GraphQL IDE for better development workflows](https://github.com/graphcool/graphql-playground)
+- [GraphQL Playground - GraphQL IDE for better development workflows](https://github.com/graphql/graphql-playground)
 
 #### GraphQL Tutorials
 
@@ -712,12 +712,12 @@ A collection of awesome things regarding the React ecosystem.
 #### GraphQL Implementations
 
 - [graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for **JavaScript**
-- [react-transmit](https://github.com/RickWong/react-transmit) - Relay-inspired library based on **JavaScript Promises**
+- [react-transmit](https://github.com/RickWong/react-transmit) - Relay-inspired library based on **JavaScript Promises** (Archived, read-only)
 - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - **Ruby** implementation of Facebook's GraphQL
-- [graphql-java](https://github.com/andimarek/graphql-java) - GraphQL **Java** implementation
-- [sangria](https://github.com/OlegIlyenko/sangria) - **Scala** GraphQL client and server library
+- [graphql-java](https://github.com/howtographql/graphql-java) - GraphQL **Java** implementation
+- [sangria](https://github.com/sangria-graphql/sangria) - **Scala** GraphQL client and server library
 - [graphql-php](https://github.com/webonyx/graphql-php) - A **PHP** port of GraphQL reference implementation
-- [graphene](http://graphene-python.org/) - GraphQL in **Python** made simple
+- [graphene](https://graphene-python.org/) - GraphQL in **Python** made simple
 - [graphqllib](https://github.com/dittos/graphqllib) - GraphQL implementation for **Python**
 - [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for **.NET**
 - [graphql-go](https://github.com/graphql-go/graphql) - GraphQL for Go/Golang
@@ -725,7 +725,7 @@ A collection of awesome things regarding the React ecosystem.
 #### Server Integration
 
 - [express-graphql](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with **Express**
-- [graphql-yoga](https://github.com/graphcool/graphql-yoga) - Easiest way to run a GraphQL server
+- [graphql-yoga](https://github.com/prisma-labs/graphql-yoga) - Easiest way to run a GraphQL server
 
 #### Database Integration
 
@@ -745,7 +745,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### Relay General Resources
 
-- [Relay Offical Site](https://facebook.github.io/relay/)
+- [Relay Offical Site](https://relay.dev/)
 - [Relay GitHub](https://github.com/facebook/relay)
 
 #### Relay Tutorials
@@ -771,7 +771,7 @@ A collection of awesome things regarding the React ecosystem.
 #### Apollo General Resources
 
 - [Apollo Official Site](http://www.apollostack.com/)
-- [Apollo GitHub](https://github.com/apollostack)
+- [Apollo GitHub](https://github.com/apollographql)
 - [Apollo Blog](https://medium.com/apollo-stack)
 - [Apollo Slack](https://apollostack.slack.com/)
 
