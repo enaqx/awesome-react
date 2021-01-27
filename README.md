@@ -404,7 +404,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React AR and VR
 
-- [React 360](https://facebook.github.io/react-360/) - Create exciting 360 and VR experiences using React
+- [React 360](https://github.com/facebookarchive/react-360) - Create exciting 360 and VR experiences using React (Archived, read-only)
 - [Viro React](https://viromedia.com/viroreact/) - Platform for rapidly building AR/VR applications using React Native
 
 ##### React Renderers
@@ -413,7 +413,7 @@ A collection of awesome things regarding the React ecosystem.
 - [React Sketch.app](https://github.com/airbnb/react-sketchapp) - Render React components to Sketch
 - [React Figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js (web and react-native)
-- [React 360](https://facebook.github.io/react-360/)
+- [React 360](https://github.com/facebookarchive/react-360) - (Archived, read-only)
 - [react-nil](https://github.com/pmndrs/react-nil) - A react null renderer
 - [React PDF](https://github.com/diegomura/react-pdf) - Create PDF files using React
 - [React Hardware](https://github.com/iamdustan/react-hardware) - A React renderer for Hardware
