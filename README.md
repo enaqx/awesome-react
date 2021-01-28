@@ -230,6 +230,7 @@ A collection of awesome things regarding the React ecosystem.
 - [elastic ui framework](https://github.com/elastic/eui) - The Elastic UI Framework is a collection of React UI components for quickly building user interfaces at Elastic.
 - [bugbag react ui kit](https://bumbag.style/) - Bumbag is a friendly React UI Kit suitable for MVPs or large-scale applications.
 - [ring-ui](https://github.com/JetBrains/ring-ui) - JetBrains Web UI components
+- [ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
 
 ##### React Awesome Components
 
