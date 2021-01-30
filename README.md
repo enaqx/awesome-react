@@ -231,6 +231,7 @@ A collection of awesome things regarding the React ecosystem.
 - [bugbag react ui kit](https://bumbag.style/) - Bumbag is a friendly React UI Kit suitable for MVPs or large-scale applications.
 - [ring-ui](https://github.com/JetBrains/ring-ui) - JetBrains Web UI components
 - [ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
+- [React UI Boutique](https://reactui.boutique) - Premade UI component and elements built with Chakra UI and Framer Motion (paid)
 
 ##### React Awesome Components
 
