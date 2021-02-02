@@ -176,6 +176,7 @@ A collection of awesome things regarding the React ecosystem.
 - [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders.
 - [Divjoy](https://divjoy.com) - React codebase and UI generator to speed up development (paid)
+- [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.
 
 ##### React Frameworks
 
