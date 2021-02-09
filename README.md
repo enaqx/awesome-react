@@ -318,7 +318,6 @@ A collection of awesome things regarding the React ecosystem.
 - [compose-state](https://github.com/tvler/compose-state) - Compose multiple setState or getDerivedStateFromProps updaters in React
 - [react-lodash](https://github.com/typicode/react-lodash) - Lodash as React components
 - [react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
-- [Stator](https://github.com/cs01/stator) - Simple, plain JavaScript state management with built-in support for React (Archived, read-only)
 - [ClearX](https://github.com/Autodesk/clearx) - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibility in separation of concerns for your React applications
 - [react-snap](https://github.com/stereobooster/react-snap) - Zero-configuration framework-agnostic static prerendering for SPAs
 - [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
