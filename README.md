@@ -500,7 +500,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js plus overlay API
 - [google-map-react](https://github.com/istarkov/google-map-react) - Isomorphic google map React component
 - [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A mapbox-gl-js wrapper to make the API react friendly
-- [google-maps-react](https://github.com/fullstackreact/) - A declarative Google Map React component using React, lazy-loading dependencies, current-location finder and a test-driven approach by the Fullstack React team.google-maps-react
+- [google-maps-react](https://github.com/fullstackreact/google-maps-react) - A declarative Google Map React component using React, lazy-loading dependencies, current-location finder and a test-driven approach by the Fullstack React team.
 - [react-leaflet](https://react-leaflet.js.org/) - React components for Leaflet maps
 - [react-geo](https://github.com/terrestris/react-geo) - A set of geo-related components using react, antd, and ol
 - [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS maps without external dependencies
