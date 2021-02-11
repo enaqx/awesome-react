@@ -182,6 +182,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [next.js](https://github.com/vercel/next.js) - The React Framework
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
+- [frontity](https://github.com/frontity/frontity) - Free and open source framework to build super fast WordPress themes using React
 - [react-admin](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
 - [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
 - [aleph.js](https://github.com/alephjs/aleph.js) - The React Framework in Deno
