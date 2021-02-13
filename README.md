@@ -605,6 +605,7 @@ A collection of awesome things regarding the React ecosystem.
 - [sentry-react-native](https://github.com/getsentry/sentry-react-native) - Real-time crash reporting for your web apps, mobile apps, and games.
 - [realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [react-native-device-info](https://github.com/react-native-community/react-native-device-info) - Device Information for React Native iOS and Android
+- [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) - A toolset to run React web app in React Native and handle communication between them.
 
 ### Redux
 
