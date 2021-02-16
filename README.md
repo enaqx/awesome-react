@@ -208,6 +208,7 @@ A collection of awesome things regarding the React ecosystem.
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
 - [reach](https://github.com/reach/router) - Next Generation Routing for React
 - [universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps
+- [wouter](https://github.com/molefrog/wouter) - A minimalist-friendly ~1.3KB routing library
 
 ##### React Component Libraries
 
@@ -286,6 +287,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-slick](https://github.com/akiran/react-slick) - Carousel component built with React.
 - [react-gtm-module](https://github.com/alinemorelli/react-gtm) - Google Tag Manager Module for React.
 - [react-device-detect](https://github.com/duskload/react-device-detect) - Detect device for React.
+- [react-colorful](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component.
 
 ##### React for Command Line
 
