@@ -240,6 +240,7 @@ A collection of awesome things regarding the React ecosystem.
 - [bugbag react ui kit](https://bumbag.style/) - Bumbag is a friendly React UI Kit suitable for MVPs or large-scale applications.
 - [ring-ui](https://github.com/JetBrains/ring-ui) - JetBrains Web UI components
 - [ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
+- [react-spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) - Adobe's collection of libraries and tools that help you build adaptive, accessible, and robust user experiences
 
 ##### React Awesome Components
 
@@ -341,6 +342,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-esi](https://github.com/dunglas/react-esi) - React Edge Side Includes
 - [hookstate](https://github.com/avkonst/hookstate) - Modern, very fast and extendable state management for React that is based on hooks
 - [universal-model-react](https://github.com/universal-model/universal-model-react) - Unified state management solution for React
+- [react-aria](https://react-spectrum.adobe.com/react-aria/index.html) - Adobe's library of React Hooks that provides accessible UI primitives for your design system
 
 ##### React Integration
 
@@ -426,6 +428,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-nil](https://github.com/pmndrs/react-nil) - A react null renderer
 - [React PDF](https://github.com/diegomura/react-pdf) - Create PDF files using React
 - [React Hardware](https://github.com/iamdustan/react-hardware) - A React renderer for Hardware
+- [remotion](https://github.com/JonnyBurger/remotion) - Create motion graphics in React
 
 ##### Forms
 
