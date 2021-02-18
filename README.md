@@ -341,7 +341,8 @@ A collection of awesome things regarding the React ecosystem.
 - [react-esi](https://github.com/dunglas/react-esi) - React Edge Side Includes
 - [hookstate](https://github.com/avkonst/hookstate) - Modern, very fast and extendable state management for React that is based on hooks
 - [universal-model-react](https://github.com/universal-model/universal-model-react) - Unified state management solution for React
-
+- [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React.
+ 
 ##### React Integration
 
 - [ReasonReact](https://reasonml.github.io/reason-react/)
