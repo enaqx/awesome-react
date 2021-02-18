@@ -343,6 +343,7 @@ A collection of awesome things regarding the React ecosystem.
 - [hookstate](https://github.com/avkonst/hookstate) - Modern, very fast and extendable state management for React that is based on hooks
 - [universal-model-react](https://github.com/universal-model/universal-model-react) - Unified state management solution for React
 - [react-aria](https://react-spectrum.adobe.com/react-aria/index.html) - Adobe's library of React Hooks that provides accessible UI primitives for your design system
+- [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React.
 
 ##### React Integration
 
