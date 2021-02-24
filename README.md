@@ -305,6 +305,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Libraries
 
+- [canvas-markdown](https://github.com/theguriev/canvas-markdown) - A simple library to easily work with canvas and markdown in react.
 - [react-border-wrapper](https://github.com/Metroxe/react-border-wrapper) - A wrapper for placing elements along div borders in React.
 - [react-magic](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification
