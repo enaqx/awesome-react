@@ -413,6 +413,7 @@ A collection of awesome things regarding the React ecosystem.
 - [recoil](https://github.com/facebookexperimental/Recoil)
 - [xState](https://github.com/davidkpiano/xstate)
 - [react-query](https://react-query.tanstack.com/)
+- [easy-peasy](https://easy-peasy.now.sh/)
 
 ##### React AR and VR
 
