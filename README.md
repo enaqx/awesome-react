@@ -195,6 +195,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Styling
 
+- [amendable](https://amendable.dev) - Abstraction layer above React props to create a powerful, platform-agnostic design system
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 - [emotion](https://github.com/emotion-js/emotion) - Library designed for writing CSS styles with JavaScript
 - [radium](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
