@@ -121,6 +121,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Easy to understand React Hook recipes](https://usehooks.com/)
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
 - [Build a React chat app with Hooks, a pragmatic example](https://www.cometchat.com/tutorials/building-a-chat-app-with-react-hooks-a-pragmatic-example/)
+- [React Hooks Youtube Playlist](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)
 
 ##### React and TypeScript
 
