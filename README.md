@@ -289,6 +289,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-gtm-module](https://github.com/alinemorelli/react-gtm) - Google Tag Manager Module for React.
 - [react-device-detect](https://github.com/duskload/react-device-detect) - Detect device for React.
 - [react-colorful](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component.
+- [react-swipeable-list](https://github.com/marekrozmus/react-swipeable-list) - Configurable React component to render list with swipeable items.
 
 ##### React for Command Line
 
