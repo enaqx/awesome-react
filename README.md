@@ -414,7 +414,7 @@ A collection of awesome things regarding the React ecosystem.
 - [xState](https://github.com/davidkpiano/xstate)
 - [react-query](https://react-query.tanstack.com/)
 - [zustand](https://github.com/pmndrs/zustand)
-- [easy-peasy](https://easy-peasy.now.sh/)
+- [easy-peasy](https://github.com/ctrlplusb/easy-peasy)
 
 ##### React AR and VR
 
