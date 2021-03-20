@@ -154,6 +154,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [13 Essential React Interview Questions](https://www.toptal.com/react/interview-questions)
 - [List of React interview Questions and Answers](https://github.com/sudheerj/reactjs-interview-questions)
+- [React Coding Challenges](https://github.com/alexgurr/react-coding-challenges/)
 
 #### React Tools
 
