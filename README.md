@@ -309,20 +309,21 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Libraries
 
-- [react-border-wrapper](https://github.com/Metroxe/react-border-wrapper) - A wrapper for placing elements along div borders in React.
-- [react-magic](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React
-- [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification
-- [tcomb-react](https://github.com/gcanti/tcomb-react) - Library allowing you to check all the props of your React components
-- [react-responsive](https://github.com/wearefractal/react-responsive) - Media queries in react for responsive design
-- [react-cursor](https://github.com/dustingetz/react-cursor) - Functional state management abstraction for use with Facebook React
-- [Touchstonejs](https://github.com/touchstonejs/touchstonejs) - React.js powered UI framework for developing beautiful hybrid mobile apps.
-- [Elemental](http://elemental-ui.com/) - A UI Toolkit for React.js Websites and Apps
-- [StateTrooper](https://github.com/swipely/state-trooper) - Centrally manage state for React applications with CSP
-- [Preact](https://git.io/preact) - Fast 3kb React alternative with the same ES6 API.
-- [riotjs](https://github.com/muut/riotjs) - A React-like, 3.5KB user interface library
-- [Maple.js](https://github.com/Wildhoney/Maple.js) - Bringing the concept of web-components to React
-- [react-i13n](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application
-- [react-icons](https://github.com/gorangajic/react-icons) - svg react icons of popular icon packs
+- [react-border-wrapper - A wrapper for placing elements along div borders in React.](https://github.com/Metroxe/react-border-wrapper)
+- [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
+- [react-toolbox - A set of React components implementing Google's Material Design specification](https://github.com/react-toolbox/react-toolbox)
+- [tcomb-react - Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
+- [react-responsive - Media queries in react for responsive design](https://github.com/wearefractal/react-responsive)
+- [react-cursor - Functional state management abstraction for use with Facebook React](https://github.com/dustingetz/react-cursor)
+- [Touchstonejs - React.js powered UI framework for developing beautiful hybrid mobile apps.](https://github.com/touchstonejs/touchstonejs)
+- [Elemental - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
+- [StateTrooper - Centrally manage state for React applications with CSP](https://github.com/swipely/state-trooper)
+- [Preact: Fast 3kb React alternative with the same ES6 API.](https://git.io/preact)
+- [riotjs - A React- like, 3.5KB user interface library](https://github.com/muut/riotjs)
+- [Maple.js - Bringing the concept of web-components to React](https://github.com/Wildhoney/Maple.js)
+- [react-i13n - A performant, scalable and pluggable approach to instrumenting your React application](https://github.com/yahoo/react-i13n)
+- [react-icomoon](https://github.com/aykutkardas/react-icomoon) - With React-Icomoon you can easily use the icons you have selected or created in icomoon.
+- [react-icons - svg react icons of popular icon packs](https://github.com/gorangajic/react-icons)
 - [react-open-doodles](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
 - [Keo](https://github.com/Wildhoney/Keo) - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc...
 - [Bit](https://github.com/teambit/bit) - A virtual repository for managing and using react and other web components across applications
