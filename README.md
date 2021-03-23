@@ -284,6 +284,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-popper](https://github.com/popperjs/react-popper) - Position tooltips and popovers in an elegant, performant manner
 - [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A component to easily add Particles animations to your React application
 - [react-spring](https://www.react-spring.io/) - Spring-physics based animation library for React applications.
+- [ReactGrid](https://reactgrid.com/) - ReactGrid is a component for displaying and entering data in a spreadsheet-like way
 - [framer-motion](https://www.framer.com/motion/) - A React library to power production-ready animations.
 - [react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - React Component for creating an 'Accordion' that adheres to the WAI ARIA spec for accessibility.
 - [react-truncate-markup](https://github.com/parsable/react-truncate-markup) - React component for truncating JSX markup.
