@@ -281,10 +281,10 @@ A collection of awesome things regarding the React ecosystem.
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
-- [react-popper](https://github.com/popperjs/react-popper) - Position tooltips and popovers in an elegant, performant manner
-- [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A component to easily add Particles animations to your React application
-- [react-spring](https://www.react-spring.io/) - Spring-physics based animation library for React applications.
-- [framer-motion](https://www.framer.com/motion/) - A React library to power production-ready animations.
+- [react-popper](https://github.com/popperjs/react-popper) - Position tooltips and popovers in an elegant, performant manner.
+- [react-tsparticles](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles animations.
+- [react-spring](https://github.com/pmndrs/react-spring) - Spring-physics based animation library for React applications.
+- [framer-motion](https://github.com/framer/motion) - A React library to power production-ready animations.
 - [react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - React Component for creating an 'Accordion' that adheres to the WAI ARIA spec for accessibility.
 - [react-truncate-markup](https://github.com/parsable/react-truncate-markup) - React component for truncating JSX markup.
 - [react-cookie](https://github.com/reactivestack/cookies) - Universal cookies for React.
@@ -293,6 +293,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-device-detect](https://github.com/duskload/react-device-detect) - Detect device for React.
 - [react-colorful](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
+- [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing.
 
 ##### React for Command Line
 
