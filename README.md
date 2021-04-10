@@ -20,7 +20,6 @@ A collection of awesome things regarding the React ecosystem.
     - [React Routing](#react-routing)
     - [React Component Libraries](#react-component-libraries)
     - [React Awesome Components](#react-awesome-components)
-    - [React for Command Line](#react-for-command-line)
     - [React Testing](#react-testing)
     - [React Libraries](#react-libraries)
     - [React Integration](#react-integration)
@@ -289,11 +288,6 @@ A collection of awesome things regarding the React ecosystem.
 - [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 React component
 
-##### React for Command Line
-
-- [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
-- [react-blessed](https://github.com/Yomguithereal/react-blessed) - A React renderer for blessed terminal interface library
-
 ##### React Testing
 
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing Framework
@@ -417,20 +411,18 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React AR and VR
 
-- [React 360](https://github.com/facebookarchive/react-360) - Create exciting 360 and VR experiences using React (Archived, read-only)
 - [Viro React](https://viromedia.com/viroreact/) - Platform for rapidly building AR/VR applications using React Native
 
 ##### React Renderers
 
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
+- [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React
 - [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
-- [React Sketch.app](https://github.com/airbnb/react-sketchapp) - Render React components to Sketch
-- [React Figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
-- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js (web and react-native)
-- [React 360](https://github.com/facebookarchive/react-360) - (Archived, read-only)
+- [react-blessed](https://github.com/Yomguithereal/react-blessed) - A React renderer for blessed terminal interface library
+- [react-sketchapp](https://github.com/airbnb/react-sketchapp) - Render React components to Sketch
+- [react-figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
 - [react-nil](https://github.com/pmndrs/react-nil) - A react null renderer
-- [React PDF](https://github.com/diegomura/react-pdf) - Create PDF files using React
-- [React Hardware](https://github.com/iamdustan/react-hardware) - A React renderer for Hardware
-- [remotion](https://github.com/JonnyBurger/remotion) - Create motion graphics in React
+- [remotion](https://github.com/JonnyBurger/remotion) - Create videos programmatically in React
 
 ##### Forms
 
