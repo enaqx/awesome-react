@@ -172,7 +172,6 @@ A collection of awesome things regarding the React ecosystem.
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 - [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
 - [@axe-core/react](https://github.com/dequelabs/axe-core-npm) - Accessibility auditing for React applications
-- [codesandbox](https://codesandbox.io/s/new) - An online IDE for rapid React development with integrated React DevTools.
 - [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders.
 - [Divjoy](https://divjoy.com) - React codebase and UI generator to speed up development (paid)
@@ -181,8 +180,8 @@ A collection of awesome things regarding the React ecosystem.
 ##### React Starter Kits and Toolchains
 
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
-- [Razzle](https://razzlejs.org/) - Build production ready React applications. Razzle is toolchain for modern static and dynamic websites and web applications.
-- [Neutrino React Preset](https://neutrinojs.org/packages/react/) - `@neutrinojs/react` is a Neutrino preset that supports building React web applications.
+- [Razzle](https://razzlejs.org/) - Build production ready React applications. Razzle is toolchain for modern static and dynamic websites and web applications
+- [Neutrino React Preset](https://neutrinojs.org/packages/react/) - `@neutrinojs/react` is a Neutrino preset that supports building React web applications
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic Web app boilerplate
 - [create-react-library](https://github.com/transitive-bullshit/create-react-library) - CLI for creating reusable, modern React libraries using Rollup and create-react-app.
 - [tsdx](https://tsdx.io/) - Zero-config CLI for TypeScript package development
@@ -216,34 +215,28 @@ A collection of awesome things regarding the React ecosystem.
 ##### React Component Libraries
 
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development
-- [ant-design](https://github.com/ant-design/ant-design) - A design system with values of Nature and Determinacy
 - [blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the webs
 - [Fluent UI](https://github.com/microsoft/fluentui) - A set of React components for building Microsoft web experiences
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
+- [ant-design](https://github.com/ant-design/ant-design) - A design system with values of Nature and Determinacy
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui/) - Simple, Modular & Accessible UI Components for your React Applications
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
 - [evergreen](https://github.com/segmentio/evergreen) - Evergreen React UI Framework by Segment
 - [grommet](https://github.com/grommet/grommet) - A react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui/) - Simple, Modular & Accessible UI Components for your React Applications
 - [rebass](https://github.com/rebassjs/rebass) - React primitive UI components built with styled-system
-- [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 component library for React
 - [reakit](https://github.com/reakit/reakit) - Accessible, Composable and Customizable components for React
 - [rsuite](https://github.com/rsuite/rsuite) - A suite of React components
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
 - [baseweb](https://github.com/uber/baseweb) - Base Web is a foundation for initiating, evolving, and unifying web products.
 - [primereact](https://github.com/primefaces/primereact) - A complete UI Framework for React with 50+ components featuring material, bootstrap and custom themes.
+- [eui](https://github.com/elastic/eui) - Elastic UI Framework
+- [react-spectrum](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools that help you build adaptive, accessible, and robust user experiences
+- [ring-ui](https://github.com/JetBrains/ring-ui) - JetBrains Web UI components
 - [react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework
 - [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
-- [rbx](https://github.com/dfee/rbx) - The Comprehensive Bulma UI Framework for React
 - [trunx](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
-- [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) - React utility component primitives & UI framework for use with Tailwind CSS
-- [tails-ui](https://github.com/knipferrc/tails-ui) - Clean UI based on tailwindcss
-- [geist-org/react](https://github.com/geist-org/react) - Modern and minimalist React UI library, originating from Vercel's design
-- [elastic ui framework](https://github.com/elastic/eui) - The Elastic UI Framework is a collection of React UI components for quickly building user interfaces at Elastic.
-- [bugbag react ui kit](https://bumbag.style/) - Bumbag is a friendly React UI Kit suitable for MVPs or large-scale applications.
-- [ring-ui](https://github.com/JetBrains/ring-ui) - JetBrains Web UI components
-- [ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
-- [react-spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) - Adobe's collection of libraries and tools that help you build adaptive, accessible, and robust user experiences
+- [bumbag-ui](https://github.com/bumbag/bumbag-ui) - Build accessible & themeable React applications with your Bumbag
 
 ##### React Awesome Components
 
@@ -281,19 +274,20 @@ A collection of awesome things regarding the React ecosystem.
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
-- [react-popper](https://github.com/popperjs/react-popper) - Position tooltips and popovers in an elegant, performant manner.
-- [react-tsparticles](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles animations.
-- [react-spring](https://github.com/pmndrs/react-spring) - Spring-physics based animation library for React applications.
-- [framer-motion](https://github.com/framer/motion) - A React library to power production-ready animations.
+- [react-popper](https://github.com/popperjs/react-popper) - Position tooltips and popovers in an elegant, performant manner
+- [react-tsparticles](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles animations
+- [react-spring](https://github.com/pmndrs/react-spring) - Spring-physics based animation library for React applications
+- [framer-motion](https://github.com/framer/motion) - A React library to power production-ready animations
 - [react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - React Component for creating an 'Accordion' that adheres to the WAI ARIA spec for accessibility.
 - [react-truncate-markup](https://github.com/parsable/react-truncate-markup) - React component for truncating JSX markup.
-- [react-cookie](https://github.com/reactivestack/cookies) - Universal cookies for React.
-- [react-slick](https://github.com/akiran/react-slick) - Carousel component built with React.
-- [react-gtm-module](https://github.com/alinemorelli/react-gtm) - Google Tag Manager Module for React.
-- [react-device-detect](https://github.com/duskload/react-device-detect) - Detect device for React.
-- [react-colorful](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component.
-- [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
-- [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing.
+- [react-cookie](https://github.com/reactivestack/cookies) - Universal cookies for React
+- [react-slick](https://github.com/akiran/react-slick) - Carousel component built with React
+- [react-gtm-module](https://github.com/alinemorelli/react-gtm) - Google Tag Manager Module for React
+- [react-device-detect](https://github.com/duskload/react-device-detect) - Detect device for React
+- [react-colorful](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component
+- [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
+- [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing
+- [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 React component
 
 ##### React for Command Line
 
@@ -528,22 +522,14 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### Charts
 
-- [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based React chart for Bootstrap and Material Design
-- [react-chartjs](https://github.com/jhudson8/react-chartjs) - Common react charting components using chart.js
-- [react-stockcharts](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts with ReactJS and d3
-- [Number Picture](http://numberpicture.com/build) - Low-level building blocks for constructing animated visualizations with React & D3.
-- [Victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
-- [Recharts](https://github.com/recharts/recharts) - A charting library built on D3 with an awesome declarative API
-- [React-ApexCharts](https://github.com/apexcharts/react-apexcharts) - React component for ApexCharts (An Interactive SVG Chart Library)
-- [reaviz](https://github.com/reaviz/reaviz) - React Data Visualization Library based on D3.js
-- [react-vis](https://github.com/uber/react-vis) - A React visualization library designed with the following principles in mind: React-friendly, high-level and customizable, expressive, and industry-strong.
-- [nivo](https://github.com/plouc/nivo) - It provides a rich set of data visualization components, built on top of the D3 and React libraries.
-- [vx](https://github.com/hshoff/vx) - A collection of reusable low-level visualization components. It combines the power of D3 to generate your visualization with the benefits of React for updating the DOM.
-- [echarts-for-react](https://github.com/hustcc/echarts-for-react) - A very simple ECharts wrapper for React.
-- [Chartify](https://github.com/kis/chartify) - React plugin for building charts using CSS.
-- [Semiotic](https://github.com/nteract/semiotic) - A data visualization framework combining React and D3.
-- [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/) (free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
-- [reaflow](https://github.com/reaviz/reaflow/) - Diagram editor for React
+- [vx](https://github.com/airbnb/visx) - Visualization components
+- [victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
+- [react-vis](https://github.com/uber/react-vis) - Data Visualization Components
+- [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+- [nivo](https://github.com/plouc/nivo) - Provides a rich set of data visualization components, built on top of the D3 and React libraries
+- [echarts-for-react](https://github.com/hustcc/echarts-for-react) - Apache ECharts components for React wrapper
+- [react-apexcharts](https://github.com/apexcharts/react-apexcharts) - React Component for ApexCharts
+- [chartify](https://github.com/kis/chartify) - React plugin for building charts using CSS
 
 ---
 
