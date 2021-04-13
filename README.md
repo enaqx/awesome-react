@@ -450,6 +450,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-reactive-form](https://github.com/bietkul/react-reactive-form) - Angular like reactive forms in React
 - [unform](https://github.com/Rocketseat/unform) - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - Performant, flexible and extensible forms with easy to use validation
+- [Formily](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
 
 ##### Autocomplete
 
