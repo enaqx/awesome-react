@@ -92,7 +92,6 @@ A collection of awesome things regarding the React ecosystem.
 - [Reactiflux Discord Channel](http://www.reactiflux.com/)
 - [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 - [React Twitter](https://twitter.com/reactjs)
-- [Reactiflux Discord](https://discord.com/invite/reactiflux)
 
 #### React Online Playgrounds
 
