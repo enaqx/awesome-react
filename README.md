@@ -426,31 +426,16 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### Forms
 
-- [React Forms](http://facebook.github.io/react/docs/forms.html)
-- [react-formal](https://github.com/jquense/react-formal) - Better form validation and value management for React, Provides minimal wiring
-- [react-forms](https://github.com/prometheusresearch/react-forms) - Forms library for React
-- [valuelink](https://github.com/Volicon/valuelink) - Full-featured two-way data binding with extended React links
-- [wingspan-forms](https://github.com/wingspan/wingspan-forms) - A dynamic form library for Facebook React
-- [newforms](https://github.com/insin/newforms) - Isomorphic form-handling for React
-- [formjs](https://github.com/zackify/formjs) - A form generator for Reactjs
-- [react-form-builder](https://github.com/quri/react-form-builder) - A Form Builder for React.js
-- [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema
-- [tcomb-form](https://github.com/gcanti/tcomb-form) - UI library for developing forms writing less code
-- [formsy-react](https://github.com/christianalfoni/formsy-react) - A form input builder and validator for React JS
-- [Learn Raw React](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/) - Ridiculously Simple Forms
-- [Winterfell](https://github.com/andrewhathaway/Winterfell) - Generate complex, validated and extendable JSON-based forms in React
-- [Redux-Autoform](https://github.com/redux-autoform/redux-autoform) - Create Redux-Forms dynamically out of metadata
-- [uniforms](https://github.com/vazco/uniforms) - Bunch of React components and helpers to easily generate and validate forms
-- [formik](https://github.com/jaredpalmer/formik) - Forms in React, without tears
-- [NeoForm](https://github.com/zero-plus-x/neoform) - Modular HOCs for form state management and validation
+- [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React Hooks for forms validation
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema
-- [List View Select](https://github.com/JamesWatling/react-native-list-view-select) - A Toggleable select box for React Native with native components
-- [Final Form 🏁](https://github.com/final-form/react-final-form) -
-- [formland](https://github.com/indix/formland) - A simple, super-flexible, extensible config based form generator
-- [react-reactive-form](https://github.com/bietkul/react-reactive-form) - Angular like reactive forms in React
-- [unform](https://github.com/Rocketseat/unform) - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form) - Performant, flexible and extensible forms with easy to use validation
-- [Formily](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
+- [react-final-form](https://github.com/final-form/react-final-form) - High performance subscription-based form state management for React
+- [unform](https://github.com/Rocketseat/unform) - Performance-focused API for React forms
+- [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
+- [uniforms](https://github.com/vazco/uniforms) - A React library for building forms from any schema
+- [formsy-react](https://github.com/formsy/formsy-react/) - A form input builder and validator for React
+- [react-formal](https://github.com/jquense/react-formal) - Sophisticated HTML form management for React
+
 
 ##### Autocomplete
 
