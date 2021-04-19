@@ -421,7 +421,6 @@ A collection of awesome things regarding the React ecosystem.
 - [formsy-react](https://github.com/formsy/formsy-react/) - A form input builder and validator for React
 - [react-formal](https://github.com/jquense/react-formal) - Sophisticated HTML form management for React
 
-
 ##### Autocomplete
 
 - [react-autocomplete by @rackt](https://github.com/rackt/react-autocomplete) - WAI-ARIA compliant React autocomplete (Archived, read-only)
@@ -550,6 +549,7 @@ A collection of awesome things regarding the React ecosystem.
 - [realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [react-native-device-info](https://github.com/react-native-community/react-native-device-info) - Device Information for React Native iOS and Android
 - [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) - A toolset to run React web app in React Native and handle communication between them.
+- [uncompress-react-native](https://github.com/didisouzacosta/uncompress-react-native) - Simple library to decompress files .zip, .rar, .cbz, .cbr in React Native.
 
 ### Redux
 
