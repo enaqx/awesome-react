@@ -44,23 +44,16 @@ A collection of awesome things regarding the React ecosystem.
   - [Redux General Resources](#redux-general-resources)
   - [Redux Tools](#redux-tools)
   - [Redux Tutorials](#redux-tutorials)
-- [MobX](#mobx)
-  - [MobX General Resources](#mobx-general-resources)
-  - [MobX Tools](#mobx-tools)
-  - [MobX Tutorials](#mobx-tutorials)
 - [GraphQL](#graphql)
-  - [GraphQL Spec](#graphql-spec)
+  - [GraphQL General Resources](#graphql-spec)
   - [GraphQL Tools](#graphql-tools)
   - [GraphQL Tutorials](#graphql-tutorials)
   - [GraphQL Implementations](#graphql-implementations)
-  - [Server Integration](#server-integration)
   - [Database Integration](#database-integration)
 - [Relay](#relay)
   - [Relay General Resources](#relay-general-resources)
   - [Relay Tutorials](#relay-tutorials)
   - [Relay Tools](#relay-tools)
-- [Apollo](#apollo)
-  - [Apollo General Resources](#apollo-general-resources)
 - [Videos](#videos)
   - [Important Talks](#important-talks)
   - [React.js Conf 2015 Playlist](#reactjs-conf-2015-playlist)
@@ -327,7 +320,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
 - [refract](https://github.com/fanduel-oss/refract) - Harness the power of reactive programming to supercharge your components
 - [react-desktop](https://github.com/gabrielbull/react-desktop) - OS X and Windows UI components built with React
-- [Reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system
+- [reapop](https://github.com/LouisBarranqueiro/reapop) - A simple and customizable React notifications system
 - [react-extras](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React
 - [react-instantsearch](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native applications, by Algolia
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers
@@ -354,8 +347,6 @@ A collection of awesome things regarding the React ecosystem.
 - [turbo-react](https://github.com/ssorallen/turbo-react) - Combine Turbolinks and React to apply DOM diffs
 - [react-bacon](https://github.com/jamesmacaulay/react-bacon) - A little module for using React with Bacon.js
 - [msx](https://github.com/insin/msx) - React's JSX Transformer, tweaked to output calls to Mithril
-- [React.withBackbone](https://github.com/beanworks/React.withBackbone) - React 16 ready backbone binding
-- [Backbone React Component](https://github.com/magalhas/backbone-react-component)
 - [react-backbone](https://github.com/jhudson8/react-backbone) - Backbone-aware mixins for react
 - [NestedReact](https://github.com/Volicon/NestedReact/) - transparent integration with Backbone Views and NestedTypes models
 - [backbone-reaction](https://github.com/jhudson8/backbone-reaction) - React, Backbone and then some
@@ -380,9 +371,7 @@ A collection of awesome things regarding the React ecosystem.
 - [rx-react](https://github.com/fdecampredon/rx-react) - Utilities to works with React in a RxJS
 - [react-with-di](https://github.com/vojtajina/react-with-di) - A hacked prototype of React.js with DI
 - [reactfire](https://github.com/firebase/reactfire) - ReactJS mixin for easy Firebase integration
-- [firedux](https://github.com/AndersDJohnson/firedux) - Firebase + Redux for ReactJS
 - [react-clickdrag-mixin](https://github.com/tleunen/react-clickdrag-mixin) - ClickDrag mixin for React component
-- [Rewrite the Admin UI of KeystoneJS in React](https://github.com/keystonejs/keystone/issues/503)
 - [react-masonry-mixin](https://github.com/eiriklv/react-masonry-mixin) - Standalone mixin for Masonry (@desandro)
 - [react-packery-mixin](https://github.com/eiriklv/react-packery-mixin) - Standalone mixin for Packery (Metafizzy)
 - [react-dropzone](https://github.com/paramaggarwal/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
@@ -395,19 +384,17 @@ A collection of awesome things regarding the React ecosystem.
 - [react-captcha](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google
 - [reaptcha](https://github.com/sarneeh/reaptcha) - Clean, modern and simple React wrapper for Google reCAPTCHA
 - [react-recaptcha-that-works](https://github.com/douglasjunior/react-recaptcha-that-works) - A reCAPTCHA bridge for React that works
-- [ckeditor4-react](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor component for React
-- [ckeditor5-react](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor component for React
 
 ##### React State Management
 
-- [redux](#redux)
-- [mobx](#mobx)
-- [flux](http://facebook.github.io/flux/)
-- [recoil](https://github.com/facebookexperimental/Recoil)
-- [xState](https://github.com/davidkpiano/xstate)
-- [react-query](https://react-query.tanstack.com/)
-- [zustand](https://github.com/pmndrs/zustand)
-- [easy-peasy](https://github.com/ctrlplusb/easy-peasy)
+- [redux](#redux) - Predictable State Container for JavaScript Apps
+- [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
+- [react-query](https://github.com/tannerlinsley/react-query)
+- [flux](http://facebook.github.io/flux/) - Application architecture for building user interfaces
+- [recoil](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
+- [xstate-react](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - State machines and statecharts for the modern web
+- [zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
+- [easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
 
 ##### React AR and VR
 
@@ -554,10 +541,8 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Native Boilerplates
 
-- [Create React Native App](https://github.com/react-community/create-react-native-app) - Create a React Native app on any OS with no build config, with or without Expo
-- [Snowflake](https://github.com/bartonhammond/snowflake) - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage)
+- [Create React Native App](https://github.com/react-community/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [Ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
-- [React Native Starter Kit](https://github.com/flatlogic/react-native-starter) - A powerful starter project that bootstraps development of your mobile application
 
 #### React Native Awesome Components
 
@@ -591,135 +576,70 @@ A collection of awesome things regarding the React ecosystem.
 
 #### Redux General Resources
 
-- [Redux GitHub](https://github.com/reactjs/redux)
+- [Redux GitHub](https://github.com/reduxjs/redux)
 - [Redux Official Site](http://redux.js.org/)
 - [Awesome Redux List](https://github.com/xgrommx/awesome-redux)
 
 #### Redux Tools
 
-- [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux
-- [redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
-- [react-router-redux](https://github.com/reactjs/react-router-redux) - Bindings to keep react-router and redux in sync
+- [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [redux-toolkit](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
-- [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state
-- [redux-thunk](https://github.com/gaearon/redux-thunk) - Thunk middleware for redux
-- [redux-logger](https://github.com/theaqua/redux-logger) - Logger middleware for redux
+- [redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
 - [reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
-- [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
+- [redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for redux
 - [redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
-- [redux-data-fx](https://github.com/matthieu-beteille/redux-data-fx) - Declarative Side Effects for Redux
+- [connected-react-router](https://github.com/supasate/connected-react-router) - A Redux binding for React Router
+- [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state
+- [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for Redux
-- [redux-analytics](https://github.com/markdalgleish/redux-analytics) - Analytics middleware for Redux
 - [redux-undo](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to redux state containers
-- [redux-search](https://github.com/bvaughn/redux-search) - Redux bindings for client-side search
-- [redux-mock-store](https://github.com/arnaudbenard/redux-mock-store) - A mock store for your testing your redux async action creators and middleware
-- [redux-immutable](https://github.com/gajus/redux-immutable) - Create an equivalent function of Redux combineReducers that works with Immutable.js state
-- [redux-react-i18n](https://github.com/derzunov/redux-react-i18n) - An i18n solution for redux/react
-- [R16N](https://github.com/razodeh/r16n/) - A redux/react I18n solution
-- [redux-actiontyper](https://github.com/alnorris/redux-actiontyper) - Helper to create less verbose action types for Redux
-- [redux-state-validator](https://github.com/suyesh/redux-state-validator) - A simple redux middleware to validate redux state values and object types using JSON Schema
 - [redux-persist](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a redux store
 
 #### Redux Tutorials
 
-- [Building Applications with React and Redux in ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6)
 - [Getting Started with Redux](https://app.egghead.io/courses/getting-started-with-redux)
 - [Building React Applications with Idiomatic Redux](https://app.egghead.io/courses/building-react-applications-with-idiomatic-redux)
-- [Redux Tutorial](https://github.com/happypoulp/redux-tutorial)
-- [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial: Part 1](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/)
-- [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial: Part 2](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/)
-- [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
-- [Server-Side Rendering with Redux and React-Router](https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app)
-- [Deep Introduction to Redux](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
-- [Unit Testing Redux Apps](https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking)
-- [Secure Your React and Redux App with JWT Authentication](https://auth0.com/blog/2016/01/04/secure-your-react-and-redux-app-with-jwt-authentication/)
-- [Build an Image Gallery Using React, Redux and redux-saga](http://joelhooks.com/blog/2016/03/20/build-an-image-gallery-using-redux-saga)
-- [A simplified approach to calling APIs with redux](http://www.sohamkamani.com/blog/2016/06/05/redux-apis/)
-- [React Redux based blood donor demo application](https://github.com/smanne/reduxnor)
-- [LearnCode.academy Redux Tutorials Series](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=15)
-- [Practical Redux](https://blog.isquaredsoftware.com/series/practical-redux/)
-- [A Complete React Redux Tutorial for Beginners](https://daveceddia.com/redux-tutorial/)
-
----
-
-### MobX
-
-> Simple, scalable state management for JavaScript Apps
-
-#### MobX General Resources
-
-- [MobX GitHub](https://github.com/mobxjs/mobx)
-- [MobX Official Site](https://mobx.js.org/README.html)
-
-#### MobX Tools
-
-- [mobx-react](https://github.com/mobxjs/mobx-react) - React component wrapper for combining React with MobX
-
-#### MobX Tutorials
-
-- [Ten minute introduction to MobX and React](https://mobx.js.org/getting-started)
-- [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
-- [Refactor your application from Redux to MobX](http://www.robinwieruch.de/mobx-react)
-- [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
 
 ---
 
 ### GraphQL
 
-> Query Language
+> A query language for your API
 
-#### GraphQL Spec
+#### GraphQL General Resources
 
 - [GraphQL Official Site](http://graphql.org/)
-- [GraphQL Specification](https://github.com/graphql/graphql-spec/tree/master/spec)
+- [GraphQL Specification](https://github.com/graphql/graphql-spec)
 - [GraphQL Specification Repository](https://github.com/facebook/graphql)
 
 #### GraphQL Tools
 
-- [GraphCMS - The GraphQL Headless CMS](https://graphcms.com)
-- [GraphQL CMS](https://github.com/sarkistlt/graphql-auto-generating-cms)
-- [Mongoose schema To GraphQL](https://github.com/sarkistlt/mongoose-schema-to-graphql)
-- [GraphQL bridge to REST API](https://github.com/dacz/apollo-bridge-link)
+- [graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for **JavaScript**
+- [express-graphql](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with **Express**
+- [Apollo](https://www.apollographql.com/) - Industry-standard GraphQL implementation
 - [GraphQL Playground - GraphQL IDE for better development workflows](https://github.com/graphql/graphql-playground)
 
 #### GraphQL Tutorials
 
 - [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
-- [First Thoughts on GraphQL](http://hueypetersen.com/posts/2015/02/02/first-thoughts-on-graph-ql/)
-- [Modeling Queries in a GraphQL Like Way](http://hueypetersen.com/posts/2015/02/08/modeling-queries-graph-ql-like/)
-- [Thin and Graphy](http://hueypetersen.com/posts/2015/02/22/thin-and-graphy/)
-- [GraphQL Overview - Getting Started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/)
-- [Writing a Basic API with GraphQL](http://davidandsuzi.com/writing-a-basic-api-with-graphql/)
-- [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
-- [GraphQL Tour: Variables](https://medium.com/the-graphqlhub/graphql-tour-variables-58c6abd10f56#.wj9dsgyoy)
 - [How to Graphql - The Fullstack Tutorial for GraphQL](https://howtographql.com/)
 
 #### GraphQL Implementations
 
-- [graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for **JavaScript**
-- [react-transmit](https://github.com/RickWong/react-transmit) - Relay-inspired library based on **JavaScript Promises** (Archived, read-only)
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - **Ruby** implementation of Facebook's GraphQL
-- [graphql-java](https://github.com/howtographql/graphql-java) - GraphQL **Java** implementation
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - **Ruby** implementation of GraphQL
+- [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL **Java** implementation
 - [sangria](https://github.com/sangria-graphql/sangria) - **Scala** GraphQL client and server library
 - [graphql-php](https://github.com/webonyx/graphql-php) - A **PHP** port of GraphQL reference implementation
-- [graphene](https://graphene-python.org/) - GraphQL in **Python** made simple
-- [graphqllib](https://github.com/dittos/graphqllib) - GraphQL implementation for **Python**
+- [graphene](https://github.com/graphql-python/graphene) - GraphQL framework for **Python**
 - [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for **.NET**
-- [graphql-go](https://github.com/graphql-go/graphql) - GraphQL for Go/Golang
-
-#### Server Integration
-
-- [express-graphql](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with **Express**
-- [graphql-yoga](https://github.com/prisma-labs/graphql-yoga) - Easiest way to run a GraphQL server
+- [graphql-go](https://github.com/graphql-go/graphql) - GraphQL for **Go**
+- [juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for **Rust**
 
 #### Database Integration
 
-- [Hasura](https://hasura.io/) - Instant Realtime GraphQL on Postgres
-- [Prisma](https://www.prisma.io/) - A performant open-source GraphQL ORM-like \* layer doing the heavy lifting in your GraphQL server.
-- [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - Some help defining GraphQL schema around BookshelfJS models
-- [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) - GraphQL for **PostgreSQL**
-- [graffiti](https://github.com/RisingStack/graffiti) - Node.js GraphQL ORM
-- [sql-to-graphql](https://github.com/vaffel/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure
+- [Hasura](https://hasura.io/) - Instant GraphQL for all your data
+- [Prisma](https://www.prisma.io/) - Next-generation ORM
+for Node.js and TypeScript
 - [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) - GraphQL & Relay for MySQL & Postgres via Sequelize
 
 ---
@@ -746,23 +666,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-router-relay](https://github.com/relay-tools/react-router-relay) - Relay integration for React Router
 - [relay-local-schema](https://github.com/relay-tools/relay-local-schema) - Use Relay without a GraphQL server
 - [relay-codemod](https://github.com/facebook/jscodeshift) - Codemod scripts based for on jsodeshift to update Relay APIs
-
----
-
-### Apollo
-
-> Data stack based on GraphQL
-
-#### Apollo General Resources
-
-- [Apollo Official Site](http://www.apollostack.com/)
-- [Apollo GitHub](https://github.com/apollographql)
-- [Apollo Blog](https://medium.com/apollo-stack)
-- [Apollo Slack](https://apollostack.slack.com/)
-
-#### Apollo Tools
-
-- [react-apollo-redux - A small wrapper to automatically dispatch actions in response to apollo mutations](https://github.com/Drawbotics/react-apollo-redux)
 
 ---
 
