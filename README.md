@@ -296,11 +296,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification
 - [tcomb-react](https://github.com/gcanti/tcomb-react) - Library allowing you to check all the props of your React components
 - [react-responsive](https://github.com/wearefractal/react-responsive) - Media queries in react for responsive design
-- [react-cursor](https://github.com/dustingetz/react-cursor) - Functional state management abstraction for use with Facebook React
-- [Touchstonejs](https://github.com/touchstonejs/touchstonejs) - React.js powered UI framework for developing beautiful hybrid mobile apps.
-- [Elemental](http://elemental-ui.com/) - A UI Toolkit for React.js Websites and Apps
-- [StateTrooper](https://github.com/swipely/state-trooper) - Centrally manage state for React applications with CSP
-- [Preact](https://git.io/preact) - Fast 3kb React alternative with the same ES6 API.
+- [preact](https://git.io/preact) - Fast 3kb React alternative with the same ES6 API.
 - [riotjs](https://github.com/muut/riotjs) - A React-like, 3.5KB user interface library
 - [Maple.js](https://github.com/Wildhoney/Maple.js) - Bringing the concept of web-components to React
 - [react-i13n](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application
@@ -312,10 +308,8 @@ A collection of awesome things regarding the React ecosystem.
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch) - UI components library for Elasticsearch
 - [Slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
 - [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) - Construct React elements from JSON by mapping JSON definitions to React components that you expose.
-- [compose-state](https://github.com/tvler/compose-state) - Compose multiple setState or getDerivedStateFromProps updaters in React
 - [react-lodash](https://github.com/typicode/react-lodash) - Lodash as React components
 - [react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
-- [ClearX](https://github.com/Autodesk/clearx) - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibility in separation of concerns for your React applications
 - [react-snap](https://github.com/stereobooster/react-snap) - Zero-configuration framework-agnostic static prerendering for SPAs
 - [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
 - [refract](https://github.com/fanduel-oss/refract) - Harness the power of reactive programming to supercharge your components
@@ -326,8 +320,6 @@ A collection of awesome things regarding the React ecosystem.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems
 - [react-esi](https://github.com/dunglas/react-esi) - React Edge Side Includes
-- [hookstate](https://github.com/avkonst/hookstate) - Modern, very fast and extendable state management for React that is based on hooks
-- [universal-model-react](https://github.com/universal-model/universal-model-react) - Unified state management solution for React
 - [react-aria](https://react-spectrum.adobe.com/react-aria/index.html) - Adobe's library of React Hooks that provides accessible UI primitives for your design system
 - [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React.
 
@@ -355,7 +347,6 @@ A collection of awesome things regarding the React ecosystem.
 - [backbone-react-ui](https://github.com/securingsincity/backbone-react-ui) - React components for use with backbone and backbone paginator
 - [react-events](https://github.com/jhudson8/react-events) - Declarative managed event bindings for react components
 - [react-mixin-manager](https://github.com/jhudson8/react-mixin-manager) - React mixin registration manager
-- [gsap-react-plugin](https://github.com/hzdg/gsap-react-plugin) - A GSAP plugin for tweening React.js component state
 - [react-topcoat by @plaxdan](https://github.com/plaxdan/react-topcoat) - Topcoat CSS components built with the React library
 - [react-topcoat by @arnemart](https://github.com/arnemart/react-topcoat) - A collection of React components for Topcoat
 - [reactdown](https://github.com/andreypopp/reactdown) - Write React components using markdown syntax
@@ -395,6 +386,9 @@ A collection of awesome things regarding the React ecosystem.
 - [xstate-react](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - State machines and statecharts for the modern web
 - [zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
 - [easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
+- [hookstate](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
+- [effector](https://github.com/zerobias/effector) - Fast and powerful reactive state manager
+- [reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management
 
 ##### React AR and VR
 
@@ -446,30 +440,13 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### Data Managing
 
-- [Immutable.js](https://github.com/immutable-js/immutable-js) - Immutable Data Collections for Javascript
-- [cortex](https://github.com/mquan/cortex) - A javascript library for centrally managing data with React
-- [avers](https://github.com/wereHamster/avers) - A modern client-side model abstraction library
-- [imvvm](https://github.com/entrendipity/imvvm) - Immutable Model-View-ViewModel for React
-- [morearty.js](https://github.com/moreartyjs/moreartyjs) - Better state management for React in pure JavaScript
-- [valuable](https://github.com/josephsavona/valuable) - An immutable data store for React
-- [react-resolver](https://github.com/ericclemmons/react-resolver) - Isomorphic library to recursively lazy-load data for React components
-- [freezer-js](https://github.com/arqex/freezer) - Lightweight and reactive immutable data structure for React
-- [MobX](#mobx) - Simple, scalable state management
-- [baobab](https://github.com/Yomguithereal/baobab) - JavaScript persistent and optionally immutable data tree with cursors
-- [baobab-react](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab
-- [immstruct](https://github.com/omniscientjs/immstruct) - Immutable data structures with history for top-to-bottom properties in component based libraries like React
-- [seamless-immutable](https://github.com/rtfeldman/seamless-immutable) - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects
-- [tydel](http://tydel.js.org) - Typed Models and Collections, with React bindings
-- [extendable-immutable](https://github.com/philpl/extendable-immutable) - Extend any Immutable.js data structure
-- [statty](https://github.com/vesparny/statty) - A tiny and unobtrusive state management library for React and Preact apps
-- [Hydux](https://github.com/hydux/hydux) - An Elm-Like state manager for React with "batteries included"
-- [ReSub](https://github.com/Microsoft/ReSub) - A library for writing better React components and data stores
-- [ProppyJS](https://proppyjs.com) - A tiny library for functional props composition
-- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast
-- [RxDB](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications
-- [Effector](https://github.com/zerobias/effector) - Fast and powerful reactive state manager. Lets you write simple, fast and type safe code and manage reactive state with ease.
-- [reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
+- [ReSub](https://github.com/Microsoft/ReSub) - A library for writing better React components and data stores
+- [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable Data Collections for Javascript
+- [baobab](https://github.com/Yomguithereal/baobab) - JavaScript & TypeScript persistent and optionally immutable data tree with cursors
+- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
+- [RxDB](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications
+
 
 ##### Maps
 
