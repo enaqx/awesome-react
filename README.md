@@ -92,6 +92,10 @@ A collection of awesome things regarding the React ecosystem.
 - [CodeSandbox](https://codesandbox.io/s/new)
 - [JSFiddle](https://jsfiddle.net/boilerplate/react-jsx)
 
+#### Another Awesome Lists
+
+- [React/Redux Links](https://github.com/markerikson/react-redux-links)
+
 #### React Tutorials
 
 ##### React General Tutorials
@@ -574,7 +578,9 @@ A collection of awesome things regarding the React ecosystem.
 
 #### Redux Tutorials
 
-- [Getting Started with Redux](https://app.egghead.io/courses/getting-started-with-redux)
+- [Redux Essentials](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
+- [Redux Fundamentals](https://redux.js.org/tutorials/fundamentals/part-1-overview)
+- [Fundamentals of Redux Course from Dan Abramov](https://app.egghead.io/playlists/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
 - [Building React Applications with Idiomatic Redux](https://app.egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 ---
