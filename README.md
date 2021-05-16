@@ -312,6 +312,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-captcha](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google
 - [reaptcha](https://github.com/sarneeh/reaptcha) - Clean, modern and simple React wrapper for Google reCAPTCHA
 - [react-recaptcha-that-works](https://github.com/douglasjunior/react-recaptcha-that-works) - A reCAPTCHA bridge for React that works
+- [react-google-autocomplete](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
 
 ##### React State Management
 
