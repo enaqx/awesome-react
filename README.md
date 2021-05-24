@@ -440,6 +440,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-svg-morph](https://github.com/gorangajic/react-svg-morph) - morph your svg components one into another
 - [react-hooks-svgdrawing](https://github.com/kmkzt/react-hooks-svgdrawing) - SVG Drawing with React hooks
 - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
+- [react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM.
 
 ##### Data Managing
 
