@@ -575,6 +575,7 @@ A collection of awesome things regarding the React ecosystem.
 - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for Redux
 - [redux-undo](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to redux state containers
 - [redux-persist](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a redux store
+- [redux-requests](https://redux-requests.klisiczynski.com) - Declarative AJAX requests and automatic network state management for single-page applications
 
 #### Redux Tutorials
 
