@@ -715,7 +715,7 @@ for Node.js and TypeScript
 - [react-reduction](https://github.com/reduction-admin/react-reduction) - Free Admin Template Built with React and Bootstrap4
 - [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) - Responsive React The Movie Database App
 - [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - Simple ecommerce cart application built with React Redux
-
+- [react-netflix](https://github.com/hieptl/netflix-clone) - Learn React by Building Netflix
 ---
 
 ### Real React Apps
