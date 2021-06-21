@@ -256,6 +256,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component
 - [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
+- [react-localized](https://github.com/fakundo/react-localized) - Internationalization for React components based on `gettext` format
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible React modal
 - [react-hotkeys](https://github.com/greena13/react-hotkeys) - Declarative hotkey and focus area management for React
 - [react-keydown](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components
