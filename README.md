@@ -384,7 +384,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [redux](#redux) - Predictable State Container for JavaScript Apps
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
-- [react-query](https://github.com/tannerlinsley/react-query)
+- [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
 - [flux](http://facebook.github.io/flux/) - Application architecture for building user interfaces
 - [recoil](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
 - [xstate-react](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - State machines and statecharts for the modern web
