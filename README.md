@@ -107,9 +107,15 @@ A collection of awesome things regarding the React ecosystem.
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
 - [Setup Flow with React](https://flow.org/en/docs/react/)
+- [Building reusable components using React](https://buttercms.com/blog/building-reusable-components-using-react)
+- [Building Great User Experience with React Suspense](https://buttercms.com/blog/building-great-user-experiences-with-concurrent-mode-and-suspense)
+- [Migrating from Angular to React](https://buttercms.com/blog/migrating-from-angularjs-to-react)
+- [React component library: Develop a multilingual app](https://buttercms.com/blog/react-component-library-develop-a-multilingual-app)
+- [Prototyping Best Practices using React for Front-End Developers](https://buttercms.com/blog/front-end-developer-best-practices-to-design-react-ui-framework)
 
 ##### React Hooks
 
+- [Learn React Hooks by writing your first hook](https://buttercms.com/blog/learn-react-hooks-by-writing-your-first-hook
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
 - [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
@@ -128,6 +134,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Performance
 
+- [React Best Practices: Maintaining Large Scale Projects](https://buttercms.com/blog/best-practices-for-building-a-large-scale-react-application)
 - [React Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
 - [Introducing the React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
 - [Optimizing React: Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained)
@@ -254,7 +261,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Calendar component
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - ReactJS Datepicker
 - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component
-- [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps
+- [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps, [API and component analysis](https://buttercms.com/blog/react-intl-an-api-and-component-analysis)
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible React modal
 - [react-hotkeys](https://github.com/greena13/react-hotkeys) - Declarative hotkey and focus area management for React
@@ -715,6 +722,7 @@ for Node.js and TypeScript
 - [react-reduction](https://github.com/reduction-admin/react-reduction) - Free Admin Template Built with React and Bootstrap4
 - [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) - Responsive React The Movie Database App
 - [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - Simple ecommerce cart application built with React Redux
+- [buttercms-marketing-site-nextjs-react](https://github.com/ButterCMS/buttercms-marketing-site-nextjs-react) - A CMS powered, SEO Optimized, Marketing Site powered by ButterCMS built on Next.js + React
 
 ---
 
