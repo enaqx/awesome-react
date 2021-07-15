@@ -284,6 +284,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
 - [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 React component
+- [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop, Renaming and Search
 
 ##### React Testing
 
