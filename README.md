@@ -232,7 +232,15 @@ A collection of awesome things regarding the React ecosystem.
 - [react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework
 - [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
 - [trunx](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
+- [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) - React utility component primitives & UI framework for use with Tailwind CSS
+- [tails-ui](https://github.com/knipferrc/tails-ui) - Clean UI based on tailwindcss
+- [geist-org/react](https://github.com/geist-org/react) - Modern and minimalist React UI library, originating from Vercel's design
+- [elastic ui framework](https://github.com/elastic/eui) - The Elastic UI Framework is a collection of React UI components for quickly building user interfaces at Elastic.
+- [bugbag react ui kit](https://bumbag.style/) - Bumbag is a friendly React UI Kit suitable for MVPs or large-scale applications.
+- [ring-ui](https://github.com/JetBrains/ring-ui) - JetBrains Web UI components
+- [ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
 - [bumbag-ui](https://github.com/bumbag/bumbag-ui) - Build accessible & themeable React applications with your Bumbag
+- [Sha-el-design](https://github.com/sha-el/sha-el-design) - React components for easier customization and smooth development flow. [Storybook](https://sha-el-design.netlify.app/)
 
 ##### React Awesome Components
 
