@@ -157,7 +157,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Project Architecture Tools
 
-- [bulletproof-react](https://github.com/alan2207/bulletproof-react)
+- [bulletproof-react](https://github.com/alan2207/bulletproof-react) - A simple, scalable, and powerful architecture for building production ready React applications
 
 ##### React Development Tools
 
