@@ -14,6 +14,7 @@ A collection of awesome things regarding the React ecosystem.
     - [React Internals](#react-internals)
     - [React Interview Questions](#react-interview-questions)
   - [React Tools](#react-tools)
+    - [React Project Architecture Tools](#react-project-architecture-tools)  
     - [React Development Tools](#react-development-tools)
     - [React Frameworks](#react-frameworks)
     - [React Styling](#react-styling)
@@ -153,6 +154,10 @@ A collection of awesome things regarding the React ecosystem.
 - [React Coding Challenges](https://github.com/alexgurr/react-coding-challenges/)
 
 #### React Tools
+
+##### React Project Architecture Tools
+
+- [bulletproof-react](https://github.com/alan2207/bulletproof-react)
 
 ##### React Development Tools
 
