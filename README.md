@@ -6,6 +6,7 @@ A collection of awesome things regarding the React ecosystem.
   - [React General Resources](#react-general-resources)
   - [React Community](#react-community)
   - [React Online Playgrounds](#react-online-playgrounds)
+  - [React Architecture](#react-architecture)
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
     - [React Hooks](#react-hooks)
@@ -14,7 +15,6 @@ A collection of awesome things regarding the React ecosystem.
     - [React Internals](#react-internals)
     - [React Interview Questions](#react-interview-questions)
   - [React Tools](#react-tools)
-    - [React Project Architecture Tools](#react-project-architecture-tools)  
     - [React Development Tools](#react-development-tools)
     - [React Frameworks](#react-frameworks)
     - [React Styling](#react-styling)
@@ -97,6 +97,10 @@ A collection of awesome things regarding the React ecosystem.
 
 - [React/Redux Links](https://github.com/markerikson/react-redux-links)
 
+#### React Architecture
+
+- [bulletproof-react](https://github.com/alan2207/bulletproof-react) - A simple, scalable, and powerful architecture for building production ready React applications
+
 #### React Tutorials
 
 ##### React General Tutorials
@@ -154,10 +158,6 @@ A collection of awesome things regarding the React ecosystem.
 - [React Coding Challenges](https://github.com/alexgurr/react-coding-challenges/)
 
 #### React Tools
-
-##### React Project Architecture Tools
-
-- [bulletproof-react](https://github.com/alan2207/bulletproof-react) - A simple, scalable, and powerful architecture for building production ready React applications
 
 ##### React Development Tools
 
