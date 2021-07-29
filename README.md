@@ -233,6 +233,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
 - [trunx](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
 - [bumbag-ui](https://github.com/bumbag/bumbag-ui) - Build accessible & themeable React applications with your Bumbag
+- [Mantine](https://github.com/mantinedev/mantine) – A fully featured React library with 100+ hooks and components with native dark theme support
 
 ##### React Awesome Components
 
