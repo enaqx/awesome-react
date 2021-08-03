@@ -732,8 +732,10 @@ for Node.js and TypeScript
 ---
 
 ### React Projects (Learning)
--[TakeNote](https://github.com/taniarascia/takenote) - Take Note
--[Cloud Music](https://github.com/sanyuan0704/react-cloud-music) - Cloud Music
+- [TakeNote](https://github.com/taniarascia/takenote) - Take Note
+- [Cloud Music](https://github.com/sanyuan0704/react-cloud-music) - Cloud Music
+
+---
 
 
 ### Contribution
