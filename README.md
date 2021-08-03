@@ -731,6 +731,11 @@ for Node.js and TypeScript
 
 ---
 
+### React Projects (Learning)
+-[TakeNote](https://github.com/taniarascia/takenote) - Take Note
+-[Cloud Music](https://github.com/sanyuan0704/react-cloud-music) - Cloud Music
+
+
 ### Contribution
 
 This list started as personal collection of interesting things about React. At the time it started React was in beta, there was special script to transform JSX to JS and even Flux was not yet published. React is mainstream now, lots of things happened. Please, do not try to use this list as advertisement board or place for public push of your experiments. Only fully free resources here, please. Do not hesitate to suggest cleaning PRs for outdated projects and articles along with new contributions. Your contributions and suggestions are heartily♡ welcome, though. (✿◠‿◠)
