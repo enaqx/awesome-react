@@ -707,6 +707,7 @@ for Node.js and TypeScript
 #### Video Tutorials
 
 - [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
+- [How to get started with Codemagic for your React Native apps](https://www.youtube.com/watch?v=O_ZXHUz-01U&t=148s)
 
 ---
 
