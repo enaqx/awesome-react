@@ -295,7 +295,7 @@ A collection of awesome things regarding the React ecosystem.
 - [majestic](https://github.com/Raathigesh/majestic) - Zero config GUI for Jest
 
 ##### React Libraries
-
+- [Reactjs Visibility](https://www.npmjs.com/package/reactjs-visibility) - Detect when an element is becoming visible or hidden on the page.
 - [react-border-wrapper](https://github.com/Metroxe/react-border-wrapper) - A wrapper for placing elements along div borders in React.
 - [react-magic](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification
