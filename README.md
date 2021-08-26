@@ -172,6 +172,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders.
 - [Divjoy](https://divjoy.com) - React codebase and UI generator to speed up development (paid)
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.
+- [Viezly](https://viezly.com/) - Enhanced code review tool for easier code reading and navigation. Generates dependency diagrams for navigation based on JS imports.
 
 ##### React Starter Kits and Toolchains
 
