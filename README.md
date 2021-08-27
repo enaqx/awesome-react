@@ -181,6 +181,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic Web app boilerplate
 - [create-react-library](https://github.com/transitive-bullshit/create-react-library) - CLI for creating reusable, modern React libraries using Rollup and create-react-app.
 - [tsdx](https://tsdx.io/) - Zero-config CLI for TypeScript package development
+- [superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, Jest, testing-library, styled-component, Sass, Css, .env, Fetch, Axios, Reverse Proxy, Bundle Analyzer and 30+ plugin. For now, only creates projects for React and Next.js
 
 ##### React Frameworks
 
