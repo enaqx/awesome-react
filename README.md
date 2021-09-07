@@ -730,6 +730,7 @@ for Node.js and TypeScript
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 - [winamp2-js](https://github.com/captbaritone/winamp2-js) - Winamp 2 reimplemented for the browser
 - [dnote](https://github.com/dnote/dnote) - A command line notebook with multi-device sync and web interface
+- [ERML Visualizer](https://github.com/obadakhalili/erml) - An ERD Visualization tool that converts semantic code describing your schema into SVG drawings
 
 ---
 
