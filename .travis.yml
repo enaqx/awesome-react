@@ -1,7 +1,7 @@
 language: ruby
 rvm:
-  - 2.2
+  - 2.4
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-redirect -w vimeo.com,udemy.com,https://facebook.github.io/react-360/,https://github.com/vadimdemedes/ink
+  - awesome_bot README.md --allow-redirect -w vimeo.com,udemy.com
