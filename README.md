@@ -173,6 +173,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Divjoy](https://divjoy.com) - React codebase and UI generator to speed up development (paid)
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.
 - [jsx-ast-utils](https://github.com/jsx-eslint/jsx-ast-utils) - AST utility module for statically analyzing JSX
+- [react-scanner](https://github.com/moroshko/react-scanner) - Extract React components and props usage from code
 
 ##### React Starter Kits and Toolchains
 
