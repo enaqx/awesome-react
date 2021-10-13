@@ -581,6 +581,10 @@ A collection of awesome things regarding the React ecosystem.
 - [redux-undo](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to redux state containers
 - [redux-persist](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a redux store
 
+#### Redux Boilerplates
+
+- [cra-template-redux-auth-starter](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
+
 #### Redux Tutorials
 
 - [Redux Essentials](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
