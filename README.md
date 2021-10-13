@@ -384,6 +384,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-captcha](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google
 - [reaptcha](https://github.com/sarneeh/reaptcha) - Clean, modern and simple React wrapper for Google reCAPTCHA
 - [react-recaptcha-that-works](https://github.com/douglasjunior/react-recaptcha-that-works) - A reCAPTCHA bridge for React that works
+- [react-slack-notification](https://github.com/Nilanth/react-slack-notification) - Send error messages to a Slack channel directly from your react app.
 
 ##### React State Management
 
