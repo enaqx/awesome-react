@@ -399,7 +399,7 @@ A collection of awesome things regarding the React ecosystem.
 - [hookstate](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
 - [effector](https://github.com/zerobias/effector) - Fast and powerful reactive state manager
 - [reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management
-- [react-facet](https://react-facet.mojang.com/) - Observable-based state management for performant game UIs built in React
+- [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - Observable-based state management for performant game UIs built in React
 
 ##### React AR and VR
 
