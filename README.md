@@ -183,6 +183,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic Web app boilerplate
 - [create-react-library](https://github.com/transitive-bullshit/create-react-library) - CLI for creating reusable, modern React libraries using Rollup and create-react-app.
 - [tsdx](https://tsdx.io/) - Zero-config CLI for TypeScript package development
+[create Adobe-CEP (Photoshop, Illustrator etc..) extension/plugin with React, Material-UI, Native Node modules, Webpack, Babel and ExtendScript](https://github.com/HendrixString/adobe-cep-react-create)
 
 ##### React Frameworks
 
