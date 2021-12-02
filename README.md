@@ -292,6 +292,7 @@ A collection of awesome things regarding the React ecosystem.
 - [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 React component
 - [react-advanced-cropper](https://github.com/Norserium/react-advanced-cropper) - An advanced React component for image cropping
+- [cookie-consent-banner](https://github.com/porscheofficial/cookie-consent-banner) – A flexible, yet lightweight cookie consent banner component
 
 ##### React Testing
 
