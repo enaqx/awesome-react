@@ -183,6 +183,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic Web app boilerplate
 - [create-react-library](https://github.com/transitive-bullshit/create-react-library) - CLI for creating reusable, modern React libraries using Rollup and create-react-app.
 - [tsdx](https://tsdx.io/) - Zero-config CLI for TypeScript package development
+- [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling. build tool that aims to provide a faster and leaner development experience for modern web projects. 
 
 ##### React Frameworks
 
