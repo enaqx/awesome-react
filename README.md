@@ -269,6 +269,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours for your apps
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
+- [data-source](https://github.com/facebook/flipper/tree/main/desktop/flipper-plugin/src/data-source) - Library to power streaming data visualisations as used in Facebook's Flipper
 - [react-text-mask](https://github.com/text-mask/text-mask) - Input mask for React
 - [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
 - [react-spinkit](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React
