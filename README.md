@@ -430,6 +430,7 @@ A collection of awesome things regarding the React ecosystem.
 - [uniforms](https://github.com/vazco/uniforms) - A React library for building forms from any schema
 - [formsy-react](https://github.com/formsy/formsy-react/) - A form input builder and validator for React
 - [react-formal](https://github.com/jquense/react-formal) - Sophisticated HTML form management for React
+- [vest](https://github.com/ealush/vest) - Declarative form validation framework inspired by unit testing syntax.
 
 ##### Autocomplete
 
