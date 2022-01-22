@@ -295,6 +295,7 @@ A collection of awesome things regarding the React ecosystem.
 - [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 React component
 - [react-advanced-cropper](https://github.com/Norserium/react-advanced-cropper) - An advanced React component for image cropping
+- [rich-textarea](https://github.com/inokawa/rich-textarea) - A textarea component for React to colorize, highlight, decorate texts, offer autocomplete and much more.
 - [swiper](https://github.com/nolimits4web/swiper) - modern mobile touch slider
 
 ##### React Testing
