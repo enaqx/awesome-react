@@ -461,7 +461,6 @@ A collection of awesome things regarding the React ecosystem.
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [RxDB](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications
 
-
 ##### Maps
 
 - [react-googlemaps](https://github.com/pieterv/react-googlemaps) - React interface to Google maps
@@ -611,6 +610,8 @@ A collection of awesome things regarding the React ecosystem.
 - [graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for **JavaScript**
 - [express-graphql](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with **Express**
 - [Apollo](https://www.apollographql.com/) - Industry-standard GraphQL implementation
+- [GQty](https://gqty.dev/) - A GraphQL client built for rapid iteration.
+- [GraphQL Code Generator](https://gqty.dev/) - Generate code from your GraphQL schema and operations with a simple CLI.
 - [GraphQL Playground - GraphQL IDE for better development workflows](https://github.com/graphql/graphql-playground)
 
 #### GraphQL Tutorials
@@ -633,7 +634,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [Hasura](https://hasura.io/) - Instant GraphQL for all your data
 - [Prisma](https://www.prisma.io/) - Next-generation ORM
-for Node.js and TypeScript
+  for Node.js and TypeScript
 - [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) - GraphQL & Relay for MySQL & Postgres via Sequelize
 
 ---
