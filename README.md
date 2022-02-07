@@ -206,6 +206,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Routing
 
+- [react-location](https://github.com/TanStack/react-location) - Enterprise Client-Side Routing for React
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
@@ -586,6 +587,7 @@ A collection of awesome things regarding the React ecosystem.
 - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for Redux
 - [redux-undo](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to redux state containers
 - [redux-persist](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a redux store
+- [Rematch](https://github.com/rematch/rematch) - Redux made easy
 
 #### Redux Tutorials
 
