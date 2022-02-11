@@ -295,7 +295,7 @@ A collection of awesome things regarding the React ecosystem.
 - [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 React component
 - [react-advanced-cropper](https://github.com/Norserium/react-advanced-cropper) - An advanced React component for image cropping
-- [swiper](https://github.com/nolimits4web/swiper) - Swiper provides built-in React component. Tree shakable, SSR support, typing, a11y and a lot more
+- [swiper](https://github.com/nolimits4web/swiper) - modern mobile touch slider
 
 ##### React Testing
 
