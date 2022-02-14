@@ -384,6 +384,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-dropzone](https://github.com/paramaggarwal/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [aframe-react](https://github.com/ngokevin/aframe) - A-Frame VR + React
 - [react-three-fiber](https://github.com/react-spring/react-three-fiber) - A react reconciler for threejs (web and react-native)
+- [react-native-remote-web](https://github.com/congzhangzh/react-native-remote-web) - A react(execute on nodejs side) reconciler for remote web (like Microsoft Blazor Server Side)
 - [react-three](https://github.com/Izzimach/react-three) - React bindings to create and control a 3D scene using three.js
 - [react-three-renderer](https://github.com/toxicFork/react-three-renderer) - Render into a three.js canvas using React
 - [react-threejs](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
