@@ -434,6 +434,7 @@ A collection of awesome things regarding the React ecosystem.
 - [formsy-react](https://github.com/formsy/formsy-react/) - A form input builder and validator for React
 - [react-formal](https://github.com/jquense/react-formal) - Sophisticated HTML form management for React
 - [vest](https://github.com/ealush/vest) - Declarative form validation framework inspired by unit testing syntax.
+- [formiz](https://github.com/ivan-dalmet/formiz) - React forms with ease! Composable, headless & with built-in multi steps
 
 ##### Autocomplete
 
