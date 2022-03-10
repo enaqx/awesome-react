@@ -730,6 +730,7 @@ for Node.js and TypeScript
 - [react-reduction](https://github.com/reduction-admin/react-reduction) - Free Admin Template Built with React and Bootstrap4
 - [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) - Responsive React The Movie Database App
 - [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - Simple ecommerce cart application built with React Redux
+- [SaaS boilerplate](https://github.com/async-labs/saas) - Open source boilerplate to build your own SaaS product. Built with React.
 
 ---
 
