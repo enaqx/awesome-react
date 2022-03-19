@@ -224,6 +224,7 @@ A collection of awesome things regarding the React ecosystem.
 - [reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
 - [ant-design](https://github.com/ant-design/ant-design) - A design system with values of Nature and Determinacy
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui/) - Simple, Modular & Accessible UI Components for your React Applications
+- [AgnosticUI](https://www.agnosticui.com/) - Accessible React component primitives that also work with Vue 3, Svelte, and Angular!
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
 - [evergreen](https://github.com/segmentio/evergreen) - Evergreen React UI Framework by Segment
 - [grommet](https://github.com/grommet/grommet) - A react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
