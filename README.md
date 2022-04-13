@@ -594,6 +594,8 @@ A collection of awesome things regarding the React ecosystem.
 - [React Conferences](https://react.dev/community/conferences)
 - [React Videos](https://react.dev/community/videos)
 - [Awesome React Talks](https://github.com/tiaanduplessis/awesome-react-talks)
+- [React.js Talks on GitNation Portal](https://portal.gitnation.org/tags/react)
+- [GraphQL Talks on GitNation Portal](https://portal.gitnation.org/tags/graphql)
 
 #### [React.js Conf 2015 Playlist](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr)
 
@@ -618,6 +620,12 @@ A collection of awesome things regarding the React ecosystem.
 #### [React.js Amsterdam 2018 Playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMFi_glL49hsoyqu7dHTMnNm)
 
 #### [React Amsterdam 2019 Playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMHLTeH4qfD3F320GXfj97kc)
+
+#### [React Summit Remote Edition 2020 Playlist](https://portal.gitnation.org/events/react-summit-remote-edition-2020)
+
+#### [React Summit 2020 Playlist](https://portal.gitnation.org/events/react-summit-2020)
+
+#### [React Summit 2021 Playlist](https://portal.gitnation.org/events/react-summit-remote-edition-2021)
 
 #### Video Tutorials
 
