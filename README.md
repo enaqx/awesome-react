@@ -32,6 +32,7 @@ A collection of awesome things regarding the React ecosystem.
     - [Data Managing](#data-managing)
     - [Maps](#maps)
     - [Charts](#charts)
+    - [Authentication](#authentication)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
   - [React Native Tutorials](#react-native-tutorials)
@@ -489,6 +490,9 @@ A collection of awesome things regarding the React ecosystem.
 - [echarts-for-react](https://github.com/hustcc/echarts-for-react) - Apache ECharts components for React wrapper
 - [react-apexcharts](https://github.com/apexcharts/react-apexcharts) - React Component for ApexCharts
 - [chartify](https://github.com/kis/chartify) - React plugin for building charts using CSS
+
+##### Authentication
+- [useAuth](https://useauth.dev/) - A simple library that supports various OAuth providers to authentication with.
 
 ---
 
