@@ -338,6 +338,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-esi](https://github.com/dunglas/react-esi) - React Edge Side Includes
 - [react-aria](https://react-spectrum.adobe.com/react-aria/index.html) - Adobe's library of React Hooks that provides accessible UI primitives for your design system
 - [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React.
+- [AutoAnimate](https://auto-animate.formkit.com) - Add motion to your apps with a single line of code
 
 ##### React Integration
 
