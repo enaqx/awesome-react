@@ -721,6 +721,7 @@ for Node.js and TypeScript
 #### Video Tutorials
 
 - [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
+- [Free React courses](https://skillcombo.com/topic/react/free/)
 
 ---
 
