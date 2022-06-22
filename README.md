@@ -45,7 +45,7 @@ A collection of awesome things regarding the React ecosystem.
   - [Redux Tools](#redux-tools)
   - [Redux Tutorials](#redux-tutorials)
 - [GraphQL](#graphql)
-  - [GraphQL General Resources](#graphql-spec)
+  - [GraphQL General Resources](#graphql-general-resources)
   - [GraphQL Tools](#graphql-tools)
   - [GraphQL Tutorials](#graphql-tutorials)
   - [GraphQL Implementations](#graphql-implementations)
