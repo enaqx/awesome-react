@@ -639,6 +639,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Prisma](https://www.prisma.io/) - Next-generation ORM
 for Node.js and TypeScript
 - [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) - GraphQL & Relay for MySQL & Postgres via Sequelize
+- [Nhost](https://nhost.io/) - The Open Source Firebase Alternative with GraphQL
 
 ---
 
