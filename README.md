@@ -174,6 +174,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.
 - [jsx-ast-utils](https://github.com/jsx-eslint/jsx-ast-utils) - AST utility module for statically analyzing JSX
 - [react-scanner](https://github.com/moroshko/react-scanner) - Extract React components and props usage from code
+- [Wasp](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern React web apps with less code.
 
 ##### React Starter Kits and Toolchains
 
