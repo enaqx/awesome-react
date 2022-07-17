@@ -669,8 +669,6 @@ for Node.js and TypeScript
 
 ### Videos
 
-#### [reactjsvideos.com](https://www.reactjsvideos.com)
-
 #### Important Talks
 
 - [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
