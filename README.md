@@ -406,6 +406,7 @@ A collection of awesome things regarding the React ecosystem.
 - [effector](https://github.com/zerobias/effector) - Fast and powerful reactive state manager
 - [reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management
 - [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - Observable-based state management for performant game UIs built in React
+- [@superstate/react](https://github.com/chiefGui/superstate/tree/main/packages/react) - Micro state management library for React apps designed for developer wellness.
 
 ##### React AR and VR
 
