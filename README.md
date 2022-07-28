@@ -719,6 +719,7 @@ for Node.js and TypeScript
 #### Video Tutorials
 
 - [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
+- [React Login, Registration,  Authentication, Authorization, and more By Dave Gray](https://youtube.com/playlist?list=PL0Zuz27SZ-6PRCpm9clX0WiBEMB70FWwd)
 
 ---
 
