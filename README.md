@@ -406,6 +406,8 @@ A collection of awesome things regarding the React ecosystem.
 - [effector](https://github.com/zerobias/effector) - Fast and powerful reactive state manager
 - [reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management
 - [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - Observable-based state management for performant game UIs built in React
+- [jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React.
+- [valtio](https://github.com/pmndrs/valtio) - Proxy state made simple.
 
 ##### React AR and VR
 
@@ -463,7 +465,6 @@ A collection of awesome things regarding the React ecosystem.
 - [baobab](https://github.com/Yomguithereal/baobab) - JavaScript & TypeScript persistent and optionally immutable data tree with cursors
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [RxDB](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications
-
 
 ##### Maps
 
@@ -637,7 +638,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [Hasura](https://hasura.io/) - Instant GraphQL for all your data
 - [Prisma](https://www.prisma.io/) - Next-generation ORM
-for Node.js and TypeScript
+  for Node.js and TypeScript
 - [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) - GraphQL & Relay for MySQL & Postgres via Sequelize
 
 ---
