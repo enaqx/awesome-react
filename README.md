@@ -311,6 +311,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-magic](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification
 - [tcomb-react](https://github.com/gcanti/tcomb-react) - Library allowing you to check all the props of your React components
+- [react-superq](https://github.com/mvrlin/react-superq) - 🌈 Easy-to-use media queries for your React project
 - [react-responsive](https://github.com/wearefractal/react-responsive) - Media queries in react for responsive design
 - [preact](https://git.io/preact) - Fast 3kb React alternative with the same ES6 API.
 - [riotjs](https://github.com/muut/riotjs) - A React-like, 3.5KB user interface library
