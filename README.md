@@ -174,6 +174,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.
 - [jsx-ast-utils](https://github.com/jsx-eslint/jsx-ast-utils) - AST utility module for statically analyzing JSX
 - [react-scanner](https://github.com/moroshko/react-scanner) - Extract React components and props usage from code
+- [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra) - Trendiest admin dashboard template for React
 
 ##### React Starter Kits and Toolchains
 
