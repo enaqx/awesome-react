@@ -537,6 +537,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [Create React Native App](https://github.com/react-community/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [Ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
+- [React Native Starter](https://github.com/flatlogic/react-native-starter) - A powerful react native starter template that bootstraps development of your mobile application.
 
 #### React Native Awesome Components
 
