@@ -77,6 +77,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React General Resources
 
 - [React Official Website](https://reactjs.org/)
+- [New React Docs](https://beta.reactjs.org/)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [React GitHub](https://github.com/facebook/react)
 
