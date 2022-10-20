@@ -296,6 +296,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 React component
 - [react-advanced-cropper](https://github.com/Norserium/react-advanced-cropper) - An advanced React component for image cropping
 - [swiper](https://github.com/nolimits4web/swiper) - modern mobile touch slider
+- [kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 
 ##### React Testing
 
