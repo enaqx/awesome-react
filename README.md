@@ -192,7 +192,7 @@ A collection of awesome things regarding the React ecosystem.
 - [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
 - [Blitz](https://blitzjs.com) - The Fullstack React Framework
 - [aleph.js](https://github.com/alephjs/aleph.js) - The React Framework in Deno
-- [refine](https://refine.dev) - A React-based framework for building data-intensive applications in no time.
+- [refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 
 ##### React Styling
 
