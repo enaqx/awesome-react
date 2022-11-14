@@ -489,6 +489,7 @@ A collection of awesome things regarding the React ecosystem.
 - [echarts-for-react](https://github.com/hustcc/echarts-for-react) - Apache ECharts components for React wrapper
 - [react-apexcharts](https://github.com/apexcharts/react-apexcharts) - React Component for ApexCharts
 - [chartify](https://github.com/kis/chartify) - React plugin for building charts using CSS
+- [tsxecharts](https://github.com/lloydzhou/tsxecharts) - React component wrapper for ECharts based on TypeScript
 
 ---
 
