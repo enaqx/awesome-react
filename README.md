@@ -264,6 +264,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - ReactJS Datepicker
 - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component
 - [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps
+- [VoerkaI18n](https://github.com/zhangfisher/voerka-i18n) - Internationalize React apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible React modal
 - [react-hotkeys](https://github.com/greena13/react-hotkeys) - Declarative hotkey and focus area management for React
