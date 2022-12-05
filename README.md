@@ -728,6 +728,7 @@ for Node.js and TypeScript
 - [react-reduction](https://github.com/reduction-admin/react-reduction) - Free Admin Template Built with React and Bootstrap4
 - [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) - Responsive React The Movie Database App
 - [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - Simple ecommerce cart application built with React Redux
+- [admin-one-react-tailwind](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript
 
 ---
 
