@@ -399,6 +399,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
 - [flux](http://facebook.github.io/flux/) - Application architecture for building user interfaces
 - [recoil](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
+- [jotai](https://github.com/pmndrs/jotai) - Bottom-up approach to React state management with an atomic model
 - [xstate-react](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - State machines and statecharts for the modern web
 - [zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
 - [easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
