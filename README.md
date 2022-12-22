@@ -157,6 +157,7 @@ A collection of awesome things regarding the React ecosystem.
 ##### React Development Tools
 
 - [react-devtools](https://github.com/facebook/react-devtools) - Inspection of React component hierarchy in the Chrome and Firefox Developer Tools
+- [react-refresh](https://github.com/facebook/react/tree/main/packages/react-refresh) - Fast Refresh is a feature that lets you edit React components in a running application without losing their state
 - [react-hot-loader](https://github.com/gaearon/react-hot-loader) - Tweak React components in real time
 - [react-loadable](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises
 - [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
