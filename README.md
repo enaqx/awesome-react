@@ -691,6 +691,7 @@ for Node.js and TypeScript
 - [React Today and Tomorrow and 90% Cleaner React With Hooks - React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 - [React Conferences](https://reactjs.org/community/conferences.html)
 - [React Videos](https://reactjs.org/community/videos.html)
+- [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
 - [Awesome React Talks](https://github.com/tiaanduplessis/awesome-react-talks)
 
 #### [React.js Conf 2015 Playlist](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr)
