@@ -160,6 +160,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-hot-loader](https://github.com/gaearon/react-hot-loader) - Tweak React components in real time
 - [react-loadable](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises
 - [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
+- [Loopple Builder](https://www.loopple.com/react) - Quickly develop React templates using Drag & Drop
 - [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
 - [storybook](https://github.com/storybookjs/storybook) - UI component dev & test
 - [docz](https://github.com/doczjs/docz) - Zero Config, live-reloading documentation with Markdown + JSX
