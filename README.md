@@ -729,8 +729,8 @@ for Node.js and TypeScript
 - [react-reduction](https://github.com/reduction-admin/react-reduction) - Free Admin Template Built with React and Bootstrap4
 - [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) - Responsive React The Movie Database App
 - [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - Simple ecommerce cart application built with React Redux
-- [xtreme-react-lite](https://github.com/wrappixel/xtreme-react-lite) - admin dashboard template created with react
-- [modernize-react-lite](https://github.com/adminmart/modernize-react-lite) - modernize free admin template built with react
+- [xtreme-react-lite](https://github.com/wrappixel/xtreme-react-lite/?ref=232) - admin dashboard template created with react
+- [modernize-react-lite](https://github.com/adminmart/modernize-react-lite/?ref=6) - modernize free admin template built with react
 
 ---
 
