@@ -76,8 +76,8 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React General Resources
 
-- [React Official Website](https://reactjs.org/)
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [React Official Website](https://react.dev/)
+- [React Documentation](https://react.dev/learn)
 - [React GitHub](https://github.com/facebook/react)
 
 #### React Community
@@ -88,7 +88,6 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Online Playgrounds
 
-- [CodePen](https://reactjs.org/redirect-to-codepen/hello-world)
 - [CodeSandbox](https://codesandbox.io/s/new)
 - [JSFiddle](https://jsfiddle.net/boilerplate/react-jsx)
 
@@ -100,7 +99,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React General Tutorials
 
-- [React Official Tutorial](https://reactjs.org/tutorial/tutorial.html)
+- [React Official Tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
 - [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
@@ -110,7 +109,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Hooks
 
-- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [React Hooks](https://react.dev/reference/react)
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
 - [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
 - [Replacing Redux with React Hooks and Context](https://medium.com/octopus-labs-london/replacing-redux-with-react-hooks-and-context-part-1-11b72ffdb533)
@@ -140,7 +139,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Internals
 
-- [Reconciliation](https://reactjs.org/docs/reconciliation.html)
+- [Reconciliation](https://react.dev/learn/preserving-and-resetting-state)
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 - [Build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 - [Inside Fiber: In-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
@@ -689,8 +688,8 @@ for Node.js and TypeScript
 - [Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock](https://www.youtube.com/watch?v=LQFQl8EsV3k)
 - [Laney Kuenzel: Mutations and Subscriptions in Relay - JSConf 2015](https://www.youtube.com/watch?v=mmke4w4gc6c)
 - [React Today and Tomorrow and 90% Cleaner React With Hooks - React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM)
-- [React Conferences](https://reactjs.org/community/conferences.html)
-- [React Videos](https://reactjs.org/community/videos.html)
+- [React Conferences](https://react.dev/community/conferences)
+- [React Videos](https://react.dev/community/videos)
 - [Awesome React Talks](https://github.com/tiaanduplessis/awesome-react-talks)
 
 #### [React.js Conf 2015 Playlist](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr)
