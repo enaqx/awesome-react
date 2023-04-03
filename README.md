@@ -79,6 +79,7 @@ A collection of awesome things regarding the React ecosystem.
 - [React Official Website](https://react.dev/)
 - [React Documentation](https://react.dev/learn)
 - [React GitHub](https://github.com/facebook/react)
+- [React Roadmap](https://roadmap.sh/react)
 
 #### React Community
 
