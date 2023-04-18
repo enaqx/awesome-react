@@ -24,7 +24,6 @@ A collection of awesome things regarding the React ecosystem.
     - [React Libraries](#react-libraries)
     - [React Integration](#react-integration)
     - [React State Management](#react-state-management)
-    - [React AR and VR](#react-ar-and-vr)
     - [React Renderers](#react-renderers)
     - [Forms](#forms)
     - [Autocomplete](#autocomplete)
@@ -90,10 +89,6 @@ A collection of awesome things regarding the React ecosystem.
 
 - [CodeSandbox](https://codesandbox.io/s/new)
 - [JSFiddle](https://jsfiddle.net/boilerplate/react-jsx)
-
-#### Another Awesome Lists
-
-- [React/Redux Links](https://github.com/markerikson/react-redux-links)
 
 #### React Tutorials
 
@@ -406,10 +401,6 @@ A collection of awesome things regarding the React ecosystem.
 - [effector](https://github.com/zerobias/effector) - Fast and powerful reactive state manager
 - [reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management
 - [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - Observable-based state management for performant game UIs built in React
-
-##### React AR and VR
-
-- [Viro React](https://viromedia.com/viroreact/) - Platform for rapidly building AR/VR applications using React Native
 
 ##### React Renderers
 
@@ -744,6 +735,6 @@ for Node.js and TypeScript
 
 ### Contribution
 
-This list started as personal collection of interesting things about React. At the time it started React was in beta, there was special script to transform JSX to JS and even Flux was not yet published. React is mainstream now, lots of things happened. Please, do not try to use this list as advertisement board or place for public push of your experiments. Only fully free resources here, please. Do not hesitate to suggest cleaning PRs for outdated projects and articles along with new contributions. Your contributions and suggestions are heartily♡ welcome, though. (✿◠‿◠)
+This list began as a personal compilation of interesting things related to React. When it was initiated, React was still in beta, a special script was required to convert JSX to JS, and Flux had not yet been released. Today, React has become mainstream, with numerous developments taking place. Kindly refrain from using this list as an advertisement board or a space to promote your experiments. We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. Your input and suggestions are wholeheartedly♡ appreciated. (✿◠‿◠)
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
