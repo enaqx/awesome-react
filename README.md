@@ -4,11 +4,9 @@ A collection of awesome things regarding the React ecosystem.
 
 - [React](#react)
   - [React General Resources](#react-general-resources)
-  - [React Community](#react-community)
   - [React Online Playgrounds](#react-online-playgrounds)
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
-    - [React Hooks Tutorials](#react-hooks-tutorials)
     - [React and TypeScript](#react-and-typescript)
     - [React Performance](#react-performance)
     - [React Internals](#react-internals)
@@ -97,10 +95,8 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React and TypeScript
 
-- [TypeScript, React and Webpack](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html)
 - [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 - [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-- [React by Example](https://reactbyexample.github.io/)
 
 ##### React Performance
 
