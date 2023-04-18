@@ -2,6 +2,8 @@
 
 A collection of awesome things regarding the React ecosystem.
 
+## Table of Contents
+
 - [React](#react)
   - [React General Resources](#react-general-resources)
   - [React Online Playgrounds](#react-online-playgrounds)
@@ -126,6 +128,8 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Styling
 
+**[`Back to top ⬆️`](#table-of-contents)**
+
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 - [emotion](https://github.com/emotion-js/emotion) - Library designed for writing CSS styles with JavaScript
 - [radium](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
@@ -233,6 +237,8 @@ A collection of awesome things regarding the React ecosystem.
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
 
 ##### React Libraries
+
+**[`Back to top ⬆️`](#table-of-contents)**
 
 - [react-border-wrapper](https://github.com/Metroxe/react-border-wrapper) - A wrapper for placing elements along div borders in React.
 - [react-magic](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React
@@ -410,6 +416,8 @@ A collection of awesome things regarding the React ecosystem.
 
 ### React Native
 
+**[`Back to top ⬆️`](#table-of-contents)**
+
 > Framework for building native apps using React
 
 #### React Native General Resources
@@ -515,6 +523,8 @@ A collection of awesome things regarding the React ecosystem.
 
 ### GraphQL
 
+**[`Back to top ⬆️`](#table-of-contents)**
+
 > A query language for your API
 
 #### GraphQL General Resources
@@ -582,6 +592,7 @@ A collection of awesome things regarding the React ecosystem.
 ### Videos
 
 #### Important Talks
+**[`Back to top ⬆️`](#table-of-contents)**
 
 - [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 - [Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
@@ -655,6 +666,8 @@ A collection of awesome things regarding the React ecosystem.
 ---
 
 ### Contribution
+
+**[`Back to top ⬆️`](#table-of-contents)**
 
 This list began as a personal compilation of interesting things related to React. When it was initiated, React was still in beta, a special script was required to convert JSX to JS, and Flux had not yet been released. Today, React has become mainstream, with numerous developments taking place. Kindly refrain from using this list as an advertisement board or a space to promote your experiments. We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. Your input and suggestions are wholeheartedly♡ appreciated. (✿◠‿◠)
 
