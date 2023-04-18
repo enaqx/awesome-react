@@ -79,11 +79,7 @@ A collection of awesome things regarding the React ecosystem.
 - [React Official Website](https://react.dev/)
 - [React Documentation](https://react.dev/learn)
 - [React GitHub](https://github.com/facebook/react)
-
-#### React Community
-
 - [Reactiflux Discord Channel](http://www.reactiflux.com/)
-- [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 - [React Twitter](https://twitter.com/reactjs)
 
 #### React Online Playgrounds
@@ -97,22 +93,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [React Official Tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
-- [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
-- [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
-- [React Cheatsheet](https://devhints.io/react)
-- [React Patterns](https://reactpatterns.com/)
-- [Setup Flow with React](https://flow.org/en/docs/react/)
 
-##### React Hooks Tutorials
-
-- [React Hooks](https://react.dev/reference/react)
-- [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
-- [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
-- [Replacing Redux with React Hooks and Context](https://medium.com/octopus-labs-london/replacing-redux-with-react-hooks-and-context-part-1-11b72ffdb533)
-- [React Hooks cheat sheet: Unlock solutions to common problems](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/)
-- [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data/)
-- [Easy to understand React Hook recipes](https://usehooks.com/)
-- [React Hooks Video Tutorial](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)
 
 ##### React and TypeScript
 
@@ -190,6 +171,7 @@ A collection of awesome things regarding the React ecosystem.
 - [refine](https://refine.dev) - A React-based framework for building data-intensive applications in no time.
 
 ##### React Hooks
+- [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
 - [useWorker](https://github.com/alewin/useWorker) - A React Hook for Blocking-Free Background Tasks
 
 ##### React Styling
