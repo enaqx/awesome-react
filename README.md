@@ -110,7 +110,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Development Tools
 
-- [react-hot-loader](https://github.com/gaearon/react-hot-loader) - Tweak React components in real time
+- [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
 - [react-loadable](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises
 - [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
 - [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
@@ -127,15 +127,6 @@ A collection of awesome things regarding the React ecosystem.
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.
 - [jsx-ast-utils](https://github.com/jsx-eslint/jsx-ast-utils) - AST utility module for statically analyzing JSX
 - [react-scanner](https://github.com/moroshko/react-scanner) - Extract React components and props usage from code
-
-##### React Starter Kits and Toolchains
-
-- [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
-- [Razzle](https://razzlejs.org/) - Build production ready React applications. Razzle is toolchain for modern static and dynamic websites and web applications
-- [Neutrino React Preset](https://neutrinojs.org/packages/react/) - `@neutrinojs/react` is a Neutrino preset that supports building React web applications
-- [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic Web app boilerplate
-- [create-react-library](https://github.com/transitive-bullshit/create-react-library) - CLI for creating reusable, modern React libraries using Rollup and create-react-app.
-- [tsdx](https://tsdx.io/) - Zero-config CLI for TypeScript package development
 
 ##### React Frameworks
 
