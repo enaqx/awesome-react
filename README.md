@@ -7,8 +7,6 @@ A collection of awesome things regarding the React ecosystem.
   - [React Online Playgrounds](#react-online-playgrounds)
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
-    - [React and TypeScript](#react-and-typescript)
-    - [React Performance](#react-performance)
     - [React Internals](#react-internals)
     - [React Interview Questions](#react-interview-questions)
   - [React Tools](#react-tools)
@@ -75,10 +73,9 @@ A collection of awesome things regarding the React ecosystem.
 #### React General Resources
 
 - [React Official Website](https://react.dev/)
-- [React Documentation](https://react.dev/learn)
 - [React GitHub](https://github.com/facebook/react)
 - [Reactiflux Discord Channel](http://www.reactiflux.com/)
-- [React Twitter](https://twitter.com/reactjs)
+- [React Community](https://twitter.com/reactjs)
 
 #### React Online Playgrounds
 
@@ -89,26 +86,11 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React General Tutorials
 
-- [React Official Tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
+- [React Official Tutorial](https://react.dev/learne)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
-
-
-##### React and TypeScript
-
-- [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
+- [Design patterns and Component patterns for building powerful Web Apps](https://www.patterns.dev/)
 - [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
-##### React Performance
-
-- [React Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
-- [Introducing the React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
-- [Optimizing React: Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained)
-- [A Definitive Guide to Optimize Major Performance issues in React](https://www.simform.com/react-performance/)
-- [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
-- [Using the React DevTools Profiler to Diagnose React App Performance Issues](https://www.netlify.com/blog/2018/08/29/using-the-react-devtools-profiler-to-diagnose-react-app-performance-issues/)
-- [Top 5 Practices to Boost React Performance](https://www.codementor.io/blizzerand/top-5-practices-to-boost-react-performance-jv6zr89ep)
-- [React is Slow, React is Fast: Optimizing react Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
-- [Rendering large lists with react-window](https://addyosmani.com/blog/react-window/)
 
 ##### React Internals
 
@@ -128,7 +110,6 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Development Tools
 
-- [react-devtools](https://github.com/facebook/react-devtools) - Inspection of React component hierarchy in the Chrome and Firefox Developer Tools
 - [react-hot-loader](https://github.com/gaearon/react-hot-loader) - Tweak React components in real time
 - [react-loadable](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises
 - [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
@@ -276,11 +257,11 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Testing
 
-- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing Framework
+- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
 - [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
-- [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) - React hooks testing utilities that encourage good testing practices
-- [majestic](https://github.com/Raathigesh/majestic) - Zero config GUI for Jest
+- [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) - React hooks testing utilities
+- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
 
 ##### React Libraries
 
@@ -558,7 +539,6 @@ A collection of awesome things regarding the React ecosystem.
 - [redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
 - [connected-react-router](https://github.com/supasate/connected-react-router) - A Redux binding for React Router
 - [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state
-- [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for Redux
 - [redux-undo](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to redux state containers
 - [redux-persist](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a redux store
