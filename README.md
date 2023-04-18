@@ -6,9 +6,6 @@ A collection of awesome things regarding the React ecosystem.
   - [React General Resources](#react-general-resources)
   - [React Online Playgrounds](#react-online-playgrounds)
   - [React Tutorials](#react-tutorials)
-    - [React General Tutorials](#react-general-tutorials)
-    - [React Internals](#react-internals)
-    - [React Interview Questions](#react-interview-questions)
   - [React Tools](#react-tools)
     - [React Development Tools](#react-development-tools)
     - [React Frameworks](#react-frameworks)
@@ -84,26 +81,12 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Tutorials
 
-##### React General Tutorials
-
 - [React Official Tutorial](https://react.dev/learne)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
+- [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - [Design patterns and Component patterns for building powerful Web Apps](https://www.patterns.dev/)
 - [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
-##### React Internals
-
-- [Reconciliation](https://react.dev/learn/preserving-and-resetting-state)
-- [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
-- [Build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
-- [Inside Fiber: In-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
-- [Entire React code base explanation by visual block schemes](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
-
-##### React Interview Questions
-
-- [13 Essential React Interview Questions](https://www.toptal.com/react/interview-questions)
-- [List of React interview Questions and Answers](https://github.com/sudheerj/reactjs-interview-questions)
-- [React Coding Challenges](https://github.com/alexgurr/react-coding-challenges/)
 
 #### React Tools
 
@@ -335,6 +318,7 @@ A collection of awesome things regarding the React ecosystem.
 - [redux](#redux) - Predictable State Container for JavaScript Apps
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
 - [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
+- [swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [flux](http://facebook.github.io/flux/) - Application architecture for building user interfaces
 - [recoil](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
 - [jotai](https://github.com/pmndrs/jotai) - Bottom-up approach to React state management with an atomic model
@@ -514,7 +498,6 @@ A collection of awesome things regarding the React ecosystem.
 - [reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
 - [redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for redux
 - [redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
-- [connected-react-router](https://github.com/supasate/connected-react-router) - A Redux binding for React Router
 - [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state
 - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for Redux
 - [redux-undo](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to redux state containers
@@ -591,7 +574,6 @@ A collection of awesome things regarding the React ecosystem.
 #### Relay Tools
 
 - [graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay
-- [react-router-relay](https://github.com/relay-tools/react-router-relay) - Relay integration for React Router
 - [relay-local-schema](https://github.com/relay-tools/relay-local-schema) - Use Relay without a GraphQL server
 - [relay-codemod](https://github.com/facebook/jscodeshift) - Codemod scripts based for on jsodeshift to update Relay APIs
 
