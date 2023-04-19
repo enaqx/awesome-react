@@ -21,8 +21,7 @@ A collection of awesome things regarding the React ecosystem.
     - [React State Management](#react-state-management)
     - [React Renderers](#react-renderers)
     - [React Forms](#react-forms)
-    - [Autocomplete](#autocomplete)
-    - [Graphics and Animations](#graphics-and-animations)
+    - [React Graphics and Animations](#react-graphics-and-animations)
     - [Data Managing](#data-managing)
     - [Maps](#maps)
     - [Charts](#charts)
@@ -189,8 +188,7 @@ A collection of awesome things regarding the React ecosystem.
 - [data-source](https://github.com/facebook/flipper/tree/main/desktop/flipper-plugin/src/data-source) - Library to power streaming data visualisations as used in Facebook's Flipper
 - [react-text-mask](https://github.com/text-mask/text-mask) - Input mask for React
 - [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
-- [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
-- [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
+- [qrcode-react](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
@@ -210,6 +208,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - Create Instagram like stories in React
 - [cookie-consent-banner](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
 - [heart-switch](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
+- [keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get
 
 ##### React Components Sandboxes
 
@@ -306,7 +305,8 @@ A collection of awesome things regarding the React ecosystem.
 - [react-captcha](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google
 - [reaptcha](https://github.com/sarneeh/reaptcha) - Clean, modern and simple React wrapper for Google reCAPTCHA
 - [react-recaptcha-that-works](https://github.com/douglasjunior/react-recaptcha-that-works) - A reCAPTCHA bridge for React that works
-- [react-google-autocomplete](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
+- [react-google-autocomplete](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks
+- [downshift](https://github.com/paypal/downshift) - React autocomplete, combobox or select dropdown components
 
 ##### React State Management
 
@@ -345,22 +345,13 @@ A collection of awesome things regarding the React ecosystem.
 - [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 - [vest](https://github.com/ealush/vest) - Declarative validations framework
 
-##### Autocomplete
-
-- [react-autocomplete by @rackt](https://github.com/rackt/react-autocomplete) - WAI-ARIA compliant React autocomplete (Archived, read-only)
-- [react-autosuggest by @moroshko](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component
-- [react-autocomplete by @eliseumds](https://github.com/eliseumds/react-autocomplete) - Just tasting some ReactJS + RxJS
-- [react-autocomplete by @prometheusresearch](https://github.com/prometheusresearch/react-autocomplete) - Autocomplete widget based on React
-- [instatype by @gragland](https://github.com/gragland/instatype) - Simple react autocomplete component
-- [downshift](https://github.com/paypal/downshift) - A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components
-- [React Bootstrap Typeahead](https://github.com/ericgio/react-bootstrap-typeahead) - React typeahead with Bootstrap styling
-
-##### Graphics and Animations
+##### React Graphics and Animations
 
 - [react-spring](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
 - [framer-motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
-- [react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
-- [react-tsparticles](https://github.com/matteobruni/tsparticles/tree/main/components/react) - Easily create highly customizable particles effects, confetti explosions and fireworks animations
+- [react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations for React
+- [auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
+- [react-tsparticles](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 - [gooey-react](https://github.com/luukdv/gooey-react) - The gooey effect for React
 
 ##### Data Managing
