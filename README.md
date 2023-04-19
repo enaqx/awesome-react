@@ -20,7 +20,7 @@ A collection of awesome things regarding the React ecosystem.
     - [React Integration](#react-integration)
     - [React State Management](#react-state-management)
     - [React Renderers](#react-renderers)
-    - [Forms](#forms)
+    - [React Forms](#react-forms)
     - [Autocomplete](#autocomplete)
     - [Graphics and Animations](#graphics-and-animations)
     - [Data Managing](#data-managing)
@@ -94,6 +94,7 @@ A collection of awesome things regarding the React ecosystem.
 ##### React Development Tools
 
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
+- [vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 - [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 - [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
@@ -155,6 +156,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-spectrum](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools that help you build adaptive, accessible, and robust user experiences
 - [ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
 - [radix-primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps
+- [nextui](https://github.com/nextui-org/nextui) - Beautiful, fast and modern React UI library.
 
 ##### React Awesome Components
 
@@ -206,6 +208,8 @@ A collection of awesome things regarding the React ecosystem.
 - [react-advanced-cropper](https://github.com/Norserium/react-advanced-cropper) - An advanced React component for image cropping
 - [swiper](https://github.com/nolimits4web/swiper) - modern mobile touch slider
 - [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - Create Instagram like stories in React
+- [cookie-consent-banner](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
+- [heart-switch](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
 
 ##### React Components Sandboxes
 
@@ -332,18 +336,14 @@ A collection of awesome things regarding the React ecosystem.
 - [react-nil](https://github.com/pmndrs/react-nil) - A react null renderer
 - [remotion](https://github.com/JonnyBurger/remotion) - Create videos programmatically in React
 
-##### Forms
+##### React Forms
 
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React Hooks for forms validation
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema
 - [react-final-form](https://github.com/final-form/react-final-form) - High performance subscription-based form state management for React
-- [unform](https://github.com/Rocketseat/unform) - Performance-focused API for React forms
 - [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
-- [uniforms](https://github.com/vazco/uniforms) - A React library for building forms from any schema
-- [formsy-react](https://github.com/formsy/formsy-react/) - A form input builder and validator for React
-- [react-formal](https://github.com/jquense/react-formal) - Sophisticated HTML form management for React
-- [vest](https://github.com/ealush/vest) - Declarative form validation framework inspired by unit testing syntax.
+- [vest](https://github.com/ealush/vest) - Declarative validations framework
 
 ##### Autocomplete
 
