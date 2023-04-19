@@ -240,6 +240,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-desktop](https://github.com/gabrielbull/react-desktop) - OS X and Windows UI components built with React
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A simple and customizable React notifications system
 - [react-extras](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React
+- [klevu-sdk](https://github.com/klevultd/frontend-sdk/tree/master/examples/react) - Klevu Discovery Suite example built with Typescript, React, Vite (server) and @mui/material (styling) by Klevu
 - [react-instantsearch](https://github.com/algolia/instantsearch) - Lightning-fast search for React and React Native applications, by Algolia
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers
 - [react-esi](https://github.com/dunglas/react-esi) - React Edge Side Includes
