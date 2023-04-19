@@ -37,16 +37,6 @@ A collection of awesome things regarding the React ecosystem.
   - [Redux General Resources](#redux-general-resources)
   - [Redux Tools](#redux-tools)
   - [Redux Tutorials](#redux-tutorials)
-- [GraphQL](#graphql)
-  - [GraphQL General Resources](#graphql-spec)
-  - [GraphQL Tools](#graphql-tools)
-  - [GraphQL Tutorials](#graphql-tutorials)
-  - [GraphQL Implementations](#graphql-implementations)
-  - [Database Integration](#database-integration)
-- [Relay](#relay)
-  - [Relay General Resources](#relay-general-resources)
-  - [Relay Tutorials](#relay-tutorials)
-  - [Relay Tools](#relay-tools)
 - [Videos](#videos)
   - [Important Talks](#important-talks)
   - [React.js Conf 2015 Playlist](#reactjs-conf-2015-playlist)
@@ -81,12 +71,13 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Tutorials
 
-- [React Official Tutorial](https://react.dev/learne)
+- [React Official Tutorial](https://react.dev/learn)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - [Design patterns and Component patterns for building powerful Web Apps](https://www.patterns.dev/)
 - [A simple, scalable, and powerful architecture for building production ready React applications](https://github.com/alan2207/bulletproof-react)
 - [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- [The Fullstack Tutorial for GraphQL](https://github.com/howtographql/howtographql)
 
 #### React Tools
 
@@ -102,7 +93,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [next.js](https://github.com/vercel/next.js) - The React Framework
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
-- [react-admin](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
+- [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 - [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
 - [blitz.js](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
 - [aleph.js](https://github.com/alephjs/aleph.js) - The React Framework in Deno
@@ -314,6 +305,8 @@ A collection of awesome things regarding the React ecosystem.
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
 - [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
 - [swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
+- [apollo-client](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
+- [relay](https://github.com/facebook/relay) - A framework for building data-driven React applications
 - [flux](http://facebook.github.io/flux/) - Application architecture for building user interfaces
 - [recoil](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
 - [jotai](https://github.com/pmndrs/jotai) - Bottom-up approach to React state management with an atomic model
@@ -495,72 +488,6 @@ A collection of awesome things regarding the React ecosystem.
 
 ---
 
-### GraphQL
-
-> A query language for your API
-
-#### GraphQL General Resources
-
-- [GraphQL Official Site](http://graphql.org/)
-- [GraphQL Specification](https://github.com/graphql/graphql-spec)
-- [GraphQL Specification Repository](https://github.com/facebook/graphql)
-
-#### GraphQL Tools
-
-- [graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for **JavaScript**
-- [express-graphql](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with **Express**
-- [Apollo](https://www.apollographql.com/) - Industry-standard GraphQL implementation
-- [GraphQL Playground - GraphQL IDE for better development workflows](https://github.com/graphql/graphql-playground)
-
-#### GraphQL Tutorials
-
-- [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
-- [How to Graphql - The Fullstack Tutorial for GraphQL](https://howtographql.com/)
-
-#### GraphQL Implementations
-
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - **Ruby** implementation of GraphQL
-- [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL **Java** implementation
-- [sangria](https://github.com/sangria-graphql/sangria) - **Scala** GraphQL client and server library
-- [graphql-php](https://github.com/webonyx/graphql-php) - A **PHP** port of GraphQL reference implementation
-- [graphene](https://github.com/graphql-python/graphene) - GraphQL framework for **Python**
-- [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for **.NET**
-- [graphql-go](https://github.com/graphql-go/graphql) - GraphQL for **Go**
-- [juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for **Rust**
-
-#### Database Integration
-
-- [Hasura](https://hasura.io/) - Instant GraphQL for all your data
-- [Prisma](https://www.prisma.io/) - Next-generation ORM
-  for Node.js and TypeScript
-- [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) - GraphQL & Relay for MySQL & Postgres via Sequelize
-
----
-
-### Relay
-
-> Data-Driven React Applications
-
-#### Relay General Resources
-
-- [Relay Offical Site](https://relay.dev/)
-- [Relay GitHub](https://github.com/facebook/relay)
-
-#### Relay Tutorials
-
-- [Official Relay Getting Started](https://facebook.github.io/relay/docs/en/introduction-to-relay.html)
-- [Relay for Visual Learners](http://sgwilym.github.io/relay-visual-learners/)
-- [Getting Started with Relay](https://auth0.com/blog/2015/10/06/getting-started-with-relay/)
-- [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9)
-
-#### Relay Tools
-
-- [graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay
-- [relay-local-schema](https://github.com/relay-tools/relay-local-schema) - Use Relay without a GraphQL server
-- [relay-codemod](https://github.com/facebook/jscodeshift) - Codemod scripts based for on jsodeshift to update Relay APIs
-
----
-
 ### Videos
 
 #### Important Talks
@@ -586,7 +513,6 @@ A collection of awesome things regarding the React ecosystem.
 - [React Videos](https://react.dev/community/videos)
 - [Awesome React Talks](https://github.com/tiaanduplessis/awesome-react-talks)
 - [React.js Talks on GitNation Portal](https://portal.gitnation.org/tags/react)
-- [GraphQL Talks on GitNation Portal](https://portal.gitnation.org/tags/graphql)
 
 #### [React.js Conf 2015 Playlist](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr)
 
