@@ -47,15 +47,12 @@ A collection of awesome things regarding the React ecosystem.
   - [ReactRally Conf 2016 Playlist](#reactrally-conf-2016-playlist)
   - [React.js Amsterdam 2018 Playlist](#reactjs-amsterdam-2018-playlist)
   - [Video Tutorials](#video-tutorials)
-- [Demo React Apps](#demo-react-apps)
 - [Real React Apps](#real-react-apps)
 - [Contribution](#contribution)
 
 ---
 
 ### React
-
-> JavaScript Library for building User Interfaces
 
 #### React General Resources
 
@@ -200,6 +197,7 @@ A collection of awesome things regarding the React ecosystem.
 - [cookie-consent-banner](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
 - [heart-switch](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
 - [keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get
+- [kbar](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
 
 ##### React Components Sandboxes
 
@@ -385,8 +383,6 @@ A collection of awesome things regarding the React ecosystem.
 
 ### React Native
 
-> Framework for building native apps using React
-
 #### React Native General Resources
 
 - [React Native Official Site](https://facebook.github.io/react-native/)
@@ -457,8 +453,6 @@ A collection of awesome things regarding the React ecosystem.
 
 ### Redux
 
-> Predictable State Container for JavaScript Apps
-
 #### Redux General Resources
 
 - [Redux GitHub](https://github.com/reduxjs/redux)
@@ -509,6 +503,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock](https://www.youtube.com/watch?v=LQFQl8EsV3k)
 - [Laney Kuenzel: Mutations and Subscriptions in Relay - JSConf 2015](https://www.youtube.com/watch?v=mmke4w4gc6c)
 - [React Today and Tomorrow and 90% Cleaner React With Hooks - React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+- [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
 - [React Conferences](https://react.dev/community/conferences)
 - [React Videos](https://react.dev/community/videos)
 - [Awesome React Talks](https://github.com/tiaanduplessis/awesome-react-talks)
@@ -547,15 +542,6 @@ A collection of awesome things regarding the React ecosystem.
 #### Video Tutorials
 
 - [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
-
----
-
-### Demo React Apps
-
-- [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL
-- [react-reduction](https://github.com/reduction-admin/react-reduction) - Free Admin Template Built with React and Bootstrap4
-- [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) - Responsive React The Movie Database App
-- [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - Simple ecommerce cart application built with React Redux
 
 ---
 
