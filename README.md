@@ -46,7 +46,6 @@ A collection of awesome things regarding the React ecosystem.
   - [React.js Conf 2016 Playlist](#reactjs-conf-2016-playlist)
   - [ReactRally Conf 2016 Playlist](#reactrally-conf-2016-playlist)
   - [React.js Amsterdam 2018 Playlist](#reactjs-amsterdam-2018-playlist)
-  - [Video Tutorials](#video-tutorials)
 - [Real React Apps](#real-react-apps)
 - [Contribution](#contribution)
 
@@ -88,29 +87,25 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Frameworks
 
-- [next.js](https://github.com/vercel/next.js) - The React Framework
-- [gatsby.js](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
+- [next](https://github.com/vercel/next.js) - The React Framework
+- [blitz](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
+- [remix](https://remix.run/) - Full stack web Framework that lets you focus on the user interface
+- [gatsby](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
-- [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
-- [blitz.js](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
-- [aleph.js](https://github.com/alephjs/aleph.js) - The React Framework in Deno
-- [refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
+- [refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
+- [aleph](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno
 
 ##### React Hooks
 
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
-- [useWorker](https://github.com/alewin/useWorker) - A React Hook for Blocking-Free Background Tasks
 
 ##### React Styling
 
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
-- [emotion](https://github.com/emotion-js/emotion) - Library designed for writing CSS styles with JavaScript
-- [radium](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
-- [jss](https://github.com/cssinjs/jss) - Authoring tool for CSS
-- [aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
-- [linaria](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS
-- [stitches](https://github.com/modulz/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience
+- [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
+- [linaria](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS library
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+- [jss](https://github.com/cssinjs/jss) - authoring tool for CSS which uses JavaScript as a host language
 
 ##### React Routing
 
@@ -503,6 +498,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock](https://www.youtube.com/watch?v=LQFQl8EsV3k)
 - [Laney Kuenzel: Mutations and Subscriptions in Relay - JSConf 2015](https://www.youtube.com/watch?v=mmke4w4gc6c)
 - [React Today and Tomorrow and 90% Cleaner React With Hooks - React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+- [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
 - [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
 - [React Conferences](https://react.dev/community/conferences)
 - [React Videos](https://react.dev/community/videos)
@@ -538,10 +534,6 @@ A collection of awesome things regarding the React ecosystem.
 #### [React Summit 2020 Playlist](https://portal.gitnation.org/events/react-summit-2020)
 
 #### [React Summit 2021 Playlist](https://portal.gitnation.org/events/react-summit-remote-edition-2021)
-
-#### Video Tutorials
-
-- [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
 
 ---
 
