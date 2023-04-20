@@ -198,6 +198,7 @@ A collection of awesome things regarding the React ecosystem.
 - [heart-switch](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
 - [keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get
 - [kbar](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
+- [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 
 ##### React Components Sandboxes
 
@@ -385,12 +386,11 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Native General Resources
 
-- [React Native Official Site](https://facebook.github.io/react-native/)
+- [React Native Official Website](https://reactnative.dev/)
 - [React Native GitHub](https://github.com/facebook/react-native)
-- [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/)
-- [React Native Playground](https://rnplay.org/)
 - [React Native Awesome List](https://github.com/jondot/awesome-react-native)
-- [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
+- [React Native Community](https://reactnative.dev/community/overview)
+- [Expo](https://expo.dev/)
 
 #### React Native Tutorials
 
@@ -426,7 +426,6 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Native Awesome Components
 
-- [Expo](https://expo.io/) - The Expo platform for making cross-platform mobile apps
 - [react-navigation](https://reactnavigation.org/) - Routing and navigation for your React Native apps
 - [react-native-social-share](https://github.com/doefler/react-native-social-share) - Use the iOS and Android native Twitter and Facebook share popup with React Native
 - [react-native-fbsdk](https://github.com/facebook/react-native-fbsdk) - A wrapper around the iOS Facebook SDK
@@ -442,6 +441,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-native-largelist](https://github.com/bolan9999/react-native-largelist) - The best large list component for React Native
 - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native
 - [rn-placeholder](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native
+- [react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet
 
 #### React Native Libraries
 
