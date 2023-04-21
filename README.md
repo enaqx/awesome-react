@@ -1,4 +1,4 @@
-### **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome things regarding the React ecosystem.
 
@@ -6,27 +6,26 @@ A collection of awesome things regarding the React ecosystem.
   - [React General Resources](#react-general-resources)
   - [React Online Playgrounds](#react-online-playgrounds)
   - [React Tutorials](#react-tutorials)
-  - [React Tools](#react-tools)
-    - [React Development Tools](#react-development-tools)
-    - [React Frameworks](#react-frameworks)
-    - [React Component Libraries](#react-component-libraries)
-    - [React Hooks](#react-hooks)
-    - [React Styling](#react-styling)
-    - [React Routing](#react-routing)
-    - [React Awesome Components](#react-awesome-components)
-    - [React Components Sandboxes](#react-components-sandboxes)
-    - [React Testing](#react-testing)
-    - [React Libraries](#react-libraries)
-    - [React Integration](#react-integration)
-    - [React State Management](#react-state-management)
-    - [React Renderers](#react-renderers)
-    - [React Forms](#react-forms)
-    - [React Tables and Grids](#react-tables-and-grids)
-    - [React Internationalization](#react-internationalization)
-    - [React Graphics and Animations](#react-graphics-and-animations)
-    - [Data Managing](#data-managing)
-    - [Maps](#maps)
-    - [Charts](#charts)
+  - [React Development Tools](#react-development-tools)
+  - [React Frameworks](#react-frameworks)
+  - [React Component Libraries](#react-component-libraries)
+  - [React Hooks](#react-hooks)
+  - [React Styling](#react-styling)
+  - [React Routing](#react-routing)
+  - [React Testing](#react-testing)
+  - [React Awesome Components](#react-awesome-components)
+  - [React Components Sandboxes](#react-components-sandboxes)
+  - [React Libraries](#react-libraries)
+  - [React Integration](#react-integration)
+  - [React State Management](#react-state-management)
+  - [React Renderers](#react-renderers)
+  - [React Forms](#react-forms)
+  - [React Tables and Grids](#react-tables-and-grids)
+  - [React Internationalization](#react-internationalization)
+  - [React Graphics and Animations](#react-graphics-and-animations)
+  - [React Data Managing](#react-data-managing)
+  - [React Maps](#react-maps)
+  - [React Charts](#react-charts)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
   - [React Native Tutorials](#react-native-tutorials)
@@ -77,9 +76,8 @@ A collection of awesome things regarding the React ecosystem.
 - [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - [The Fullstack Tutorial for GraphQL](https://github.com/howtographql/howtographql)
 
-#### React Tools
 
-##### React Development Tools
+#### React Development Tools
 
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
 - [vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
@@ -87,7 +85,7 @@ A collection of awesome things regarding the React ecosystem.
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 - [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
-##### React Frameworks
+#### React Frameworks
 
 - [next](https://github.com/vercel/next.js) - The React Framework
 - [blitz](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
@@ -97,7 +95,7 @@ A collection of awesome things regarding the React ecosystem.
 - [refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
 - [aleph](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno
 
-##### React Component Libraries
+#### React Component Libraries
 
 - [material-ui](https://github.com/mui/material-ui) - Material UI, which implements Google's Material Design
 - [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
@@ -120,11 +118,11 @@ A collection of awesome things regarding the React ecosystem.
 - [radix-primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality web apps
 - [nextui](https://github.com/nextui-org/nextui) - Beautiful, fast and modern React UI library
 
-##### React Hooks
+#### React Hooks
 
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
 
-##### React Styling
+#### React Styling
 
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 - [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
@@ -132,15 +130,23 @@ A collection of awesome things regarding the React ecosystem.
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [jss](https://github.com/cssinjs/jss) - authoring tool for CSS which uses JavaScript as a host language
 
-##### React Routing
+#### React Routing
 
 - [react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [wouter](https://github.com/molefrog/wouter) - A minimalist-friendly routing
 - [tanstack-router](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
-##### React Awesome Components
+#### React Testing
 
-- [Awesome React Components list](https://github.com/brillout/awesome-react-components)
+- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing
+- [enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
+- [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
+- [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities
+- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
+
+#### React Awesome Components
+
+- [Awesome React Components](https://github.com/brillout/awesome-react-components)
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [react-rnd](https://github.com/bokuweb/react-rnd) - A resizable and draggable component for React
@@ -160,21 +166,13 @@ A collection of awesome things regarding the React ecosystem.
 - [kbar](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 
-##### React Components Sandboxes
+#### React Components Sandboxes
 
 - [storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 
-##### React Testing
-
-- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing
-- [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
-- [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
-- [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) - React hooks testing utilities
-- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
-
-##### React Libraries
+#### React Libraries
 
 - [loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
 - [react-border-wrapper](https://github.com/Metroxe/react-border-wrapper) - A wrapper for placing elements along div borders in React.
@@ -206,7 +204,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
 - [floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements
 
-##### React Integration
+#### React Integration
 
 - [ReasonReact](https://reasonml.github.io/reason-react/)
 - [React Rails](https://github.com/reactjs/react-rails)
@@ -257,7 +255,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-google-autocomplete](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks
 - [downshift](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
 
-##### React State Management
+#### React State Management
 
 - [redux](#redux) - Predictable State Container for JavaScript Apps
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
@@ -276,7 +274,7 @@ A collection of awesome things regarding the React ecosystem.
 - [reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management
 - [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - Observable-based state management for performant game UIs built in React
 
-##### React Renderers
+#### React Renderers
 
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
 - [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React
@@ -287,7 +285,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-nil](https://github.com/pmndrs/react-nil) - A react null renderer
 - [remotion](https://github.com/JonnyBurger/remotion) - Create videos programmatically in React
 
-##### React Forms
+#### React Forms
 
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
@@ -296,19 +294,19 @@ A collection of awesome things regarding the React ecosystem.
 - [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 - [vest](https://github.com/ealush/vest) - Declarative validations framework
 
-##### React Tables and Grids
+#### React Tables and Grids
 
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [tanstack-table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
 
-##### React Internationalization
+#### React Internationalization
 
 - [formatjs](https://github.com/formatjs/formatjs) - Internationalize your web apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
 - [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library
 
-##### React Graphics and Animations
+#### React Graphics and Animations
 
 - [react-spring](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
 - [framer-motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
@@ -318,7 +316,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 - [gooey-react](https://github.com/luukdv/gooey-react) - The gooey effect for React
 
-##### Data Managing
+##### React Data Managing
 
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [ReSub](https://github.com/Microsoft/ReSub) - A library for writing better React components and data stores
@@ -326,7 +324,7 @@ A collection of awesome things regarding the React ecosystem.
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
 - [RxDB](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications
 
-##### Maps
+#### React Maps
 
 - [react-googlemaps](https://github.com/pieterv/react-googlemaps) - React interface to Google maps
 - [react-maps](https://github.com/matnel/react-maps) - A map component for React
@@ -340,7 +338,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-geo](https://github.com/terrestris/react-geo) - A set of geo-related components using react, antd, and ol
 - [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS maps without external dependencies
 
-##### Charts
+#### React Charts
 
 - [vx](https://github.com/airbnb/visx) - Visualization components
 - [victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
