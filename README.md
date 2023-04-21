@@ -12,11 +12,10 @@ A collection of awesome things regarding the React ecosystem.
   - [React Hooks](#react-hooks)
   - [React Styling](#react-styling)
   - [React Routing](#react-routing)
+  - [React Libraries](#react-libraries)
   - [React Testing](#react-testing)
   - [React Awesome Components](#react-awesome-components)
   - [React Components Sandboxes](#react-components-sandboxes)
-  - [React Libraries](#react-libraries)
-  - [React Integration](#react-integration)
   - [React State Management](#react-state-management)
   - [React Renderers](#react-renderers)
   - [React Forms](#react-forms)
@@ -26,6 +25,8 @@ A collection of awesome things regarding the React ecosystem.
   - [React Data Managing](#react-data-managing)
   - [React Maps](#react-maps)
   - [React Charts](#react-charts)
+  - [React Integration](#react-integration)
+  - [React Real Apps](#react-real-apps)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
   - [React Native Tutorials](#react-native-tutorials)
@@ -47,7 +48,6 @@ A collection of awesome things regarding the React ecosystem.
   - [React.js Conf 2016 Playlist](#reactjs-conf-2016-playlist)
   - [ReactRally Conf 2016 Playlist](#reactrally-conf-2016-playlist)
   - [React.js Amsterdam 2018 Playlist](#reactjs-amsterdam-2018-playlist)
-- [Real React Apps](#real-react-apps)
 - [Contribution](#contribution)
 
 ---
@@ -135,6 +135,15 @@ A collection of awesome things regarding the React ecosystem.
 - [wouter](https://github.com/molefrog/wouter) - A minimalist-friendly routing
 - [tanstack-router](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
+#### React Libraries
+
+- [preact](https://github.com/preactjs/preact) - Fast React alternative with the same modern API
+- [floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements
+- [loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
+- [reapop](https://github.com/LouisBarranqueiro/reapop) - A simple and customizable React notifications system
+- [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
+- [downshift](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
+
 #### React Testing
 
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing
@@ -172,65 +181,6 @@ A collection of awesome things regarding the React ecosystem.
 - [storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
-
-#### React Libraries
-
-- [preact](https://github.com/preactjs/preact) - Fast React alternative with the same modern API
-- [floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements
-- [loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
-- [reapop](https://github.com/LouisBarranqueiro/reapop) - A simple and customizable React notifications system
-- [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
-
-#### React Integration
-
-- [ReasonReact](https://reasonml.github.io/reason-react/)
-- [React Rails](https://github.com/reactjs/react-rails)
-- [ReactJS.NET](https://github.com/reactjs/React.NET)
-- [om](https://github.com/swannodette/om) - ClojureScript interface
-- [Reagent](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React.js
-- [Express React views](https://github.com/reactjs/express-react-views)
-- [React Page Middleware](https://github.com/reactjs/react-page-middleware)
-- [ngReact](https://github.com/davidchang/ngReact) - React Components in Angular
-- [coffee-react-transform](https://github.com/jsdf/coffee-react-transform) - Provides React JSX support for Coffeescript
-- [sprockets-coffee-react](https://github.com/jsdf/sprockets-coffee-react) - Sprockets preprocessor for CJSX
-- [react-kup](https://github.com/snd/react-kup) - A simple, non-intrusive alternative to jsx for coffeescript
-- [turbo-react](https://github.com/ssorallen/turbo-react) - Combine Turbolinks and React to apply DOM diffs
-- [react-bacon](https://github.com/jamesmacaulay/react-bacon) - A little module for using React with Bacon.js
-- [msx](https://github.com/insin/msx) - React's JSX Transformer, tweaked to output calls to Mithril
-- [react-backbone](https://github.com/jhudson8/react-backbone) - Backbone-aware mixins for react
-- [NestedReact](https://github.com/Volicon/NestedReact/) - transparent integration with Backbone Views and NestedTypes models
-- [backbone-reaction](https://github.com/jhudson8/backbone-reaction) - React, Backbone and then some
-- [react.backbone](https://github.com/usepropeller/react.backbone) - Plugin for React to make Backbone migration easier
-- [reactbone](https://github.com/andrejewski/reactbone) - React extensions for Backbone
-- [backbone-react-ui](https://github.com/securingsincity/backbone-react-ui) - React components for use with backbone and backbone paginator
-- [react-events](https://github.com/jhudson8/react-events) - Declarative managed event bindings for react components
-- [react-mixin-manager](https://github.com/jhudson8/react-mixin-manager) - React mixin registration manager
-- [reactdown](https://github.com/andreypopp/reactdown) - Write React components using markdown syntax
-- [react-jade](https://github.com/ForbesLindesay/react-jade) - Compile Jade to React JavaScript
-- [jade-react](https://github.com/duncanbeevers/jade-react) - Compile Jade templates to React.DOM expressions
-- [gulp-jade-react](https://github.com/duncanbeevers/gulp-jade-react) - Compile Jade templates into React de-sugared JSX with Gulp
-- [sbt-reactjs](https://github.com/ddispaltro/sbt-reactjs) - React SBT Plugin using npm
-- [scalajs-react](https://github.com/japgolly/scalajs-react) - A guilty affair between Scala.js and Facebook's React
-- [react-xtags](https://github.com/vjeux/react-xtags/) - Using React to implement xtags
-- [jreact](https://github.com/KnisterPeter/jreact) - React on server-side Java (with Rhino or Nashorn)
-- [React.hiccup](https://github.com/lantiga/react.hiccup) - A complete replacement for JSX written in sweet.js
-- [react-play](https://github.com/ssorallen/react-play) - Rendering React components in the Play Framework with JDK8's Nashorn
-- [rx-react](https://github.com/fdecampredon/rx-react) - Utilities to works with React in a RxJS
-- [react-with-di](https://github.com/vojtajina/react-with-di) - A hacked prototype of React.js with DI
-- [reactfire](https://github.com/firebase/reactfire) - ReactJS mixin for easy Firebase integration
-- [react-masonry-mixin](https://github.com/eiriklv/react-masonry-mixin) - Standalone mixin for Masonry (@desandro)
-- [react-packery-mixin](https://github.com/eiriklv/react-packery-mixin) - Standalone mixin for Packery (Metafizzy)
-- [aframe-react](https://github.com/ngokevin/aframe) - A-Frame VR + React
-- [react-three-fiber](https://github.com/react-spring/react-three-fiber) - A react reconciler for threejs (web and react-native)
-- [react-three](https://github.com/Izzimach/react-three) - React bindings to create and control a 3D scene using three.js
-- [react-three-renderer](https://github.com/toxicFork/react-three-renderer) - Render into a three.js canvas using React
-- [react-threejs](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
-- [react-masonry-css](https://github.com/paulcollett/react-masonry-css) - Fast Masonry layout powered by CSS, dependency free
-- [react-captcha](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google
-- [reaptcha](https://github.com/sarneeh/reaptcha) - Clean, modern and simple React wrapper for Google reCAPTCHA
-- [react-recaptcha-that-works](https://github.com/douglasjunior/react-recaptcha-that-works) - A reCAPTCHA bridge for React that works
-- [react-google-autocomplete](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks
-- [downshift](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
 
 #### React State Management
 
@@ -325,6 +275,20 @@ A collection of awesome things regarding the React ecosystem.
 - [echarts-for-react](https://github.com/hustcc/echarts-for-react) - Apache ECharts components for React wrapper
 - [react-apexcharts](https://github.com/apexcharts/react-apexcharts) - React Component for ApexCharts
 - [chartify](https://github.com/kis/chartify) - React plugin for building charts using CSS
+
+#### React Integration
+
+- [rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - A robustly typed language that compiles to efficient and human-readable JavaScript
+- [react-rails](https://github.com/reactjs/react-rails) - Integrate React with Rails
+- [reagent](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React
+- [fulcro](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
+
+### React Real Apps
+
+- [mattermost-server](https://github.com/mattermost/mattermost-server) - An open source platform for secure collaboration
+- [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+- [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
+- [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 
 ---
 
@@ -485,17 +449,6 @@ A collection of awesome things regarding the React ecosystem.
 #### [React Summit 2020 Playlist](https://portal.gitnation.org/events/react-summit-2020)
 
 #### [React Summit 2021 Playlist](https://portal.gitnation.org/events/react-summit-remote-edition-2021)
-
----
-
-### Real React Apps
-
-- [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
-- [firefox debugger](https://github.com/firefox-devtools/debugger) - The Firefox debugger that works anywhere
-- [spectrum](https://github.com/withspectrum/spectrum) – Simple, powerful online communities
-- [mattermost](https://github.com/mattermost/mattermost-webapp) - Open source Slack alternative
-- [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
-- [winamp2-js](https://github.com/captbaritone/winamp2-js) - Winamp 2 reimplemented for the browser
 
 ---
 
