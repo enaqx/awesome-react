@@ -109,13 +109,9 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Routing
 
-- [react-location](https://github.com/TanStack/react-location) - Enterprise Client-Side Routing for React
-- [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
-- [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
-- [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
-- [reach](https://github.com/reach/router) - Next Generation Routing for React
-- [universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps
-- [wouter](https://github.com/molefrog/wouter) - A minimalist-friendly ~1.3KB routing library
+- [react-router](https://github.com/remix-run/react-router) - Declarative routing for React
+- [wouter](https://github.com/molefrog/wouter) - A minimalist-friendly routing
+- [tanstack-router](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 ##### React Component Libraries
 
@@ -147,7 +143,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [react-grid-layout](https://github.com/strml/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
-- [react-table](https://github.com/tannerlinsley/react-table/) - A lightweight, fast and extendable datagrid for React
+- [tanstack-table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid component built with React
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - A resizable and draggable component for React
@@ -297,7 +293,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [redux](#redux) - Predictable State Container for JavaScript Apps
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
-- [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
+- [tanstack-query](https://github.com/TanStack/query) - Powerful asynchronous state management
 - [swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [apollo-client](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
 - [relay](https://github.com/facebook/relay) - A framework for building data-driven React applications
