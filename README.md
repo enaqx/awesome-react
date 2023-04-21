@@ -144,38 +144,19 @@ A collection of awesome things regarding the React ecosystem.
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [react-rnd](https://github.com/bokuweb/react-rnd) - A resizable and draggable component for React
+- [react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple drag-drop zone with React
 - [react-big-calendar](https://github.com/jquense/react-big-calendar) - Calendar component
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
-- [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible React modal
-- [react-hotkeys](https://github.com/greena13/react-hotkeys) - Declarative hotkey and focus area management for React
-- [react-keydown](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components
-- [react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours for your apps
-- [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
-- [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
-- [data-source](https://github.com/facebook/flipper/tree/main/desktop/flipper-plugin/src/data-source) - Library to power streaming data visualisations as used in Facebook's Flipper
-- [react-text-mask](https://github.com/text-mask/text-mask) - Input mask for React
 - [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
-- [qrcode-react](https://github.com/zpao/qrcode.react) - QR component for use with React
+- [react-qrcode](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
-- [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
-- [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
-- [react-popper](https://github.com/popperjs/react-popper) - Position tooltips and popovers in an elegant, performant manner
-- [react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - React Component for creating an 'Accordion' that adheres to the WAI ARIA spec for accessibility.
-- [react-truncate-markup](https://github.com/parsable/react-truncate-markup) - React component for truncating JSX markup.
-- [react-cookie](https://github.com/reactivestack/cookies) - Universal cookies for React
-- [react-slick](https://github.com/akiran/react-slick) - Carousel component built with React
-- [react-gtm-module](https://github.com/alinemorelli/react-gtm) - Google Tag Manager Module for React
-- [react-device-detect](https://github.com/duskload/react-device-detect) - Detect device for React
+- [react-device-detect](https://github.com/duskload/react-device-detect) - Detect device, and render view accordingly
 - [react-colorful](https://github.com/omgovich/react-colorful) - A tiny color picker component
-- [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
-- [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing
-- [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 React component
-- [react-advanced-cropper](https://github.com/Norserium/react-advanced-cropper) - An advanced React component for image cropping
-- [swiper](https://github.com/nolimits4web/swiper) - modern mobile touch slider
-- [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - Create Instagram like stories in React
+- [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider
+- [keen-slider](https://github.com/rcbyr/keen-slider) - The Touch slider carousel 
+- [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
 - [cookie-consent-banner](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
 - [heart-switch](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
-- [keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get
 - [kbar](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 
@@ -223,6 +204,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-esi](https://github.com/dunglas/react-esi) - React Edge Side Includes
 - [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
 - [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
+- [floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements
 
 ##### React Integration
 
@@ -261,10 +243,8 @@ A collection of awesome things regarding the React ecosystem.
 - [rx-react](https://github.com/fdecampredon/rx-react) - Utilities to works with React in a RxJS
 - [react-with-di](https://github.com/vojtajina/react-with-di) - A hacked prototype of React.js with DI
 - [reactfire](https://github.com/firebase/reactfire) - ReactJS mixin for easy Firebase integration
-- [react-clickdrag-mixin](https://github.com/tleunen/react-clickdrag-mixin) - ClickDrag mixin for React component
 - [react-masonry-mixin](https://github.com/eiriklv/react-masonry-mixin) - Standalone mixin for Masonry (@desandro)
 - [react-packery-mixin](https://github.com/eiriklv/react-packery-mixin) - Standalone mixin for Packery (Metafizzy)
-- [react-dropzone](https://github.com/paramaggarwal/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [aframe-react](https://github.com/ngokevin/aframe) - A-Frame VR + React
 - [react-three-fiber](https://github.com/react-spring/react-three-fiber) - A react reconciler for threejs (web and react-native)
 - [react-three](https://github.com/Izzimach/react-three) - React bindings to create and control a 3D scene using three.js
@@ -275,7 +255,7 @@ A collection of awesome things regarding the React ecosystem.
 - [reaptcha](https://github.com/sarneeh/reaptcha) - Clean, modern and simple React wrapper for Google reCAPTCHA
 - [react-recaptcha-that-works](https://github.com/douglasjunior/react-recaptcha-that-works) - A reCAPTCHA bridge for React that works
 - [react-google-autocomplete](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks
-- [downshift](https://github.com/paypal/downshift) - React autocomplete, combobox or select dropdown components
+- [downshift](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
 
 ##### React State Management
 
@@ -335,6 +315,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations for React
 - [auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
 - [react-tsparticles](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
+- [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 - [gooey-react](https://github.com/luukdv/gooey-react) - The gooey effect for React
 
 ##### Data Managing
@@ -398,6 +379,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Native Development Tools
 
+- [flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers
 - [react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
 
 #### React Native Sample Apps
