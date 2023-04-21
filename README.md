@@ -22,6 +22,7 @@ A collection of awesome things regarding the React ecosystem.
     - [React Renderers](#react-renderers)
     - [React Forms](#react-forms)
     - [React Tables and Grids](#react-tables-and-grids)
+    - [React Internationalization](#react-internationalization)
     - [React Graphics and Animations](#react-graphics-and-animations)
     - [Data Managing](#data-managing)
     - [Maps](#maps)
@@ -109,14 +110,14 @@ A collection of awesome things regarding the React ecosystem.
 - [reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap components
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
 - [evergreen](https://github.com/segmentio/evergreen) - Evergreen React UI Framework by Segment
-- [grommet](https://github.com/grommet/grommet) - A react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
+- [grommet](https://github.com/grommet/grommet) - A react-based framework that provides accessibility, modularity, responsiveness, and theming
 - [ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [rsuite](https://github.com/rsuite/rsuite) - A suite of React components
 - [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Uber's Base design language
 - [eui](https://github.com/elastic/eui) - Elastic UI Framework
-- [react-spectrum](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools that help you build adaptive, accessible, and robust user experiences
+- [react-spectrum](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools
 - [ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
-- [radix-primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps
+- [radix-primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality web apps
 - [nextui](https://github.com/nextui-org/nextui) - Beautiful, fast and modern React UI library
 
 ##### React Hooks
@@ -142,17 +143,9 @@ A collection of awesome things regarding the React ecosystem.
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
-- [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component
-- [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - A resizable and draggable component for React
-- [react-resizable](https://github.com/strml/react-resizable) - A simple React component that is resizable with a handle
-- [react-resizable-box](https://github.com/bokuweb/react-resizable-box) - A resizable component for React
-- [react-searchbox-awesome](https://github.com/axmz/react-searchbox-awesome) - Minimalistic searchbox
-- [react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
-- [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Calendar component
-- [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - ReactJS Datepicker
-- [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component
-- [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps
-- [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
+- [react-rnd](https://github.com/bokuweb/react-rnd) - A resizable and draggable component for React
+- [react-big-calendar](https://github.com/jquense/react-big-calendar) - Calendar component
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible React modal
 - [react-hotkeys](https://github.com/greena13/react-hotkeys) - Declarative hotkey and focus area management for React
 - [react-keydown](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components
@@ -328,6 +321,12 @@ A collection of awesome things regarding the React ecosystem.
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [tanstack-table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
+
+##### React Internationalization
+
+- [formatjs](https://github.com/formatjs/formatjs) - Internationalize your web apps
+- [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
+- [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library
 
 ##### React Graphics and Animations
 
