@@ -9,10 +9,10 @@ A collection of awesome things regarding the React ecosystem.
   - [React Tools](#react-tools)
     - [React Development Tools](#react-development-tools)
     - [React Frameworks](#react-frameworks)
+    - [React Component Libraries](#react-component-libraries)
     - [React Hooks](#react-hooks)
     - [React Styling](#react-styling)
     - [React Routing](#react-routing)
-    - [React Component Libraries](#react-component-libraries)
     - [React Awesome Components](#react-awesome-components)
     - [React Components Sandboxes](#react-components-sandboxes)
     - [React Testing](#react-testing)
@@ -21,6 +21,7 @@ A collection of awesome things regarding the React ecosystem.
     - [React State Management](#react-state-management)
     - [React Renderers](#react-renderers)
     - [React Forms](#react-forms)
+    - [React Tables and Grids](#react-tables-and-grids)
     - [React Graphics and Animations](#react-graphics-and-animations)
     - [Data Managing](#data-managing)
     - [Maps](#maps)
@@ -95,24 +96,6 @@ A collection of awesome things regarding the React ecosystem.
 - [refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
 - [aleph](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno
 
-##### React Hooks
-
-- [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
-
-##### React Styling
-
-- [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
-- [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
-- [linaria](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS library
-- [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
-- [jss](https://github.com/cssinjs/jss) - authoring tool for CSS which uses JavaScript as a host language
-
-##### React Routing
-
-- [react-router](https://github.com/remix-run/react-router) - Declarative routing for React
-- [wouter](https://github.com/molefrog/wouter) - A minimalist-friendly routing
-- [tanstack-router](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
-
 ##### React Component Libraries
 
 - [material-ui](https://github.com/mui/material-ui) - Material UI, which implements Google's Material Design
@@ -134,24 +117,36 @@ A collection of awesome things regarding the React ecosystem.
 - [react-spectrum](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools that help you build adaptive, accessible, and robust user experiences
 - [ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
 - [radix-primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps
-- [nextui](https://github.com/nextui-org/nextui) - Beautiful, fast and modern React UI library.
+- [nextui](https://github.com/nextui-org/nextui) - Beautiful, fast and modern React UI library
+
+##### React Hooks
+
+- [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
+
+##### React Styling
+
+- [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
+- [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
+- [linaria](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS library
+- [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+- [jss](https://github.com/cssinjs/jss) - authoring tool for CSS which uses JavaScript as a host language
+
+##### React Routing
+
+- [react-router](https://github.com/remix-run/react-router) - Declarative routing for React
+- [wouter](https://github.com/molefrog/wouter) - A minimalist-friendly routing
+- [tanstack-router](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 ##### React Awesome Components
 
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
-- [react-grid-layout](https://github.com/strml/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
-- [tanstack-table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
-- [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid component built with React
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - A resizable and draggable component for React
 - [react-resizable](https://github.com/strml/react-resizable) - A simple React component that is resizable with a handle
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) - A resizable component for React
 - [react-searchbox-awesome](https://github.com/axmz/react-searchbox-awesome) - Minimalistic searchbox
-- [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - A sortable and resizable pane component for React
-- [react-spaces](https://github.com/aeagle/react-spaces) - Nestable resizable, anchored, scrollable components
 - [react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Calendar component
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - ReactJS Datepicker
@@ -328,6 +323,12 @@ A collection of awesome things regarding the React ecosystem.
 - [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 - [vest](https://github.com/ealush/vest) - Declarative validations framework
 
+##### React Tables and Grids
+
+- [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
+- [tanstack-table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
+- [react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
+
 ##### React Graphics and Animations
 
 - [react-spring](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
@@ -342,7 +343,6 @@ A collection of awesome things regarding the React ecosystem.
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [ReSub](https://github.com/Microsoft/ReSub) - A library for writing better React components and data stores
 - [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable Data Collections for Javascript
-- [baobab](https://github.com/Yomguithereal/baobab) - JavaScript & TypeScript persistent and optionally immutable data tree with cursors
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
 - [RxDB](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications
 
@@ -408,7 +408,6 @@ A collection of awesome things regarding the React ecosystem.
 - [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative)
 - [SplashWalls](https://github.com/nashvail/SplashWalls)
 - [NBAreact](https://github.com/jbkuczma/NBAreact)
-- [Bus Timetable](https://github.com/EarlGeorge/timetable)
 
 #### React Native Boilerplates
 
