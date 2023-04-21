@@ -76,7 +76,6 @@ A collection of awesome things regarding the React ecosystem.
 - [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - [The Fullstack Tutorial for GraphQL](https://github.com/howtographql/howtographql)
 
-
 #### React Development Tools
 
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
@@ -158,9 +157,11 @@ A collection of awesome things regarding the React ecosystem.
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 - [react-device-detect](https://github.com/duskload/react-device-detect) - Detect device, and render view accordingly
 - [react-colorful](https://github.com/omgovich/react-colorful) - A tiny color picker component
-- [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider
-- [keen-slider](https://github.com/rcbyr/keen-slider) - The Touch slider carousel 
+- [react-icons](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
+- [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
 - [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
+- [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider
+- [keen-slider](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
 - [cookie-consent-banner](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
 - [heart-switch](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
 - [kbar](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
@@ -174,35 +175,11 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Libraries
 
-- [loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
-- [react-border-wrapper](https://github.com/Metroxe/react-border-wrapper) - A wrapper for placing elements along div borders in React.
-- [react-magic](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React
-- [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification
-- [tcomb-react](https://github.com/gcanti/tcomb-react) - Library allowing you to check all the props of your React components
-- [react-responsive](https://github.com/wearefractal/react-responsive) - Media queries in react for responsive design
-- [preact](https://git.io/preact) - Fast 3kb React alternative with the same ES6 API.
-- [Maple.js](https://github.com/Wildhoney/Maple.js) - Bringing the concept of web-components to React
-- [react-i13n](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application
-- [react-icons](https://github.com/gorangajic/react-icons) - svg react icons of popular icon packs
-- [react-open-doodles](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
-- [Bit](https://github.com/teambit/bit) - A virtual repository for managing and using react and other web components across applications
-- [AtlasKit](https://atlaskit.atlassian.com/) - Atlassian's React UI library
-- [ReactiveSearch](https://github.com/appbaseio/reactivesearch) - UI components library for Elasticsearch
-- [Slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
-- [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) - Construct React elements from JSON by mapping JSON definitions to React components that you expose.
-- [react-lodash](https://github.com/typicode/react-lodash) - Lodash as React components
-- [react-snap](https://github.com/stereobooster/react-snap) - Zero-configuration framework-agnostic static prerendering for SPAs
-- [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
-- [refract](https://github.com/fanduel-oss/refract) - Harness the power of reactive programming to supercharge your components
-- [react-desktop](https://github.com/gabrielbull/react-desktop) - OS X and Windows UI components built with React
-- [reapop](https://github.com/LouisBarranqueiro/reapop) - A simple and customizable React notifications system
-- [react-extras](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React
-- [react-instantsearch](https://github.com/algolia/instantsearch) - Lightning-fast search for React and React Native applications, by Algolia
-- [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers
-- [react-esi](https://github.com/dunglas/react-esi) - React Edge Side Includes
-- [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
-- [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
+- [preact](https://github.com/preactjs/preact) - Fast React alternative with the same modern API
 - [floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements
+- [loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
+- [reapop](https://github.com/LouisBarranqueiro/reapop) - A simple and customizable React notifications system
+- [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
 
 #### React Integration
 
