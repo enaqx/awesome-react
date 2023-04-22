@@ -19,10 +19,10 @@ A collection of awesome things regarding the React ecosystem.
   - [React Components Sandboxes](#react-components-sandboxes)
   - [React Forms](#react-forms)
   - [React Tables and Grids](#react-tables-and-grids)
+  - [React Maps](#react-maps)
   - [React Renderers](#react-renderers)
   - [React Internationalization](#react-internationalization)
   - [React Graphics and Animations](#react-graphics-and-animations)
-  - [React Maps](#react-maps)
   - [React Charts](#react-charts)
   - [React Integration](#react-integration)
   - [React Real Apps](#react-real-apps)
@@ -210,6 +210,11 @@ A collection of awesome things regarding the React ecosystem.
 - [tanstack-table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
 
+#### React Maps
+
+- [react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
+- [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
+
 #### React Renderers
 
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
@@ -233,23 +238,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-tsparticles](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 - [gooey-react](https://github.com/luukdv/gooey-react) - The gooey effect for React
-
-##### React Data Managing
-
-
-#### React Maps
-
-- [react-googlemaps](https://github.com/pieterv/react-googlemaps) - React interface to Google maps
-- [react-maps](https://github.com/matnel/react-maps) - A map component for React
-- [react-google-maps](https://github.com/tomchentw/react-google-maps) - React.js Google Maps integration component
-- [react-gmaps](https://github.com/MicheleBertoli/react-gmaps) - A Google Maps component for React.js
-- [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js plus overlay API
-- [google-map-react](https://github.com/istarkov/google-map-react) - Isomorphic google map React component
-- [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A mapbox-gl-js wrapper to make the API react friendly
-- [google-maps-react](https://github.com/fullstackreact/google-maps-react) - A declarative Google Map React component using React, lazy-loading dependencies, current-location finder and a test-driven approach by the Fullstack React team.
-- [react-leaflet](https://react-leaflet.js.org/) - React components for Leaflet maps
-- [react-geo](https://github.com/terrestris/react-geo) - A set of geo-related components using react, antd, and ol
-- [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS maps without external dependencies
 
 #### React Charts
 
