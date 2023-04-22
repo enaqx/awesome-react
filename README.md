@@ -35,10 +35,6 @@ A collection of awesome things regarding the React ecosystem.
   - [React Native Boilerplates](#react-native-boilerplates)
   - [React Native Awesome Components](#react-native-awesome-components)
   - [React Native Libraries](#react-native-libraries)
-- [Redux](#redux)
-  - [Redux General Resources](#redux-general-resources)
-  - [Redux Tools](#redux-tools)
-  - [Redux Tutorials](#redux-tutorials)
 - [Videos](#videos)
   - [Important Talks](#important-talks)
   - [React.js Conf 2015 Playlist](#reactjs-conf-2015-playlist)
@@ -184,7 +180,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React State Management
 
-- [redux](#redux) - Predictable State Container for JavaScript Apps
+- [redux](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
 - [tanstack-query](https://github.com/TanStack/query) - Powerful asynchronous state management
 - [swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
@@ -360,35 +356,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-native-device-info](https://github.com/react-native-community/react-native-device-info) - Device Information for React Native iOS and Android
 - [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) - A toolset to run React web app in React Native and handle communication between them.
 - [uncompress-react-native](https://github.com/didisouzacosta/uncompress-react-native) - Simple library to decompress files .zip, .rar, .cbz, .cbr in React Native.
-
-### Redux
-
-#### Redux General Resources
-
-- [Redux GitHub](https://github.com/reduxjs/redux)
-- [Redux Official Site](http://redux.js.org/)
-- [Awesome Redux List](https://github.com/xgrommx/awesome-redux)
-
-#### Redux Tools
-
-- [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
-- [redux-toolkit](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
-- [redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
-- [reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
-- [redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for redux
-- [redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
-- [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state
-- [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for Redux
-- [redux-undo](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to redux state containers
-- [redux-persist](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a redux store
-- [Rematch](https://github.com/rematch/rematch) - Redux made easy
-
-#### Redux Tutorials
-
-- [Redux Essentials](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
-- [Redux Fundamentals](https://redux.js.org/tutorials/fundamentals/part-1-overview)
-- [Fundamentals of Redux Course from Dan Abramov](https://app.egghead.io/playlists/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
-- [Building React Applications with Idiomatic Redux](https://app.egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 ---
 
