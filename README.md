@@ -26,8 +26,6 @@ A collection of awesome things regarding the React ecosystem.
   - [React Real Apps](#react-real-apps)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
-  - [React Native Sample Apps](#react-native-sample-apps)
-  - [React Native Boilerplates](#react-native-boilerplates)
   - [React Native Awesome Components](#react-native-awesome-components)
   - [React Native Libraries](#react-native-libraries)
 - [Videos](#videos)
@@ -261,19 +259,6 @@ A collection of awesome things regarding the React ecosystem.
 - [Expo](https://expo.dev/)
 - [Expo Snack Playground](https://snack.expo.dev/)
 
-#### React Native Sample Apps
-
-- [HackerNews](https://github.com/iSimar/HackerNews-React-Native)
-- [Ziliun](https://github.com/sonnylazuardi/ziliun-react-native)
-- [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative)
-- [SplashWalls](https://github.com/nashvail/SplashWalls)
-- [NBAreact](https://github.com/jbkuczma/NBAreact)
-
-#### React Native Boilerplates
-
-- [Create React Native App](https://github.com/react-community/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
-- [Ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
-
 #### React Native Awesome Components
 
 - [react-navigation](https://reactnavigation.org/) - Routing and navigation for your React Native apps
@@ -310,10 +295,9 @@ A collection of awesome things regarding the React ecosystem.
 - [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 - [Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
 - [Tom Occhino and Jordan Walke: JS Apps at Facebook - JSConfUS 2013](https://www.youtube.com/watch?v=GW0rj4sNH2w)
-- [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
 - [Pete Hunt: Be Predictable, Not Correct - Mountain West JavaScript 2014](https://www.youtube.com/watch?v=h3KksH8gfcQ)
-- [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw)
-- [Christopher Chedeau: Why does React Scale? - JSConf2014](https://www.youtube.com/watch?v=D-ioDiacTm8)
+- [Hacker Way: Rethinking Web App Development at Facebook - F8 2014](https://www.youtube.com/watch?v=nYkdrAPrdcw)
+- [Christopher Chedeau: Why does React Scale? - JSConf 2014](https://www.youtube.com/watch?v=D-ioDiacTm8)
 - [Christopher Chedeau: React's Architecture - OSCON 2014](https://www.youtube.com/watch?v=eCf5CquV_Bw)
 - [Pete Hunt: React RESTful UI Rendering - Strange Loop 2014](https://www.youtube.com/watch?v=IVvHPPcl2TM)
 - [Pete Hunt: How Instagram.com Works - OSCON 2014](https://www.youtube.com/watch?v=VkTCL6Nqm6Y)
@@ -321,7 +305,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Sebastian Markbage: Minimal API Surface Area - JSConf EU 2014](https://www.youtube.com/watch?v=4anAwXYqLG8)
 - [Avik Chaudhuri: JavaScript Testing and Static Type Systems at Scale - Scale 2014](https://www.youtube.com/watch?v=M8x0bc81smU)
 - [React Native & Relay: Bringing Modern Web Techniques to Mobile - F8 2015](https://www.youtube.com/watch?v=X6YbAKiLCLU)
-- [Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock](https://www.youtube.com/watch?v=LQFQl8EsV3k)
+- [Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock - NYC Javascript React Group 2015](https://www.youtube.com/watch?v=LQFQl8EsV3k)
 - [Laney Kuenzel: Mutations and Subscriptions in Relay - JSConf 2015](https://www.youtube.com/watch?v=mmke4w4gc6c)
 - [React Today and Tomorrow and 90% Cleaner React With Hooks - React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 - [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
