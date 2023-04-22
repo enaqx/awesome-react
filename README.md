@@ -9,6 +9,7 @@ A collection of awesome things regarding the React ecosystem.
   - [React Development Tools](#react-development-tools)
   - [React Frameworks](#react-frameworks)
   - [React Component Libraries](#react-component-libraries)
+  - [React State Management and Data Fetching](#react-state-management-and-data-fetching)
   - [React Hooks](#react-hooks)
   - [React Styling](#react-styling)
   - [React Routing](#react-routing)
@@ -16,7 +17,6 @@ A collection of awesome things regarding the React ecosystem.
   - [React Testing](#react-testing)
   - [React Awesome Components](#react-awesome-components)
   - [React Components Sandboxes](#react-components-sandboxes)
-  - [React State Management](#react-state-management)
   - [React Renderers](#react-renderers)
   - [React Forms](#react-forms)
   - [React Tables and Grids](#react-tables-and-grids)
@@ -113,6 +113,21 @@ A collection of awesome things regarding the React ecosystem.
 - [radix-primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality web apps
 - [nextui](https://github.com/nextui-org/nextui) - Beautiful, fast and modern React UI library
 
+#### React State Management and Data Fetching
+
+- [redux](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
+- [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
+- [zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
+- [tanstack-query](https://github.com/TanStack/query) - Powerful asynchronous state management
+- [swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
+- [apollo-client](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
+- [relay](https://github.com/facebook/relay) - A framework for building data-driven React applications
+- [recoil](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
+- [jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React
+- [xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
+- [effector](https://github.com/zerobias/effector) - Business logic with ease
+
+
 #### React Hooks
 
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
@@ -177,25 +192,6 @@ A collection of awesome things regarding the React ecosystem.
 - [storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
-
-#### React State Management
-
-- [redux](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
-- [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
-- [tanstack-query](https://github.com/TanStack/query) - Powerful asynchronous state management
-- [swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-- [apollo-client](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
-- [relay](https://github.com/facebook/relay) - A framework for building data-driven React applications
-- [flux](http://facebook.github.io/flux/) - Application architecture for building user interfaces
-- [recoil](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
-- [jotai](https://github.com/pmndrs/jotai) - Bottom-up approach to React state management with an atomic model
-- [xstate-react](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - State machines and statecharts for the modern web
-- [zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
-- [easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
-- [hookstate](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
-- [effector](https://github.com/zerobias/effector) - Fast and powerful reactive state manager
-- [reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management
-- [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - Observable-based state management for performant game UIs built in React
 
 #### React Renderers
 
