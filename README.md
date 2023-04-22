@@ -4,13 +4,11 @@ A collection of awesome things regarding the React ecosystem.
 
 - [React](#react)
   - [React General Resources](#react-general-resources)
-  - [React Online Playgrounds](#react-online-playgrounds)
   - [React Tutorials](#react-tutorials)
   - [React Development Tools](#react-development-tools)
   - [React Frameworks](#react-frameworks)
   - [React Component Libraries](#react-component-libraries)
   - [React State Management and Data Fetching](#react-state-management-and-data-fetching)
-  - [React Hooks](#react-hooks)
   - [React Styling](#react-styling)
   - [React Routing](#react-routing)
   - [React Libraries](#react-libraries)
@@ -28,8 +26,6 @@ A collection of awesome things regarding the React ecosystem.
   - [React Real Apps](#react-real-apps)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
-  - [React Native Tutorials](#react-native-tutorials)
-  - [React Native Development Tools](#react-native-development-tools)
   - [React Native Sample Apps](#react-native-sample-apps)
   - [React Native Boilerplates](#react-native-boilerplates)
   - [React Native Awesome Components](#react-native-awesome-components)
@@ -55,11 +51,7 @@ A collection of awesome things regarding the React ecosystem.
 - [React GitHub](https://github.com/facebook/react)
 - [Reactiflux Discord Channel](http://www.reactiflux.com/)
 - [React Community](https://react.dev/community)
-
-#### React Online Playgrounds
-
-- [CodeSandbox](https://codesandbox.io/s/new)
-- [JSFiddle](https://jsfiddle.net/boilerplate/react-jsx)
+- [React CodeSandbox Playground](https://codesandbox.io/s/new)
 
 #### React Tutorials
 
@@ -129,10 +121,6 @@ A collection of awesome things regarding the React ecosystem.
 - [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript
 - [rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 - [watermelondb](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
-
-#### React Hooks
-
-- [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
 
 #### React Styling
 
@@ -269,28 +257,9 @@ A collection of awesome things regarding the React ecosystem.
 
 - [React Native Official Website](https://reactnative.dev/)
 - [React Native GitHub](https://github.com/facebook/react-native)
-- [React Native Awesome List](https://github.com/jondot/awesome-react-native)
 - [React Native Community](https://reactnative.dev/community/overview)
 - [Expo](https://expo.dev/)
-
-#### React Native Tutorials
-
-- [React Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
-- [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
-- [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
-- [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
-- [Digital Smart Mirror lab with React Native](http://atticuswhite.com/blog/react-native-smart-mirror-lab/)
-- [The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 1)](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
-- [The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 2)](https://www.smashingmagazine.com/2016/04/how-to-build-your-first-ios-app-with-javascript/)
-- [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
-- [Using React Native With TypeScript](https://medium.com/@jan.hesters/using-typescript-with-react-native-946aa4b4ae6f)
-
-#### React Native Development Tools
-
-- [flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers
-- [react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
+- [Expo Snack Playground](https://snack.expo.dev/)
 
 #### React Native Sample Apps
 
@@ -351,7 +320,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Bill Fisher and Jing Chen: React and Flux - NewCircle Training 2014](https://www.youtube.com/watch?v=i__969noyAM)
 - [Sebastian Markbage: Minimal API Surface Area - JSConf EU 2014](https://www.youtube.com/watch?v=4anAwXYqLG8)
 - [Avik Chaudhuri: JavaScript Testing and Static Type Systems at Scale - Scale 2014](https://www.youtube.com/watch?v=M8x0bc81smU)
-- [React Native & Relay: Bringing Modern Web Techniques to Mobile - f8 2015)](https://www.youtube.com/watch?v=X6YbAKiLCLU)
+- [React Native & Relay: Bringing Modern Web Techniques to Mobile - F8 2015](https://www.youtube.com/watch?v=X6YbAKiLCLU)
 - [Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock](https://www.youtube.com/watch?v=LQFQl8EsV3k)
 - [Laney Kuenzel: Mutations and Subscriptions in Relay - JSConf 2015](https://www.youtube.com/watch?v=mmke4w4gc6c)
 - [React Today and Tomorrow and 90% Cleaner React With Hooks - React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM)
