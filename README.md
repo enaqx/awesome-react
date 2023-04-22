@@ -196,13 +196,10 @@ A collection of awesome things regarding the React ecosystem.
 #### React Renderers
 
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
-- [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React
 - [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
-- [react-blessed](https://github.com/Yomguithereal/react-blessed) - A React renderer for blessed terminal interface library
-- [react-sketchapp](https://github.com/airbnb/react-sketchapp) - Render React components to Sketch
+- [remotion](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
+- [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React
 - [react-figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
-- [react-nil](https://github.com/pmndrs/react-nil) - A react null renderer
-- [remotion](https://github.com/JonnyBurger/remotion) - Create videos programmatically in React
 
 #### React Forms
 
