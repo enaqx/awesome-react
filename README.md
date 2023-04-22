@@ -17,12 +17,11 @@ A collection of awesome things regarding the React ecosystem.
   - [React Testing](#react-testing)
   - [React Awesome Components](#react-awesome-components)
   - [React Components Sandboxes](#react-components-sandboxes)
-  - [React Renderers](#react-renderers)
   - [React Forms](#react-forms)
   - [React Tables and Grids](#react-tables-and-grids)
+  - [React Renderers](#react-renderers)
   - [React Internationalization](#react-internationalization)
   - [React Graphics and Animations](#react-graphics-and-animations)
-  - [React Data Managing](#react-data-managing)
   - [React Maps](#react-maps)
   - [React Charts](#react-charts)
   - [React Integration](#react-integration)
@@ -126,7 +125,10 @@ A collection of awesome things regarding the React ecosystem.
 - [jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React
 - [xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
 - [effector](https://github.com/zerobias/effector) - Business logic with ease
-
+- [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
+- [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript
+- [rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [watermelondb](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
 
 #### React Hooks
 
@@ -193,14 +195,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 
-#### React Renderers
-
-- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
-- [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
-- [remotion](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
-- [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React
-- [react-figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
-
 #### React Forms
 
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
@@ -215,6 +209,14 @@ A collection of awesome things regarding the React ecosystem.
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [tanstack-table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
+
+#### React Renderers
+
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
+- [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+- [remotion](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
+- [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React
+- [react-figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
 
 #### React Internationalization
 
@@ -234,11 +236,6 @@ A collection of awesome things regarding the React ecosystem.
 
 ##### React Data Managing
 
-- [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
-- [ReSub](https://github.com/Microsoft/ReSub) - A library for writing better React components and data stores
-- [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable Data Collections for Javascript
-- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
-- [RxDB](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications
 
 #### React Maps
 
