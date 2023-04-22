@@ -20,10 +20,10 @@ A collection of awesome things regarding the React ecosystem.
   - [React Forms](#react-forms)
   - [React Tables and Grids](#react-tables-and-grids)
   - [React Maps](#react-maps)
+  - [React Charts](#react-charts)
   - [React Renderers](#react-renderers)
   - [React Internationalization](#react-internationalization)
   - [React Graphics and Animations](#react-graphics-and-animations)
-  - [React Charts](#react-charts)
   - [React Integration](#react-integration)
   - [React Real Apps](#react-real-apps)
 - [React Native](#react-native)
@@ -215,6 +215,14 @@ A collection of awesome things regarding the React ecosystem.
 - [react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 
+#### React Charts
+
+- [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+- [visx](https://github.com/airbnb/visx) - Visualization components
+- [victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
+- [react-vis](https://github.com/uber/react-vis) - Data Visualization Components
+- [nivo](https://github.com/plouc/nivo) - Provides a rich set of data visualization components built on top of the D3 and React libraries
+
 #### React Renderers
 
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
@@ -239,17 +247,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 - [gooey-react](https://github.com/luukdv/gooey-react) - The gooey effect for React
 
-#### React Charts
-
-- [vx](https://github.com/airbnb/visx) - Visualization components
-- [victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
-- [react-vis](https://github.com/uber/react-vis) - Data Visualization Components
-- [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-- [nivo](https://github.com/plouc/nivo) - Provides a rich set of data visualization components, built on top of the D3 and React libraries
-- [echarts-for-react](https://github.com/hustcc/echarts-for-react) - Apache ECharts components for React wrapper
-- [react-apexcharts](https://github.com/apexcharts/react-apexcharts) - React Component for ApexCharts
-- [chartify](https://github.com/kis/chartify) - React plugin for building charts using CSS
-
 #### React Integration
 
 - [rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - A robustly typed language that compiles to efficient and human-readable JavaScript
@@ -257,7 +254,7 @@ A collection of awesome things regarding the React ecosystem.
 - [reagent](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React
 - [fulcro](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
 
-### React Real Apps
+#### React Real Apps
 
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - An open source platform for secure collaboration
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
