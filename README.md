@@ -26,6 +26,7 @@ A collection of awesome things regarding the React ecosystem.
   - [React Real Apps](#react-real-apps)
 - [React Native](#react-native)
   - [React Native General Resources](#react-native-general-resources)
+  - [React Native Navigation](#react-native-navigation)
   - [React Native Awesome Components](#react-native-awesome-components)
   - [React Native Libraries](#react-native-libraries)
 - [Videos](#videos)
@@ -38,8 +39,6 @@ A collection of awesome things regarding the React ecosystem.
   - [ReactRally Conf 2016 Playlist](#reactrally-conf-2016-playlist)
   - [React.js Amsterdam 2018 Playlist](#reactjs-amsterdam-2018-playlist)
 - [Contribution](#contribution)
-
----
 
 ### React
 
@@ -247,8 +246,6 @@ A collection of awesome things regarding the React ecosystem.
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 
----
-
 ### React Native
 
 #### React Native General Resources
@@ -259,34 +256,20 @@ A collection of awesome things regarding the React ecosystem.
 - [Expo](https://expo.dev/)
 - [Expo Snack Playground](https://snack.expo.dev/)
 
+#### React Native Navigation
+
+- [react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
+- [expo-router](https://github.com/expo/router) - The File-based router for universal React Native apps
+
 #### React Native Awesome Components
 
-- [react-navigation](https://reactnavigation.org/) - Routing and navigation for your React Native apps
-- [react-native-social-share](https://github.com/doefler/react-native-social-share) - Use the iOS and Android native Twitter and Facebook share popup with React Native
-- [react-native-fbsdk](https://github.com/facebook/react-native-fbsdk) - A wrapper around the iOS Facebook SDK
-- [react-native-side-menu](https://github.com/Kureev/react-native-side-menu) - Simple customizable component to create side menu
-- [react-native-mapbox-gl](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module
-- [react-native-icons](https://github.com/corymsmith/react-native-icons) - Quick and easy icons in React Native
-- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - 3000 Customizable Icons for React Native with support for NavBar/TabBar
-- [react-native-google-signin](https://github.com/apptailor/react-native-google-signin) - Google Signin for React Native
-- [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view)
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
-- [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component
-- [recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
-- [react-native-largelist](https://github.com/bolan9999/react-native-largelist) - The best large list component for React Native
-- [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native
-- [rn-placeholder](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native
-- [react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet
 
 #### React Native Libraries
 
-- [sentry-react-native](https://github.com/getsentry/sentry-react-native) - Real-time crash reporting for your web apps, mobile apps, and games.
-- [realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
-- [react-native-device-info](https://github.com/react-native-community/react-native-device-info) - Device Information for React Native iOS and Android
-- [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) - A toolset to run React web app in React Native and handle communication between them.
-- [uncompress-react-native](https://github.com/didisouzacosta/uncompress-react-native) - Simple library to decompress files .zip, .rar, .cbz, .cbr in React Native.
-
----
+- [realm-js](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
+- [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
 
 ### Videos
 
@@ -344,8 +327,6 @@ A collection of awesome things regarding the React ecosystem.
 #### [React Summit 2020 Playlist](https://portal.gitnation.org/events/react-summit-2020)
 
 #### [React Summit 2021 Playlist](https://portal.gitnation.org/events/react-summit-remote-edition-2021)
-
----
 
 ### Contribution
 
