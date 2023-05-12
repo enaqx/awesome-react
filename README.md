@@ -230,6 +230,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-rails](https://github.com/reactjs/react-rails) - Integrate React with Rails
 - [reagent](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React
 - [fulcro](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
+- [tailwind-react](https://tailwind-elements.com/docs/standard/integrations/react-integration/) - Article that shows you how to integrate React application with Tailwind
 
 #### React Real Apps
 
