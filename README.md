@@ -237,6 +237,7 @@ A collection of awesome things regarding the React ecosystem.
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
+- [Ostara](https://github.com/krud-dev/ostara) - An application that provides various features to monitor and interact with Spring Boot Applications via Actuator.
 
 ### React Native
 
