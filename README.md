@@ -110,7 +110,7 @@ A collection of awesome things regarding the React ecosystem.
 - [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript
 - [rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 - [watermelondb](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
-- [valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple for React and Vanilla
+- [valtio](https://github.com/pmndrs/valtio) - Valtio makes proxy-state simple for React and Vanilla
 
 #### React Styling
 
