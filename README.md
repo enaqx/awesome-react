@@ -92,6 +92,7 @@ A collection of awesome things regarding the React ecosystem.
 - [ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
 - [radix-primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality web apps
 - [nextui](https://github.com/nextui-org/nextui) - Beautiful, fast and modern React UI library
+- [flowbite-react](https://github.com/themesberg/flowbite-react) - Open-source React UI component library built with Tailwind CSS
 
 #### React State Management and Data Fetching
 
