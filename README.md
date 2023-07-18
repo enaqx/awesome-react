@@ -111,6 +111,7 @@ A collection of awesome things regarding the React ecosystem.
 - [rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 - [watermelondb](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
 - [valtio](https://github.com/pmndrs/valtio) - Valtio makes proxy-state simple for React and Vanilla
+- [nanostores](https://github.com/nanostores/nanostores) - A tiny (297 bytes) state manager for React with many atomic tree-shakable stores
 
 #### React Styling
 
