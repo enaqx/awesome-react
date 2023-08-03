@@ -96,6 +96,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React State Management and Data Fetching
 
 - [redux](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
+- [redux-toolkit](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
 - [zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
 - [tanstack-query](https://github.com/TanStack/query) - Powerful asynchronous state management
@@ -111,6 +112,7 @@ A collection of awesome things regarding the React ecosystem.
 - [rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 - [watermelondb](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
 - [valtio](https://github.com/pmndrs/valtio) - Valtio makes proxy-state simple for React and Vanilla
+- [react-query](https://github.com/TanStack/query) - Hooks for fetching, caching and updating asynchronous data in React
 
 #### React Styling
 
@@ -142,6 +144,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
 - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
+- [vitest](https://github.com/vitest-dev/vitest) - Blazing Fast Unit Test Framework
 
 #### React Awesome Components
 
@@ -264,6 +267,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [realm-js](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
 - [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
+- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - Animate with more ease than ever before
 
 ### Contribution
 
