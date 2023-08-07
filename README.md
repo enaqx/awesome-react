@@ -111,6 +111,7 @@ A collection of awesome things regarding the React ecosystem.
 - [rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 - [watermelondb](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
 - [valtio](https://github.com/pmndrs/valtio) - Valtio makes proxy-state simple for React and Vanilla
+- [legend-state](https://github.com/LegendApp/legend-state) - Legend-State is a super fast and powerful React state library based on Observables.
 
 #### React Styling
 
