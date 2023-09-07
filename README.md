@@ -75,23 +75,17 @@ A collection of awesome things regarding the React ecosystem.
 - [material-ui](https://github.com/mui/material-ui) - Material UI, which implements Google's Material Design
 - [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui/) - Simple, Modular & Accessible UI Components for your React Applications
-- [fluentui](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
-- [blueprint](https://github.com/palantir/blueprint) - A React-based Palantir's UI toolkit for the web
-- [mantine](https://github.com/mantinedev/mantine) – A fully featured React components library
-- [framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
+- [shadcn-ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
-- [reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap components
+- [mantine](https://github.com/mantinedev/mantine) – A fully featured React components library
+- [fluentui](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
+- [framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
-- [evergreen](https://github.com/segmentio/evergreen) - Evergreen React UI Framework by Segment
-- [grommet](https://github.com/grommet/grommet) - A react-based framework that provides accessibility, modularity, responsiveness, and theming
-- [ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
-- [rsuite](https://github.com/rsuite/rsuite) - A suite of React components
-- [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Uber's Base design language
-- [eui](https://github.com/elastic/eui) - Elastic UI Framework
-- [react-spectrum](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools
-- [ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
-- [radix-primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality web apps
 - [nextui](https://github.com/nextui-org/nextui) - Beautiful, fast and modern React UI library
+- [radix-primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality web apps
+- [ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
+- [react-spectrum](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools
+
 
 #### React State Management and Data Fetching
 
