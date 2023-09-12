@@ -213,6 +213,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Graphics and Animations
 
+- [react-reveal](https://www.react-reveal.com/) - React Reveal is an animation framework for React.
 - [react-spring](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
 - [framer-motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations for React
