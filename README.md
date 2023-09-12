@@ -85,6 +85,7 @@ A collection of awesome things regarding the React ecosystem.
 - [radix-primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality web apps
 - [ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [react-spectrum](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools
+- [reactstrap](https://reactstrap.github.io/) - Reactstrap is a React component library for Bootstrap
 
 
 #### React State Management and Data Fetching
@@ -212,6 +213,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Graphics and Animations
 
+- [react-reveal](https://www.react-reveal.com/) - React Reveal is an animation framework for React.
 - [react-spring](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
 - [framer-motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations for React
