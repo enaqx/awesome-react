@@ -107,6 +107,7 @@ A collection of awesome things regarding the React ecosystem.
 - [linaria](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS library
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [jss](https://github.com/cssinjs/jss) - authoring tool for CSS which uses JavaScript as a host language
+- [stylin](https://github.com/sultan99/stylin) - Build-time CSS library for styling React components with auto type generation (TS).
 
 #### React Routing
 
