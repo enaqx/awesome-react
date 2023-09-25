@@ -72,19 +72,13 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Component Libraries
 
-- [material-ui](https://github.com/mui/material-ui) - Material UI, which implements Google's Material Design
+- [material-ui](https://github.com/mui/material-ui) - Ready-to-use foundational React components
 - [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui/) - Simple, Modular & Accessible UI Components for your React Applications
 - [shadcn-ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
-- [mantine](https://github.com/mantinedev/mantine) – A fully featured React components library
 - [fluentui](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
 - [framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
-- [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
-- [nextui](https://github.com/nextui-org/nextui) - Beautiful, fast and modern React UI library
-- [radix-primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality web apps
 - [ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
-- [react-spectrum](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools
 
 
 #### React State Management and Data Fetching
