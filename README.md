@@ -99,6 +99,7 @@ A collection of awesome things regarding the React ecosystem.
 - [rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 - [watermelondb](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
 - [valtio](https://github.com/pmndrs/valtio) - Valtio makes proxy-state simple for React and Vanilla
+- [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states
 
 #### React Styling
 
