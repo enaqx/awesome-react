@@ -209,6 +209,7 @@ A collection of awesome things regarding the React ecosystem.
 - [formatjs](https://github.com/formatjs/formatjs) - Internationalize your web apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
 - [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library
+- [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - Nodejs/React/ReactNative International solutions.
 
 #### React Graphics and Animations
 
