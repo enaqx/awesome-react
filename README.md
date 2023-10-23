@@ -155,6 +155,7 @@ A collection of awesome things regarding the React ecosystem.
 - [kbar](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck](https://github.com/measuredco/puck) - The visual editor for React
+- [react-cloudinary](https://github.com/cloudinary/cloudinary-react)-Seemlessly integrate cloudinary with your react application
 
 #### React Components Sandboxes
 
@@ -197,6 +198,7 @@ A collection of awesome things regarding the React ecosystem.
 - [remotion](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
 - [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React
 - [react-figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
+
 
 #### React Internationalization
 
