@@ -2,34 +2,35 @@
 
 A collection of awesome things regarding the React ecosystem.
 
-- [React](#react)
-  - [React General Resources](#react-general-resources)
-  - [React Tutorials](#react-tutorials)
-  - [React Development Tools](#react-development-tools)
-  - [React Frameworks](#react-frameworks)
-  - [React Component Libraries](#react-component-libraries)
-  - [React State Management and Data Fetching](#react-state-management-and-data-fetching)
-  - [React Styling](#react-styling)
-  - [React Routing](#react-routing)
-  - [React Libraries](#react-libraries)
-  - [React Testing](#react-testing)
-  - [React Awesome Components](#react-awesome-components)
-  - [React Components Sandboxes](#react-components-sandboxes)
-  - [React Forms](#react-forms)
-  - [React Tables and Grids](#react-tables-and-grids)
-  - [React Maps](#react-maps)
-  - [React Charts](#react-charts)
-  - [React Renderers](#react-renderers)
-  - [React Internationalization](#react-internationalization)
-  - [React Graphics and Animations](#react-graphics-and-animations)
-  - [React Integration](#react-integration)
-  - [React Real Apps](#react-real-apps)
-- [React Native](#react-native)
-  - [React Native General Resources](#react-native-general-resources)
-  - [React Native Navigation](#react-native-navigation)
-  - [React Native Awesome Components](#react-native-awesome-components)
-  - [React Native Libraries](#react-native-libraries)
-- [Contribution](#contribution)
+- [**Awesome React** ](#awesome-react-)
+  - [React](#react)
+    - [React General Resources](#react-general-resources)
+    - [React Tutorials](#react-tutorials)
+    - [React Development Tools](#react-development-tools)
+    - [React Frameworks](#react-frameworks)
+    - [React Component Libraries](#react-component-libraries)
+    - [React State Management and Data Fetching](#react-state-management-and-data-fetching)
+    - [React Styling](#react-styling)
+    - [React Routing](#react-routing)
+    - [React Libraries](#react-libraries)
+    - [React Testing](#react-testing)
+    - [React Awesome Components](#react-awesome-components)
+    - [React Components Sandboxes](#react-components-sandboxes)
+    - [React Forms](#react-forms)
+    - [React Tables and Grids](#react-tables-and-grids)
+    - [React Maps](#react-maps)
+    - [React Charts](#react-charts)
+    - [React Renderers](#react-renderers)
+    - [React Internationalization](#react-internationalization)
+    - [React Graphics and Animations](#react-graphics-and-animations)
+    - [React Integration](#react-integration)
+    - [React Real Apps](#react-real-apps)
+  - [React Native](#react-native)
+    - [React Native General Resources](#react-native-general-resources)
+    - [React Native Navigation](#react-native-navigation)
+    - [React Native Awesome Components](#react-native-awesome-components)
+    - [React Native Libraries](#react-native-libraries)
+  - [Contribution](#contribution)
 
 ### React
 
@@ -93,6 +94,7 @@ A collection of awesome things regarding the React ecosystem.
 - [recoil](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
 - [jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React
 - [xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
+- [hookstate](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
 - [effector](https://github.com/zerobias/effector) - Business logic with ease
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript
@@ -107,6 +109,7 @@ A collection of awesome things regarding the React ecosystem.
 - [linaria](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS library
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [jss](https://github.com/cssinjs/jss) - authoring tool for CSS which uses JavaScript as a host language
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 
 #### React Routing
 
@@ -126,6 +129,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React Testing
 
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing
+- [vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 - [enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
 - [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
 - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities
