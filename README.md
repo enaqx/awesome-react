@@ -221,6 +221,7 @@ A collection of awesome things regarding the React ecosystem.
 - [reagent](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React
 - [fulcro](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
 - [tailwind-react](https://tw-elements.com/docs/standard/integrations/react-integration/) - Article that shows you how to integrate React application with Tailwind
+- [vitawind](https://vitawind.vercel.app/) - Vitawind is a Vite helper that can installing and setting Tailwind CSS in few steps.
 
 #### React Real Apps
 
