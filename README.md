@@ -122,6 +122,7 @@ A collection of awesome things regarding the React ecosystem.
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A simple and customizable React notifications system
 - [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
 - [downshift](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
+- [react-error-boundary](https://www.npmjs.com/package/react-error-boundary) - A React error boundary component that lets you catch errors
 
 #### React Testing
 
