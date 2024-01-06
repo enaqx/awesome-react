@@ -103,6 +103,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React Styling
 
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
 - [linaria](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS library
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
@@ -130,6 +131,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
 - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
+- [playwright](https://playwright.dev/docs/intro)
 
 #### React Awesome Components
 
