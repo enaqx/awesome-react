@@ -130,6 +130,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
 - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
+- [vitest](https://vitest.dev/) - Next generation testing framework
 
 #### React Awesome Components
 
