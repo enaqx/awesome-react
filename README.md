@@ -144,6 +144,7 @@ A collection of awesome things regarding the React ecosystem.
 - [kbar](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck](https://github.com/measuredco/puck) - The visual editor for React
+- [css-3d-progress](https://github.com/rofixro/css-3d-progress) - The 3D progress bar
 
 #### React Components Sandboxes
 
