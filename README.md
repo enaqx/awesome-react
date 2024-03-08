@@ -69,6 +69,7 @@ A collection of awesome things regarding the React ecosystem.
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 - [refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
+- [umi](https://github.com/umijs/umi) - Enterprise-level react application framework
 
 #### React Component Libraries
 
