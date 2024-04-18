@@ -51,6 +51,7 @@ A collection of awesome things regarding the React ecosystem.
 - [A simple, scalable, and powerful architecture for building production ready React applications](https://github.com/alan2207/bulletproof-react)
 - [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - [The Fullstack Tutorial for GraphQL](https://github.com/howtographql/howtographql)
+- [How to Create a React Native Document Scanner](https://sdk.docutain.com/blogartikel/how-to-create-a-react-native-document-scanner)
 
 #### React Frameworks
 
