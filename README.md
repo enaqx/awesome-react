@@ -173,7 +173,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Charts
 
-- [EazyChart](https://github.com/Hexastack/eazychart)) - Easily transform data into meaningful charts
+- [EazyChart](https://github.com/Hexastack/eazychart) - Easily transform data into meaningful charts
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [visx](https://github.com/airbnb/visx) - Visualization components
 - [victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
