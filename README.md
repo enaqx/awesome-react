@@ -5,12 +5,12 @@ A collection of awesome things regarding the React ecosystem.
 - [React](#react)
   - [React General Resources](#react-general-resources)
   - [React Tutorials](#react-tutorials)
-  - [React Development Tools](#react-development-tools)
   - [React Frameworks](#react-frameworks)
   - [React Component Libraries](#react-component-libraries)
   - [React State Management and Data Fetching](#react-state-management-and-data-fetching)
   - [React Styling](#react-styling)
   - [React Routing](#react-routing)
+  - [React Development Tools](#react-development-tools)
   - [React Libraries](#react-libraries)
   - [React Testing](#react-testing)
   - [React Awesome Components](#react-awesome-components)
@@ -51,15 +51,6 @@ A collection of awesome things regarding the React ecosystem.
 - [A simple, scalable, and powerful architecture for building production ready React applications](https://github.com/alan2207/bulletproof-react)
 - [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - [The Fullstack Tutorial for GraphQL](https://github.com/howtographql/howtographql)
-
-#### React Development Tools
-
-- [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
-- [vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
-- [million](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
-- [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
-- [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
-- [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
 #### React Frameworks
 
@@ -111,6 +102,16 @@ A collection of awesome things regarding the React ecosystem.
 - [wouter](https://github.com/molefrog/wouter) - A minimalist-friendly routing
 - [tanstack-router](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
+#### React Development Tools
+
+- [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
+- [vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
+- [parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
+- [million](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
+- [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
+- [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+- [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
+
 #### React Libraries
 
 - [preact](https://github.com/preactjs/preact) - Fast React alternative with the same modern API
@@ -151,6 +152,7 @@ A collection of awesome things regarding the React ecosystem.
 - [storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
+- [bit](https://github.com/teambit/bit) - A build system for development of composable software
 
 #### React Forms
 
@@ -215,6 +217,7 @@ A collection of awesome things regarding the React ecosystem.
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
+- [wave](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 
 ### React Native
 
