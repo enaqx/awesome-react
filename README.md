@@ -172,6 +172,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
+- [arcgis-rest-js](https://github.com/Esri/arcgis-rest-js) - JavaScript modules for accessing ArcGIS services and building mapping and spatial analysis applications. 
 
 #### React Charts
 
