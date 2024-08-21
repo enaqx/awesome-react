@@ -202,6 +202,7 @@ A collection of awesome things regarding the React ecosystem.
 - [auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
 - [react-tsparticles](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
+- [Aceternity Ui](https://ui.aceternity.com/) - Pre built react animation components
 
 #### React Integration
 
