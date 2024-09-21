@@ -70,6 +70,8 @@ A collection of awesome things regarding the React ecosystem.
 - [fluentui](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
 - [framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
+- [radix-ui](https://github.com/radix-ui/primitives) - Component library optimized for fast development, easy maintenance, and accessibility.
+- [mantine](https://github.com/mantinedev/mantine) - Build fully functional accessible web applications.
 
 
 #### React State Management and Data Fetching
