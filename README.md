@@ -71,7 +71,7 @@ A collection of awesome things regarding the React ecosystem.
 - [framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [react-email](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
-
+- [mantine](https://github.com/mantinedev/mantine) - Fully featured React components library
 
 #### React State Management and Data Fetching
 
@@ -203,6 +203,7 @@ A collection of awesome things regarding the React ecosystem.
 - [auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
 - [react-tsparticles](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
+- [simple-parallax-js](https://github.com/geosigno/simpleParallax.js) - The easiest way to get a parallax effect with React and JavaScript
 
 #### React Integration
 
