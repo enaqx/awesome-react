@@ -21,7 +21,6 @@ A collection of awesome things regarding the React ecosystem.
   - [React Charts](#react-charts)
   - [React Renderers](#react-renderers)
   - [React Internationalization](#react-internationalization)
-  - [React Email](#react-email)
   - [React Graphics and Animations](#react-graphics-and-animations)
   - [React Integration](#react-integration)
   - [React Real Apps](#react-real-apps)
@@ -71,6 +70,7 @@ A collection of awesome things regarding the React ecosystem.
 - [fluentui](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
 - [framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
+- [react-email](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
 
 
 #### React State Management and Data Fetching
@@ -195,10 +195,6 @@ A collection of awesome things regarding the React ecosystem.
 - [formatjs](https://github.com/formatjs/formatjs) - Internationalize your web apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
 - [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library
-
-#### React Email
-
-- [react-email](https://react.email/) - Unstyled components for creating beautiful emails
 
 #### React Graphics and Animations
 
