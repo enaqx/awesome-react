@@ -55,7 +55,6 @@ A collection of awesome things regarding the React ecosystem.
 #### React Frameworks
 
 - [next](https://github.com/vercel/next.js) - The React Framework
-- [blitz](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
 - [remix](https://github.com/remix-run/remix) - Full stack web Framework that lets you focus on the user interface
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
@@ -73,7 +72,6 @@ A collection of awesome things regarding the React ecosystem.
 - [mantine](https://github.com/mantinedev/mantine) - Fully featured React components library
 - [react-email](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
 
-
 #### React State Management and Data Fetching
 
 - [redux](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
@@ -83,7 +81,6 @@ A collection of awesome things regarding the React ecosystem.
 - [swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [apollo-client](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
 - [relay](https://github.com/facebook/relay) - A framework for building data-driven React applications
-- [recoil](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
 - [jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React
 - [xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
 - [effector](https://github.com/zerobias/effector) - Business logic with ease
@@ -95,7 +92,6 @@ A collection of awesome things regarding the React ecosystem.
 
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 - [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
-- [linaria](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS library
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 
 #### React Routing
@@ -196,7 +192,6 @@ A collection of awesome things regarding the React ecosystem.
 
 - [formatjs](https://github.com/formatjs/formatjs) - Internationalize your web apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
-- [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library
 
 #### React Graphics and Animations
 
@@ -235,7 +230,6 @@ A collection of awesome things regarding the React ecosystem.
 #### React Native Navigation
 
 - [react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
-- [expo-router](https://github.com/expo/router) - The File-based router for universal React Native apps
 
 #### React Native Awesome Components
 
