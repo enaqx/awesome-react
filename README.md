@@ -1,4 +1,9 @@
-## **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome React [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+[![Sponsor](./media/fern.png)](https://form.typeform.com/to/xlwIBLD5)
+Input an OpenAPI spec and generate developer documentation and SDKs with our sponsor [Fern](https://form.typeform.com/to/xlwIBLD5). Request a preview [here](https://form.typeform.com/to/xlwIBLD5).
+
+---
 
 A collection of awesome things regarding the React ecosystem.
 
