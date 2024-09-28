@@ -2,7 +2,7 @@
 
 [![Sponsor](./media/fern.png)](https://form.typeform.com/to/xlwIBLD5)
 
-Offer API docs that look as good as Stripe's using our sponsor [Fern](https://form.typeform.com/to/xlwIBLD5). Request a preview of your docs on Fern [here](https://form.typeform.com/to/xlwIBLD5).
+Offer API docs that look as good as Stripe's using our sponsor Fern. [Request a preview](https://form.typeform.com/to/xlwIBLD5) of your docs on Fern.
 
 ---
 
