@@ -128,6 +128,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React Awesome Components
 
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
+- [react-speech-highlight](https://github.com/albirrkarim/react-speech-highlight-demo) - React Text to Speech with highlighting the words and sentences that are being spoken using audio files, text to speech API, and web speech synthesis API
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React
 - [react-big-calendar](https://github.com/jquense/react-big-calendar) - Calendar component
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
