@@ -57,6 +57,7 @@ A collection of awesome things regarding the React ecosystem.
 - [next](https://github.com/vercel/next.js) - The React Framework
 - [remix](https://github.com/remix-run/remix) - Full stack web Framework that lets you focus on the user interface
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
+- [vike](https://github.com/vikejs/vike) - Like Next.js but with unprecedented flexibility, dependability, and control. Great react-typescript integration.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 - [refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
 
@@ -93,6 +94,7 @@ A collection of awesome things regarding the React ecosystem.
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 - [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+- [react-styled-classnames](https://github.com/richard-unterberg/react-styled-classnames) - manage react component class names and variants with the simplicity of styled-components and cva
 
 #### React Routing
 
