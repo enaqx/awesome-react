@@ -94,7 +94,7 @@ A collection of awesome things regarding the React ecosystem.
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 - [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
-- [react-styled-classnames](https://github.com/richard-unterberg/react-styled-classnames) - manage react component class names and variants with the simplicity of styled-components and cva
+- [react-classmate](https://github.com/richard-unterberg/react-classmate) - manage react component class names and variants with the simplicity of styled-components and cva
 
 #### React Routing
 
