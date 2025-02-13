@@ -118,6 +118,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
 - [downshift](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - A React error boundary component that lets you catch errors
+- [ziko-wrapper](https://github.com/zakarialaoui10/ziko-wrapper) - Enables rendering of ZikoJS elements within a React app and embedding React components into ZikoJS.
 
 #### React Testing
 
