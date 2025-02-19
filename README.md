@@ -105,6 +105,7 @@ A collection of awesome things regarding the React ecosystem.
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
 - [vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 - [parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
+- [bootify](https://bootify.io) - Generate Spring Boot apps with React frontend
 - [million](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
 - [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
