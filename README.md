@@ -17,6 +17,7 @@ A collection of awesome things regarding the React ecosystem.
   - [React Components Sandboxes](#react-components-sandboxes)
   - [React Forms](#react-forms)
   - [React Tables and Grids](#react-tables-and-grids)
+  - [React Notifications](#react-notifications)
   - [React Maps](#react-maps)
   - [React Charts](#react-charts)
   - [React Renderers](#react-renderers)
@@ -165,6 +166,10 @@ A collection of awesome things regarding the React ecosystem.
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [tanstack-table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
+
+#### React Notifications
+- [react-fox-toast](https://github.com/sanjayc208/react-fox-toast) - Lightweight, expandable toast notifications for React and Next.js with TailwindCSS support.
+
 
 #### React Maps
 
