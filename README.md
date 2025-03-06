@@ -65,6 +65,7 @@ A collection of awesome things regarding the React ecosystem.
 - [material-ui](https://github.com/mui/material-ui) - Ready-to-use foundational React components
 - [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [shadcn-ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - Accessible React components for building high-quality web apps and design systems.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [fluentui](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
 - [framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
