@@ -48,7 +48,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - [Design patterns and Component patterns for building powerful Web Apps](https://www.patterns.dev/)
-- [A simple, scalable, and powerful architecture for building production ready React applications](https://github.com/alan2207/bulletproof-react)
+- [A simple, scalable, and powerful architecture for building production-ready React applications](https://github.com/alan2207/bulletproof-react)
 - [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - [The Fullstack Tutorial for GraphQL](https://github.com/howtographql/howtographql)
 
@@ -63,6 +63,8 @@ A collection of awesome things regarding the React ecosystem.
 #### React Component Libraries
 
 - [material-ui](https://github.com/mui/material-ui) - Ready-to-use foundational React components
+- [origin-ui](https://github.com/origin-space/originui) - Beautiful UI components built with Tailwind CSS and React.
+- [hero-ui](https://github.com/heroui-inc/heroui) - Modern React UI library for building accessible and customizable web apps.
 - [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [shadcn-ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
@@ -79,7 +81,7 @@ A collection of awesome things regarding the React ecosystem.
 - [zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
 - [tanstack-query](https://github.com/TanStack/query) - Powerful asynchronous state management
 - [swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-- [apollo-client](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
+- [apollo-client](https://github.com/apollographql/apollo-client) - A fully-featured, production-ready caching GraphQL client
 - [relay](https://github.com/facebook/relay) - A framework for building data-driven React applications
 - [jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React
 - [xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
@@ -107,23 +109,24 @@ A collection of awesome things regarding the React ecosystem.
 - [parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
 - [million](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
 - [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
-- [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+- [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React-specific linting rules for ESLint
 - [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
+- [react-scan](https://github.com/aidenybai/react-scan) - Automatically detects and highlights components that cause performance issues in your React app.
 
 #### React Libraries
 
 - [preact](https://github.com/preactjs/preact) - Fast React alternative with the same modern API
 - [floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements
-- [loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
+- [loadable-components](https://github.com/gregberge/loadable-components) - The recommended code-splitting library for React
 - [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
-- [downshift](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
+- [downshift](https://github.com/downshift-js/downshift) - React autocomplete, combobox, or select dropdown components
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - A React error boundary component that lets you catch errors
 
 #### React Testing
 
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing
 - [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
-- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
+- [cypress](https://github.com/cypress-io/cypress) - Fast, easy, and reliable testing for anything that runs in a browser
 
 #### React Awesome Components
 
@@ -136,8 +139,9 @@ A collection of awesome things regarding the React ecosystem.
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 - [react-icons](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
 - [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
-- [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
+- [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram-like stories
 - [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider
+- [swapy](https://github.com/TahaSh/swapy) - Tool that converts any layout into a drag-to-swap one with just a few lines of code
 - [keen-slider](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
 - [cookie-consent-banner](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
 - [heart-switch](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
@@ -168,7 +172,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Maps
 
-- [react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
+- [react-map-gl](https://github.com/visgl/react-map-gl) - React-friendly API wrapper around MapboxGL JS
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 
 #### React Charts
@@ -195,11 +199,12 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Graphics and Animations
 
-- [react-spring](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
-- [framer-motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
+- [react-spring](https://github.com/pmndrs/react-spring) - A spring physics-based React animation library
+- [framer-motion](https://github.com/framer/motion) - Open source, production-ready animation, and gesture library for React
 - [auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
 - [react-tsparticles](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
+- [gsap](https://github.com/greensock/GSAP) - Industry-standard JavaScript animation library from GreenSock for high-performance animations
 - [simple-parallax-js](https://github.com/geosigno/simpleParallax.js) - The easiest way to get a parallax effect with React and JavaScript
 
 #### React Integration
@@ -211,7 +216,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Real Apps
 
-- [mattermost-server](https://github.com/mattermost/mattermost-server) - An open source platform for secure collaboration
+- [mattermost-server](https://github.com/mattermost/mattermost-server) - An open-source platform for secure collaboration
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
