@@ -118,8 +118,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
 - [downshift](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - A React error boundary component that lets you catch errors
-- [auto-dep-install](https://github.com/sarthakNITT/auto-dep-install) - Automate installation of missing dependencie JavaScript/TypeScript projects based on import analysis.
-
+- [auto-dep-install](https://github.com/sarthakNITT/auto-dep-install) - Automate installation of missing dependencies JavaScript/TypeScript projects based on import analysis.
 
 #### React Testing
 
@@ -242,6 +241,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [realm-js](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
 - [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
+- [auto-dep-install](https://github.com/sarthakNITT/auto-dep-install) - Automate installation of missing dependencies JavaScript/TypeScript projects based on import analysis.
 
 ### Contribution
 
