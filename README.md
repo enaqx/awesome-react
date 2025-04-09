@@ -82,6 +82,7 @@ A collection of awesome things regarding the React ecosystem.
 - [apollo-client](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
 - [relay](https://github.com/facebook/relay) - A framework for building data-driven React applications
 - [jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React
+- [nucleux](https://github.com/martyroque/nucleux) - Simple atomic state management with minimal boilerplate
 - [xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
 - [effector](https://github.com/zerobias/effector) - Business logic with ease
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
