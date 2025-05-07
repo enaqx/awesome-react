@@ -118,6 +118,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
 - [downshift](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - A React error boundary component that lets you catch errors
+- [react-vvm](https://github.com/behnamrhp/React-VVM) - A new approach to MVVM in React, to enforce clean separation of concerns, reduce boilerplate, and automatic re-render optimization for scalable UI logic.
 
 #### React Testing
 
