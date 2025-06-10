@@ -216,6 +216,7 @@ A collection of awesome things regarding the React ecosystem.
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 - [wave](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+- [bookcars](https://github.com/aelassas/bookcars) - An open-source, cross-platform, highly customizable, scalable, and cost-efficient solution for car rental businesses
 
 ### React Native
 
