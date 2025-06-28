@@ -2,34 +2,35 @@
 
 A collection of awesome things regarding the React ecosystem.
 
-- [React](#react)
-  - [React General Resources](#react-general-resources)
-  - [React Tutorials](#react-tutorials)
-  - [React Frameworks](#react-frameworks)
-  - [React Component Libraries](#react-component-libraries)
-  - [React State Management and Data Fetching](#react-state-management-and-data-fetching)
-  - [React Styling](#react-styling)
-  - [React Routing](#react-routing)
-  - [React Development Tools](#react-development-tools)
-  - [React Libraries](#react-libraries)
-  - [React Testing](#react-testing)
-  - [React Awesome Components](#react-awesome-components)
-  - [React Components Sandboxes](#react-components-sandboxes)
-  - [React Forms](#react-forms)
-  - [React Tables and Grids](#react-tables-and-grids)
-  - [React Maps](#react-maps)
-  - [React Charts](#react-charts)
-  - [React Renderers](#react-renderers)
-  - [React Internationalization](#react-internationalization)
-  - [React Graphics and Animations](#react-graphics-and-animations)
-  - [React Integration](#react-integration)
-  - [React Real Apps](#react-real-apps)
-- [React Native](#react-native)
-  - [React Native General Resources](#react-native-general-resources)
-  - [React Native Navigation](#react-native-navigation)
-  - [React Native Awesome Components](#react-native-awesome-components)
-  - [React Native Libraries](#react-native-libraries)
-- [Contribution](#contribution)
+- [Awesome React ](#awesome-react-)
+    - [React](#react)
+      - [React General Resources](#react-general-resources)
+      - [React Tutorials](#react-tutorials)
+      - [React Frameworks](#react-frameworks)
+      - [React Component Libraries](#react-component-libraries)
+      - [React State Management and Data Fetching](#react-state-management-and-data-fetching)
+      - [React Styling](#react-styling)
+      - [React Routing](#react-routing)
+      - [React Development Tools](#react-development-tools)
+      - [React Libraries](#react-libraries)
+      - [React Testing](#react-testing)
+      - [React Awesome Components](#react-awesome-components)
+      - [React Components Sandboxes](#react-components-sandboxes)
+      - [React Forms](#react-forms)
+      - [React Tables and Grids](#react-tables-and-grids)
+      - [React Maps](#react-maps)
+      - [React Charts](#react-charts)
+      - [React Renderers](#react-renderers)
+      - [React Internationalization](#react-internationalization)
+      - [React Graphics and Animations](#react-graphics-and-animations)
+      - [React Integration](#react-integration)
+      - [React Real Apps](#react-real-apps)
+    - [React Native](#react-native)
+      - [React Native General Resources](#react-native-general-resources)
+      - [React Native Navigation](#react-native-navigation)
+      - [React Native Awesome Components](#react-native-awesome-components)
+      - [React Native Libraries](#react-native-libraries)
+    - [Contribution](#contribution)
 
 ### React
 
@@ -156,8 +157,9 @@ A collection of awesome things regarding the React ecosystem.
 
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
-- [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema
 - [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
+- [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema
+- [smartstepper](https://www.npmjs.com/package/smartstepper) - Modern, customizable React stepper for multi-step forms, wizards, and onboarding flows. Integrates with react-hook-form, supports Yup/Zod validation, and uses a config-driven state machine for step management.
 - [vest](https://github.com/ealush/vest) - Declarative validations framework
 
 #### React Tables and Grids
