@@ -62,6 +62,8 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Component Libraries
 
+- [NextBunny](https://nextbunny.co/) - A free drag-and-drop builder for developers to visually create production-ready Next.js websites. Features a Figma and Framer style interface, pre-built Shadcn UI and Framer Motion components, and requires no sign-up.
+
 - [material-ui](https://github.com/mui/material-ui) - Ready-to-use foundational React components
 - [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [shadcn-ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
