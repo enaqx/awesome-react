@@ -71,6 +71,7 @@ A collection of awesome things regarding the React ecosystem.
 - [ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [mantine](https://github.com/mantinedev/mantine) - Fully featured React components library
 - [react-email](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
+- [untitled-ui-react](https://github.com/untitleduico/react) - Beautifully crafted collection of components built with React Aria and Tailwind CSS
 
 #### React State Management and Data Fetching
 
