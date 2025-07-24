@@ -109,6 +109,7 @@ A collection of awesome things regarding the React ecosystem.
 - [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 - [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
+- [react-devtools](https://github.com/facebook/react/tree/main/packages/react-devtools) – Inspect the React component tree and performance, analyze render timings and identify performance bottlenecks.
 
 #### React Libraries
 
