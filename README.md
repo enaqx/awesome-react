@@ -159,6 +159,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema
 - [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 - [vest](https://github.com/ealush/vest) - Declarative validations framework
+- [yup](https://github.com/jquense/yup) - Simple Object schema validation
 
 #### React Tables and Grids
 
