@@ -160,6 +160,7 @@ A collection of awesome things regarding the React ecosystem.
 - [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 - [vest](https://github.com/ealush/vest) - Declarative validations framework
 - [yup](https://github.com/jquense/yup) - Simple Object schema validation
+- [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 
 #### React Tables and Grids
 
