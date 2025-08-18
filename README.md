@@ -192,6 +192,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [formatjs](https://github.com/formatjs/formatjs) - Internationalize your web apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
+- [Tolgee](https://tolgee.io) - Open-source internationalization platform enabling users to translate directly in the React app.
 
 #### React Graphics and Animations
 
