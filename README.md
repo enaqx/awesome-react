@@ -87,6 +87,7 @@ A collection of awesome things regarding the React ecosystem.
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript
 - [rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [axios](https://github.com/axios/axios) - Promise based HTTP client for making API requests
 
 #### React Styling
 
@@ -159,6 +160,8 @@ A collection of awesome things regarding the React ecosystem.
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema
 - [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 - [vest](https://github.com/ealush/vest) - Declarative validations framework
+- [yup](https://github.com/jquense/yup) - Simple Object schema validation
+- [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 
 #### React Tables and Grids
 
