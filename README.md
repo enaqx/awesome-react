@@ -132,6 +132,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-big-calendar](https://github.com/jquense/react-big-calendar) - Calendar component
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
 - [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
+- [react-overflow-tabs](https://github.com/bawerbozdag/react-overflow-tabs) - A headless React utility to gracefully collapse overflowing tabs into a dropdown menu
 - [react-qrcode](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 - [react-icons](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
