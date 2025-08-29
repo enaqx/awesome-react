@@ -73,6 +73,7 @@ A collection of awesome things regarding the React ecosystem.
 - [framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [react-email](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
+- [buou-ui](https://buouui.com/) - A TailwindCSS library and template with stunning landing pages, templates, and rich animations.
 
 #### React State Management and Data Fetching
 
