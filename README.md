@@ -103,7 +103,6 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Development Tools
 
-- [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
 - [vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 - [parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
 - [million](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
