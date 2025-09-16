@@ -127,7 +127,7 @@ A collection of awesome things regarding the React ecosystem.
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing
 - [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
-- [Playwright](https://github.com/microsoft/playwright) - a fast and reliable framework by microsoft for Web Testing and Automation.
+- [playwright](https://github.com/microsoft/playwright) - A framework for Web Testing and Automation
 
 #### React Awesome Components
 
