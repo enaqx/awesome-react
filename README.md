@@ -240,10 +240,10 @@ A collection of awesome things regarding the React ecosystem.
 
 - [realm-js](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
 - [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
-- [react-native-maps](https://github.com/react-native-maps/react-native-maps#readme) - React Native Mapview component for iOS + Android
+- [react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component
 
 ### Contribution
 
-This list began as a personal compilation of interesting things related to React. When it was initiated, React was still in beta, a special script was required to convert JSX to JS, and Flux had not yet been released. Today, React has become mainstream, with numerous developments taking place. Kindly refrain from using this list as an advertisement board or a space to promote your experiments. We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. Your input and suggestions are wholeheartedly♡ appreciated. (✿◠‿◠)
+This list began as a personal compilation of interesting things related to React. When it was initiated, React was still in beta, a special script was required to convert JSX to JS, and Flux (if you know what it was) had not yet been released. Today, React has become boring mainstream. Kindly refrain from using this list as an advertisement board or a space to promote your experiments. We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. I would prefer GitHub links, please. Your input and suggestions are wholeheartedly♡ appreciated. (✿◠‿◠)
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
