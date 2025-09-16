@@ -63,10 +63,9 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Component Libraries
 
-- [material-ui](https://github.com/mui/material-ui) - Ready-to-use foundational React components
-- [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [Radix](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems.
 - [shadcn-ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
+- [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
+- [material-ui](https://github.com/mui/material-ui) - Ready-to-use foundational React components
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - Component system for building SaaS products with speed
 - [mantine](https://github.com/mantinedev/mantine) - Fully featured React components library
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
