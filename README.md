@@ -71,7 +71,7 @@ A collection of awesome things regarding the React ecosystem.
 - [ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [mantine](https://github.com/mantinedev/mantine) - Fully featured React components library
 - [react-email](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
-- [8bitcn-ui](https://8bitcn.com) - A retro 8-bit themed React component library built on top of Shadcn
+- [8bitcn-ui](https://github.com/TheOrcDev/8bitcn-ui) - A retro 8-bit themed React component library built on top of shadcn
 
 #### React State Management and Data Fetching
 
