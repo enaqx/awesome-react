@@ -140,6 +140,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-icons](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
 - [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
 - [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
+- [react-youtube-iframe-player](https://github.com/grafikri/react-youtube-iframe-player) - React hook for YouTube iframe player
 - [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider
 - [keen-slider](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
 - [cookie-consent-banner](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
