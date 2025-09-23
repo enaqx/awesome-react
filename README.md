@@ -146,7 +146,6 @@ A collection of awesome things regarding the React ecosystem.
 #### React Components Sandboxes
 
 - [storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
-- [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 - [bit](https://github.com/teambit/bit) - A build system for development of composable software
 
