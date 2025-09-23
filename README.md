@@ -202,9 +202,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React Integration
 
 - [rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - A robustly typed language that compiles to efficient and human-readable JavaScript
-- [react-rails](https://github.com/reactjs/react-rails) - Integrate React with Rails
 - [fulcro](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
-- [tailwind-react](https://tw-elements.com/docs/standard/integrations/react-integration/) - Article that shows you how to integrate React application with Tailwind
 
 #### React Real Apps
 
