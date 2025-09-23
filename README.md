@@ -222,7 +222,6 @@ A collection of awesome things regarding the React ecosystem.
 - [React Native GitHub](https://github.com/facebook/react-native)
 - [React Native Community](https://reactnative.dev/community/overview)
 - [Expo](https://expo.dev/)
-- [Expo Snack Playground](https://snack.expo.dev/)
 
 #### React Native Navigation
 
