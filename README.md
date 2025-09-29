@@ -58,7 +58,7 @@ A collection of awesome things regarding the React ecosystem.
 - [remix](https://github.com/remix-run/remix) - Full stack web Framework that lets you focus on the user interface
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 - [refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
-- [vike](https://github.com/vikejs/vike) - The Modular Framework - Next.js & Nuxt alternative 
+- [vike](https://github.com/vikejs/vike) - The Modular Framework - Next.js & Nuxt alternative
 
 #### React Component Libraries
 
@@ -188,7 +188,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [formatjs](https://github.com/formatjs/formatjs) - Internationalize your web apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
-- [react-inltayer](https://github.com/aymericzip/intlayer) - Internationalization focused on maintenability for React 
+- [react-inltayer](https://github.com/aymericzip/intlayer) - Internationalization focused on maintenability for React
 
 #### React Graphics and Animations
 
@@ -206,7 +206,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Real Apps
 
-- [notifuse](https://github.com/Notifuse/notifuse) - Open-source notification infrastructure for developers
+- [notifuse](https://github.com/Notifuse/notifuse) - Notifuse is a modern self-hosted emailing platform to send newsletters & transactional email
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - An open source platform for secure collaboration
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
