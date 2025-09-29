@@ -206,7 +206,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Real Apps
 
-- [notifuse](https://github.com/Notifuse/notifuse) - Notifuse is a modern self-hosted emailing platform to send newsletters & transactional email
+- [notifuse](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional email
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - An open source platform for secure collaboration
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
