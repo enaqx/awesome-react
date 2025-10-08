@@ -142,6 +142,7 @@ A collection of awesome things regarding the React ecosystem.
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck](https://github.com/measuredco/puck) - The visual editor for React
 - [json-edit-react](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
+- [react-bits](https://github.com/DavidHDev/react-bits) - A collection of animated, interactive & fully customizable React components
 
 #### React Components Sandboxes
 
