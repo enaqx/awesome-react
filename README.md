@@ -103,6 +103,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Development Tools
 
+- [blank-space](https://www.blankspace.build/) - Open-source AI app builder for building React applications
 - [vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 - [parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
 - [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
