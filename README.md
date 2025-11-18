@@ -98,6 +98,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Routing
 
+- [tambo](https://github.com/tambo-ai/tambo) - React SDK for building generative UIs with MCP support
 - [react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [tanstack-router](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
