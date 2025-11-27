@@ -135,7 +135,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 - [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
 - [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
-- [react-hot-toast](https://github.com/timolins/react-hot-toast) - Lightweight and customizable toast notifications for React.
+- [react-hot-toast](https://github.com/timolins/react-hot-toast) - Lightweight and customizable toast notifications for React
 - [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider
 - [keen-slider](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
 - [heart-switch](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
@@ -143,8 +143,6 @@ A collection of awesome things regarding the React ecosystem.
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck](https://github.com/measuredco/puck) - The visual editor for React
 - [json-edit-react](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
-
-
 
 #### React Components Sandboxes
 
