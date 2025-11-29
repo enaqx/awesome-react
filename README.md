@@ -76,7 +76,6 @@ A collection of awesome things regarding the React ecosystem.
 - [8bitcn-ui](https://github.com/TheOrcDev/8bitcn-ui) - A retro 8-bit themed React component library built on top of shadcn
 - [headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
 
-
 #### React State Management and Data Fetching
 
 - [redux](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
