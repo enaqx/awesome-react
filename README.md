@@ -145,7 +145,6 @@ A collection of awesome things regarding the React ecosystem.
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck](https://github.com/measuredco/puck) - The visual editor for React
 - [json-edit-react](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
-- [markdown-to-jsx](https://www.npmjs.com/package/markdown-to-jsx) - A fast, versatile, and 100% CommonMark + GFM compliant markdown toolchain for React and other renderers.
 
 #### React Components Sandboxes
 
@@ -187,6 +186,7 @@ A collection of awesome things regarding the React ecosystem.
 - [remotion](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
 - [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React
 - [react-figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
+- [markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain
 
 #### React Internationalization
 
