@@ -120,6 +120,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
 - [downshift](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - A React error boundary component that lets you catch errors
+- [ComputeKit](https://github.com/tapava/compute-kit) - React hooks for heavy computations with Web Workers and WASM.
 
 #### React Testing
 
