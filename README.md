@@ -41,6 +41,7 @@ A collection of awesome things regarding the React ecosystem.
 - [React Community](https://react.dev/community)
 - [React Conferences](https://react.dev/community/conferences)
 - [React CodeSandbox Playground](https://codesandbox.io/s/new)
+- [Vedika API](https://vedika.io) - REST API for Vedic astrology with AI chatbot, 108+ endpoints for birth charts, horoscopes, kundali matching, panchang, numerology, and more
 
 #### React Tutorials
 
