@@ -84,6 +84,7 @@ A collection of awesome things regarding the React ecosystem.
 - [zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
 - [tanstack-query](https://github.com/TanStack/query) - Powerful asynchronous state management
 - [swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
+- [vedika](https://vedika.io) - AI-powered Vedic astrology REST API with 108+ endpoints
 - [apollo-client](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
 - [relay](https://github.com/facebook/relay) - A framework for building data-driven React applications
 - [jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React
