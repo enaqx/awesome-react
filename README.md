@@ -56,7 +56,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [next](https://github.com/vercel/next.js) - The React Framework
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
-- [remix](https://github.com/remix-run/remix) - Full stack web Framework that lets you focus on the user interface
+- [remix](https://github.com/remix-run/remix) - Full-stack web Framework that lets you focus on the user interface
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 - [refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
 - [vike](https://github.com/vikejs/vike) - The Modular Framework - Next.js & Nuxt alternative
