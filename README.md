@@ -2,6 +2,7 @@
 
 A collection of awesome things regarding the React ecosystem.
 
+
 - [React](#react)
   - [React General Resources](#react-general-resources)
   - [React Tutorials](#react-tutorials)
@@ -55,7 +56,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [next](https://github.com/vercel/next.js) - The React Framework
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
-- [remix](https://github.com/remix-run/remix) - Full stack web Framework that lets you focus on the user interface
+- [remix](https://github.com/remix-run/remix) - Full-stack web Framework that lets you focus on the user interface
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 - [refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
 - [vike](https://github.com/vikejs/vike) - The Modular Framework - Next.js & Nuxt alternative
@@ -90,7 +91,7 @@ A collection of awesome things regarding the React ecosystem.
 - [xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
 - [effector](https://github.com/zerobias/effector) - Business logic with ease
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
-- [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript
+- [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for JavaScript
 - [rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 
 #### React Styling
