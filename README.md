@@ -160,6 +160,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema
 - [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 - [tanstack-form](https://github.com/TanStack/form) - Headless, performant, and type-safe form state management
+- [react-feedback-surveys](https://github.com/feedback-tools-platform/react-feedback-surveys) - Lightweight, customizable survey widgets for collecting user feedback (NPS, CSAT, CES)
 
 #### React Tables and Grids
 
