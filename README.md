@@ -147,6 +147,8 @@ A collection of awesome things regarding the React ecosystem.
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck](https://github.com/measuredco/puck) - The visual editor for React
 - [json-edit-react](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
+- [CalendarJS](https://github.com/jspreadsheet/calendarjs) – Open source JavaScript calendar and scheduling component that can be integrated into Angular projects.
+- [JSuites](https://github.com/jsuites/jsuites) – Collection of UI components and utilities (forms, modals, inputs) that can be integrated into Angular with custom wrappers or directives.
 
 #### React Components Sandboxes
 
@@ -166,6 +168,8 @@ A collection of awesome things regarding the React ecosystem.
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [tanstack-table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
+- [Jspreadsheet CE](https://github.com/jspreadsheet/ce) – Open source JavaScript spreadsheet and data grid component, can be used in Angular apps when wrapped or consumed via Angular elements.
+- [TabularJS](https://github.com/jspreadsheet/tabularjs) – Lightweight JavaScript table and data grid library for advanced table features in Angular.
 
 #### React Maps
 
