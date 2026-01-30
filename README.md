@@ -218,6 +218,7 @@ A collection of awesome things regarding the React ecosystem.
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 - [wave](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [readest](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
+- [veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Self-hosted Kanban board with AI agent integration, built with React 19, Vite 6, and TanStack Query
 - [bookcars](https://github.com/aelassas/bookcars) - Car rental platform
 - [notifuse](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
 
