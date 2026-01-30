@@ -75,6 +75,7 @@ A collection of awesome things regarding the React ecosystem.
 - [ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [react-email](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
 - [8bitcn-ui](https://github.com/TheOrcDev/8bitcn-ui) - A retro 8-bit themed React component library built on top of shadcn
+- [boldkit](https://github.com/ANIBIT14/boldkit) - Neubrutalism React components built on shadcn/ui with Radix UI and Tailwind CSS
 - [headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
 - [ruixen-ui](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
 
