@@ -10,6 +10,7 @@ A collection of awesome things regarding the React ecosystem.
   - [React Component Libraries](#react-component-libraries)
   - [React State Management and Data Fetching](#react-state-management-and-data-fetching)
   - [React Styling](#react-styling)
+  - [React Icon Libraries](#react-icon-libraries)
   - [React Routing](#react-routing)
   - [React Development Tools](#react-development-tools)
   - [React Libraries](#react-libraries)
@@ -99,6 +100,13 @@ A collection of awesome things regarding the React ecosystem.
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 - [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+
+#### React Icon Libraries
+
+- [hugeicons-react](https://github.com/hugeicons/react) - Beautiful, production-ready icons for React projects
+- [react-icons](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
+- [lucide-react](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit
+- [heroicons](https://github.com/tailwindlabs/heroicons) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS
 
 #### React Routing
 
