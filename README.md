@@ -220,6 +220,7 @@ A collection of awesome things regarding the React ecosystem.
 - [readest](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
 - [bookcars](https://github.com/aelassas/bookcars) - Car rental platform
 - [notifuse](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
+- [Habit Tracker](https://github.com/DevHanza/Habit-Tracker) - An intuitive SaaS platform to help users build and maintain positive habits.
 
 ### React Native
 
