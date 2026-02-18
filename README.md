@@ -244,6 +244,7 @@ A collection of awesome things regarding the React ecosystem.
 - [realm-js](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
 - [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
 - [react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component
+- [Sherlo](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 
 ### Contribution
 
