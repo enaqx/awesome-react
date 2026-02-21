@@ -60,6 +60,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 - [refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
 - [vike](https://github.com/vikejs/vike) - The Modular Framework - Next.js & Nuxt alternative
+- [Tailwindadmin](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) - Free, open-source, fully responsive Shadcn UI admin dashboard template built on React
 
 #### React Component Libraries
 
@@ -77,7 +78,8 @@ A collection of awesome things regarding the React ecosystem.
 - [8bitcn-ui](https://github.com/TheOrcDev/8bitcn-ui) - A retro 8-bit themed React component library built on top of shadcn
 - [headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
 - [ruixen-ui](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
-
+- [Shadcn Space](https://github.com/shadcnspace/shadcnspace) - Open-source shadcn/ui blocks, components, and templates built with React
+  
 #### React State Management and Data Fetching
 
 - [redux](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
