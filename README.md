@@ -166,6 +166,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [tanstack-table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
+- [witqq-spreadsheet](https://github.com/witqq/spreadsheet) - Canvas-based spreadsheet engine with zero dependencies, 100K+ rows at 60fps
 
 #### React Maps
 
