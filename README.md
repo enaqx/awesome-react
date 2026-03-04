@@ -220,6 +220,7 @@ A collection of awesome things regarding the React ecosystem.
 - [readest](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
 - [bookcars](https://github.com/aelassas/bookcars) - Car rental platform
 - [notifuse](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
+- [lynxprompt](https://github.com/GeiserX/LynxPrompt) - Self-hostable platform for managing AI IDE configuration files
 
 ### React Native
 
