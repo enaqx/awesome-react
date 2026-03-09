@@ -14,6 +14,7 @@ A collection of awesome things regarding the React ecosystem.
   - [React Development Tools](#react-development-tools)
   - [React Libraries](#react-libraries)
   - [React Testing](#react-testing)
+  - [React Accessibility](#react-accessibility)
   - [React Awesome Components](#react-awesome-components)
   - [React Components Sandboxes](#react-components-sandboxes)
   - [React Forms](#react-forms)
@@ -128,6 +129,13 @@ A collection of awesome things regarding the React ecosystem.
 - [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
 - [playwright](https://github.com/microsoft/playwright) - A framework for Web Testing and Automation
+
+#### React Accessibility
+
+- [react-aria](https://github.com/adobe/react-aria) - Adobe's library of React Hooks for building accessible design systems
+- [react-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React applications
+- [eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) - Static AST checker for accessibility rules on JSX elements
+- [ratedwithai](https://ratedwithai.com) - AI-powered WCAG scanner with instant fixes for React apps
 
 #### React Awesome Components
 
