@@ -220,6 +220,7 @@ A collection of awesome things regarding the React ecosystem.
 - [readest](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
 - [bookcars](https://github.com/aelassas/bookcars) - Car rental platform
 - [notifuse](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
+- [snapimg](https://github.com/Moresl/snapimg) - Fast, privacy-focused image compression tool with React 19
 
 ### React Native
 
