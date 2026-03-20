@@ -220,6 +220,7 @@ A collection of awesome things regarding the React ecosystem.
 - [readest](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
 - [bookcars](https://github.com/aelassas/bookcars) - Car rental platform
 - [notifuse](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
+- [pumperly](https://github.com/GeiserX/pumperly) - Open-source fuel & EV route planner with real-time prices across 36 countries
 
 ### React Native
 
