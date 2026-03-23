@@ -171,6 +171,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
+- [mapmetrics-gl](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in tiles, geocoding, routing, and search
 
 #### React Charts
 
