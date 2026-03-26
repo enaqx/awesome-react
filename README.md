@@ -178,6 +178,7 @@ A collection of awesome things regarding the React ecosystem.
 - [visx](https://github.com/airbnb/visx) - Visualization components
 - [victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [react-vis](https://github.com/uber/react-vis) - Data Visualization Components
+- [metricui](https://github.com/mpmcgowen/metricui) - Dashboard components with KPI cards, charts, tables, and built-in data states
 - [nivo](https://github.com/plouc/nivo) - Provides a rich set of data visualization components built on top of the D3 and React libraries
 - [xyflow](https://github.com/xyflow/xyflow) - A customizable React component for building node-based editors and interactive diagrams
 
