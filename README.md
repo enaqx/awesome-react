@@ -52,6 +52,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Design patterns and Component patterns for building powerful Web Apps](https://www.patterns.dev/)
 - [A simple, scalable, and powerful architecture for building production ready React applications](https://github.com/alan2207/bulletproof-react)
 - [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- [academeez.com - free open source React course](https://www.academeez.com/courses/react)
 
 #### React Frameworks
 
