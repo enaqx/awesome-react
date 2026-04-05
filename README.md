@@ -13,6 +13,7 @@ A collection of awesome things regarding the React ecosystem.
   - [React Icon Libraries](#react-icon-libraries)
   - [React Routing](#react-routing)
   - [React Development Tools](#react-development-tools)
+- [@idliapam/glitch-react](https://github.com/Ankitajainkuniya/glitch-widget) - AI bug reporter with Error Boundary, Redux middleware, and state capture.
   - [React Libraries](#react-libraries)
   - [React Testing](#react-testing)
   - [React Awesome Components](#react-awesome-components)
