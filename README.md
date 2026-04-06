@@ -32,6 +32,7 @@ A collection of awesome things regarding the React ecosystem.
   - [React Native Awesome Components](#react-native-awesome-components)
   - [React Native Libraries](#react-native-libraries)
 - [Contribution](#contribution)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for React development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 
 ### React
 
