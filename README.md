@@ -27,6 +27,7 @@ A collection of awesome things regarding the React ecosystem.
   - [React Integration](#react-integration)
   - [React Real Apps](#react-real-apps)
 - [React Native](#react-native)
+- [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) - Open-source construction cost estimation platform with BOQ, CAD/BIM viewer (Three.js), real-time collaboration, and AI-powered estimation.
   - [React Native General Resources](#react-native-general-resources)
   - [React Native Navigation](#react-native-navigation)
   - [React Native Awesome Components](#react-native-awesome-components)
