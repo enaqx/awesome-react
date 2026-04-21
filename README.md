@@ -43,6 +43,7 @@ A collection of awesome things regarding the React ecosystem.
 - [React Community](https://react.dev/community)
 - [React Conferences](https://react.dev/community/conferences)
 - [React CodeSandbox Playground](https://codesandbox.io/s/new)
+- [CCHub](https://github.com/Moresll/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 #### React Tutorials
 
