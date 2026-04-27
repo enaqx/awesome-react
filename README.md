@@ -157,6 +157,7 @@ A collection of awesome things regarding the React ecosystem.
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck](https://github.com/measuredco/puck) - The visual editor for React
 - [json-edit-react](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
+- [User Tour Kit](https://github.com/domidex01/tour-kit) - Headless onboarding library for product tours, hints, checklists, microsurveys, and announcements. shadcn/ui-friendly, WCAG 2.1 AA, TypeScript-first.
 
 #### React Components Sandboxes
 
