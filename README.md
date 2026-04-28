@@ -221,6 +221,7 @@ A collection of awesome things regarding the React ecosystem.
 - [fulcro](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
 
 #### React Real Apps
+- [30tools](https://github.com/SH20RAJ/30tools) - 660+ free browser-based online tools built with React and Next.js
 
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - An open source platform for secure collaboration
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
