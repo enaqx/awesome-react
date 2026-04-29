@@ -255,6 +255,11 @@ A collection of awesome things regarding the React ecosystem.
 - [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
 - [react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component
 
+#### React Performance & DX Tools
+
+- [react-scan](https://github.com/aidenybai/react-scan)
+- [million.js](https://old.million.dev/)
+
 ### Contribution
 
 This list began as a personal compilation of interesting things related to React. When it was initiated, React was still in beta, a special script was required to convert JSX to JS, and Flux (if you know what it was) had not yet been released. Today, React has become boring mainstream. Kindly refrain from using this list as an advertisement board or a space to promote your experiments. We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. I would prefer GitHub links, please. Your input and suggestions are wholeheartedly♡ appreciated. (✿◠‿◠)
