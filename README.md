@@ -61,6 +61,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 - [refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
 - [vike](https://github.com/vikejs/vike) - The Modular Framework - Next.js & Nuxt alternative
+- [mandu](https://github.com/konamgil/mandu) - Agent-native fullstack framework on Bun + React. File-system routes, runtime architecture guard, contract-first APIs, and 100+ MCP tools so AI editors can drive the project end-to-end
 
 #### React Component Libraries
 
