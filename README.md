@@ -174,7 +174,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React Tables and Grids
 
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
-- [react-datatable](https://github.com/FroeMic/react-datatable) - Copy-in datatable on TanStack Table with shadcn-style UI and Tailwind; filters, views, virtualization, and server pagination or infinite loading.
+- [react-datatable](https://react-datatable.com/docs?utm_source=github&utm_medium=repository&utm_campaign=3rdcom265) - Copy-in datatable on TanStack Table with shadcn-style UI and Tailwind; filters, views, virtualization, and server pagination or infinite loading.
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [tanstack-table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
 
