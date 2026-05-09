@@ -230,6 +230,7 @@ A collection of awesome things regarding the React ecosystem.
 - [readest](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
 - [bookcars](https://github.com/aelassas/bookcars) - Car rental platform
 - [notifuse](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
+- [enclave](https://github.com/yuanzui0728/enclave) - Self-hosted, open-source AI virtual social network (Character.AI / Replika alternative). React + Vite frontend, NestJS backend, Tauri desktop shell
 
 ### React Native
 
