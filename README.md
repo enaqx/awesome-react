@@ -170,6 +170,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema
 - [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 - [tanstack-form](https://github.com/TanStack/form) - Headless, performant, and type-safe form state management
+- [json-to-ts](https://json-to-ts-app.netlify.app/) - Free hosted converter that turns a JSON sample (e.g. an API response) into a Zod or Valibot schema for use as a `react-hook-form` resolver
 
 #### React Tables and Grids
 
