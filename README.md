@@ -176,6 +176,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [tanstack-table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
+- [gp-grid](https://gp-grid.io) - TypeScript React data grid featuring slot-based virtual scrolling with batteries included, no features paywalls, and zero runtime dependencies.
 
 #### React Maps
 
