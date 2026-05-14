@@ -9,6 +9,7 @@ A collection of awesome things regarding the React ecosystem.
   - [React Frameworks](#react-frameworks)
   - [React Component Libraries](#react-component-libraries)
   - [React State Management and Data Fetching](#react-state-management-and-data-fetching)
+- [Zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React.
   - [React Styling](#react-styling)
   - [React Icon Libraries](#react-icon-libraries)
   - [React Routing](#react-routing)
