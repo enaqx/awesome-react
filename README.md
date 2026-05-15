@@ -157,6 +157,7 @@ A collection of awesome things regarding the React ecosystem.
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck](https://github.com/measuredco/puck) - The visual editor for React
 - [json-edit-react](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
+- [ethora-chat-component](https://github.com/dappros/ethora-chat-component) - Embeddable chat UI — popup widget, embedded panel, or standalone app
 
 #### React Components Sandboxes
 
