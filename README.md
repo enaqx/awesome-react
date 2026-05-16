@@ -248,6 +248,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
+- [@ethora/chat-component-rn](https://github.com/dappros/ethora-chat-component-rn) - Drop-in XMPP chat component for React Native / Expo, by Ethora.
 
 #### React Native Libraries
 
