@@ -195,6 +195,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
 - [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+- [@pilates/react](https://github.com/pilatesjs/pilates) - React 19 reconciler for the Pilates terminal UI engine. Pure-TypeScript alternative to Ink
 - [remotion](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
 - [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React
 - [react-figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
