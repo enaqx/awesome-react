@@ -51,7 +51,7 @@ A collection of awesome things regarding the React ecosystem.
 - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - [Design patterns and Component patterns for building powerful Web Apps](https://www.patterns.dev/)
 - [A simple, scalable, and powerful architecture for building production ready React applications](https://github.com/alan2207/bulletproof-react)
-- [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react)
 
 #### React Frameworks
 
@@ -90,7 +90,7 @@ A collection of awesome things regarding the React ecosystem.
 - [relay](https://github.com/facebook/relay) - A framework for building data-driven React applications
 - [jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React
 - [xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
-- [effector](https://github.com/zerobias/effector) - Business logic with ease
+- [effector](https://github.com/effector/effector) - Business logic with ease
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for JavaScript
 - [rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
@@ -99,7 +99,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 - [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
-- [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+- [vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 
 #### React Icon Libraries
 
@@ -117,8 +117,8 @@ A collection of awesome things regarding the React ecosystem.
 
 - [vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 - [parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
-- [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
-- [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+- [reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React and React Native projects
+- [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React specific linting rules for ESLint
 - [react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
@@ -134,7 +134,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Testing
 
-- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing
+- [jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing
 - [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
 - [playwright](https://github.com/microsoft/playwright) - A framework for Web Testing and Automation
@@ -143,7 +143,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React
-- [react-big-calendar](https://github.com/jquense/react-big-calendar) - Calendar component
+- [react-big-calendar](https://github.com/bigcalendar/react-big-calendar) - Calendar component
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
 - [react-qrcode](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
@@ -155,7 +155,7 @@ A collection of awesome things regarding the React ecosystem.
 - [heart-switch](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
 - [kbar](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
-- [puck](https://github.com/measuredco/puck) - The visual editor for React
+- [puck](https://github.com/puckeditor/puck) - The visual editor for React
 - [json-edit-react](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
 
 #### React Components Sandboxes
@@ -175,7 +175,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [tanstack-table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
-- [react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
+- [react-data-grid](https://github.com/Comcast/react-data-grid) - Feature-rich and customizable data grid React component
 
 #### React Maps
 
@@ -209,20 +209,20 @@ A collection of awesome things regarding the React ecosystem.
 #### React Graphics and Animations
 
 - [react-spring](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
-- [framer-motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
+- [framer-motion](https://github.com/motiondivision/motion) - Open source, production-ready animation and gesture library for React
 - [auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
-- [react-tsparticles](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
+- [react-tsparticles](https://github.com/tsparticles/tsparticles) - Easily create highly customizable particles effects
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 - [simple-parallax-js](https://github.com/geosigno/simpleParallax.js) - The easiest way to get a parallax effect with React and JavaScript
 
 #### React Integration
 
-- [rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - A robustly typed language that compiles to efficient and human-readable JavaScript
+- [rescript-compiler](https://github.com/rescript-lang/rescript) - A robustly typed language that compiles to efficient and human-readable JavaScript
 - [fulcro](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
 
 #### React Real Apps
 
-- [mattermost-server](https://github.com/mattermost/mattermost-server) - An open source platform for secure collaboration
+- [mattermost-server](https://github.com/mattermost/mattermost) - An open source platform for secure collaboration
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
