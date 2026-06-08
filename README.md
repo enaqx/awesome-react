@@ -56,6 +56,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React Frameworks
 
 - [next](https://github.com/vercel/next.js) - The React Framework
+- [NextBlock CMS](https://nextblock.dev) - A unified full-stack CMS framework built on Next.js 16 and Supabase with AI-native features and e-commerce available.
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
 - [remix](https://github.com/remix-run/remix) - Full-stack web Framework that lets you focus on the user interface
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
