@@ -214,6 +214,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-tsparticles](https://github.com/tsparticles/tsparticles) - Easily create highly customizable particles effects
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 - [simple-parallax-js](https://github.com/geosigno/simpleParallax.js) - The easiest way to get a parallax effect with React and JavaScript
+- [react-parallax](https://github.com/iampoul/react-parallax) - Performant parallax component with scroll and pointer-based motion, zero React re-renders, spring physics, and depth-of-field blur
 
 #### React Integration
 
