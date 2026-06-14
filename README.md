@@ -140,7 +140,7 @@ A collection of awesome things regarding the React ecosystem.
 - [playwright](https://github.com/microsoft/playwright) - A framework for Web Testing and Automation
 
 #### React Awesome Components
-
+- [notchify](https://github.com/iryanraushan/notchify) - A classic, toast notification library for React and Next.js.
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React
 - [react-big-calendar](https://github.com/bigcalendar/react-big-calendar) - Calendar component
