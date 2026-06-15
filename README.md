@@ -78,6 +78,7 @@ A collection of awesome things regarding the React ecosystem.
 - [8bitcn-ui](https://github.com/TheOrcDev/8bitcn-ui) - A retro 8-bit themed React component library built on top of shadcn
 - [headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
 - [ruixen-ui](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
+- [ui-ip-toolkit](https://github.com/ikerperez12/UI-IP-Toolkit-v4.0) - A standalone static visual catalog of copy-ready CSS and JS components
 
 #### React State Management and Data Fetching
 
@@ -230,6 +231,7 @@ A collection of awesome things regarding the React ecosystem.
 - [readest](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
 - [bookcars](https://github.com/aelassas/bookcars) - Car rental platform
 - [notifuse](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
+- [ip-linux](https://github.com/ikerperez12/IP-OS-LINUX) - A browser-based desktop environment and local-first application workspace
 
 ### React Native
 
