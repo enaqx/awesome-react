@@ -230,6 +230,7 @@ A collection of awesome things regarding the React ecosystem.
 - [readest](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
 - [bookcars](https://github.com/aelassas/bookcars) - Car rental platform
 - [notifuse](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
+- [unfoldcms](https://github.com/hpakdaman/unfoldcms) - Self-hosted CMS with a React 19 + shadcn/ui admin panel (51 components, 205 pages)
 
 ### React Native
 
