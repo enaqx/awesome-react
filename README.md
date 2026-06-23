@@ -190,6 +190,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [nivo](https://github.com/plouc/nivo) - Provides a rich set of data visualization components built on top of the D3 and React libraries
 - [xyflow](https://github.com/xyflow/xyflow) - A customizable React component for building node-based editors and interactive diagrams
+- [Exeria Charts React](https://github.com/efixdata/exeria-charts/tree/main/packages/react-chart-ui) - React toolbar and menu wrapper over a native, high-performance Canvas financial charting engine.
 
 #### React Renderers
 
