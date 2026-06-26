@@ -122,6 +122,8 @@ A collection of awesome things regarding the React ecosystem.
 - [react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
+- [sketch-to-vue](https://github.com/chenboxun87/sketch-to-vue) - AI Skill that converts Sketch MeaXure / MasterGo design exports into pixel-accurate React 18 components (JSX + CSS Modules), with ECharts integration, fullscreen big-screen scaling, and dynamic state binding
+
 #### React Libraries
 
 - [ai-sdk](https://github.com/vercel/ai) - The AI Toolkit for TypeScript and React from the creators of Next.js
