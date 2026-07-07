@@ -199,6 +199,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React
 - [react-figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
 - [markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain
+- [MDMA](https://github.com/MobileReality/mdma) - Render LLM-generated interactive Markdown (forms, tables, approval gates, charts) as React components
 
 #### React Internationalization
 
