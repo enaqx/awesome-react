@@ -146,6 +146,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-big-calendar](https://github.com/bigcalendar/react-big-calendar) - Calendar component
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
 - [react-qrcode](https://github.com/zpao/qrcode.react) - QR component for use with React
+- [react-qr-label](https://github.com/shashi089/qr-code-layout-generate-tool/tree/main/packages/react-qr-label) - QR code label designer component for React
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 - [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
 - [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
