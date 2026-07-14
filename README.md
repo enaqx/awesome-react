@@ -150,6 +150,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
 - [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
 - [react-hot-toast](https://github.com/timolins/react-hot-toast) - Lightweight and customizable toast notifications for React
+- [Chimely (@chimely/react)](https://github.com/dodopayments/chimely) - Drop-in `<Inbox />` React component for an in-app notification inbox, backed by open-source self-hostable notification infrastructure (Rust + Postgres + Redis). Self-hosted alternative to Knock, Courier, MagicBell, and Novu.
 - [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider
 - [keen-slider](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
 - [heart-switch](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
