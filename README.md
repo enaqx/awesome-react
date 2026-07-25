@@ -127,6 +127,7 @@ A collection of awesome things regarding the React ecosystem.
 - [ai-sdk](https://github.com/vercel/ai) - The AI Toolkit for TypeScript and React from the creators of Next.js
 - [preact](https://github.com/preactjs/preact) - Fast React alternative with the same modern API
 - [floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements
+- - [kd-screen-guard](https://github.com/KhvichaDev/kd-screen-guard) - Standalone, tamper-proof lock screen library with WebAuthn biometrics, WebRTC intruder snapshot, and React hooks
 - [loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
 - [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
 - [downshift](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
