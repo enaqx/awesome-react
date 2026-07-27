@@ -168,6 +168,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema
+- [jsonschema-editor](https://github.com/eumicro/jsonschema-editor) - JSON Schema and UI Schema form editor for React, with fillable forms, nested structures, and oneOf type selection
 - [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 - [tanstack-form](https://github.com/TanStack/form) - Headless, performant, and type-safe form state management
 
