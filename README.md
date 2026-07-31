@@ -131,7 +131,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
 - [downshift](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - A React error boundary component that lets you catch errors
-- [agentskit](https://github.com/AgentsKit-io/agentskit) - Composable toolkit and hooks for building AI chat and agents in React
+- [agentskit](https://github.com/AgentsKit-io/agentskit) - MIT-licensed React hooks and headless components for provider-neutral streaming AI chat, tool calls, and agent interfaces
 
 #### React Testing
 
