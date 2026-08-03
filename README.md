@@ -190,6 +190,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [nivo](https://github.com/plouc/nivo) - Provides a rich set of data visualization components built on top of the D3 and React libraries
 - [xyflow](https://github.com/xyflow/xyflow) - A customizable React component for building node-based editors and interactive diagrams
+- [microcharts](https://github.com/ganapativs/microcharts) - Word-sized charts that fit inline in text and table cells, with static and interactive versions
 
 #### React Renderers
 
