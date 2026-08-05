@@ -203,6 +203,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React Internationalization
 
 - [formatjs](https://github.com/formatjs/formatjs) - Internationalize your web apps
+- [@i18n-micro/react](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/react) - Lightweight React bindings for i18n-micro (hooks, context, and UI components)
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
 - [react-intlayer](https://github.com/aymericzip/intlayer) - Internationalization focused on maintainability for React
 
