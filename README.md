@@ -230,6 +230,7 @@ A collection of awesome things regarding the React ecosystem.
 - [readest](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
 - [bookcars](https://github.com/aelassas/bookcars) - Car rental platform
 - [notifuse](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
+- [scala-sites](https://github.com/Alessandro114/scala-sites) - Open source vertical website templates for 6 industries with booking, WhatsApp, and i18n
 
 ### React Native
 
