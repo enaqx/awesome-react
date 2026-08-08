@@ -230,6 +230,7 @@ A collection of awesome things regarding the React ecosystem.
 - [readest](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
 - [bookcars](https://github.com/aelassas/bookcars) - Car rental platform
 - [notifuse](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
+- [libredb-studio](https://github.com/libredb/libredb-studio) - Browser-based SQL IDE for ten database engines
 
 ### React Native
 
