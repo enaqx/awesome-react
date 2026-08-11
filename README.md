@@ -107,6 +107,7 @@ A collection of awesome things regarding the React ecosystem.
 - [lucide-react](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit
 - [heroicons](https://github.com/tailwindlabs/heroicons) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS
 - [thesvg](https://github.com/GLINCKER/thesvg) - A collection of free SVG icons for popular brands and technologies
+- [ycon.cc](https://ycon.cc) - Search 300,000+ Iconify icons and copy ready-to-use code for React, Vue, Symfony, Next.js, Astro, Svelte, Angular, Laravel and more.
 
 #### React Routing
 
