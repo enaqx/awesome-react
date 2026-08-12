@@ -157,6 +157,7 @@ A collection of awesome things regarding the React ecosystem.
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck](https://github.com/puckeditor/puck) - The visual editor for React
 - [json-edit-react](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
+- [icon-picker](https://github.com/noeGnh/icon-picker) component libraries for React and Vue 3, both searching icons live from Iconify (150+ icon sets, 200,000+ icons)
 
 #### React Components Sandboxes
 
