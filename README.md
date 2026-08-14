@@ -121,6 +121,7 @@ A collection of awesome things regarding the React ecosystem.
 - [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React specific linting rules for ESLint
 - [react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 #### React Libraries
 
