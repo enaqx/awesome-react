@@ -205,6 +205,7 @@ A collection of awesome things regarding the React ecosystem.
 - [formatjs](https://github.com/formatjs/formatjs) - Internationalize your web apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
 - [react-intlayer](https://github.com/aymericzip/intlayer) - Internationalization focused on maintainability for React
+- [enum-plus](https://github.com/shijistar/enum-plus) - Render localized labels, badges and dropdown options for your business enums in React
 
 #### React Graphics and Animations
 
