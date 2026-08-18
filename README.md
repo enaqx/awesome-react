@@ -222,6 +222,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Real Apps
 
+- [GEOKit](https://geokit.site) - Free Generative Engine Optimization (GEO) & AI SEO toolkit with 20+ web utilities. Built with Next.js 15, React 19, and Tailwind CSS. ([CLI Repo](https://github.com/gstar-byte/geokit-cli))
 - [mattermost-server](https://github.com/mattermost/mattermost) - An open source platform for secure collaboration
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
