@@ -94,6 +94,7 @@ A collection of awesome things regarding the React ecosystem.
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for JavaScript
 - [rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [rab](https://github.com/ximing/rab) - AI-first reactive state architecture where UI, tests, and coding agents share one observable state surface
 
 #### React Styling
 
