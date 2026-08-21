@@ -158,6 +158,7 @@ A collection of awesome things regarding the React ecosystem.
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck](https://github.com/puckeditor/puck) - The visual editor for React
 - [json-edit-react](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
+- [CyteEditor](https://github.com/cyte-editor/cyteeditor-examples) - Rich text editor SDK with Office paste fidelity, snapshot & version comparison, official adapters for React, Vue 3/2, Svelte, Angular, and Vanilla JS.
 
 #### React Components Sandboxes
 
