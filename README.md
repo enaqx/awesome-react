@@ -111,6 +111,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React Routing
 
 - [react-router](https://github.com/remix-run/react-router) - Declarative routing for React
+- [speedy-router](https://github.com/anonrig/router) - TanStack Router API rebuilt for faster navigations and SSR
 - [tanstack-router](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 #### React Development Tools
