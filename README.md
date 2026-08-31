@@ -113,6 +113,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [speedy-router](https://github.com/anonrig/router) - TanStack Router API rebuilt for faster navigations and SSR
 - [tanstack-router](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
+- [ufbr](https://github.com/zakarialaoui10/ufbr) - An Universal File Based Router with React support.
 
 #### React Development Tools
 
