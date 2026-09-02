@@ -78,6 +78,7 @@ A collection of awesome things regarding the React ecosystem.
 - [8bitcn-ui](https://github.com/TheOrcDev/8bitcn-ui) - A retro 8-bit themed React component library built on top of shadcn
 - [headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
 - [ruixen-ui](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
+- [serenity-ui](https://serenity-ui.com) - React components, blocks, and templates with tasteful micro interactions
 
 #### React State Management and Data Fetching
 
