@@ -159,6 +159,7 @@ A collection of awesome things regarding the React ecosystem.
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck](https://github.com/puckeditor/puck) - The visual editor for React
 - [json-edit-react](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
+- [react-responsive-video](https://github.com/damiarita/react-responsive-video) - Places video in your React app optimally. It renders an optimzed cover image for the device on page load. After page load, it swaps the image by the optimzed video.
 
 #### React Components Sandboxes
 
