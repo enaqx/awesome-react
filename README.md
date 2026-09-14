@@ -51,6 +51,7 @@ A collection of awesome things regarding the React ecosystem.
 - [Design patterns and Component patterns for building powerful Web Apps](https://www.patterns.dev/)
 - [A simple, scalable, and powerful architecture for building production ready React applications](https://github.com/alan2207/bulletproof-react)
 - [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react)
+- [Use SVG Icons in React with Vite and SVGR](https://iconvectors.io/tutorials/use-svg-icons-in-react-with-vite-svgr.html) - Practical guide to importing, theming and using SVG icons in React applications with Vite and SVGR.
 
 #### React Frameworks
 
