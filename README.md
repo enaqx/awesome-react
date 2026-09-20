@@ -227,6 +227,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React Real Apps
 
 - [excalidraw](https://github.com/excalidraw/excalidraw) - An open source virtual hand-drawn style whiteboard.
+- [focus-flow](https://github.com/w3ziqv/focus-flow) - A quiet, local-first Pomodoro timer with procedural ambient soundscapes and offline data sovereignty
 - [mattermost-server](https://github.com/mattermost/mattermost) - An open source platform for secure collaboration
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
