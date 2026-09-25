@@ -159,7 +159,7 @@ A collection of awesome things regarding the React ecosystem.
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck](https://github.com/puckeditor/puck) - The visual editor for React
 - [json-edit-react](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
-- [@reelkit/react](https://github.com/KonstantinKai/reelkit/tree/main/packages/reelkit-react) - Virtualized full-screen slider for vertical feeds, 3 slides in the DOM for 10,000+ items, with ready-made reel player, stories player and lightbox packages
+- [@reelkit/react](https://github.com/KonstantinKai/reelkit/tree/main/packages/reelkit-react) - Virtualized full-screen React slider: 3 slides in the DOM for 10,000+ items, with ready-made reel, stories and lightbox players
 
 #### React Components Sandboxes
 
