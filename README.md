@@ -159,6 +159,7 @@ A collection of awesome things regarding the React ecosystem.
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck](https://github.com/puckeditor/puck) - The visual editor for React
 - [json-edit-react](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
+- [crd-ui](https://github.com/JuandaGarcia/crd-ui) - Credit and debit card component with live brand detection, formatting and a flip on CVC focus
 
 #### React Components Sandboxes
 
