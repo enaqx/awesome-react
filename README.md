@@ -78,6 +78,7 @@ A collection of awesome things regarding the React ecosystem.
 - [headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
 - [ruixen-ui](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
 - [billingsdk](https://github.com/dodopayments/billingsdk) - Type-safe billing and subscription components built with TypeScript, Tailwind CSS and shadcn/ui
+- [bestax-bulma](https://github.com/allxsmith/bestax) - TypeScript React components for the Bulma v1 CSS framework
 
 #### React State Management and Data Fetching
 
