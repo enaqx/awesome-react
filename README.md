@@ -179,6 +179,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [tanstack-table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
 - [react-data-grid](https://github.com/Comcast/react-data-grid) - Feature-rich and customizable data grid React component
+- [everygrid](https://github.com/ilsansoftware/everygrid) - Config-driven data grid with filtering, sorting and paging in a Rust/WebAssembly Web Worker
 
 #### React Maps
 
