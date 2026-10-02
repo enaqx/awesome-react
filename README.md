@@ -133,6 +133,7 @@ A collection of awesome things regarding the React ecosystem.
 - [downshift](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - A React error boundary component that lets you catch errors
 - [reactuse](https://github.com/childrentime/reactuse) - Collection of 110+ tree-shakable, SSR-safe, TypeScript-first React Hooks
+- [kritzel](https://github.com/kasual1/kritzel) - Infinite canvas component library for React
 
 #### React Testing
 
