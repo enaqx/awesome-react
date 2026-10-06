@@ -107,6 +107,7 @@ A collection of awesome things regarding the React ecosystem.
 - [lucide-react](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit
 - [heroicons](https://github.com/tailwindlabs/heroicons) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS
 - [thesvg](https://github.com/GLINCKER/thesvg) - A collection of free SVG icons for popular brands and technologies
+- [energy-icons](https://github.com/Sam-r-passmore/energy-icons) - Open source icons for energy, climate and everyday UI, in two optical sizes and two weights
 
 #### React Routing
 
