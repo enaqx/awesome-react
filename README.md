@@ -209,6 +209,7 @@ A collection of awesome things regarding the React ecosystem.
 - [formatjs](https://github.com/formatjs/formatjs) - Internationalize your web apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
 - [react-intlayer](https://github.com/aymericzip/intlayer) - Internationalization focused on maintainability for React
+- [babelize-elements](https://github.com/babelize/babelize-elements) - Open source localization UI components for React, such as language switchers and locale-aware formatters
 
 #### React Graphics and Animations
 
