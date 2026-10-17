@@ -64,6 +64,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React Component Libraries
 
 - [shadcn-ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
+- [blocks](https://github.com/ephraimduncan/blocks) - Free React UI blocks built with shadcn/ui and Tailwind CSS
 - [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [material-ui](https://github.com/mui/material-ui) - Ready-to-use foundational React components
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - Component system for building SaaS products with speed
