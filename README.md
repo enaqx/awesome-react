@@ -236,6 +236,7 @@ A collection of awesome things regarding the React ecosystem.
 - [bookcars](https://github.com/aelassas/bookcars) - Car rental platform
 - [notifuse](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
 - [cate](https://github.com/0-AI-UG/cate) - An open source IDE on an infinite zoomable canvas, with editor, terminal, and browser panels
+- [Pagekin](https://github.com/EthanYoQ/AI-Novel-Writer) - An open-source desktop workspace for planning, drafting, reviewing and revising novels with user-configured AI models.
 
 ### React Native
 
