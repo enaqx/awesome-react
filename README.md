@@ -78,6 +78,7 @@ A collection of awesome things regarding the React ecosystem.
 - [headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
 - [ruixen-ui](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
 - [billingsdk](https://github.com/dodopayments/billingsdk) - Type-safe billing and subscription components built with TypeScript, Tailwind CSS and shadcn/ui
+- [moduix](https://github.com/Blinks44/moduix) - Accessible React components built on Ark UI, with CSS Modules or Tailwind CSS and installation through npm or the shadcn CLI.
 
 #### React State Management and Data Fetching
 
