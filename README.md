@@ -60,6 +60,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 - [refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
 - [vike](https://github.com/vikejs/vike) - The Modular Framework - Next.js & Nuxt alternative
+- [supastack](https://supastack.dev) - Modular foundation for AI SaaS: Next.js + Expo + Tauri with auth, Stripe billing, multi-provider AI and i18n prewired
 
 #### React Component Libraries
 
