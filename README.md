@@ -168,11 +168,12 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Forms
 
+- [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
+- [formisch](https://github.com/open-circle/formisch) - The schema-based, headless form library for React
+- [native-form](https://github.com/sunilsv26/native-form) - Zero-registration, HTML-first form runtime and validation engine for React and modern web apps
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema
-- [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 - [tanstack-form](https://github.com/TanStack/form) - Headless, performant, and type-safe form state management
-- [formisch](https://github.com/open-circle/formisch) - The schema-based, headless form library for React
 
 #### React Tables and Grids
 
