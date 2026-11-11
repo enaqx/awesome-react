@@ -203,6 +203,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
 - [markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain
 - [markstream](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for React and AI chat interfaces
+- [kinetograph](https://github.com/0xS4N4TG/kinetograph) - Programmatic video engine that renders Remotion projects and HTML pages on the GPU with no browser
 
 #### React Internationalization
 
