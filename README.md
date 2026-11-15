@@ -184,6 +184,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
+- [No Stairs Please](https://nostairsplease.com/) - Live-music venue directory and tour-routing map (`https://nostairsplease.com/mcp`) for touring musicians
 
 #### React Charts
 
