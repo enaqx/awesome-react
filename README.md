@@ -78,6 +78,7 @@ A collection of awesome things regarding the React ecosystem.
 - [headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
 - [ruixen-ui](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
 - [billingsdk](https://github.com/dodopayments/billingsdk) - Type-safe billing and subscription components built with TypeScript, Tailwind CSS and shadcn/ui
+- [diya](https://github.com/idyeah-studio/diya) - 40+ components and patterns, and 30+ screens for React, with Light, Dark and Glass
 
 #### React State Management and Data Fetching
 
