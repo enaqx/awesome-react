@@ -225,6 +225,7 @@ A collection of awesome things regarding the React ecosystem.
 - [fulcro](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
 
 #### React Real Apps
+- [pdf-craft](https://github.com/Vishnu-cod/pdf-craft) - 100% client-side PDF utility suite to compress under 100KB, e-sign, and convert documents in-browser.
 
 - [excalidraw](https://github.com/excalidraw/excalidraw) - An open source virtual hand-drawn style whiteboard.
 - [mattermost-server](https://github.com/mattermost/mattermost) - An open source platform for secure collaboration
