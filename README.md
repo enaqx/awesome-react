@@ -159,6 +159,7 @@ A collection of awesome things regarding the React ecosystem.
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck](https://github.com/puckeditor/puck) - The visual editor for React
 - [json-edit-react](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
+- [react-skeletonix](https://github.com/devpranali/react-skeletonix) - Automatically generates skeleton loaders from existing React UI components.
 
 #### React Components Sandboxes
 
