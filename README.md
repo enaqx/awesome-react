@@ -231,6 +231,7 @@ A collection of awesome things regarding the React ecosystem.
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
+* [PDFCraft](https://pdf-craft-vert.vercel.app/) - 100% in-browser, open-source WebAssembly PDF studio built with React and Next.js. ([Source Code](https://github.com/Vishnu-cod/pdf-craft))
 - [wave](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [readest](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
 - [bookcars](https://github.com/aelassas/bookcars) - Car rental platform
