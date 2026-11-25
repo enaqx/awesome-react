@@ -50,8 +50,8 @@ A collection of awesome things regarding the React ecosystem.
 - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - [Design patterns and Component patterns for building powerful Web Apps](https://www.patterns.dev/)
 - [A simple, scalable, and powerful architecture for building production ready React applications](https://github.com/alan2207/bulletproof-react)
-- [Cheatsheets for experienced React developers getting started with TypeScript
-- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.](https://github.com/typescript-cheatsheets/react)
+- [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react)
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
 
 #### React Frameworks
 
